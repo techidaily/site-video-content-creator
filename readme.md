@@ -1,6 +1,6 @@
-# TechiDaily
+# Video Content Creator Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://video-content-creator.techidaily.com](https://video-content-creator.techidaily.com)
 
 ## Publish
 
