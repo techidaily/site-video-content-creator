@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate FCP X Green Screen Tutorial From Basics to Advanced
-date: 2024-04-29T12:55:18.482Z
-updated: 2024-04-30T12:55:18.482Z
+date: 2024-05-19T14:41:38.754Z
+updated: 2024-05-20T14:41:38.754Z
 tags: 
   - video editing software
   - video editing
@@ -2332,4 +2332,5 @@ The modern video editing software comes with the feature of smart auto reframing
 <li><a href="https://ai-vdieo-software.techidaily.com/gaming-intro-mastery-the-top-10-online-tools-you-need-to-know/"><u>Gaming Intro Mastery The Top 10 Online Tools You Need to Know</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-changefake-your-realme-narzo-60-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Realme Narzo 60 Pro 5G Location on Viber | Dr.fone</u></a></li>
 </ul></div>
+
 

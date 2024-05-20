@@ -1,7 +1,7 @@
 ---
 title: New Vintage Video Magic A Step-by-Step Guide to VHS Effects in Final Cut Pro
-date: 2024-04-29T13:00:52.530Z
-updated: 2024-04-30T13:00:52.530Z
+date: 2024-05-19T14:42:03.262Z
+updated: 2024-05-20T14:42:03.262Z
 tags: 
   - video editing software
   - video editing
@@ -3477,4 +3477,5 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Honor X8b | Dr.fone</u></a></li>
 </ul></div>
+
 

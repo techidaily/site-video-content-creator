@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved 10 Best Apps to Create Mind-Bending Glitch Art Videos on Mobile
-date: 2024-04-29T13:01:58.053Z
-updated: 2024-04-30T13:01:58.053Z
+date: 2024-05-19T14:42:07.371Z
+updated: 2024-05-20T14:42:07.371Z
 tags: 
   - video editing software
   - video editing
@@ -2492,4 +2492,5 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-lava-yuva-3-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Yuva 3 phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

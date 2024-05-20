@@ -1,7 +1,7 @@
 ---
 title: New Slow Down Time A Beginners Guide to Making Slow-Motion Videos on Kapwing
-date: 2024-04-29T12:52:46.928Z
-updated: 2024-04-30T12:52:46.928Z
+date: 2024-05-19T14:41:28.145Z
+updated: 2024-05-20T14:41:28.145Z
 tags: 
   - video editing software
   - video editing
@@ -2152,4 +2152,5 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-c51-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme C51 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-gt-3-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme GT 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

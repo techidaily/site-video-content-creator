@@ -1,7 +1,7 @@
 ---
 title: New Top Dual-Screen Video Editing Apps for Mobile Devices for 2024
-date: 2024-04-29T13:04:06.039Z
-updated: 2024-04-30T13:04:06.039Z
+date: 2024-05-19T14:42:17.356Z
+updated: 2024-05-20T14:42:17.356Z
 tags: 
   - video editing software
   - video editing
@@ -2725,4 +2725,5 @@ Follow @Liza Brown
 <li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 8</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-create-true-3d-text-effects-using-after-effects/"><u>New In 2024, Create True 3D Text Effects Using After Effects</u></a></li>
 </ul></div>
+
 

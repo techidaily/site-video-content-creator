@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Mastering Audio Transitions in FCPX L-Cuts and J-Cuts Explained
-date: 2024-04-29T13:03:55.618Z
-updated: 2024-04-30T13:03:55.618Z
+date: 2024-05-19T14:42:16.417Z
+updated: 2024-05-20T14:42:16.417Z
 tags: 
   - video editing software
   - video editing
@@ -1451,4 +1451,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-s23plus-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel S23+ to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-narzo-n53-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme Narzo N53 Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
+
 

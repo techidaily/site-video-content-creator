@@ -1,7 +1,7 @@
 ---
 title: Updated The Best Free WMV Video Editors with Splitting Capability
-date: 2024-04-29T12:54:06.076Z
-updated: 2024-04-30T12:54:06.076Z
+date: 2024-05-19T14:41:33.563Z
+updated: 2024-05-20T14:41:33.563Z
 tags: 
   - video editing software
   - video editing
@@ -1963,4 +1963,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-video-editor-in-2024/"><u>What Is an AI Video Editor, In 2024</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-c32-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia C32 | Dr.fone</u></a></li>
 </ul></div>
+
 

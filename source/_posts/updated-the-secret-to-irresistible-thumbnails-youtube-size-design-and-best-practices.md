@@ -1,7 +1,7 @@
 ---
 title: Updated The Secret to Irresistible Thumbnails YouTube Size, Design, and Best Practices
-date: 2024-04-29T12:54:59.386Z
-updated: 2024-04-30T12:54:59.386Z
+date: 2024-05-19T14:41:37.259Z
+updated: 2024-05-20T14:41:37.259Z
 tags: 
   - video editing software
   - video editing
@@ -1843,4 +1843,5 @@ Key features
 <li><a href="https://howto.techidaily.com/fix-motorola-g54-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola G54 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Motorola Edge 40 | Dr.fone</u></a></li>
 </ul></div>
+
 

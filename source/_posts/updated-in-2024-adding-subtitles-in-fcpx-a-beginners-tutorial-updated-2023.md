@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Adding Subtitles in FCPX A Beginners Tutorial (Updated 2023)
-date: 2024-04-29T13:03:25.041Z
-updated: 2024-04-30T13:03:25.041Z
+date: 2024-05-19T14:42:14.327Z
+updated: 2024-05-20T14:42:14.327Z
 tags: 
   - video editing software
   - video editing
@@ -1501,4 +1501,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-y36i-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo Y36i with and without jailbreak | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/customizing-your-amazon-prime-video-viewing-experience/"><u>Customizing Your Amazon Prime Video Viewing Experience</u></a></li>
 </ul></div>
+
 

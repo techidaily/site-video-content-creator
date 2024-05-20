@@ -1,7 +1,7 @@
 ---
 title: New Therere Two Ways to Create the Ken Burns Effect in Final Cut Pro Using the Automated Ken Burns Effect Tools or Keyframes. Check This Article to Find Out How-To for 2024
-date: 2024-04-29T13:02:41.514Z
-updated: 2024-04-30T13:02:41.514Z
+date: 2024-05-19T14:42:11.857Z
+updated: 2024-05-20T14:42:11.857Z
 tags: 
   - video editing software
   - video editing
@@ -2274,4 +2274,5 @@ Follow @Liza Brown
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-p55-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from P55 5G?</u></a></li>
 </ul></div>
+
 

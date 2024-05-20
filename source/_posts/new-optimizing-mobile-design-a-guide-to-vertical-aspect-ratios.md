@@ -1,7 +1,7 @@
 ---
 title: New Optimizing Mobile Design A Guide to Vertical Aspect Ratios
-date: 2024-04-29T12:50:36.492Z
-updated: 2024-04-30T12:50:36.492Z
+date: 2024-05-19T14:41:20.252Z
+updated: 2024-05-20T14:41:20.252Z
 tags: 
   - video editing software
   - video editing
@@ -2533,4 +2533,5 @@ The Filmora assists you in changing the aspect ratio of the project after downlo
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-a2plus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi A2+ Phone with Broken Screen</u></a></li>
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-magic-5-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor Magic 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

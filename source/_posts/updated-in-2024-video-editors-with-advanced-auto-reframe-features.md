@@ -2818,3 +2818,4 @@ The Filmora also assists you in changing the project aspect ratio after launchin
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-give-your-videos-and-photos-a-cinematic-look-but-couldnt-find-how-here-are-different-cinematic-luts-discussed-that-you-can-try-and-us/"><u>In 2024, Do You Want to Give Your Videos and Photos a Cinematic Look but Couldnt Find How? Here Are Different Cinematic LUTs Discussed that You Can Try and Use</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Audio Fading 2 Pro Tips for Final Cut Pro Users
-date: 2024-04-29T12:53:45.143Z
-updated: 2024-04-30T12:53:45.143Z
+date: 2024-05-19T14:41:32.176Z
+updated: 2024-05-20T14:41:32.176Z
 tags: 
   - video editing software
   - video editing
@@ -1865,4 +1865,5 @@ Key features
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-huawei-nova-y71-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Huawei Nova Y71</u></a></li>
 <li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo V29e? | Dr.fone</u></a></li>
 </ul></div>
+
 

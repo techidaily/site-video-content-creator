@@ -1,7 +1,7 @@
 ---
 title: New Transform Your Videos with Pro-Grade Jump Cuts in FCPX
-date: 2024-04-29T12:58:24.215Z
-updated: 2024-04-30T12:58:24.215Z
+date: 2024-05-19T14:41:52.182Z
+updated: 2024-05-20T14:41:52.182Z
 tags: 
   - video editing software
   - video editing
@@ -1192,4 +1192,5 @@ Each software we include in this article grants you access to all the necessary 
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-pro-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12 Pro | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-14-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 14 Plus Online</u></a></li>
 </ul></div>
+
 

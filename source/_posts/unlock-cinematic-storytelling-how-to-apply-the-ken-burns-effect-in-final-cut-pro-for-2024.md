@@ -1,7 +1,7 @@
 ---
 title: Unlock Cinematic Storytelling How to Apply the Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-04-29T12:59:38.537Z
-updated: 2024-04-30T12:59:38.537Z
+date: 2024-05-19T14:41:57.621Z
+updated: 2024-05-20T14:41:57.621Z
 tags: 
   - video editing software
   - video editing
@@ -2084,4 +2084,5 @@ The best video resolution varies with different platforms. But it will help in t
 <li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Oppo A78 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

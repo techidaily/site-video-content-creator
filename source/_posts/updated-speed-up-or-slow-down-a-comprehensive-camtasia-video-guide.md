@@ -1,7 +1,7 @@
 ---
 title: Updated Speed Up or Slow Down A Comprehensive Camtasia Video Guide
-date: 2024-04-29T12:53:00.045Z
-updated: 2024-04-30T12:53:00.045Z
+date: 2024-05-19T14:41:29.171Z
+updated: 2024-05-20T14:41:29.171Z
 tags: 
   - video editing software
   - video editing
@@ -1767,4 +1767,5 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 14? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo Y17s | Dr.fone</u></a></li>
 </ul></div>
+
 

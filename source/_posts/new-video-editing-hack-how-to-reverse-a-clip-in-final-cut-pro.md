@@ -1,7 +1,7 @@
 ---
 title: New Video Editing Hack How to Reverse a Clip in Final Cut Pro
-date: 2024-04-29T13:00:24.400Z
-updated: 2024-04-30T13:00:24.400Z
+date: 2024-05-19T14:42:01.244Z
+updated: 2024-05-20T14:42:01.244Z
 tags: 
   - video editing software
   - video editing
@@ -1916,4 +1916,5 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Motorola Edge 40 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

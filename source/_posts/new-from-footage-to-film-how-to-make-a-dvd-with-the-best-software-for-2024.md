@@ -1412,3 +1412,4 @@ This online image editing tool supports multiple functions like image resizing, 
 <li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Phantom V Fold? | Dr.fone</u></a></li>
 </ul></div>
 
+

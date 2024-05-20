@@ -1,7 +1,7 @@
 ---
 title: In 2024, Speed Up or Slow Down Your Camtasia Recordings
-date: 2024-04-29T12:53:00.883Z
-updated: 2024-04-30T12:53:00.883Z
+date: 2024-05-19T14:41:29.265Z
+updated: 2024-05-20T14:41:29.265Z
 tags: 
   - video editing software
   - video editing
@@ -2178,4 +2178,5 @@ Follow @Liza Brown
 <li><a href="https://ai-vdieo-software.techidaily.com/from-jump-cuts-to-smooth-moves-3-final-cut-pro-transition-methods/"><u>From Jump Cuts to Smooth Moves 3 Final Cut Pro Transition Methods</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-spark-10-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Spark 10 5G FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

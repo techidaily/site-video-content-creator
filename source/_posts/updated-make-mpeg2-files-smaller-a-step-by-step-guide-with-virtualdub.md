@@ -1,7 +1,7 @@
 ---
 title: Updated Make MPEG2 Files Smaller A Step-by-Step Guide with VirtualDub
-date: 2024-04-29T12:48:52.245Z
-updated: 2024-04-30T12:48:52.245Z
+date: 2024-05-19T14:41:14.432Z
+updated: 2024-05-20T14:41:14.432Z
 tags: 
   - video editing software
   - video editing
@@ -1950,4 +1950,5 @@ Follow @Shanoon Cox
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-s17e-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo S17e</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/sim-unlock-nokia-c02-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Nokia C02 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
+
 

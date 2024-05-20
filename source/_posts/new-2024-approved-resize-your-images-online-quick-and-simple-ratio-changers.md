@@ -2338,3 +2338,4 @@ It is very easy to check who has viewed your WhatsApp status. The steps you need
 <li><a href="https://ai-editing-video.techidaily.com/new-want-to-give-a-bold-and-colorful-look-to-your-ad-or-abstract-art-project-this-quick-and-easy-tutorial-teaches-how-to-create-a-risograph-effect-in-photos/"><u>New Want to Give a Bold and Colorful Look to Your Ad or Abstract Art Project? This Quick and Easy Tutorial Teaches How to Create a Risograph Effect in Photoshop</u></a></li>
 </ul></div>
 
+

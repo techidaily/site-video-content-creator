@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Basics of High-Definition Video Pixel Size Explained
-date: 2024-04-29T13:05:31.052Z
-updated: 2024-04-30T13:05:31.052Z
+date: 2024-05-19T14:42:25.815Z
+updated: 2024-05-20T14:42:25.815Z
 tags: 
   - video editing software
   - video editing
@@ -2040,4 +2040,5 @@ Follow @Liza Brown
 <li><a href="https://ai-vdieo-software.techidaily.com/new-free-top-10-best-online-video-editors-without-watermark/"><u>New FREE Top 10 Best Online Video Editors without Watermark</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/about-honor-x9a-frp-bypass-by-drfone-android/"><u>About Honor X9a FRP Bypass</u></a></li>
 </ul></div>
+
 

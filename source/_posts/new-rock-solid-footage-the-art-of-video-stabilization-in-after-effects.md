@@ -1,7 +1,7 @@
 ---
 title: New Rock-Solid Footage The Art of Video Stabilization in After Effects
-date: 2024-04-29T12:51:39.570Z
-updated: 2024-04-30T12:51:39.570Z
+date: 2024-05-19T14:41:23.674Z
+updated: 2024-05-20T14:41:23.674Z
 tags: 
   - video editing software
   - video editing
@@ -2347,4 +2347,5 @@ Follow @Benjamin Arango
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Reno 10 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Lava Blaze 2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

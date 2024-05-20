@@ -1,7 +1,7 @@
 ---
 title: Updated 10 Free Online Tools to Create Subtitles for Your Videos 2023 Update for 2024
-date: 2024-04-29T13:02:15.002Z
-updated: 2024-04-30T13:02:15.002Z
+date: 2024-05-19T14:42:08.534Z
+updated: 2024-05-20T14:42:08.534Z
 tags: 
   - video editing software
   - video editing
@@ -2077,4 +2077,5 @@ Follow @Liza Brown
 <li><a href="https://howto.techidaily.com/vivo-s17-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-useful-guide-to-speed-updown-videos-in-vlc-for-2024/"><u>Updated Useful Guide to Speed Up/Down Videos in VLC for 2024</u></a></li>
 </ul></div>
+
 

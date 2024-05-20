@@ -1,7 +1,7 @@
 ---
 title: New Video Rescue 3 Ways to Fix Shaky Footage in After Effects
-date: 2024-04-29T13:00:39.807Z
-updated: 2024-04-30T13:00:39.807Z
+date: 2024-05-19T14:42:02.181Z
+updated: 2024-05-20T14:42:02.181Z
 tags: 
   - video editing software
   - video editing
@@ -1740,4 +1740,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Itel S23 | Dr.fone</u></a></li>
 </ul></div>
+
 

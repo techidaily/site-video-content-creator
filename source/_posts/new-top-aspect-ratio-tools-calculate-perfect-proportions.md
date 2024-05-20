@@ -1,7 +1,7 @@
 ---
 title: New Top Aspect Ratio Tools Calculate Perfect Proportions
-date: 2024-04-29T12:57:18.622Z
-updated: 2024-04-30T12:57:18.622Z
+date: 2024-05-19T14:41:47.008Z
+updated: 2024-05-20T14:41:47.008Z
 tags: 
   - video editing software
   - video editing
@@ -4279,4 +4279,5 @@ For macOS 10.14 or later
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Unavailable Issue With Ease | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-ai-script-wondershare-virbo-for-2024/"><u>Create AI Avatar Video with AI Script | Wondershare Virbo for 2024</u></a></li>
 </ul></div>
+
 

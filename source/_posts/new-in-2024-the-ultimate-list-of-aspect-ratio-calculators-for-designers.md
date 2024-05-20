@@ -2719,3 +2719,4 @@ Follow @Liza Brown
 <li><a href="https://ai-video-apps.techidaily.com/updated-unlocking-cinematic-storytelling-how-to-apply-ken-burns-effect-in-final-cut-pro/"><u>Updated Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro</u></a></li>
 </ul></div>
 
+

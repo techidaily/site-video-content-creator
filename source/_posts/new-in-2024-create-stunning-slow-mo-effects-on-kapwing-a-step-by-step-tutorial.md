@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Create Stunning Slow-Mo Effects on Kapwing A Step-by-Step Tutorial
-date: 2024-04-29T13:09:54.396Z
-updated: 2024-04-30T13:09:54.396Z
+date: 2024-05-19T14:42:43.502Z
+updated: 2024-05-20T14:42:43.502Z
 tags: 
   - video editing software
   - video editing
@@ -1630,4 +1630,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-take-your-videos-to-the-next-level-top-adobe-premiere-plugins/"><u>In 2024, Take Your Videos to the Next Level Top Adobe Premiere Plugins</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-free-mov-video-editing-software/"><u>2024 Approved Best Free MOV Video Editing Software</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Facebook Video Covers A Step-by-Step Guide to Sizing for 2024
-date: 2024-04-29T12:49:12.568Z
-updated: 2024-04-30T12:49:12.568Z
+date: 2024-05-19T14:41:15.553Z
+updated: 2024-05-20T14:41:15.553Z
 tags: 
   - video editing software
   - video editing
@@ -1585,4 +1585,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-text-effects-in-adobe-premiere-pro-in-2024/"><u>Updated How to Add Text Effects in Adobe Premiere Pro, In 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Create a Sense of Urgency Adding a Countdown Timer in FCPX
-date: 2024-04-29T13:09:37.533Z
-updated: 2024-04-30T13:09:37.533Z
+date: 2024-05-19T14:42:42.302Z
+updated: 2024-05-20T14:42:42.302Z
 tags: 
   - video editing software
   - video editing
@@ -1979,4 +1979,5 @@ Follow @Liza Brown
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-y78-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo Y78 5G Without Them Knowing? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Oppo F23 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

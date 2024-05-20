@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Color Consistency A PowerDirector Tutorial for Video Editors
-date: 2024-04-29T12:49:10.175Z
-updated: 2024-04-30T12:49:10.175Z
+date: 2024-05-19T14:41:15.490Z
+updated: 2024-05-20T14:41:15.490Z
 tags: 
   - video editing software
   - video editing
@@ -3746,4 +3746,5 @@ The modern video editing software comes with the feature of smart auto reframing
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-liquid-water-reveal-intro-for-2024/"><u>Updated How to Create Liquid Water Reveal Intro for 2024</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-xiaomi-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Xiaomi Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 

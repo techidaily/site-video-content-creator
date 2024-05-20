@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Art of Video Timing Speeding Up and Slowing Down in Camtasia
-date: 2024-04-29T12:53:55.528Z
-updated: 2024-04-30T12:53:55.528Z
+date: 2024-05-19T14:41:32.771Z
+updated: 2024-05-20T14:41:32.771Z
 tags: 
   - video editing software
   - video editing
@@ -1569,4 +1569,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-have-the-habit-to-create-subtitle-for-your-video-you-can-always-add-open-and-close-subtitles-to-your-video-to-make-it-perfect-follow-th/"><u>2024 Approved Do You Have the Habit to Create Subtitle for Your Video? You Can Always Add Open and Close Subtitles to Your Video to Make It Perfect. Follow This Article to Learn More About It</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone SE (2020) | Dr.fone</u></a></li>
 </ul></div>
+
 

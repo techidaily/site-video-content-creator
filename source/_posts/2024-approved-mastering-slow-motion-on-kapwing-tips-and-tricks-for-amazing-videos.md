@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Slow Motion on Kapwing Tips and Tricks for Amazing Videos
-date: 2024-04-29T12:49:18.385Z
-updated: 2024-04-30T12:49:18.385Z
+date: 2024-05-19T14:41:15.723Z
+updated: 2024-05-20T14:41:15.723Z
 tags: 
   - video editing software
   - video editing
@@ -1642,4 +1642,5 @@ Follow @Benjamin Arango
 <li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-se-2022-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone SE (2022) Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-14-pro-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 14 Pro and Android without others knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

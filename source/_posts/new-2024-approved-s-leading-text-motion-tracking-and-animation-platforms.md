@@ -1560,3 +1560,4 @@ Follow @Liza Brown
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-smart-7-hd-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Smart 7 HD Back to Operation | Dr.fone</u></a></li>
 </ul></div>
 
+

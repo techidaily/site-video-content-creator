@@ -1,7 +1,7 @@
 ---
 title: New Cinematic Color Grading and Editing in Final Cut Pro X A Comprehensive Guide for 2024
-date: 2024-04-29T13:09:05.678Z
-updated: 2024-04-30T13:09:05.678Z
+date: 2024-05-19T14:42:40.603Z
+updated: 2024-05-20T14:42:40.603Z
 tags: 
   - video editing software
   - video editing
@@ -1857,4 +1857,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-converting-text-to-mp3-with-ease/"><u>New The Ultimate Guide to Converting Text to MP3 with Ease</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-a78-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo A78 5G Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

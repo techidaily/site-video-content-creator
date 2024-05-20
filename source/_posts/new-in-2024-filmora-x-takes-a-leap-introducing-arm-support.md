@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Filmora X Takes a Leap Introducing ARM Support
-date: 2024-04-29T13:04:43.523Z
-updated: 2024-04-30T13:04:43.523Z
+date: 2024-05-19T14:42:21.122Z
+updated: 2024-05-20T14:42:21.122Z
 tags: 
   - video editing software
   - video editing
@@ -1825,4 +1825,5 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/how-can-vivo-y100mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo Y100Mirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/in-2024-does-find-my-friends-work-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Xiaomi Redmi A2 | Dr.fone</u></a></li>
 </ul></div>
+
 

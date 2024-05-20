@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Time Manipulation in FCPX
-date: 2024-04-29T12:49:19.898Z
-updated: 2024-04-30T12:49:19.898Z
+date: 2024-05-19T14:41:15.751Z
+updated: 2024-05-20T14:41:15.751Z
 tags: 
   - video editing software
   - video editing
@@ -2111,4 +2111,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-redmi-note-12-pro-4g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi Redmi Note 12 Pro 4G with and without jailbreak | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-motorola-edge-2023-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Motorola Edge 2023 Phone When You Forget the Password</u></a></li>
 </ul></div>
+
 

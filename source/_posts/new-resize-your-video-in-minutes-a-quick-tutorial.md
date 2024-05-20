@@ -1,7 +1,7 @@
 ---
 title: New Resize Your Video in Minutes A Quick Tutorial
-date: 2024-04-29T12:51:26.738Z
-updated: 2024-04-30T12:51:26.738Z
+date: 2024-05-19T14:41:22.791Z
+updated: 2024-05-20T14:41:22.791Z
 tags: 
   - video editing software
   - video editing
@@ -2294,4 +2294,5 @@ For macOS 10.14 or later
 <li><a href="https://ai-voice.techidaily.com/in-2024-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>In 2024, Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-8-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 8</u></a></li>
 </ul></div>
+
 

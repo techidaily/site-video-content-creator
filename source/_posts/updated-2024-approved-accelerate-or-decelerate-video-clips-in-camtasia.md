@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Accelerate or Decelerate Video Clips in Camtasia
-date: 2024-04-29T13:03:15.473Z
-updated: 2024-04-30T13:03:15.473Z
+date: 2024-05-19T14:42:13.976Z
+updated: 2024-05-20T14:42:13.976Z
 tags: 
   - video editing software
   - video editing
@@ -1776,4 +1776,5 @@ Follow @Liza Brown
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-avi-video-rotation-made-easy-16-free-tools-for-every-platform/"><u>2024 Approved AVI Video Rotation Made Easy 16 Free Tools for Every Platform</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Motorola Edge 40? | Dr.fone</u></a></li>
 </ul></div>
+
 

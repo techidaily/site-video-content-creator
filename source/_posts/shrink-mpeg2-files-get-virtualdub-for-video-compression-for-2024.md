@@ -1,7 +1,7 @@
 ---
 title: Shrink MPEG2 Files Get VirtualDub for Video Compression for 2024
-date: 2024-04-29T12:52:36.046Z
-updated: 2024-04-30T12:52:36.046Z
+date: 2024-05-19T14:41:27.332Z
+updated: 2024-05-20T14:41:27.332Z
 tags: 
   - video editing software
   - video editing
@@ -1761,4 +1761,5 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-smart-7-hd-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Smart 7 HD to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-14-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 14 Pro | Stellar</u></a></li>
 </ul></div>
+
 

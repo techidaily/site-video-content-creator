@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Creative Time Manipulation in FCPX Freeze Frames and Slow Motion
-date: 2024-04-29T13:10:04.548Z
-updated: 2024-04-30T13:10:04.548Z
+date: 2024-05-19T14:42:44.133Z
+updated: 2024-05-20T14:42:44.133Z
 tags: 
   - video editing software
   - video editing
@@ -2673,4 +2673,5 @@ Follow @Shanoon Cox
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-7-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 7 Plus Without iTunes in 5 Ways</u></a></li>
 <li><a href="https://techidaily.com/sign-a-pdf-v11-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a PDF v1.1 document with digital signature software</u></a></li>
 </ul></div>
+
 

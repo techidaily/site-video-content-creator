@@ -2057,3 +2057,4 @@ Using this versatile software you can add animations, motion tracking, zooming f
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-vintage-film-effect-1950s/"><u>Updated How to Make Vintage Film Effect 1950S</u></a></li>
 </ul></div>
 
+

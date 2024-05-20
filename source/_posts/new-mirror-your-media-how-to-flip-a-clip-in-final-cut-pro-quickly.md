@@ -1,7 +1,7 @@
 ---
 title: New Mirror Your Media How to Flip a Clip in Final Cut Pro Quickly
-date: 2024-04-29T12:49:43.350Z
-updated: 2024-04-30T12:49:43.350Z
+date: 2024-05-19T14:41:16.944Z
+updated: 2024-05-20T14:41:16.944Z
 tags: 
   - video editing software
   - video editing
@@ -2692,4 +2692,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-c110-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nokia C110 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

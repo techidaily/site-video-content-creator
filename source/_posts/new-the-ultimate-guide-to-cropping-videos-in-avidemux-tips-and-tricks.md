@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Cropping Videos in Avidemux Tips and Tricks
-date: 2024-04-29T12:55:31.618Z
-updated: 2024-04-30T12:55:31.618Z
+date: 2024-05-19T14:41:40.220Z
+updated: 2024-05-20T14:41:40.220Z
 tags: 
   - video editing software
   - video editing
@@ -2842,4 +2842,5 @@ Follow @Shanoon Cox
 <li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60-pro-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Realme Narzo 60 Pro 5G Phone Without Password?</u></a></li>
 </ul></div>
+
 

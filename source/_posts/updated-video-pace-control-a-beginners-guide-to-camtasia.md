@@ -1,7 +1,7 @@
 ---
 title: Updated Video Pace Control A Beginners Guide to Camtasia
-date: 2024-04-29T13:00:38.559Z
-updated: 2024-04-30T13:00:38.559Z
+date: 2024-05-19T14:42:02.118Z
+updated: 2024-05-20T14:42:02.118Z
 tags: 
   - video editing software
   - video editing
@@ -1639,4 +1639,5 @@ Follow @Shanoon Cox
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X50 Without Password?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Nokia C12 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

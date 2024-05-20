@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Complete Guide Creat Motion Blur Effect with Final Cut Pro
-date: 2024-04-29T13:04:31.150Z
-updated: 2024-04-30T13:04:31.150Z
+date: 2024-05-19T14:42:19.693Z
+updated: 2024-05-20T14:42:19.693Z
 tags: 
   - video editing software
   - video editing
@@ -2521,4 +2521,5 @@ Follow @Shanoon Cox
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-c67-4g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme C67 4G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-x8b-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor X8b? 7 Ways to Resolve | Dr.fone</u></a></li>
 </ul></div>
+
 

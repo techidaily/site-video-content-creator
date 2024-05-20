@@ -1,7 +1,7 @@
 ---
 title: New Accelerate or Decelerate Video Clips in Camtasia for 2024
-date: 2024-04-29T13:03:15.261Z
-updated: 2024-04-30T13:03:15.261Z
+date: 2024-05-19T14:42:13.972Z
+updated: 2024-05-20T14:42:13.972Z
 tags: 
   - video editing software
   - video editing
@@ -2079,4 +2079,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-tecno-phantom-v-fold-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Tecno Phantom V Fold FRP</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-6s-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 6s Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
 </ul></div>
+
 

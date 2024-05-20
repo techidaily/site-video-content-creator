@@ -1,7 +1,7 @@
 ---
 title: The Countdown Begins A Step-by-Step Guide to Adding Timers in FCPX for 2024
-date: 2024-04-29T12:54:36.859Z
-updated: 2024-04-30T12:54:36.859Z
+date: 2024-05-19T14:41:35.632Z
+updated: 2024-05-20T14:41:35.632Z
 tags: 
   - video editing software
   - video editing
@@ -1375,4 +1375,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-subtitles-in-quicktime-player/"><u>In 2024, How to Add Subtitles in QuickTime Player?</u></a></li>
 <li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Lava Agni 2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

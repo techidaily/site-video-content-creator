@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Art of Time Manipulation Speeding Up/Down Videos in Camtasia
-date: 2024-04-29T12:53:54.216Z
-updated: 2024-04-30T12:53:54.216Z
+date: 2024-05-19T14:41:32.724Z
+updated: 2024-05-20T14:41:32.725Z
 tags: 
   - video editing software
   - video editing
@@ -1766,4 +1766,5 @@ Follow @Liza Brown
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-nokia-g42-5g-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Nokia G42 5G.</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-10-best-convert-video-between-gif-software-high-quality/"><u>Updated 2024 Approved 10 Best Convert Video Between GIF Software High Quality</u></a></li>
 </ul></div>
+
 

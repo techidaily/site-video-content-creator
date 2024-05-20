@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Cropping and Resizing Videos for 2024
-date: 2024-04-29T12:55:31.183Z
-updated: 2024-04-30T12:55:31.183Z
+date: 2024-05-19T14:41:40.211Z
+updated: 2024-05-20T14:41:40.211Z
 tags: 
   - video editing software
   - video editing
@@ -1891,4 +1891,5 @@ It depends on your requirements. Both paid and freeware video editing tools will
 <li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-smart-8-plus-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Smart 8 Plus</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-k70e-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi K70E</u></a></li>
 </ul></div>
+
 

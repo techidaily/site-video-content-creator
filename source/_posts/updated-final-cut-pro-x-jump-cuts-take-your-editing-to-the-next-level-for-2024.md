@@ -4517,3 +4517,4 @@ The selected image will not be used as the thumbnail for the video.
 <li><a href="https://ai-video-apps.techidaily.com/new-tiktok-video-size-and-aspect-ratio-everything-you-need-to-know/"><u>New TikTok Video Size and Aspect Ratio Everything You Need to Know</u></a></li>
 </ul></div>
 
+

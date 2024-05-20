@@ -1,7 +1,7 @@
 ---
 title: Transform Your Footage A Cinematic Color Grading Guide for FCPX for 2024
-date: 2024-04-29T12:58:13.531Z
-updated: 2024-04-30T12:58:13.531Z
+date: 2024-05-19T14:41:51.258Z
+updated: 2024-05-20T14:41:51.258Z
 tags: 
   - video editing software
   - video editing
@@ -1666,4 +1666,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-motion-blur-in-final-cut-pro-a-step-by-step-guide/"><u>Create Stunning Motion Blur in Final Cut Pro A Step-by-Step Guide</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 14 Pro</u></a></li>
 </ul></div>
+
 

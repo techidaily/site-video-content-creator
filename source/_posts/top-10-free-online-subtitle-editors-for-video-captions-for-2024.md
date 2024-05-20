@@ -1,7 +1,7 @@
 ---
 title: Top 10 Free Online Subtitle Editors for Video Captions for 2024
-date: 2024-04-29T12:57:02.388Z
-updated: 2024-04-30T12:57:02.388Z
+date: 2024-05-19T14:41:46.129Z
+updated: 2024-05-20T14:41:46.129Z
 tags: 
   - video editing software
   - video editing
@@ -2321,4 +2321,5 @@ With Apowersoft, we go back to the most common type of online converter! It's th
 <li><a href="https://review-topics.techidaily.com/quickly-repair-damaged-pdf-v15-files-stellar-by-stellar-guide/"><u>Quickly Repair Damaged PDF v1.5 Files | Stellar</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia C110 | Dr.fone</u></a></li>
 </ul></div>
+
 

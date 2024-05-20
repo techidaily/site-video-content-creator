@@ -1,7 +1,7 @@
 ---
 title: Updated Maximize Your FCPX Potential Top 40 Keyboard Shortcuts and Tricks
-date: 2024-04-29T12:49:26.811Z
-updated: 2024-04-30T12:49:26.811Z
+date: 2024-05-19T14:41:16.049Z
+updated: 2024-05-20T14:41:16.049Z
 tags: 
   - video editing software
   - video editing
@@ -1678,4 +1678,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-lava-yuva-3-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Lava Yuva 3 Pro is off? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Infinix Note 30 | Dr.fone</u></a></li>
 </ul></div>
+
 

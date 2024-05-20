@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Slow Motion A Beginners Guide to Kapwing
-date: 2024-04-29T12:53:51.291Z
-updated: 2024-04-30T12:53:51.291Z
+date: 2024-05-19T14:41:32.536Z
+updated: 2024-05-20T14:41:32.536Z
 tags: 
   - video editing software
   - video editing
@@ -1989,4 +1989,5 @@ Follow @Shanoon Cox
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Itel S23 | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y200e-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y200e 5G Device</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Effective Lower Thirds in Final Cut Pro X
-date: 2024-04-29T12:53:48.433Z
-updated: 2024-04-30T12:53:48.433Z
+date: 2024-05-19T14:41:32.395Z
+updated: 2024-05-20T14:41:32.395Z
 tags: 
   - video editing software
   - video editing
@@ -2367,4 +2367,5 @@ Well, there you have it – the best **WhatsApp Status Maker App that** would ma
 <li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-word-2013-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for Word 2013</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-this-article-we-will-discuss-how-to-rotate-videos-in-the-lightworks-application-below-is-a-way-to-rotate-videos-in-lightworks-manually-here-we-will-u/"><u>New In This Article, We Will Discuss How to Rotate Videos in the Lightworks Application. Below Is a Way to Rotate Videos in Lightworks Manually, Here, We Will Use the Z-Axis Rotation</u></a></li>
 </ul></div>
+
 

@@ -2542,3 +2542,4 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/xr21-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>XR21 support - Turn Off Screen Lock.</u></a></li>
 </ul></div>
 
+

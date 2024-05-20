@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Audio Post-Production Mastery L-Cuts and J-Cuts in FCPX
-date: 2024-04-29T13:06:55.685Z
-updated: 2024-04-30T13:06:55.685Z
+date: 2024-05-19T14:42:31.645Z
+updated: 2024-05-20T14:42:31.645Z
 tags: 
   - video editing software
   - video editing
@@ -3056,4 +3056,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated In 2024, The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-xiaomi-13t-pro-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Xiaomi 13T Pro</u></a></li>
 </ul></div>
+
 

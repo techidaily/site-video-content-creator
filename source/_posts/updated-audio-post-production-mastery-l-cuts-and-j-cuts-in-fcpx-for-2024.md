@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Post-Production Mastery L-Cuts and J-Cuts in FCPX for 2024
-date: 2024-04-29T13:06:55.482Z
-updated: 2024-04-30T13:06:55.482Z
+date: 2024-05-19T14:42:31.640Z
+updated: 2024-05-20T14:42:31.640Z
 tags: 
   - video editing software
   - video editing
@@ -1959,4 +1959,5 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/vivo-y78-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo Y78 5G support - Forgotten screen lock.</u></a></li>
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-s23-tactical-edition-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy S23 Tactical Edition Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

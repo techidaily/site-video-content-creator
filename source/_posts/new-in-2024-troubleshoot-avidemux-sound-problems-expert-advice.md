@@ -1181,3 +1181,4 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/updated-learn-to-merge-clips-in-davinci-resolve-with-simple-steps/"><u>Updated Learn to Merge Clips in DaVinci Resolve with Simple Steps</u></a></li>
 </ul></div>
 
+

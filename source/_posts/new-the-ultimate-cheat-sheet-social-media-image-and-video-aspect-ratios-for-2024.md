@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Cheat Sheet Social Media Image and Video Aspect Ratios for 2024
-date: 2024-04-29T13:05:34.442Z
-updated: 2024-04-30T13:05:34.442Z
+date: 2024-05-19T14:42:26.025Z
+updated: 2024-05-20T14:42:26.025Z
 tags: 
   - video editing software
   - video editing
@@ -2624,4 +2624,5 @@ Follow @Shanoon Cox
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme GT Neo 5</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-5-methods-to-denoise-a-video/"><u>In 2024, 5 Methods to Denoise a Video</u></a></li>
 </ul></div>
+
 

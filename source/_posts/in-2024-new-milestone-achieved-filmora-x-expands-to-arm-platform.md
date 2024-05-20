@@ -1,7 +1,7 @@
 ---
 title: In 2024, New Milestone Achieved Filmora X Expands to ARM Platform
-date: 2024-04-29T12:50:07.648Z
-updated: 2024-04-30T12:50:07.648Z
+date: 2024-05-19T14:41:18.243Z
+updated: 2024-05-20T14:41:18.243Z
 tags: 
   - video editing software
   - video editing
@@ -1635,4 +1635,5 @@ To ensure safety and security, we need some special tools to edit audio or video
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-4g-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 4G Phone without PIN</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/30plus-amazing-templates-for-vn-video-editor-for-2024/"><u>30+ Amazing Templates for VN Video Editor for 2024</u></a></li>
 </ul></div>
+
 

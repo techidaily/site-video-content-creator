@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Fade In, Fade Out Two Essential Audio Techniques in FCP
-date: 2024-04-29T13:04:41.216Z
-updated: 2024-04-30T13:04:41.216Z
+date: 2024-05-19T14:42:20.975Z
+updated: 2024-05-20T14:42:20.975Z
 tags: 
   - video editing software
   - video editing
@@ -2146,4 +2146,5 @@ Follow @Liza Brown
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Lava Blaze 2? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Huawei Nova Y91 | Dr.fone</u></a></li>
 </ul></div>
+
 

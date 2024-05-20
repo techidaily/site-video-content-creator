@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Beginners Guide to HD Video Pixel Dimensions for 2024
-date: 2024-04-29T12:55:13.933Z
-updated: 2024-04-30T12:55:13.933Z
+date: 2024-05-19T14:41:38.386Z
+updated: 2024-05-20T14:41:38.386Z
 tags: 
   - video editing software
   - video editing
@@ -1358,4 +1358,5 @@ Follow @Liza Brown
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-90-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 90 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x100-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo X100 Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

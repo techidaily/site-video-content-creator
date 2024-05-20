@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Calculating the Golden Ratio A Guide to Pixel Proportions
-date: 2024-04-29T13:08:48.403Z
-updated: 2024-04-30T13:08:48.403Z
+date: 2024-05-19T14:42:39.403Z
+updated: 2024-05-20T14:42:39.403Z
 tags: 
   - video editing software
   - video editing
@@ -5034,4 +5034,5 @@ Follow @Shanoon Cox
 <li><a href="https://animation-videos.techidaily.com/easy-cartoon-characters-drawing-tutorials-for-you-who-are-learning-to-draw/"><u>Easy Cartoon Characters Drawing Tutorials for You Who Are Learning to Draw</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-11-pro-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 11 Pro? Heres the Best Fixes</u></a></li>
 </ul></div>
+
 

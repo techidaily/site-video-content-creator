@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Social Media Video Hack How to Resize for Maximum Impact
-date: 2024-04-29T12:56:39.907Z
-updated: 2024-04-30T12:56:39.907Z
+date: 2024-05-19T14:41:45.204Z
+updated: 2024-05-20T14:41:45.204Z
 tags: 
   - video editing software
   - video editing
@@ -3064,4 +3064,5 @@ Step 3: Then, hit the **'Export'** button and select 'MP3' format from the expan
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-unleash-your-creativity-a-guide-to-stop-motion-animation-tools-and-techniques/"><u>2024 Approved Unleash Your Creativity A Guide to Stop Motion Animation Tools and Techniques</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-smart-8-pro-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Smart 8 Pro Without Password?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New The Art of Attention-Grabbing Thumbnails YouTube Size Guide and More
-date: 2024-04-29T12:53:44.423Z
-updated: 2024-04-30T12:53:44.423Z
+date: 2024-05-19T14:41:32.135Z
+updated: 2024-05-20T14:41:32.135Z
 tags: 
   - video editing software
   - video editing
@@ -2059,4 +2059,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-razr-40-by-drfone-android/"><u>How to Bypass FRP on Motorola Razr 40?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-camtasia-review-is-it-the-best-video-editor/"><u>Updated In 2024, Camtasia Review – Is It The Best Video Editor?</u></a></li>
 </ul></div>
+
 

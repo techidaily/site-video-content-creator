@@ -1,7 +1,7 @@
 ---
 title: In 2024, Movie Mastery for Kids Learn the Art of Filmmaking
-date: 2024-04-29T12:49:58.273Z
-updated: 2024-04-30T12:49:58.273Z
+date: 2024-05-19T14:41:17.793Z
+updated: 2024-05-20T14:41:17.793Z
 tags: 
   - video editing software
   - video editing
@@ -1595,4 +1595,5 @@ Create a thumbnail that speaks about the content of your video. If the thumbnail
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-splitting-clips-in-adobe-after-effects-step-by-step/"><u>New In 2024, Splitting Clips in Adobe After Effects Step by Step</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-redmi-note-12-4g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi Redmi Note 12 4G IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

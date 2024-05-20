@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Science of YouTube Thumbnails Sizes, Templates, and Psychological Triggers
-date: 2024-04-29T12:54:57.684Z
-updated: 2024-04-30T12:54:57.684Z
+date: 2024-05-19T14:41:37.206Z
+updated: 2024-05-20T14:41:37.206Z
 tags: 
   - video editing software
   - video editing
@@ -1739,4 +1739,5 @@ Video editors are used by the ones who are interested in editing videos for pers
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo S17t? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your OnePlus 11R | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Video Dimensions for Instagram A Beginners Guide
-date: 2024-04-29T13:00:20.463Z
-updated: 2024-04-30T13:00:20.463Z
+date: 2024-05-19T14:42:01.092Z
+updated: 2024-05-20T14:42:01.092Z
 tags: 
   - video editing software
   - video editing
@@ -1568,4 +1568,5 @@ Follow @Ollie Mattison
 <li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-7-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 7</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia C02 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Video Editing Essentials How to Resize and Crop Videos
-date: 2024-04-29T13:00:22.122Z
-updated: 2024-04-30T13:00:22.122Z
+date: 2024-05-19T14:42:01.146Z
+updated: 2024-05-20T14:42:01.146Z
 tags: 
   - video editing software
   - video editing
@@ -1462,4 +1462,5 @@ Follow @Liza Brown
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-12-miniipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 12 mini/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Make a Slow-Motion Video on Kapwing
-date: 2024-04-29T13:03:52.079Z
-updated: 2024-04-30T13:03:52.080Z
+date: 2024-05-19T14:42:16.244Z
+updated: 2024-05-20T14:42:16.244Z
 tags: 
   - video editing software
   - video editing
@@ -2910,4 +2910,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-poco-f5-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Poco F5 5G to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor 90 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

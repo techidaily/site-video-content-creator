@@ -1385,3 +1385,4 @@ Follow @Ollie Mattison
 <li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-note-50-by-drfone-android/"><u>Universal Unlock Pattern for Realme Note 50</u></a></li>
 </ul></div>
 
+

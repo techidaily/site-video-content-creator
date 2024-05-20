@@ -1,7 +1,7 @@
 ---
 title: Updated Official Announcement Filmora X Now Supports ARM for 2024
-date: 2024-04-29T13:05:17.057Z
-updated: 2024-04-30T13:05:17.057Z
+date: 2024-05-19T14:42:23.891Z
+updated: 2024-05-20T14:42:23.891Z
 tags: 
   - video editing software
   - video editing
@@ -1689,4 +1689,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Motorola Moto G23 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
 </ul></div>
+
 

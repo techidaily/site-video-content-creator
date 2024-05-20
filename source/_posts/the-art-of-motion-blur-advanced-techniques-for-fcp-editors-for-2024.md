@@ -1,7 +1,7 @@
 ---
 title: The Art of Motion Blur Advanced Techniques for FCP Editors for 2024
-date: 2024-04-29T12:53:50.464Z
-updated: 2024-04-30T12:53:50.464Z
+date: 2024-05-19T14:41:32.515Z
+updated: 2024-05-20T14:41:32.515Z
 tags: 
   - video editing software
   - video editing
@@ -2726,4 +2726,5 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-k70e-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi K70E</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi 13T Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

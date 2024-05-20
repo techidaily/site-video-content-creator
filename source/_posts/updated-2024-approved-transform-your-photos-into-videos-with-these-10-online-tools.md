@@ -2942,3 +2942,4 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Phantom V Flip? | Dr.fone</u></a></li>
 </ul></div>
 
+

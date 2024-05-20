@@ -1,7 +1,7 @@
 ---
 title: New Why Are My FCPX Plugins Not Working? Common Fixes and Workarounds
-date: 2024-04-29T13:01:29.439Z
-updated: 2024-04-30T13:01:29.439Z
+date: 2024-05-19T14:42:06.194Z
+updated: 2024-05-20T14:42:06.194Z
 tags: 
   - video editing software
   - video editing
@@ -4071,4 +4071,5 @@ Follow @Max Wales
 <li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-xr-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone XR Without iTunes in 5 Ways</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-c53-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted C53 Contacts  An Easy Method Explained.</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Cropping Images in Final Cut Pro X
-date: 2024-04-29T12:55:31.391Z
-updated: 2024-04-30T12:55:31.391Z
+date: 2024-05-19T14:41:40.215Z
+updated: 2024-05-20T14:41:40.215Z
 tags: 
   - video editing software
   - video editing
@@ -1948,4 +1948,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Xiaomi Redmi A2? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix GT 10 Pro</u></a></li>
 </ul></div>
+
 

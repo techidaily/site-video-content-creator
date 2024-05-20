@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering Jump Cuts in FCPX A Step-by-Step Guide
-date: 2024-04-29T13:05:10.294Z
-updated: 2024-04-30T13:05:10.294Z
+date: 2024-05-19T14:42:23.038Z
+updated: 2024-05-20T14:42:23.038Z
 tags: 
   - video editing software
   - video editing
@@ -2053,4 +2053,5 @@ Follow @Ollie Mattison
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Realme C55 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-g42-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia G42 5G with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
+
 

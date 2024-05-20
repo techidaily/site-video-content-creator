@@ -2753,3 +2753,4 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/samsung-galaxy-a15-4g-wont-play-hevc-h265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung Galaxy A15 4G won’t play HEVC H.265 media, how to fix?</u></a></li>
 </ul></div>
 
+

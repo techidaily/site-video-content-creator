@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Nikon Footage A Step-by-Step Video Editing Guide
-date: 2024-04-29T12:49:17.766Z
-updated: 2024-04-30T12:49:17.766Z
+date: 2024-05-19T14:41:15.702Z
+updated: 2024-05-20T14:41:15.702Z
 tags: 
   - video editing software
   - video editing
@@ -4183,4 +4183,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-first-impression-review-video-for-2024/"><u>Updated How to Make First Impression Review Video for 2024</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-text-to-video-in-2024/"><u>Updated What Is AI Text to Video, In 2024</u></a></li>
 </ul></div>
+
 

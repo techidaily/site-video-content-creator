@@ -1,7 +1,7 @@
 ---
 title: New Vertical Video Mastery A Smartphone Creators Guide
-date: 2024-04-29T13:00:14.415Z
-updated: 2024-04-30T13:00:14.416Z
+date: 2024-05-19T14:42:00.858Z
+updated: 2024-05-20T14:42:00.858Z
 tags: 
   - video editing software
   - video editing
@@ -2334,4 +2334,5 @@ This online image editing tool supports multiple functions like image resizing, 
 <li><a href="https://ai-voice.techidaily.com/new-in-2024-top-10-robotic-voice-generators/"><u>New In 2024, Top 10 Robotic Voice Generators</u></a></li>
 <li><a href="https://techidaily.com/complete-tutorial-for-oppo-reno-10-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Reno 10 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

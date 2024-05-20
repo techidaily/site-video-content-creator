@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trim and Refine A Step-by-Step Guide to Cropping Videos in Avidemux
-date: 2024-04-29T12:58:27.594Z
-updated: 2024-04-30T12:58:27.594Z
+date: 2024-05-19T14:41:52.415Z
+updated: 2024-05-20T14:41:52.415Z
 tags: 
   - video editing software
   - video editing
@@ -2359,4 +2359,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Tecno Spark 20 Pro | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nubia Red Magic 8S Pro+</u></a></li>
 </ul></div>
+
 

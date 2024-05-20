@@ -1,7 +1,7 @@
 ---
 title: In 2024, Smooth Cuts Ahead 3 Ways to Add Transitions in FCP
-date: 2024-04-29T12:52:51.435Z
-updated: 2024-04-30T12:52:51.435Z
+date: 2024-05-19T14:41:28.496Z
+updated: 2024-05-20T14:41:28.496Z
 tags: 
   - video editing software
   - video editing
@@ -2733,4 +2733,5 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-nokia-c300-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia C300 Black and White | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo X Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

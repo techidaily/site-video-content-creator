@@ -1,7 +1,7 @@
 ---
 title: New Taking Control of Your Workflow XML Files in FCPX Explained
-date: 2024-04-29T12:53:38.606Z
-updated: 2024-04-30T12:53:38.606Z
+date: 2024-05-19T14:41:31.728Z
+updated: 2024-05-20T14:41:31.728Z
 tags: 
   - video editing software
   - video editing
@@ -1949,4 +1949,5 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-xr-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone XR GPS not Working Issue | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
 </ul></div>
+
 

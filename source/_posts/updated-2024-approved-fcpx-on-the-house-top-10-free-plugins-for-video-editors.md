@@ -2596,3 +2596,4 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/a-guide-xiaomi-redmi-note-12r-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Xiaomi Redmi Note 12R Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Final Cut Pro Aspect Ratio Settings A Beginners Guide
-date: 2024-04-29T13:04:44.155Z
-updated: 2024-04-30T13:04:44.155Z
+date: 2024-05-19T14:42:21.156Z
+updated: 2024-05-20T14:42:21.156Z
 tags: 
   - video editing software
   - video editing
@@ -1801,4 +1801,5 @@ Follow @Liza Brown
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-tecno-camon-30-pro-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Tecno Camon 30 Pro 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-trim-video-in-quicktime-player-on-mac/"><u>New 2024 Approved How to Trim Video in Quicktime Player on Mac</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Create Split-Screen Videos for Free Online and Offline Editors
-date: 2024-04-29T13:09:48.000Z
-updated: 2024-04-30T13:09:48.000Z
+date: 2024-05-19T14:42:43.062Z
+updated: 2024-05-20T14:42:43.062Z
 tags: 
   - video editing software
   - video editing
@@ -3202,4 +3202,5 @@ Follow @Liza Brown
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-12-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 12 Pro Max? Learn All 4 Methods</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

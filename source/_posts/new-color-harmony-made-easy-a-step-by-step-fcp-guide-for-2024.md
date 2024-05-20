@@ -1,7 +1,7 @@
 ---
 title: New Color Harmony Made Easy A Step-by-Step FCP Guide for 2024
-date: 2024-04-29T13:09:11.555Z
-updated: 2024-04-30T13:09:11.555Z
+date: 2024-05-19T14:42:41.317Z
+updated: 2024-05-20T14:42:41.317Z
 tags: 
   - video editing software
   - video editing
@@ -2068,4 +2068,5 @@ Follow @Benjamin Arango
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-c51-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme C51 Phone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-8-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 8 Without a Passcode</u></a></li>
 </ul></div>
+
 

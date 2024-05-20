@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Art of Discretion Blurring Faces in Video Editing
-date: 2024-04-29T13:05:30.633Z
-updated: 2024-04-30T13:05:30.633Z
+date: 2024-05-19T14:42:25.786Z
+updated: 2024-05-20T14:42:25.786Z
 tags: 
   - video editing software
   - video editing
@@ -1718,4 +1718,5 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-xiaomi-14-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Xiaomi 14?</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-15-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone 15 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

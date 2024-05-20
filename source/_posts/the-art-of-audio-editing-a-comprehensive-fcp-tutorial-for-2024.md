@@ -1,7 +1,7 @@
 ---
 title: The Art of Audio Editing A Comprehensive FCP Tutorial for 2024
-date: 2024-04-29T12:53:44.909Z
-updated: 2024-04-30T12:53:44.909Z
+date: 2024-05-19T14:41:32.145Z
+updated: 2024-05-20T14:41:32.145Z
 tags: 
   - video editing software
   - video editing
@@ -2474,4 +2474,5 @@ With Joyoshare, the method of doing this is to select the "Start" button, which 
 <li><a href="https://ios-unlock.techidaily.com/disabled-iphone-12-pro-max-how-to-unlock-a-disabled-iphone-12-pro-max-by-drfone-ios/"><u>Disabled iPhone 12 Pro Max How to Unlock a Disabled iPhone 12 Pro Max?</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-add-3d-effects-to-video-in-windows-computer/"><u>New How to Add 3D Effects to Video in Windows Computer</u></a></li>
 </ul></div>
+
 

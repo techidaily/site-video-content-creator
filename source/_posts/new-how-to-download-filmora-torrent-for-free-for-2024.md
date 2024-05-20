@@ -1768,3 +1768,4 @@ The best video resolution varies with different platforms. But it will help in t
 <li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-14-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 14 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 </ul></div>
 
+

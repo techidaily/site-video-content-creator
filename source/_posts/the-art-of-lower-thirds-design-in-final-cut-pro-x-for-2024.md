@@ -1,7 +1,7 @@
 ---
 title: The Art of Lower Thirds Design in Final Cut Pro X for 2024
-date: 2024-04-29T12:53:50.075Z
-updated: 2024-04-30T12:53:50.075Z
+date: 2024-05-19T14:41:32.505Z
+updated: 2024-05-20T14:41:32.505Z
 tags: 
   - video editing software
   - video editing
@@ -2491,4 +2491,5 @@ Follow @Liza Brown
 <li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo X100 Pro? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-13t-pro-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi 13T Pro</u></a></li>
 </ul></div>
+
 

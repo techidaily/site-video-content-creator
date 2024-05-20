@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Color Harmony Made Easy A Step-by-Step FCP Guide
-date: 2024-04-29T13:09:11.769Z
-updated: 2024-04-30T13:09:11.769Z
+date: 2024-05-19T14:42:41.328Z
+updated: 2024-05-20T14:42:41.328Z
 tags: 
   - video editing software
   - video editing
@@ -2454,4 +2454,5 @@ Follow @Liza Brown
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-poco-f5-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Poco F5 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Nokia C12 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

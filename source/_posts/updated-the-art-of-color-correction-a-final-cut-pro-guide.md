@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Color Correction A Final Cut Pro Guide
-date: 2024-04-29T12:53:47.979Z
-updated: 2024-04-30T12:53:47.979Z
+date: 2024-05-19T14:41:32.365Z
+updated: 2024-05-20T14:41:32.365Z
 tags: 
   - video editing software
   - video editing
@@ -4290,4 +4290,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-reno-11-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Reno 11 5G FRP</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-identify-missing-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: The Art of Bokeh Top Mobile Apps for Creating Stunning Blur Effects for 2024
-date: 2024-04-29T12:53:46.196Z
-updated: 2024-04-30T12:53:46.196Z
+date: 2024-05-19T14:41:32.244Z
+updated: 2024-05-20T14:41:32.244Z
 tags: 
   - video editing software
   - video editing
@@ -2611,4 +2611,5 @@ It is pretty convenient to reduce the playback speed in VLC media player regardl
 <li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-11-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 11 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-x50-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor X50 | Dr.fone</u></a></li>
 </ul></div>
+
 

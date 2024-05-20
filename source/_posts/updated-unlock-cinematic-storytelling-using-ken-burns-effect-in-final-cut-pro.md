@@ -1,7 +1,7 @@
 ---
 title: Updated Unlock Cinematic Storytelling Using Ken Burns Effect in Final Cut Pro
-date: 2024-04-29T12:59:38.964Z
-updated: 2024-04-30T12:59:38.964Z
+date: 2024-05-19T14:41:57.631Z
+updated: 2024-05-20T14:41:57.631Z
 tags: 
   - video editing software
   - video editing
@@ -2635,4 +2635,5 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-13-pro-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 13 Pro to other iPhone All iOS Versions | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-13c-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi 13C</u></a></li>
 </ul></div>
+
 

@@ -2083,3 +2083,4 @@ The Filmora also assists you in changing the project aspect ratio after launchin
 <li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-jpg-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How do i add my signature to JPG</u></a></li>
 </ul></div>
 
+

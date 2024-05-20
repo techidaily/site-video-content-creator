@@ -1,7 +1,7 @@
 ---
 title: New Top 8 Video Editing Apps for 4K Proxy Video Editing for 2024
-date: 2024-04-29T13:05:57.839Z
-updated: 2024-04-30T13:05:57.839Z
+date: 2024-05-19T14:42:27.253Z
+updated: 2024-05-20T14:42:27.253Z
 tags: 
   - video editing software
   - video editing
@@ -2346,4 +2346,5 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y36i-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y36i System Crash Issue | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-how-to-make-gif-instagram-quick-tips-for-2024/"><u>Updated How to Make GIF Instagram | Quick Tips for 2024</u></a></li>
 </ul></div>
+
 

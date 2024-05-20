@@ -1,7 +1,7 @@
 ---
 title: Updated Why Are My FCPX Plugins Not Working? Quick Fixes
-date: 2024-04-29T13:01:29.647Z
-updated: 2024-04-30T13:01:29.647Z
+date: 2024-05-19T14:42:06.199Z
+updated: 2024-05-20T14:42:06.199Z
 tags: 
   - video editing software
   - video editing
@@ -1512,4 +1512,5 @@ Follow @Benjamin Arango
 <li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-infinix-smart-8-pro-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Infinix Smart 8 Pro Pattern Lock Screen</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-xs-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone XS and iPad Without Apple ID | Stellar</u></a></li>
 </ul></div>
+
 

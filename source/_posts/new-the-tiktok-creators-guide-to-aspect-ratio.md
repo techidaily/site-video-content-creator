@@ -1,7 +1,7 @@
 ---
 title: New The TikTok Creators Guide to Aspect Ratio
-date: 2024-04-29T12:55:03.406Z
-updated: 2024-04-30T12:55:03.406Z
+date: 2024-05-19T14:41:37.577Z
+updated: 2024-05-20T14:41:37.577Z
 tags: 
   - video editing software
   - video editing
@@ -1979,4 +1979,5 @@ Note: Offline editing refers to editing a [proxy file of the original source mat
 <li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-infinix-note-30-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Infinix Note 30 5G? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-14-plus-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 14 Plus Passcode not Working? | Dr.fone</u></a></li>
 </ul></div>
+
 

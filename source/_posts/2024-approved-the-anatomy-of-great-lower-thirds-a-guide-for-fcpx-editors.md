@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Anatomy of Great Lower Thirds A Guide for FCPX Editors
-date: 2024-04-29T12:53:43.422Z
-updated: 2024-04-30T12:53:43.422Z
+date: 2024-05-19T14:41:32.110Z
+updated: 2024-05-20T14:41:32.110Z
 tags: 
   - video editing software
   - video editing
@@ -3113,4 +3113,5 @@ Follow @Shanoon Cox
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-x-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone X to PC via USB? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-huawei-p60-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Huawei P60 to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

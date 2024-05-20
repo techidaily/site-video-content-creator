@@ -2660,3 +2660,4 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/reasons-for-itel-a05s-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel A05s Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 
+

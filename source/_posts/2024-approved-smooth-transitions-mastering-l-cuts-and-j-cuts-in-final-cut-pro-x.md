@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Smooth Transitions Mastering L-Cuts and J-Cuts in Final Cut Pro X
-date: 2024-04-29T12:52:53.893Z
-updated: 2024-04-30T12:52:53.893Z
+date: 2024-05-19T14:41:28.749Z
+updated: 2024-05-20T14:41:28.749Z
 tags: 
   - video editing software
   - video editing
@@ -3086,4 +3086,5 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Smart 7 HD?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

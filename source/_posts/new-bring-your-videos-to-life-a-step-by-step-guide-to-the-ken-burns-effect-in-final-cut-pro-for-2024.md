@@ -1,7 +1,7 @@
 ---
 title: New Bring Your Videos to Life A Step-by-Step Guide to the Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-04-29T13:08:38.374Z
-updated: 2024-04-30T13:08:38.374Z
+date: 2024-05-19T14:42:38.699Z
+updated: 2024-05-20T14:42:38.699Z
 tags: 
   - video editing software
   - video editing
@@ -1677,4 +1677,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 15? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-12-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi 12 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

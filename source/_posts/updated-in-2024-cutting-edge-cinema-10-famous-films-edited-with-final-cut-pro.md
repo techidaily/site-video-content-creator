@@ -1746,3 +1746,4 @@ Each software we include in this article grants you access to all the necessary 
 <li><a href="https://techidaily.com/is-your-lava-blaze-2-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lava Blaze 2 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
 
+

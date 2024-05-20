@@ -1,7 +1,7 @@
 ---
 title: Updated Creative Time Manipulation in FCPX Freeze Frames and Slow Motion for 2024
-date: 2024-04-29T13:10:04.755Z
-updated: 2024-04-30T13:10:04.755Z
+date: 2024-05-19T14:42:44.152Z
+updated: 2024-05-20T14:42:44.152Z
 tags: 
   - video editing software
   - video editing
@@ -1940,4 +1940,5 @@ Follow @Ollie Mattison
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-nubia-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Nubia Phone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/best-3-samsung-galaxy-xcover-7-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Samsung Galaxy XCover 7 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

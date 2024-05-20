@@ -1,7 +1,7 @@
 ---
 title: The Science of Thumbnails YouTube Image Size, Format, and Conversion Hacks for 2024
-date: 2024-04-29T12:54:57.175Z
-updated: 2024-04-30T12:54:57.175Z
+date: 2024-05-19T14:41:37.195Z
+updated: 2024-05-20T14:41:37.195Z
 tags: 
   - video editing software
   - video editing
@@ -2263,4 +2263,5 @@ Follow @Richard Bennett
 <li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-6s-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 6s to Android | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y27-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y27 5G Phone Pattern Lock</u></a></li>
 </ul></div>
+
 

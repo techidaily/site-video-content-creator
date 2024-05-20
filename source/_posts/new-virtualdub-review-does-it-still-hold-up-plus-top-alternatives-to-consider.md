@@ -1,7 +1,7 @@
 ---
 title: New Virtualdub Review Does It Still Hold Up? Plus, Top Alternatives to Consider
-date: 2024-04-29T13:00:55.040Z
-updated: 2024-04-30T13:00:55.040Z
+date: 2024-05-19T14:42:03.495Z
+updated: 2024-05-20T14:42:03.495Z
 tags: 
   - video editing software
   - video editing
@@ -5859,4 +5859,5 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/fix-excel-2003-formula-not-showing-result-by-stellar-guide/"><u>Fix Excel 2003 formula not showing result</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-14-pro-max-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 14 Pro Max Location by Number | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Social Media Design Essentials Aspect Ratios and Image Dimensions
-date: 2024-04-29T12:52:55.101Z
-updated: 2024-04-30T12:52:55.101Z
+date: 2024-05-19T14:41:28.803Z
+updated: 2024-05-20T14:41:28.803Z
 tags: 
   - video editing software
   - video editing
@@ -2366,4 +2366,5 @@ For macOS 10.12 or later
 <li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 8/iPad? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-storm-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Storm 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

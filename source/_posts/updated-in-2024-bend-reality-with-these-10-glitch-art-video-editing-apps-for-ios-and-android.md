@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Bend Reality with These 10 Glitch Art Video Editing Apps for iOS and Android
-date: 2024-04-29T13:07:14.892Z
-updated: 2024-04-30T13:07:14.892Z
+date: 2024-05-19T14:42:32.940Z
+updated: 2024-05-20T14:42:32.940Z
 tags: 
   - video editing software
   - video editing
@@ -1705,4 +1705,5 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On OnePlus Open | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-magic-5-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor Magic 5 Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

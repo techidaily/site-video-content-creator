@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate FCPX Shortcut Add a Countdown Timer in 3 Clicks
-date: 2024-04-29T12:55:19.811Z
-updated: 2024-04-30T12:55:19.811Z
+date: 2024-05-19T14:41:38.808Z
+updated: 2024-05-20T14:41:38.808Z
 tags: 
   - video editing software
   - video editing
@@ -1607,4 +1607,5 @@ When selecting the software to use for [editing video](https://tools.techidaily.
 <li><a href="https://location-social.techidaily.com/in-2024-does-oppo-a78-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo A78 5G Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-poco-c51-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Poco C51 with Video Repair Utility on Mac?</u></a></li>
 </ul></div>
+
 

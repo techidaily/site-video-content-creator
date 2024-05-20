@@ -1,7 +1,7 @@
 ---
 title: The Art of Video Timing Speeding Up and Slowing Down in Camtasia for 2024
-date: 2024-04-29T12:53:55.755Z
-updated: 2024-04-30T12:53:55.755Z
+date: 2024-05-19T14:41:32.776Z
+updated: 2024-05-20T14:41:32.776Z
 tags: 
   - video editing software
   - video editing
@@ -4028,4 +4028,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Poco X5 Pro? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-xr21-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia XR21 by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

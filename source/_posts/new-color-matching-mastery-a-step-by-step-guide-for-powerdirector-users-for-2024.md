@@ -1,7 +1,7 @@
 ---
 title: New Color Matching Mastery A Step-by-Step Guide for PowerDirector Users for 2024
-date: 2024-04-29T13:09:12.612Z
-updated: 2024-04-30T13:09:12.612Z
+date: 2024-05-19T14:42:41.343Z
+updated: 2024-05-20T14:42:41.343Z
 tags: 
   - video editing software
   - video editing
@@ -1425,4 +1425,5 @@ Follow @Liza Brown
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-detailed-tutorial-to-crop-a-video-in-kinemaster/"><u>Updated In 2024, Detailed Tutorial to Crop a Video in KineMaster</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Sony Digital Camcorder Video Editing Tutorial for Beginners
-date: 2024-04-29T12:52:57.221Z
-updated: 2024-04-30T12:52:57.221Z
+date: 2024-05-19T14:41:28.969Z
+updated: 2024-05-20T14:41:28.969Z
 tags: 
   - video editing software
   - video editing
@@ -1949,4 +1949,5 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-transparent-logo-and-images-look-cool-when-you-are-planning-to-create-a-brand-identity-an-image-with-unique-features-catches-the-attention-of-/"><u>2024 Approved Transparent Logo and Images Look Cool when You Are Planning to Create a Brand Identity. An Image with Unique Features Catches the Attention of Viewers and Leaves Impression</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fcpx-optimization-tips-and-tricks-to-reclaim-disk-space/"><u>Updated In 2024, FCPX Optimization Tips and Tricks to Reclaim Disk Space</u></a></li>
 </ul></div>
+
 

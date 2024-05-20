@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Art of Transcribing Audio to Text
-date: 2024-04-29T12:53:54.439Z
-updated: 2024-04-30T12:53:54.439Z
+date: 2024-05-19T14:41:32.730Z
+updated: 2024-05-20T14:41:32.730Z
 tags: 
   - video editing software
   - video editing
@@ -2439,4 +2439,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-obtain-and-create-animated-gif-icons/"><u>Updated 2024 Approved Obtain and Create Animated GIF Icons</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo Y200 | Dr.fone</u></a></li>
 </ul></div>
+
 

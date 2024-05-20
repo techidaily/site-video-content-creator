@@ -1,7 +1,7 @@
 ---
 title: New The Fast Lane How to Resize Your Video in No Time
-date: 2024-04-29T12:54:43.278Z
-updated: 2024-04-30T12:54:43.278Z
+date: 2024-05-19T14:41:36.095Z
+updated: 2024-05-20T14:41:36.095Z
 tags: 
   - video editing software
   - video editing
@@ -2922,4 +2922,5 @@ Follow @Shanoon Cox
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-spark-10-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Spark 10 5G to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/how-to-fast-forward-or-slow-down-videos-in-camtasia/"><u>How to Fast Forward or Slow Down Videos in Camtasia</u></a></li>
 </ul></div>
+
 

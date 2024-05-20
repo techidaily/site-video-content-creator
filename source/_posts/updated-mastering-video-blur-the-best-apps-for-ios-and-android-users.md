@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Video Blur The Best Apps for iOS and Android Users
-date: 2024-04-29T12:49:20.696Z
-updated: 2024-04-30T12:49:20.696Z
+date: 2024-05-19T14:41:15.773Z
+updated: 2024-05-20T14:41:15.773Z
 tags: 
   - video editing software
   - video editing
@@ -2241,4 +2241,5 @@ Follow @Liza Brown
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nubia-red-magic-8s-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nubia Red Magic 8S Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-yuva-3-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Yuva 3 Pro to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

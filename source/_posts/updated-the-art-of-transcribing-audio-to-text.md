@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Transcribing Audio to Text
-date: 2024-04-29T12:53:54.640Z
-updated: 2024-04-30T12:53:54.640Z
+date: 2024-05-19T14:41:32.736Z
+updated: 2024-05-20T14:41:32.736Z
 tags: 
   - video editing software
   - video editing
@@ -2206,4 +2206,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-what-are-the-stages-of-film-production/"><u>2024 Approved What Are The Stages Of Film Production</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

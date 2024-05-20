@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Video Editing Basics Trimming Videos with Kapwing Online
-date: 2024-04-29T13:00:21.501Z
-updated: 2024-04-30T13:00:21.501Z
+date: 2024-05-19T14:42:01.131Z
+updated: 2024-05-20T14:42:01.131Z
 tags: 
   - video editing software
   - video editing
@@ -2431,4 +2431,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-revolutionize-your-content-10-top-rated-animated-text-generators/"><u>New Revolutionize Your Content 10 Top-Rated Animated Text Generators</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/ditch-adobe-10-free-and-open-source-video-editors-for-linux-for-2024/"><u>Ditch Adobe 10 Free and Open-Source Video Editors for Linux for 2024</u></a></li>
 </ul></div>
+
 

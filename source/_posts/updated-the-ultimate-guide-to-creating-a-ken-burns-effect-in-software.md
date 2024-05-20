@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to Creating a Ken Burns Effect in Software
-date: 2024-04-29T12:55:29.433Z
-updated: 2024-04-30T12:55:29.433Z
+date: 2024-05-19T14:41:40.161Z
+updated: 2024-05-20T14:41:40.161Z
 tags: 
   - video editing software
   - video editing
@@ -2510,4 +2510,5 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-motorola-edgeplus-2023-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Motorola Edge+ (2023).</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-gt-neo-5-se-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme GT Neo 5 SE Easily & Safely | Dr.fone</u></a></li>
 </ul></div>
+
 

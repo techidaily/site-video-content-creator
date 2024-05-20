@@ -1,7 +1,7 @@
 ---
 title: New Solve Common FCPX Problems with a Simple Reset
-date: 2024-04-29T12:52:56.585Z
-updated: 2024-04-30T12:52:56.585Z
+date: 2024-05-19T14:41:28.916Z
+updated: 2024-05-20T14:41:28.916Z
 tags: 
   - video editing software
   - video editing
@@ -2955,4 +2955,5 @@ The Filmora also assists you in changing the project aspect ratio after launchin
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor Magic 6 Pro? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Motorola Razr 40 | Dr.fone</u></a></li>
 </ul></div>
+
 

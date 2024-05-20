@@ -1,7 +1,7 @@
 ---
 title: Updated S Top Free MPEG Video Editors for Splitting and Trimming
-date: 2024-04-29T12:51:59.218Z
-updated: 2024-04-30T12:51:59.218Z
+date: 2024-05-19T14:41:25.259Z
+updated: 2024-05-20T14:41:25.259Z
 tags: 
   - video editing software
   - video editing
@@ -1811,4 +1811,5 @@ Some of the apps we have reviewed here are ideal for beginners, but they are eve
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Oppo Find X7 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-a-guide-to-use-distortion-effect-in-premeiere-pro/"><u>Updated 2024 Approved A Guide to Use Distortion Effect in Premeiere Pro</u></a></li>
 </ul></div>
+
 

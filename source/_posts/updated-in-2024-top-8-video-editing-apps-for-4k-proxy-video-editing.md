@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Top 8 Video Editing Apps for 4K Proxy Video Editing
-date: 2024-04-29T13:04:05.626Z
-updated: 2024-04-30T13:04:05.626Z
+date: 2024-05-19T14:42:17.288Z
+updated: 2024-05-20T14:42:17.288Z
 tags: 
   - video editing software
   - video editing
@@ -2817,4 +2817,5 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-magic-5-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Magic 5 Pro on Mac</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi 14 to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

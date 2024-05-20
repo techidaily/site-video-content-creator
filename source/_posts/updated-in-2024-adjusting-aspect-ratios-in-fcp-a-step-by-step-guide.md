@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Adjusting Aspect Ratios in FCP A Step-by-Step Guide
-date: 2024-04-29T13:03:26.894Z
-updated: 2024-04-30T13:03:26.895Z
+date: 2024-05-19T14:42:14.391Z
+updated: 2024-05-20T14:42:14.391Z
 tags: 
   - video editing software
   - video editing
@@ -1531,4 +1531,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Nokia C12 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-text-reveal-effect-easily/"><u>Updated How to Make Text Reveal Effect Easily</u></a></li>
 </ul></div>
+
 

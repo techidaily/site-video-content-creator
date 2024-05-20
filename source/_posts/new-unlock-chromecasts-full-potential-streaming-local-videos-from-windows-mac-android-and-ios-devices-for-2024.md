@@ -2336,3 +2336,4 @@ Follow @Liza Brown
 <li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone XS? | Dr.fone</u></a></li>
 </ul></div>
 
+

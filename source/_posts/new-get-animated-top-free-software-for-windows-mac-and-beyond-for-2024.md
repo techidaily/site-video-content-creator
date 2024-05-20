@@ -2659,3 +2659,4 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
 <li><a href="https://ai-vdieo-software.techidaily.com/video-on-the-go-how-to-speed-up-playback-in-quicktime-player/"><u>Video on the Go How to Speed Up Playback in QuickTime Player</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Video Pace Control A Beginners Guide to Camtasia
-date: 2024-04-29T13:00:38.349Z
-updated: 2024-04-30T13:00:38.349Z
+date: 2024-05-19T14:42:02.107Z
+updated: 2024-05-20T14:42:02.107Z
 tags: 
   - video editing software
   - video editing
@@ -1557,4 +1557,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-video-editing.techidaily.com/1713939539694-an-ultimate-guide-to-edit-a-music-video-aspect-ratio-and-first-cut/"><u>An Ultimate Guide To Edit a Music Video Aspect Ratio and First Cut</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-6s-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 6s Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

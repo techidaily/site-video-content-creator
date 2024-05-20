@@ -2492,3 +2492,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-engaging-videos-with-the-ken-burns-effect-a-step-by-step-tutorial/"><u>In 2024, Create Engaging Videos with the Ken Burns Effect A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: New Aspect Ratio Settings in FCP What You Need to Know for 2024
-date: 2024-04-29T13:06:51.949Z
-updated: 2024-04-30T13:06:51.949Z
+date: 2024-05-19T14:42:31.420Z
+updated: 2024-05-20T14:42:31.420Z
 tags: 
   - video editing software
   - video editing
@@ -2159,4 +2159,5 @@ Various **pixel calculator ratios**, both paid and free, have popped up on the w
 <li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-13-mini-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 13 mini You Should Try Out</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

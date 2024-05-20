@@ -1,7 +1,7 @@
 ---
 title: New Speed Up/Down Videos in Camtasia for 2024
-date: 2024-04-29T13:03:25.657Z
-updated: 2024-04-30T13:03:25.657Z
+date: 2024-05-19T14:42:14.354Z
+updated: 2024-05-20T14:42:14.354Z
 tags: 
   - video editing software
   - video editing
@@ -2229,4 +2229,5 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-zte-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your ZTE</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-tecno-spark-20c-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Tecno Spark 20C</u></a></li>
 </ul></div>
+
 

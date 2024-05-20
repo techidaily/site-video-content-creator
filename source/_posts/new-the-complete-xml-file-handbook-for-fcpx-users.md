@@ -1,7 +1,7 @@
 ---
 title: New The Complete XML File Handbook for FCPX Users
-date: 2024-04-29T12:54:36.646Z
-updated: 2024-04-30T12:54:36.646Z
+date: 2024-05-19T14:41:35.620Z
+updated: 2024-05-20T14:41:35.620Z
 tags: 
   - video editing software
   - video editing
@@ -3620,4 +3620,5 @@ Follow @Liza Brown
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-nokia-xr21-easily-by-drfone-android/"><u>How To Unlock a Nokia XR21 Easily?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-all-about-gif-keyboard-that-you-may-want-to-know/"><u>Updated All About GIF Keyboard That You May Want to Know</u></a></li>
 </ul></div>
+
 

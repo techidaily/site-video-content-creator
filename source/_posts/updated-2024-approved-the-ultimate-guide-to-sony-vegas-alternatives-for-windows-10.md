@@ -2461,3 +2461,4 @@ As said above, trimming the unnecessary parts of the video is the need of the ho
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y100t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y100t to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

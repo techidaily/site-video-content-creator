@@ -2187,3 +2187,4 @@ For macOS 10.14 or later
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-shoot-cinematic-footage-with-phone/"><u>Updated In 2024, How to Shoot Cinematic Footage with Phone</u></a></li>
 </ul></div>
 
+

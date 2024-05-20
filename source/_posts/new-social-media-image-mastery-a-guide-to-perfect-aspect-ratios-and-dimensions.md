@@ -1,7 +1,7 @@
 ---
 title: New Social Media Image Mastery A Guide to Perfect Aspect Ratios and Dimensions
-date: 2024-04-29T12:52:55.307Z
-updated: 2024-04-30T12:52:55.307Z
+date: 2024-05-19T14:41:28.808Z
+updated: 2024-05-20T14:41:28.808Z
 tags: 
   - video editing software
   - video editing
@@ -2786,4 +2786,5 @@ Follow @Shanoon Cox
 <li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-6s-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 6s to Use USB Accessories Without Passcode</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-gt-10-pro-by-fonelab-android-recover-messages/"><u>How to recover old messages from your GT 10 Pro</u></a></li>
 </ul></div>
+
 

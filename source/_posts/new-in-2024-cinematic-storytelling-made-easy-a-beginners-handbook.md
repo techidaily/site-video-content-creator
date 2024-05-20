@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Cinematic Storytelling Made Easy A Beginners Handbook
-date: 2024-04-29T13:09:06.522Z
-updated: 2024-04-30T13:09:06.522Z
+date: 2024-05-19T14:42:40.666Z
+updated: 2024-05-20T14:42:40.666Z
 tags: 
   - video editing software
   - video editing
@@ -1950,4 +1950,5 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi Civi 3 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-huawei-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Huawei ?</u></a></li>
 </ul></div>
+
 

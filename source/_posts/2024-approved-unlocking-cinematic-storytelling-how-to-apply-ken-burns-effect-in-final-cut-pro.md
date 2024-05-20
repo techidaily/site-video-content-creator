@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro
-date: 2024-04-29T12:59:59.687Z
-updated: 2024-04-30T12:59:59.687Z
+date: 2024-05-19T14:41:59.448Z
+updated: 2024-05-20T14:41:59.448Z
 tags: 
   - video editing software
   - video editing
@@ -2669,4 +2669,5 @@ Using Wondershare Filmora will provide you with the option to adjust the video r
 <li><a href="https://ios-unlock.techidaily.com/unlock-iphone-13-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 13 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-12-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 12 i Do? Get Answers here</u></a></li>
 </ul></div>
+
 

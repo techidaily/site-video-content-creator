@@ -1,7 +1,7 @@
 ---
 title: Updated Vertical Video Mastery A Smartphone Creators Guide
-date: 2024-04-29T13:00:14.624Z
-updated: 2024-04-30T13:00:14.624Z
+date: 2024-05-19T14:42:00.863Z
+updated: 2024-05-20T14:42:00.863Z
 tags: 
   - video editing software
   - video editing
@@ -2560,4 +2560,5 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nokia XR21 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-k11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo K11 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Vertical Tips for Shooting Phone-Friendly Videos
-date: 2024-04-29T12:53:55.117Z
-updated: 2024-04-30T12:53:55.117Z
+date: 2024-05-19T14:41:32.746Z
+updated: 2024-05-20T14:41:32.746Z
 tags: 
   - video editing software
   - video editing
@@ -2475,4 +2475,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-vdieo-software.techidaily.com/the-best-youtube-to-mp4-conversion-tools-a-helpful-guide/"><u>The Best YouTube to MP4 Conversion Tools A Helpful Guide</u></a></li>
 <li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y100 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering TikToks Visuals A Comprehensive Aspect Ratio Guide
-date: 2024-04-29T12:49:19.696Z
-updated: 2024-04-30T12:49:19.696Z
+date: 2024-05-19T14:41:15.747Z
+updated: 2024-05-20T14:41:15.747Z
 tags: 
   - video editing software
   - video editing
@@ -1862,4 +1862,5 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-honor-x9a-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Honor X9a</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-guide-on-how-to-enable-the-text-to-speech-function-on-iphone/"><u>New 2024 Approved Guide on How to Enable the Text to Speech Function on iPhone</u></a></li>
 </ul></div>
+
 

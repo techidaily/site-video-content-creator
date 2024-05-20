@@ -1729,3 +1729,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/how-to-change-text-color-in-premiere-pro/"><u>How To Change Text Color In Premiere Pro</u></a></li>
 </ul></div>
 
+

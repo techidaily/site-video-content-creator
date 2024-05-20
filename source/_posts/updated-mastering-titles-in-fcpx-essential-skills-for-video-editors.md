@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Titles in FCPX Essential Skills for Video Editors
-date: 2024-04-29T12:49:20.182Z
-updated: 2024-04-30T12:49:20.182Z
+date: 2024-05-19T14:41:15.754Z
+updated: 2024-05-20T14:41:15.754Z
 tags: 
   - video editing software
   - video editing
@@ -2065,4 +2065,5 @@ This online image editing tool supports multiple functions like image resizing, 
 <li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Motorola Moto G84 5G ?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-easy-way-to-create-a-diy-green-screen-video-effect/"><u>Updated Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
 </ul></div>
+
 

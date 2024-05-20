@@ -1,7 +1,7 @@
 ---
 title: New Mac Video Editing Made Easy A Yosemite Users Handbook
-date: 2024-04-29T12:48:32.194Z
-updated: 2024-04-30T12:48:32.194Z
+date: 2024-05-19T14:41:13.518Z
+updated: 2024-05-20T14:41:13.518Z
 tags: 
   - video editing software
   - video editing
@@ -2391,4 +2391,5 @@ A few are geared for pros (such as Lightworks, HitFilm Express, and Blender), wh
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Oppo A2 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6s-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 6s</u></a></li>
 </ul></div>
+
 

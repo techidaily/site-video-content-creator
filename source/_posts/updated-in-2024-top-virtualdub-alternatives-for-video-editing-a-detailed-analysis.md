@@ -2690,3 +2690,4 @@ After you launch Filmora, you can select the project aspect ratio. There are opt
 <li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-sony-xperia-1-v-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Sony Xperia 1 V?</u></a></li>
 </ul></div>
 
+

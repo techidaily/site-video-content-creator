@@ -1,7 +1,7 @@
 ---
 title: New Mastering Final Cut Pro How to Flip a Clip in 4 Simple Steps
-date: 2024-04-29T12:49:15.547Z
-updated: 2024-04-30T12:49:15.547Z
+date: 2024-05-19T14:41:15.628Z
+updated: 2024-05-20T14:41:15.628Z
 tags: 
   - video editing software
   - video editing
@@ -2376,4 +2376,5 @@ Follow @Liza Brown
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Sony Xperia 1 V? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reasons-for-honor-x7b-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor X7b Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
+
 

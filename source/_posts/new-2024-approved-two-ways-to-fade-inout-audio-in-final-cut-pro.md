@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Two Ways to Fade In/Out Audio in Final Cut Pro
-date: 2024-04-29T13:06:11.064Z
-updated: 2024-04-30T13:06:11.064Z
+date: 2024-05-19T14:42:28.427Z
+updated: 2024-05-20T14:42:28.427Z
 tags: 
   - video editing software
   - video editing
@@ -2194,4 +2194,5 @@ Follow @Shanoon Cox
 <li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-pro-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 Pro 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

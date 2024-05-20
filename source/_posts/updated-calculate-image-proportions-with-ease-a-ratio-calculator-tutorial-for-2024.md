@@ -1,7 +1,7 @@
 ---
 title: Updated Calculate Image Proportions with Ease A Ratio Calculator Tutorial for 2024
-date: 2024-04-29T13:03:46.254Z
-updated: 2024-04-30T13:03:46.254Z
+date: 2024-05-19T14:42:15.927Z
+updated: 2024-05-20T14:42:15.927Z
 tags: 
   - video editing software
   - video editing
@@ -1630,4 +1630,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-voice-to-text-unlocking-the-power-of-automatic-transcription/"><u>New In 2024, Voice to Text Unlocking the Power of Automatic Transcription</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-tecno-pova-5-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Tecno Pova 5 Pro and Browser | Dr.fone</u></a></li>
 </ul></div>
+
 

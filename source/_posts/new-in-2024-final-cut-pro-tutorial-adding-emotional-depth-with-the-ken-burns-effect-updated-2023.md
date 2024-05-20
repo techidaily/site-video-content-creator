@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)
-date: 2024-04-29T13:04:44.998Z
-updated: 2024-04-30T13:04:44.998Z
+date: 2024-05-19T14:42:21.189Z
+updated: 2024-05-20T14:42:21.189Z
 tags: 
   - video editing software
   - video editing
@@ -1791,4 +1791,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-10-intro-video-creators-for-professional-looking-openers/"><u>New 2024 Approved Top 10 Intro Video Creators for Professional-Looking Openers</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11f-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11F 5G Phone Password Without Factory Reset?</u></a></li>
 </ul></div>
+
 

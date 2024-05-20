@@ -2422,3 +2422,4 @@ The selected image will not be used as the thumbnail for the video.
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-tecno-pop-7-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Tecno Pop 7 Pro Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
 
+

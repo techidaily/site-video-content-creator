@@ -2494,3 +2494,4 @@ Follow @Liza Brown
 <li><a href="https://animation-videos.techidaily.com/tutorial-guide-to-animate-pictures-in-canva/"><u>Tutorial Guide to Animate Pictures in Canva</u></a></li>
 </ul></div>
 
+

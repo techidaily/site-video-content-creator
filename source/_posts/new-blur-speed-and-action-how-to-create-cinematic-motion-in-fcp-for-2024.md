@@ -1,7 +1,7 @@
 ---
 title: New Blur, Speed, and Action How to Create Cinematic Motion in FCP for 2024
-date: 2024-04-29T13:08:26.664Z
-updated: 2024-04-30T13:08:26.664Z
+date: 2024-05-19T14:42:37.798Z
+updated: 2024-05-20T14:42:37.798Z
 tags: 
   - video editing software
   - video editing
@@ -3104,4 +3104,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-portrait-perfection-crafting-engaging-vertical-experiences/"><u>Updated 2024 Approved Portrait Perfection Crafting Engaging Vertical Experiences</u></a></li>
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-y200e-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo Y200e 5G Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

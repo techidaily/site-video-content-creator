@@ -2343,3 +2343,4 @@ After you launch Filmora, you can select the project aspect ratio. There are opt
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-your-photo-and-video-edits-to-look-like-peter-mckinnons-color-grade-your-media-files-with-peter-mckinnon-luts-to-make-your-content/"><u>2024 Approved Do You Want Your Photo and Video Edits to Look Like Peter McKinnons? Color-Grade Your Media Files with Peter McKinnon LUTs to Make Your Content Stand Out</u></a></li>
 </ul></div>
 
+

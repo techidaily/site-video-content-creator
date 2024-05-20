@@ -1,7 +1,7 @@
 ---
 title: In 2024, Resizing Your Footage How to Change Aspect Ratio in Final Cut Pro
-date: 2024-04-29T12:51:27.972Z
-updated: 2024-04-30T12:51:27.972Z
+date: 2024-05-19T14:41:22.851Z
+updated: 2024-05-20T14:41:22.851Z
 tags: 
   - video editing software
   - video editing
@@ -2755,4 +2755,5 @@ With Joyoshare, the method of doing this is to select the "Start" button, which 
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oneplus-nord-ce-3-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your OnePlus Nord CE 3 5G Isnt Compatible | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/get-started-with-video-editing-top-beginner-friendly-software/"><u>Get Started with Video Editing Top Beginner-Friendly Software</u></a></li>
 </ul></div>
+
 

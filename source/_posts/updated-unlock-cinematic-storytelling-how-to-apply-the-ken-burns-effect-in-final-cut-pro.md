@@ -1,7 +1,7 @@
 ---
 title: Updated Unlock Cinematic Storytelling How to Apply the Ken Burns Effect in Final Cut Pro
-date: 2024-04-29T12:59:38.752Z
-updated: 2024-04-30T12:59:38.752Z
+date: 2024-05-19T14:41:57.626Z
+updated: 2024-05-20T14:41:57.626Z
 tags: 
   - video editing software
   - video editing
@@ -2307,4 +2307,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-t2-pro-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo T2 Pro 5G Phone When You Forget the Password</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor Magic 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

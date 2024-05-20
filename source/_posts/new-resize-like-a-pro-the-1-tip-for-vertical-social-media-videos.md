@@ -1,7 +1,7 @@
 ---
 title: New Resize Like a Pro The #1 Tip for Vertical Social Media Videos
-date: 2024-04-29T12:51:25.006Z
-updated: 2024-04-30T12:51:25.006Z
+date: 2024-05-19T14:41:22.599Z
+updated: 2024-05-20T14:41:22.599Z
 tags: 
   - video editing software
   - video editing
@@ -1761,4 +1761,5 @@ For macOS 10.12 or later
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo S18e? | Dr.fone</u></a></li>
 </ul></div>
+
 

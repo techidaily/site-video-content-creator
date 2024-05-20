@@ -2615,3 +2615,4 @@ Follow @Ollie Mattison
 <li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-oppo-a2-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Oppo A2 Phone Now with These Tips</u></a></li>
 </ul></div>
 
+

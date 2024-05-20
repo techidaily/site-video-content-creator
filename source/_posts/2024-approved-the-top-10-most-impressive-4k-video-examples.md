@@ -1971,3 +1971,4 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-motorola-moto-g14-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Motorola Moto G14</u></a></li>
 </ul></div>
 
+

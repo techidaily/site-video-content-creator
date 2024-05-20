@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate Social Media Video Hack How to Resize for Maximum Impact
-date: 2024-04-29T12:56:40.129Z
-updated: 2024-04-30T12:56:40.129Z
+date: 2024-05-19T14:41:45.209Z
+updated: 2024-05-20T14:41:45.209Z
 tags: 
   - video editing software
   - video editing
@@ -2087,4 +2087,5 @@ A few are geared for pros (such as Lightworks, HitFilm Express, and Blender), wh
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-through-the-differences-final-cut-pro-vs-express/"><u>In 2024, Cutting Through the Differences Final Cut Pro vs Express</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-reno-8t-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo Reno 8T 5G FRP Bypass Instantly</u></a></li>
 </ul></div>
+
 

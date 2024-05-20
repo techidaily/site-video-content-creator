@@ -1,7 +1,7 @@
 ---
 title: New Mastering AVI File Editing Easy Ways to Trim, Cut, and Split Videos (2023 Update)
-date: 2024-04-29T12:49:08.982Z
-updated: 2024-04-30T12:49:08.982Z
+date: 2024-05-19T14:41:15.438Z
+updated: 2024-05-20T14:41:15.438Z
 tags: 
   - video editing software
   - video editing
@@ -2017,4 +2017,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-12-pro-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 12 Pro Devices Entirely | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Nubia Z50 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

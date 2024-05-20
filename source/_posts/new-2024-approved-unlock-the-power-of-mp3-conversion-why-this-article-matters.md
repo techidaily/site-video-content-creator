@@ -2612,3 +2612,4 @@ VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won'
 <li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-jpg-electronically-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How do i sign a jpg electronically</u></a></li>
 </ul></div>
 
+

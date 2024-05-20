@@ -1,7 +1,7 @@
 ---
 title: Updated Ratio Rebellion Learn to Resize Images with Ease
-date: 2024-04-29T12:51:12.336Z
-updated: 2024-04-30T12:51:12.336Z
+date: 2024-05-19T14:41:21.794Z
+updated: 2024-05-20T14:41:21.794Z
 tags: 
   - video editing software
   - video editing
@@ -2443,4 +2443,5 @@ If you are new to the VFX and video editing industry, trying hands with the Phot
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 12 mini? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/is-your-asus-rog-phone-8-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Asus ROG Phone 8 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

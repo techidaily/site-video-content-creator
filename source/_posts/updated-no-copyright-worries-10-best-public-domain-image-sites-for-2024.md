@@ -2065,3 +2065,4 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-a05s-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel A05s to New Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

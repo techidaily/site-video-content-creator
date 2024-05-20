@@ -1,7 +1,7 @@
 ---
 title: New Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro
-date: 2024-04-29T12:59:59.895Z
-updated: 2024-04-30T12:59:59.895Z
+date: 2024-05-19T14:41:59.454Z
+updated: 2024-05-20T14:41:59.454Z
 tags: 
   - video editing software
   - video editing
@@ -1460,4 +1460,5 @@ Follow @Benjamin Arango
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-s18e-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo S18e Devices</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-hot-40-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Hot 40 Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 

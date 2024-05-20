@@ -1,7 +1,7 @@
 ---
 title: What Is an XML File and How to Export XML in Final Cut Pro X, In 2024
-date: 2024-04-29T13:01:19.139Z
-updated: 2024-04-30T13:01:19.139Z
+date: 2024-05-19T14:42:05.800Z
+updated: 2024-05-20T14:42:05.800Z
 tags: 
   - video editing software
   - video editing
@@ -1990,4 +1990,5 @@ To ensure safety and security, we need some special tools to edit audio or video
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y200e-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200e 5G Phone without Google Account?</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nokia-130-music-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nokia 130 Music Location on Skout | Dr.fone</u></a></li>
 </ul></div>
+
 

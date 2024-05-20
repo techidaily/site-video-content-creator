@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved No Sound in Avidemux? Dont Worry, Weve Got You Covered
-date: 2024-04-29T13:05:16.845Z
-updated: 2024-04-30T13:05:16.845Z
+date: 2024-05-19T14:42:23.859Z
+updated: 2024-05-20T14:42:23.859Z
 tags: 
   - video editing software
   - video editing
@@ -1812,4 +1812,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/new-top-luts-for-sony-hlg/"><u>New Top LUTs for Sony HLG</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy A14 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

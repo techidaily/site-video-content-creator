@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Quickly Edit Video Speed in Camtasia
-date: 2024-04-29T12:51:04.255Z
-updated: 2024-04-30T12:51:04.255Z
+date: 2024-05-19T14:41:21.321Z
+updated: 2024-05-20T14:41:21.321Z
 tags: 
   - video editing software
   - video editing
@@ -2159,4 +2159,5 @@ Follow @Max Wales
 <li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 12 | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Itel A70 | Dr.fone</u></a></li>
 </ul></div>
+
 

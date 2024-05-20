@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 10 Online Tools to Resize Images Proportionally
-date: 2024-04-29T12:57:06.175Z
-updated: 2024-04-30T12:57:06.175Z
+date: 2024-05-19T14:41:46.258Z
+updated: 2024-05-20T14:41:46.258Z
 tags: 
   - video editing software
   - video editing
@@ -1885,4 +1885,5 @@ Follow @Liza Brown
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y36-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y36 | Dr.fone</u></a></li>
 </ul></div>
+
 

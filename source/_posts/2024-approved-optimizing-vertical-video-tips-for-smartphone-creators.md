@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Optimizing Vertical Video Tips for Smartphone Creators
-date: 2024-04-29T12:50:36.720Z
-updated: 2024-04-30T12:50:36.720Z
+date: 2024-05-19T14:41:20.256Z
+updated: 2024-05-20T14:41:20.256Z
 tags: 
   - video editing software
   - video editing
@@ -2545,4 +2545,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-the-power-of-ai-thumbnail-generators/"><u>Updated In 2024, The Power of AI Thumbnail Generators</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-honor-play-40c-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor Play 40C Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

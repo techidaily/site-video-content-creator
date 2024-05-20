@@ -1,7 +1,7 @@
 ---
 title: Updated Take Control of Your Video Playback Enabling Slow Motion in VLC
-date: 2024-04-29T12:53:32.471Z
-updated: 2024-04-30T12:53:32.471Z
+date: 2024-05-19T14:41:31.284Z
+updated: 2024-05-20T14:41:31.284Z
 tags: 
   - video editing software
   - video editing
@@ -2963,4 +2963,5 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-experience-time-differently-with-the-top-slow-motion-applications/"><u>Updated Experience Time Differently with The Top Slow-Motion Applications</u></a></li>
 </ul></div>
+
 

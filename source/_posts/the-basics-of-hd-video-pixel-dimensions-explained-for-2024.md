@@ -1,7 +1,7 @@
 ---
 title: The Basics of HD Video Pixel Dimensions Explained for 2024
-date: 2024-04-29T12:53:56.634Z
-updated: 2024-04-30T12:53:56.634Z
+date: 2024-05-19T14:41:32.836Z
+updated: 2024-05-20T14:41:32.836Z
 tags: 
   - video editing software
   - video editing
@@ -2974,4 +2974,5 @@ Follow @Shanoon Cox
 <li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 14 Pro</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 14 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

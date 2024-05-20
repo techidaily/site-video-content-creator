@@ -2202,3 +2202,4 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/updated-ar-or-augmented-reality-is-one-of-the-most-significant-technological-inventions-this-technology-is-used-in-many-applications-that-we-use-daily-like-/"><u>Updated AR, or Augmented Reality, Is One of the Most Significant Technological Inventions. This Technology Is Used in Many Applications that We Use Daily, Like, Maps, Music, Video Games, Tourism, Sightseeing, Etc</u></a></li>
 </ul></div>
 
+

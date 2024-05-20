@@ -1,7 +1,7 @@
 ---
 title: New The Art of Color Correction A Final Cut Pro Guide
-date: 2024-04-29T12:53:47.735Z
-updated: 2024-04-30T12:53:47.735Z
+date: 2024-05-19T14:41:32.355Z
+updated: 2024-05-20T14:41:32.355Z
 tags: 
   - video editing software
   - video editing
@@ -1859,4 +1859,5 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Moto G04 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

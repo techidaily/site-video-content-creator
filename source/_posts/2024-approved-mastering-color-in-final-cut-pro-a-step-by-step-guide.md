@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Color in Final Cut Pro A Step-by-Step Guide
-date: 2024-04-29T12:49:11.193Z
-updated: 2024-04-30T12:49:11.193Z
+date: 2024-05-19T14:41:15.536Z
+updated: 2024-05-20T14:41:15.536Z
 tags: 
   - video editing software
   - video editing
@@ -2103,4 +2103,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-se-2020-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone SE (2020) From Your Apple ID</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-samsung-galaxy-m34-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Samsung Galaxy M34?</u></a></li>
 </ul></div>
+
 

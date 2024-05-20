@@ -1,7 +1,7 @@
 ---
 title: Updated Blur, Speed, and Action How to Create Cinematic Motion in FCP for 2024
-date: 2024-04-29T13:08:26.875Z
-updated: 2024-04-30T13:08:26.875Z
+date: 2024-05-19T14:42:37.844Z
+updated: 2024-05-20T14:42:37.844Z
 tags: 
   - video editing software
   - video editing
@@ -2542,4 +2542,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-10-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 10 5G Phone FRP Lock</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-motorola-edge-40-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Motorola Edge 40 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Slow Down Time A Step-by-Step Guide to Creating Slow-Mo Videos on Kapwing
-date: 2024-04-29T13:05:24.039Z
-updated: 2024-04-30T13:05:24.039Z
+date: 2024-05-19T14:42:24.728Z
+updated: 2024-05-20T14:42:24.728Z
 tags: 
   - video editing software
   - video editing
@@ -3591,4 +3591,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-v29-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo V29 Pro?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-green-screen-apps-for-mac-a-comprehensive-guide/"><u>New In 2024, Best Green Screen Apps for Mac A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

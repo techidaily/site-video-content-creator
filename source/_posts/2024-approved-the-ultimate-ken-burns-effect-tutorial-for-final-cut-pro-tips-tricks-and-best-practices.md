@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate Ken Burns Effect Tutorial for Final Cut Pro Tips, Tricks, and Best Practices
-date: 2024-04-29T12:55:55.069Z
-updated: 2024-04-30T12:55:55.069Z
+date: 2024-05-19T14:41:41.745Z
+updated: 2024-05-20T14:41:41.745Z
 tags: 
   - video editing software
   - video editing
@@ -2638,4 +2638,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Motorola Edge 2023? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Mirroring Magic How to Flip a Video Clip in Final Cut Pro
-date: 2024-04-29T12:49:43.774Z
-updated: 2024-04-30T12:49:43.774Z
+date: 2024-05-19T14:41:16.966Z
+updated: 2024-05-20T14:41:16.966Z
 tags: 
   - video editing software
   - video editing
@@ -2150,4 +2150,5 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 7 Plus | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-axon-40-lite-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock ZTE Axon 40 Lite Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

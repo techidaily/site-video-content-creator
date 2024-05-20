@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps
-date: 2024-04-29T13:05:03.536Z
-updated: 2024-04-30T13:05:03.536Z
+date: 2024-05-19T14:42:22.362Z
+updated: 2024-05-20T14:42:22.362Z
 tags: 
   - video editing software
   - video editing
@@ -2594,4 +2594,5 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-infinix-note-30i-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Infinix Note 30i on Mac</u></a></li>
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-narzo-60x-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme Narzo 60x 5G Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

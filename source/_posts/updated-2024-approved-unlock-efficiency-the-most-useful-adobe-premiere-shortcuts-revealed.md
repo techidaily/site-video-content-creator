@@ -2291,3 +2291,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/sign-doc-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .doc file Documents Online for Free</u></a></li>
 </ul></div>
 
+

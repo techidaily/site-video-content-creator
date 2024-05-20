@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Cinematic Storytelling Made Easy A Beginners Handbook
-date: 2024-04-29T13:09:06.734Z
-updated: 2024-04-30T13:09:06.734Z
+date: 2024-05-19T14:42:40.671Z
+updated: 2024-05-20T14:42:40.671Z
 tags: 
   - video editing software
   - video editing
@@ -1943,4 +1943,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-motion-blur-in-final-cut-pro-a-step-by-step-guide/"><u>New Create Stunning Motion Blur in Final Cut Pro A Step-by-Step Guide</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo A58 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

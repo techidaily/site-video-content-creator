@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Camtasia Tutorial Control Video Speed
-date: 2024-04-29T13:08:49.240Z
-updated: 2024-04-30T13:08:49.240Z
+date: 2024-05-19T14:42:39.471Z
+updated: 2024-05-20T14:42:39.471Z
 tags: 
   - video editing software
   - video editing
@@ -1749,4 +1749,5 @@ Follow @Liza Brown
 <li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-12-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 12</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, How to Bypass FRP on Tecno Phantom V Fold?</u></a></li>
 </ul></div>
+
 

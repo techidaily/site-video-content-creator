@@ -1,7 +1,7 @@
 ---
 title: New VirtualDub MPEG2 The Secret to Smaller, Faster Video Files
-date: 2024-04-29T13:00:54.625Z
-updated: 2024-04-30T13:00:54.625Z
+date: 2024-05-19T14:42:03.445Z
+updated: 2024-05-20T14:42:03.445Z
 tags: 
   - video editing software
   - video editing
@@ -2011,4 +2011,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-mac-video-editing-mastery-adobe-premiere-pro-for-experts/"><u>In 2024, Mac Video Editing Mastery Adobe Premiere Pro for Experts</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
 </ul></div>
+
 

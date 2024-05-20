@@ -4704,3 +4704,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/new-add-zoom-blur-effect-in-photoshop-step-by-step-for-2024/"><u>New Add Zoom Blur Effect In Photoshop Step by Step for 2024</u></a></li>
 </ul></div>
 
+

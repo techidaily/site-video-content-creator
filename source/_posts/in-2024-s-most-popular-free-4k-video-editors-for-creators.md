@@ -3122,3 +3122,4 @@ Follow @Liza Brown
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-spark-20c-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Tecno Spark 20C to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Pro Tips for Creating Convincing Motion Blur in Final Cut Pro
-date: 2024-04-29T12:50:56.601Z
-updated: 2024-04-30T12:50:56.601Z
+date: 2024-05-19T14:41:20.937Z
+updated: 2024-05-20T14:41:20.937Z
 tags: 
   - video editing software
   - video editing
@@ -1955,4 +1955,5 @@ Depending on your taste, the number of video loops required, and the amount of i
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Other iPhone 11 devices? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo V30? | Dr.fone</u></a></li>
 </ul></div>
+
 

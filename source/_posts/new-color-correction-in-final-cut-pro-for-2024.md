@@ -1,7 +1,7 @@
 ---
 title: New Color Correction in Final Cut Pro for 2024
-date: 2024-04-29T13:04:30.523Z
-updated: 2024-04-30T13:04:30.523Z
+date: 2024-05-19T14:42:19.661Z
+updated: 2024-05-20T14:42:19.661Z
 tags: 
   - video editing software
   - video editing
@@ -1846,4 +1846,5 @@ Follow @Liza Brown
 <li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y100t-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y100t Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/turn-off-screen-lock-a60-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - A60</u></a></li>
 </ul></div>
+
 

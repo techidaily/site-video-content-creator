@@ -3774,3 +3774,4 @@ After you launch Filmora, you can select the project aspect ratio. There are opt
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-smart-7-hd-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Smart 7 HD.</u></a></li>
 </ul></div>
 
+

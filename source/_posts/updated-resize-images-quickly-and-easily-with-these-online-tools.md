@@ -1,7 +1,7 @@
 ---
 title: Updated Resize Images Quickly and Easily with These Online Tools
-date: 2024-04-29T12:51:24.563Z
-updated: 2024-04-30T12:51:24.563Z
+date: 2024-05-19T14:41:22.585Z
+updated: 2024-05-20T14:41:22.585Z
 tags: 
   - video editing software
   - video editing
@@ -1477,4 +1477,5 @@ Follow @Liza Brown
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-xiaomi-redmi-note-12-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi Redmi Note 12 5G – What Can I Do? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-x90s-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo X90S Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

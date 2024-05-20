@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to Phone Aspect Ratio Design Dos and Donts
-date: 2024-04-29T12:55:44.887Z
-updated: 2024-04-30T12:55:44.887Z
+date: 2024-05-19T14:41:41.014Z
+updated: 2024-05-20T14:41:41.014Z
 tags: 
   - video editing software
   - video editing
@@ -3270,4 +3270,5 @@ However, if you're searching for a less expensive solution but still concerned a
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-x100-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo X100 to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-y78-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo Y78 5G ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Video Editing Basics Trimming Videos with Kapwing Online
-date: 2024-04-29T13:00:21.295Z
-updated: 2024-04-30T13:00:21.295Z
+date: 2024-05-19T14:42:01.124Z
+updated: 2024-05-20T14:42:01.124Z
 tags: 
   - video editing software
   - video editing
@@ -2687,4 +2687,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-avidemux-no-sound-error-causes-and-fixes/"><u>2024 Approved Avidemux No Sound Error Causes and Fixes</u></a></li>
 <li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy A05? | Dr.fone</u></a></li>
 </ul></div>
+
 

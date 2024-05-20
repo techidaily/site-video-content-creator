@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Camtasia Tutorial Change Video Speed and Pitch
-date: 2024-04-29T13:08:49.031Z
-updated: 2024-04-30T13:08:49.031Z
+date: 2024-05-19T14:42:39.464Z
+updated: 2024-05-20T14:42:39.464Z
 tags: 
   - video editing software
   - video editing
@@ -2517,4 +2517,5 @@ Follow @Shanoon Cox
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Poco X6 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-zte-blade-a73-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track ZTE Blade A73 5G Location | Dr.fone</u></a></li>
 </ul></div>
+
 

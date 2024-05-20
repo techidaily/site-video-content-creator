@@ -1,7 +1,7 @@
 ---
 title: Updated Subtitle Like a Pro A Tutorial on Adding Captions in Final Cut Pro X
-date: 2024-04-29T12:53:28.218Z
-updated: 2024-04-30T12:53:28.218Z
+date: 2024-05-19T14:41:30.975Z
+updated: 2024-05-20T14:41:30.975Z
 tags: 
   - video editing software
   - video editing
@@ -1905,4 +1905,5 @@ Speed changing is a standard video editing technique that, when done correctly, 
 <li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Redmi K70 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-bokeh-effect/"><u>New How to Make a Bokeh Effect</u></a></li>
 </ul></div>
+
 

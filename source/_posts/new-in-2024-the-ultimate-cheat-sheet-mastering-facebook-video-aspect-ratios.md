@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Ultimate Cheat Sheet Mastering Facebook Video Aspect Ratios
-date: 2024-04-29T13:05:34.235Z
-updated: 2024-04-30T13:05:34.235Z
+date: 2024-05-19T14:42:26.019Z
+updated: 2024-05-20T14:42:26.019Z
 tags: 
   - video editing software
   - video editing
@@ -2819,4 +2819,5 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/iphone-11-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 11 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/s-top-picks-video-brightening-apps-for-android-and-iphone/"><u>S Top Picks Video Brightening Apps for Android and iPhone</u></a></li>
 </ul></div>
+
 

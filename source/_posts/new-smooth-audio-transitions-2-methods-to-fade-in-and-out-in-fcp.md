@@ -1,7 +1,7 @@
 ---
 title: New Smooth Audio Transitions 2 Methods to Fade In and Out in FCP
-date: 2024-04-29T12:52:51.218Z
-updated: 2024-04-30T12:52:51.218Z
+date: 2024-05-19T14:41:28.486Z
+updated: 2024-05-20T14:41:28.486Z
 tags: 
   - video editing software
   - video editing
@@ -2608,4 +2608,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-t2-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo T2 Pro 5G to Protect Your Individual Information</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-oppo-reno-11-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Oppo Reno 11 5G Phone Now with These Tips</u></a></li>
 </ul></div>
+
 

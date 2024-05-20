@@ -2970,3 +2970,4 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Itel P40+ | Dr.fone</u></a></li>
 </ul></div>
 
+

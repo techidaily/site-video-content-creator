@@ -1986,3 +1986,4 @@ The Filmora also assists you in changing the project aspect ratio after launchin
 <li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-xcover-6-pro-tactical-edition-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy XCover 6 Pro Tactical Edition in Minutes | Dr.fone</u></a></li>
 </ul></div>
 
+

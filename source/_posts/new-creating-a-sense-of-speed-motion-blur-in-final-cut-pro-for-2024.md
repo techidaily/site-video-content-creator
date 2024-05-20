@@ -1,7 +1,7 @@
 ---
 title: New Creating a Sense of Speed Motion Blur in Final Cut Pro for 2024
-date: 2024-04-29T13:10:03.725Z
-updated: 2024-04-30T13:10:03.725Z
+date: 2024-05-19T14:42:44.043Z
+updated: 2024-05-20T14:42:44.043Z
 tags: 
   - video editing software
   - video editing
@@ -1910,4 +1910,5 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-honor-100-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Honor 100?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-c51-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco C51 to Outlook | Dr.fone</u></a></li>
 </ul></div>
+
 

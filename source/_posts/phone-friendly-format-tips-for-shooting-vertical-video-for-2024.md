@@ -1,7 +1,7 @@
 ---
 title: Phone-Friendly Format Tips for Shooting Vertical Video for 2024
-date: 2024-04-29T12:50:42.328Z
-updated: 2024-04-30T12:50:42.328Z
+date: 2024-05-19T14:41:20.475Z
+updated: 2024-05-20T14:41:20.475Z
 tags: 
   - video editing software
   - video editing
@@ -2456,4 +2456,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-gt-3-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme GT 3 to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor Magic 6 | Dr.fone</u></a></li>
 </ul></div>
+
 

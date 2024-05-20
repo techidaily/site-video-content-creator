@@ -1,7 +1,7 @@
 ---
 title: Video Editing Essentials How to Resize and Crop Videos for 2024
-date: 2024-04-29T13:00:21.913Z
-updated: 2024-04-30T13:00:21.913Z
+date: 2024-05-19T14:42:01.139Z
+updated: 2024-05-20T14:42:01.139Z
 tags: 
   - video editing software
   - video editing
@@ -2790,4 +2790,5 @@ Are you a creator, influencer, or marketer, and you need to join the trend of cr
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-free-game-video-editing-software-top-picks/"><u>Updated Free Game Video Editing Software Top Picks</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-zte-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to ZTE FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

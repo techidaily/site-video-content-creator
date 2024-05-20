@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Measure and Modify Image Size
-date: 2024-04-29T12:49:35.678Z
-updated: 2024-04-30T12:49:35.678Z
+date: 2024-05-19T14:41:16.502Z
+updated: 2024-05-20T14:41:16.502Z
 tags: 
   - video editing software
   - video editing
@@ -2379,4 +2379,5 @@ Follow @Shanoon Cox
 <li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2023-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2023</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo Find X7 | Dr.fone</u></a></li>
 </ul></div>
+
 

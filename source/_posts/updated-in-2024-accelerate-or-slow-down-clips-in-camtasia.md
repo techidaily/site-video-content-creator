@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Accelerate or Slow Down Clips in Camtasia
-date: 2024-04-29T13:03:15.689Z
-updated: 2024-04-30T13:03:15.689Z
+date: 2024-05-19T14:42:13.986Z
+updated: 2024-05-20T14:42:13.986Z
 tags: 
   - video editing software
   - video editing
@@ -1923,4 +1923,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-frp.techidaily.com/in-2024-about-motorola-frp-bypass-by-drfone-android/"><u>In 2024, About Motorola FRP Bypass</u></a></li>
 <li><a href="https://techidaily.com/how-do-i-reset-my-realme-narzo-60-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme Narzo 60 Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
+
 

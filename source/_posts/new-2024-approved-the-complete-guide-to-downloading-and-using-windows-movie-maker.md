@@ -2210,3 +2210,4 @@ Follow @Shanoon Cox
 <li><a href="https://howto.techidaily.com/why-your-infinix-hot-30-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Infinix Hot 30 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

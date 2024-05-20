@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Mastering the Ken Burns Effect A Step-by-Step Guide
-date: 2024-04-29T13:05:10.932Z
-updated: 2024-04-30T13:05:10.932Z
+date: 2024-05-19T14:42:23.128Z
+updated: 2024-05-20T14:42:23.128Z
 tags: 
   - video editing software
   - video editing
@@ -2967,4 +2967,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-find-n3-flip-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Find N3 Flip FRP</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-13-mini-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 13 mini</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Quickly Edit Video Speed in Camtasia
-date: 2024-04-29T12:51:04.483Z
-updated: 2024-04-30T12:51:04.483Z
+date: 2024-05-19T14:41:21.327Z
+updated: 2024-05-20T14:41:21.327Z
 tags: 
   - video editing software
   - video editing
@@ -2194,4 +2194,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-a-guide-on-starting-private-live-streams-on-youtube/"><u>New 2024 Approved A Guide on Starting Private Live Streams on YouTube</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-audience-viewin/"><u>Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
 </ul></div>
+
 

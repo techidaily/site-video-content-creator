@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Image Proportions A Beginners Guide to Ratio Calculators
-date: 2024-04-29T12:49:16.501Z
-updated: 2024-04-30T12:49:16.501Z
+date: 2024-05-19T14:41:15.669Z
+updated: 2024-05-20T14:41:15.669Z
 tags: 
   - video editing software
   - video editing
@@ -2951,4 +2951,5 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-6-plus-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone 6 Plus to TV or PC? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-nord-ce-3-lite-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus Nord CE 3 Lite 5G IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

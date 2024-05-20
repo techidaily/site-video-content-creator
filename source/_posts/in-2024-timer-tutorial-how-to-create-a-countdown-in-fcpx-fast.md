@@ -1,7 +1,7 @@
 ---
 title: In 2024, Timer Tutorial How to Create a Countdown in FCPX Fast
-date: 2024-04-29T12:56:57.696Z
-updated: 2024-04-30T12:56:57.696Z
+date: 2024-05-19T14:41:45.799Z
+updated: 2024-05-20T14:41:45.799Z
 tags: 
   - video editing software
   - video editing
@@ -1687,4 +1687,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-editing.techidaily.com/updated-15-amazing-gif-splitter-examples-you-need-to-bookmark/"><u>Updated 15 Amazing GIF Splitter Examples You Need to Bookmark</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-15-plus-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 15 Plus screen lock?</u></a></li>
 </ul></div>
+
 

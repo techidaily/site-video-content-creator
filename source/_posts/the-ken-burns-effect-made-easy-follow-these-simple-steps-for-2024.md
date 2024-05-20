@@ -1,7 +1,7 @@
 ---
 title: The Ken Burns Effect Made Easy Follow These Simple Steps for 2024
-date: 2024-04-29T12:54:48.761Z
-updated: 2024-04-30T12:54:48.761Z
+date: 2024-05-19T14:41:36.603Z
+updated: 2024-05-20T14:41:36.603Z
 tags: 
   - video editing software
   - video editing
@@ -2118,4 +2118,5 @@ Now, you can make and [edit videos](https://tools.techidaily.com/wondershare/fil
 <li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-11-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 11 in Lost Mode</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-gt-5-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme GT 5 Pro</u></a></li>
 </ul></div>
+
 

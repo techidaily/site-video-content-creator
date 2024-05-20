@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Avidemux Video Editing A Beginners Guide to Cropping and Resizing
-date: 2024-04-29T13:07:04.242Z
-updated: 2024-04-30T13:07:04.242Z
+date: 2024-05-19T14:42:32.166Z
+updated: 2024-05-20T14:42:32.166Z
 tags: 
   - video editing software
   - video editing
@@ -2446,4 +2446,5 @@ For macOS 10.12 or later
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-m54-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy M54 5G? Here Are Real Fixes | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-xs-max-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone XS Max Lock Screen</u></a></li>
 </ul></div>
+
 

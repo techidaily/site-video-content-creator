@@ -1,7 +1,7 @@
 ---
 title: New Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users for 2024
-date: 2024-04-29T13:05:10.718Z
-updated: 2024-04-30T13:05:10.718Z
+date: 2024-05-19T14:42:23.101Z
+updated: 2024-05-20T14:42:23.101Z
 tags: 
   - video editing software
   - video editing
@@ -2172,4 +2172,5 @@ Follow @Benjamin Arango
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme Narzo 60x 5G | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
 </ul></div>
+
 

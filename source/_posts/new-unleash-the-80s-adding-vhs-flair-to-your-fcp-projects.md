@@ -1,7 +1,7 @@
 ---
 title: New Unleash the 80S Adding VHS Flair to Your FCP Projects
-date: 2024-04-29T12:58:57.157Z
-updated: 2024-04-30T12:58:57.157Z
+date: 2024-05-19T14:41:54.746Z
+updated: 2024-05-20T14:41:54.746Z
 tags: 
   - video editing software
   - video editing
@@ -3009,4 +3009,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Meizu 21 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/honor-data-retrieval-tool-restore-lost-data-from-honor-v-purse-by-fonelab-android-recover-data/"><u>Honor Data Retrieval tool – restore lost data from Honor V Purse</u></a></li>
 </ul></div>
+
 

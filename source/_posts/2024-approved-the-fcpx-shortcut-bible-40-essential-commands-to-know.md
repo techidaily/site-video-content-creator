@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The FCPX Shortcut Bible 40 Essential Commands to Know
-date: 2024-04-29T12:54:44.338Z
-updated: 2024-04-30T12:54:44.338Z
+date: 2024-05-19T14:41:36.224Z
+updated: 2024-05-20T14:41:36.224Z
 tags: 
   - video editing software
   - video editing
@@ -2445,4 +2445,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nokia C210 | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-13-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi 13 Ultra Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

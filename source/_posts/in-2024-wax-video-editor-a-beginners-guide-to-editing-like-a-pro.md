@@ -1,7 +1,7 @@
 ---
 title: In 2024, Wax Video Editor A Beginners Guide to Editing Like a Pro
-date: 2024-04-29T13:01:15.365Z
-updated: 2024-04-30T13:01:15.365Z
+date: 2024-05-19T14:42:05.633Z
+updated: 2024-05-20T14:42:05.633Z
 tags: 
   - video editing software
   - video editing
@@ -1634,4 +1634,5 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-6-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 6 Plus to iPhone | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-nubia-red-magic-9-proplus-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Nubia Red Magic 9 Pro+ Phone</u></a></li>
 </ul></div>
+
 

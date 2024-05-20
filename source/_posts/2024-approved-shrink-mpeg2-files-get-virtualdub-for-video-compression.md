@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Shrink MPEG2 Files Get VirtualDub for Video Compression
-date: 2024-04-29T12:52:36.245Z
-updated: 2024-04-30T12:52:36.245Z
+date: 2024-05-19T14:41:27.343Z
+updated: 2024-05-20T14:41:27.343Z
 tags: 
   - video editing software
   - video editing
@@ -2140,4 +2140,5 @@ Follow @Liza Brown
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-a78-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo A78 5G Phones? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-yuva-3-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Yuva 3 Pro</u></a></li>
 </ul></div>
+
 

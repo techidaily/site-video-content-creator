@@ -1,7 +1,7 @@
 ---
 title: Updated Unlock the Power of the Ken Burns Effect A Beginners Guide
-date: 2024-04-29T12:59:55.400Z
-updated: 2024-04-30T12:59:55.400Z
+date: 2024-05-19T14:41:59.006Z
+updated: 2024-05-20T14:41:59.006Z
 tags: 
   - video editing software
   - video editing
@@ -1671,4 +1671,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-gaming-intro-creation-made-easy-top-tools-for-windows-and-mac/"><u>2024 Approved Gaming Intro Creation Made Easy Top Tools for Windows and Mac</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/easy-guide-to-itel-s23-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Itel S23 FRP Bypass With Best Methods</u></a></li>
 </ul></div>
+
 

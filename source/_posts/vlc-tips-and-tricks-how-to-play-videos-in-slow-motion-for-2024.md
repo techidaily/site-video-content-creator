@@ -1,7 +1,7 @@
 ---
 title: VLC Tips and Tricks How to Play Videos in Slow Motion for 2024
-date: 2024-04-29T13:00:57.977Z
-updated: 2024-04-30T13:00:57.977Z
+date: 2024-05-19T14:42:03.766Z
+updated: 2024-05-20T14:42:03.766Z
 tags: 
   - video editing software
   - video editing
@@ -1715,4 +1715,5 @@ Video Stabilization is the need of the hour as you cannot always capture a stabi
 <li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your HTC U23 Pro | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-camon-20-pro-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Tecno Camon 20 Pro 5G Pictures  An Easy Method Explained.</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Speed Up or Slow Down A Comprehensive Camtasia Video Guide for 2024
-date: 2024-04-29T12:52:59.821Z
-updated: 2024-04-30T12:52:59.821Z
+date: 2024-05-19T14:41:29.160Z
+updated: 2024-05-20T14:41:29.160Z
 tags: 
   - video editing software
   - video editing
@@ -2929,4 +2929,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
 <li><a href="https://ai-live-streaming.techidaily.com/2024-approved-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>2024 Approved Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

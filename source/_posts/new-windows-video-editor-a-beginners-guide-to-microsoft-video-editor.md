@@ -1,7 +1,7 @@
 ---
 title: New Windows Video Editor A Beginners Guide to Microsoft Video Editor
-date: 2024-04-29T13:01:46.901Z
-updated: 2024-04-30T13:01:46.901Z
+date: 2024-05-19T14:42:06.784Z
+updated: 2024-05-20T14:42:06.784Z
 tags: 
   - video editing software
   - video editing
@@ -1826,4 +1826,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-s23-fe-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy S23 FE Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-beyond-vegas-pro-10-exceptional-video-editing-software-options-for-mac-users/"><u>Updated Beyond Vegas Pro 10 Exceptional Video Editing Software Options for Mac Users</u></a></li>
 </ul></div>
+
 

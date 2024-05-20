@@ -1,7 +1,7 @@
 ---
 title: New Refine Image Size and Shape
-date: 2024-04-29T12:51:18.204Z
-updated: 2024-04-30T12:51:18.204Z
+date: 2024-05-19T14:41:22.254Z
+updated: 2024-05-20T14:41:22.254Z
 tags: 
   - video editing software
   - video editing
@@ -2829,4 +2829,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-minitool-movie-maker-vs-alternatives-which-video-editor-reigns-supreme/"><u>Updated 2024 Approved Minitool Movie Maker Vs. Alternatives Which Video Editor Reigns Supreme?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-reno-8t-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo Reno 8T?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Add Emotional Depth Learn to Create a Ken Burns Effect in Minutes for 2024
-date: 2024-04-29T13:03:21.220Z
-updated: 2024-04-30T13:03:21.220Z
+date: 2024-05-19T14:42:14.172Z
+updated: 2024-05-20T14:42:14.172Z
 tags: 
   - video editing software
   - video editing
@@ -2265,4 +2265,5 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo Y100t | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-intro-videos-have-the-potential-to-make-a-first-impression-on-viewers-and-you-know-how-they-say-that-the-first-impression-is-the-last-impressi/"><u>2024 Approved Intro Videos Have the Potential to Make a First Impression on Viewers, and You Know How They Say that the First Impression Is the Last Impression</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Social Media Image Sizes A Step-by-Step Handbook for 2024
-date: 2024-04-29T12:52:55.520Z
-updated: 2024-04-30T12:52:55.520Z
+date: 2024-05-19T14:41:28.847Z
+updated: 2024-05-20T14:41:28.847Z
 tags: 
   - video editing software
   - video editing
@@ -1753,4 +1753,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-little-known-ways-of-adding-emojis-to-photos-on-iphone-and-android/"><u>Updated 2024 Approved Little Known Ways of Adding Emojis to Photos on iPhone & Android</u></a></li>
 <li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone XS Max | Dr.fone</u></a></li>
 </ul></div>
+
 

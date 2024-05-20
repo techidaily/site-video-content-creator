@@ -1,7 +1,7 @@
 ---
 title: New Unlocking the Power of Titles in Final Cut Pro X 2023 Update
-date: 2024-04-29T13:00:05.028Z
-updated: 2024-04-30T13:00:05.028Z
+date: 2024-05-19T14:41:59.915Z
+updated: 2024-05-20T14:41:59.915Z
 tags: 
   - video editing software
   - video editing
@@ -3370,4 +3370,5 @@ Note: Offline editing refers to editing a [proxy file of the original source mat
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-y78plus-t1-edition-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Y78+ (T1) Edition?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-20-best-video-background-templates-for-2024/"><u>Updated 20 Best Video Background Templates for 2024</u></a></li>
 </ul></div>
+
 

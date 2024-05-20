@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Unlock the Power of Slow Motion A Kapwing Video Editing Tutorial
-date: 2024-04-29T13:06:14.266Z
-updated: 2024-04-30T13:06:14.266Z
+date: 2024-05-19T14:42:28.752Z
+updated: 2024-05-20T14:42:28.752Z
 tags: 
   - video editing software
   - video editing
@@ -1915,4 +1915,5 @@ Adjusting brightness has become a "small problem" for many. Oftentimes, you reco
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo T2 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-10-innovative-ar-teaching-examples-to-tell-you-what-is-ar-in-teaching-for-2024/"><u>New 10 Innovative AR Teaching Examples to Tell You What Is AR in Teaching for 2024</u></a></li>
 </ul></div>
+
 

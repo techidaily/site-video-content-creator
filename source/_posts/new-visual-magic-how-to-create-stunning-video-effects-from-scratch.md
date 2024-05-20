@@ -1,7 +1,7 @@
 ---
 title: New Visual Magic How to Create Stunning Video Effects From Scratch
-date: 2024-04-29T13:00:56.302Z
-updated: 2024-04-30T13:00:56.302Z
+date: 2024-05-19T14:42:03.625Z
+updated: 2024-05-20T14:42:03.625Z
 tags: 
   - video editing software
   - video editing
@@ -2128,4 +2128,5 @@ Follow @Benjamin Arango
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Note 30 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-14-pro-max-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 14 Pro Max WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
 </ul></div>
+
 

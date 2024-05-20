@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Cheat Sheet Mastering Social Media Image Sizes for 2024
-date: 2024-04-29T12:55:15.236Z
-updated: 2024-04-30T12:55:15.236Z
+date: 2024-05-19T14:41:38.478Z
+updated: 2024-05-20T14:41:38.478Z
 tags: 
   - video editing software
   - video editing
@@ -2618,4 +2618,5 @@ Follow @Liza Brown
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 14</u></a></li>
 <li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-13-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 13 Pro Max Activation Lock without Previous Owner?</u></a></li>
 </ul></div>
+
 

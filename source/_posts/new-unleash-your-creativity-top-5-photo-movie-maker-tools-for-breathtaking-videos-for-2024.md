@@ -1891,3 +1891,4 @@ Adjusting brightness has become a "small problem" for many. Oftentimes, you reco
 <li><a href="https://techidaily.com/how-to-soft-reset-infinix-note-30-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Note 30 5G phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

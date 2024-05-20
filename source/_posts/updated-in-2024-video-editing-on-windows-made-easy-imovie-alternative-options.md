@@ -2362,3 +2362,4 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/xiaomi-redmi-k70-pro-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi K70 Pro can’t play AVCHD .mts video</u></a></li>
 </ul></div>
 
+

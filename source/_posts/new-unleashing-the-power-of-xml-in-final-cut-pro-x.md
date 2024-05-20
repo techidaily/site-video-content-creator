@@ -1,7 +1,7 @@
 ---
 title: New Unleashing the Power of XML in Final Cut Pro X
-date: 2024-04-29T12:59:33.853Z
-updated: 2024-04-30T12:59:33.853Z
+date: 2024-05-19T14:41:57.231Z
+updated: 2024-05-20T14:41:57.231Z
 tags: 
   - video editing software
   - video editing
@@ -1511,4 +1511,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-s24-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy S24 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-12-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 12 to ZTE Phones | Dr.fone</u></a></li>
 </ul></div>
+
 

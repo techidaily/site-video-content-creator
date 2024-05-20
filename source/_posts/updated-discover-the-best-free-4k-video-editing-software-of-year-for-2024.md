@@ -2738,3 +2738,4 @@ Follow @Shanoon Cox
 <li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2000-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2000 file is not in recognizable format | Stellar</u></a></li>
 </ul></div>
 
+

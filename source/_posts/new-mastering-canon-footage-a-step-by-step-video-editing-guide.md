@@ -1,7 +1,7 @@
 ---
 title: New Mastering Canon Footage A Step-by-Step Video Editing Guide
-date: 2024-04-29T12:49:09.911Z
-updated: 2024-04-30T12:49:09.911Z
+date: 2024-05-19T14:41:15.485Z
+updated: 2024-05-20T14:41:15.485Z
 tags: 
   - video editing software
   - video editing
@@ -1690,4 +1690,5 @@ Follow @Liza Brown
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nubia-z50-ultra-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nubia Z50 Ultra Phone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-a14-4g-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy A14 4G FRP Bypass</u></a></li>
 </ul></div>
+
 

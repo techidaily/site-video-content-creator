@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Create Ken Burns Effect? Detaied Steps
-date: 2024-04-29T13:04:55.731Z
-updated: 2024-04-30T13:04:55.731Z
+date: 2024-05-19T14:42:21.870Z
+updated: 2024-05-20T14:42:21.870Z
 tags: 
   - video editing software
   - video editing
@@ -4686,4 +4686,5 @@ However, a quality video to GIF converter is a must-have tool. You can obtain mo
 <li><a href="https://ai-video-editing.techidaily.com/1713942926059-how-to-share-youtube-video-on-zoom-for-2024/"><u>How to Share YouTube Video on Zoom for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-9-nokia-xr21-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Nokia XR21 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+
 

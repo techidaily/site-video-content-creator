@@ -2048,3 +2048,4 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 </ul></div>
 
+

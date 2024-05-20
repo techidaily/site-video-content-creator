@@ -1,7 +1,7 @@
 ---
 title: Updated Top Online Tools to Resize Images with Ease
-date: 2024-04-29T12:57:31.301Z
-updated: 2024-04-30T12:57:31.301Z
+date: 2024-05-19T14:41:47.845Z
+updated: 2024-05-20T14:41:47.845Z
 tags: 
   - video editing software
   - video editing
@@ -2065,4 +2065,5 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Oppo Find X7? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Pova 5? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Mini Movie Mogul A Step-by-Step Guide for Kids
-date: 2024-04-29T12:54:51.872Z
-updated: 2024-04-30T12:54:51.872Z
+date: 2024-05-19T14:41:36.760Z
+updated: 2024-05-20T14:41:36.760Z
 tags: 
   - video editing software
   - video editing
@@ -1433,4 +1433,5 @@ Follow @Benjamin Arango
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone XS Max with a Mask On</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13t-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13T Pro to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

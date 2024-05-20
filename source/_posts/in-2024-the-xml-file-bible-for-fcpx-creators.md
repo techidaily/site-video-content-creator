@@ -1,7 +1,7 @@
 ---
 title: In 2024, The XML File Bible for FCPX Creators
-date: 2024-04-29T12:56:47.759Z
-updated: 2024-04-30T12:56:47.759Z
+date: 2024-05-19T14:41:45.424Z
+updated: 2024-05-20T14:41:45.424Z
 tags: 
   - video editing software
   - video editing
@@ -1834,4 +1834,5 @@ If you are new to the VFX and video editing industry, trying hands with the Phot
 <li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme GT 3 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-11-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 11 to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

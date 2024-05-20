@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate Guide to Jump Cuts in Final Cut Pro X
-date: 2024-04-29T12:55:40.989Z
-updated: 2024-04-30T12:55:40.989Z
+date: 2024-05-19T14:41:40.677Z
+updated: 2024-05-20T14:41:40.677Z
 tags: 
   - video editing software
   - video editing
@@ -2662,4 +2662,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://techidaily.com/how-to-soft-reset-realme-11-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme 11 Pro phone? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix GT 10 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New TikTok Visuals 101 Understanding Aspect Ratios and Dimensions for Maximum Impact
-date: 2024-04-29T12:56:52.605Z
-updated: 2024-04-30T12:56:52.605Z
+date: 2024-05-19T14:41:45.588Z
+updated: 2024-05-20T14:41:45.588Z
 tags: 
   - video editing software
   - video editing
@@ -1791,4 +1791,5 @@ Adjusting brightness has become a "small problem" for many. Oftentimes, you reco
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-realme-narzo-60x-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Realme Narzo 60x 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-c210-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from C210.</u></a></li>
 </ul></div>
+
 

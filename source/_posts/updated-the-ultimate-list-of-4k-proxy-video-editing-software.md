@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate List of 4K Proxy Video Editing Software
-date: 2024-04-29T12:56:08.236Z
-updated: 2024-04-30T12:56:08.236Z
+date: 2024-05-19T14:41:42.753Z
+updated: 2024-05-20T14:41:42.753Z
 tags: 
   - video editing software
   - video editing
@@ -2075,4 +2075,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-best-12-sony-vegas-slideshow-templates-for-free-download/"><u>New In 2024, Best 12 Sony Vegas Slideshow Templates for Free Download</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-m14-4g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy M14 4G Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

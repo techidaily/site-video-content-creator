@@ -1,7 +1,7 @@
 ---
 title: New Create a Sense of Urgency Adding a Countdown Timer in FCPX for 2024
-date: 2024-04-29T13:09:37.321Z
-updated: 2024-04-30T13:09:37.321Z
+date: 2024-05-19T14:42:42.297Z
+updated: 2024-05-20T14:42:42.297Z
 tags: 
   - video editing software
   - video editing
@@ -1987,4 +1987,5 @@ Follow @Shanoon Cox
 <li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-xs-5-ways-to-get-into-a-locked-apple-iphone-xs-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone XS? 5 Ways to get into a Locked Apple iPhone XS | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-note-12r-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi Note 12R Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
+
 
