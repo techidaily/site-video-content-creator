@@ -1,7 +1,7 @@
 ---
 title: In 2024, Vintage Video Magic A Step-by-Step Guide to VHS Effects in Final Cut Pro
-date: 2024-05-19T14:42:03.255Z
-updated: 2024-05-20T14:42:03.255Z
+date: 2024-06-08T21:46:28.500Z
+updated: 2024-06-09T21:46:28.500Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Vintage Video Magic A Step-by-Step Guide to VHS Effects in Final Cut Pro
 excerpt: This Article Describes In 2024, Vintage Video Magic A Step-by-Step Guide to VHS Effects in Final Cut Pro
 keywords: vintage video magic a step by step guide to vhs effects in final cut pro,mastering the ken burns effect in final cut pro a step by step guide,rotate a video in final cut pro a 4 step guide,vintage vibes in fcp a step by step guide to vhs effects,bring your videos to life a step by step guide to the ken burns effect in final cut pro,transform your footage a step by step guide to ken burns effect in final cut pro,mastering pip a step by step guide to creating picture in picture effects in final cut pro
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## Vintage Video Magic: A Step-by-Step Guide to VHS Effects in Final Cut Pro

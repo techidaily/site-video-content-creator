@@ -1,7 +1,7 @@
 ---
 title: In 2024, OS X Mavericks Video Editing 101 From Beginner to Pro
-date: 2024-05-19T14:41:20.320Z
-updated: 2024-05-20T14:41:20.320Z
+date: 2024-06-08T21:46:15.742Z
+updated: 2024-06-09T21:46:15.742Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, OS X Mavericks Video Editing 101 From Beginner to Pro
 excerpt: This Article Describes In 2024, OS X Mavericks Video Editing 101 From Beginner to Pro
 keywords: from beginner to pro best mac video editing software,from zero to hero top video editing software for beginners 2024,video editing on mavericks a beginners guide to pro results,yosemite video editing 101 a beginners tutorial for mac os x,os x mavericks video editing tutorial from basics to advanced,os x mavericks video editing 101 from beginner to pro,video editing on mac os x mavericks a beginners guide
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## OS X Mavericks Video Editing 101: From Beginner to Pro

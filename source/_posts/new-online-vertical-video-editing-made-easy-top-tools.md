@@ -1,7 +1,7 @@
 ---
 title: New Online Vertical Video Editing Made Easy Top Tools
-date: 2024-05-19T14:41:19.483Z
-updated: 2024-05-20T14:41:19.483Z
+date: 2024-06-08T21:46:24.334Z
+updated: 2024-06-09T21:46:24.334Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Online Vertical Video Editing Made Easy Top Tools
 excerpt: This Article Describes New Online Vertical Video Editing Made Easy Top Tools
 keywords: free video editing made easy top online choices,top online video editing tools for vertical videos,chromebook video editing made easy top online tools,online vertical video editing made easy top picks,online vertical video editing made easy top tools,top online video editing tools for vertical content,online video reversal made easy top tools
-thumbnail: https://www.lifewire.com/thmb/UCCJI6MO1FwbR0mTqx5aB-FS3_0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-add-tiktok-filters-and-effects-f3c195b2fe1449cb8b2906eea3305b22.jpg
+thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2f2b7f6dd74a2f0921700773.jpg
 ---
 
 ## Online Vertical Video Editing Made Easy: Top Tools

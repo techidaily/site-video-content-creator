@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Avidemux Video Editing A Beginners Guide to Cropping and Resizing
-date: 2024-05-19T14:42:32.166Z
-updated: 2024-05-20T14:42:32.166Z
+date: 2024-06-08T21:46:15.851Z
+updated: 2024-06-09T21:46:15.851Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Avidemux Video Editing A Beginners Guide to Cropping and Resizing
 excerpt: This Article Describes New 2024 Approved Avidemux Video Editing A Beginners Guide to Cropping and Resizing
 keywords: gopro video editing simplified a beginners guide to amazing results,video cropping 101 a beginners guide to using avidemux,avidemux video editing a beginners guide to cropping and resizing,avi file cutting made simple a beginners guide to video editing updated 2023,avs video editor 2023 review a beginners guide to video editing software,cropping videos in avidemux a comprehensive guide for beginners and pros,avidemux crop video a beginners guide to trimming and resizing
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## Avidemux Video Editing: A Beginner's Guide to Cropping and Resizing

@@ -1,7 +1,7 @@
 ---
 title: New Slow and Steady Wins Free Slow Motion Video Editing with Filmora
-date: 2024-05-19T14:41:28.081Z
-updated: 2024-05-20T14:41:28.081Z
+date: 2024-06-08T21:46:24.121Z
+updated: 2024-06-09T21:46:24.121Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Slow and Steady Wins Free Slow Motion Video Editing with Filmora
 excerpt: This Article Describes New Slow and Steady Wins Free Slow Motion Video Editing with Filmora
 keywords: slow and steady wins free slow motion video editing with filmora,free slow motion video editor get started with filmora,slow and steady wins the best video editing software for slow mo,get the cinematic look free slow motion video editing with filmora,slow and steady wins the race a kapwing slow motion video editing tutorial,unlock cinematic magic free slow motion video editing with filmora,slow down time free slow motion video editing with filmora
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## Slow and Steady Wins: Free Slow Motion Video Editing with Filmora

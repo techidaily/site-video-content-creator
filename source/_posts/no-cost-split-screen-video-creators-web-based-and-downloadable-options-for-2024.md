@@ -1,7 +1,7 @@
 ---
 title: No-Cost Split Screen Video Creators Web-Based and Downloadable Options for 2024
-date: 2024-05-19T14:41:18.660Z
-updated: 2024-05-20T14:41:18.660Z
+date: 2024-06-08T21:46:22.687Z
+updated: 2024-06-09T21:46:22.687Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes No-Cost Split Screen Video Creators Web-Based and Downloadable Options for 2024
 excerpt: This Article Describes No-Cost Split Screen Video Creators Web-Based and Downloadable Options for 2024
 keywords: free split screen video creators web based and desktop solutions,no cost split screen video editors online and offline options reviewed,no cost split screen video creators web based and downloadable options,top rated split screen video creators for mobile phones,mac os compatible download splice video editor and start editing,splice video editor for mac free download and start creating,free split screen video creators web based and desktop options
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## No-Cost Split Screen Video Creators: Web-Based and Downloadable Options

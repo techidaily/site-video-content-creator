@@ -1,7 +1,7 @@
 ---
 title: New Free Subtitle Makers Top 10 Picks for Online Use for 2024
-date: 2024-05-19T14:42:21.404Z
-updated: 2024-05-20T14:42:21.404Z
+date: 2024-06-08T21:46:21.903Z
+updated: 2024-06-09T21:46:21.903Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Free Subtitle Makers Top 10 Picks for Online Use for 2024
 excerpt: This Article Describes New Free Subtitle Makers Top 10 Picks for Online Use for 2024
 keywords: make subtitles online for free top 10 resources,subtitle your videos for free top 10 online makers,top 10 free online subtitle generators for videos,caption your videos for free top 10 online subtitle makers,ai animation free subtitle makers top 10 picks for online use,free online subtitle makers top 10 picks for video captioning,free subtitle makers top 10 picks for online use
-thumbnail: https://www.lifewire.com/thmb/yUwTZpCNo69jlc1KnyqQFn2f6SQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-screen-mirroring-842272124-5a7897e104d1cf0037763c0a.jpg
+thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c3cb7fed4a8969e3e80f00a3.jpg
 ---
 
 ## Free Subtitle Makers: Top 10 Picks for Online Use

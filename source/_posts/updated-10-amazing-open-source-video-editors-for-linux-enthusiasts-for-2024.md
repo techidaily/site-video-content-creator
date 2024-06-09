@@ -1,7 +1,7 @@
 ---
 title: Updated 10 Amazing Open-Source Video Editors for Linux Enthusiasts for 2024
-date: 2024-05-19T14:42:07.284Z
-updated: 2024-05-20T14:42:07.285Z
+date: 2024-06-08T21:46:19.432Z
+updated: 2024-06-09T21:46:19.432Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 10 Amazing Open-Source Video Editors for Linux Enthusiasts for 2024
 excerpt: This Article Describes Updated 10 Amazing Open-Source Video Editors for Linux Enthusiasts for 2024
 keywords: ai animation 10 best open source video editing software for linux users,10 best open source video editing software for linux users,best free and open source video editing tools for linux,ditch adobe 10 free and open source video editors for linux,top 10 open source video editing software for linux users,10 top rated open source video editors for free,10 amazing open source video editors for linux enthusiasts
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## 10 Amazing Open-Source Video Editors for Linux Enthusiasts

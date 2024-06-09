@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro X Productivity Hacks Top 40 Keyboard Shortcuts
-date: 2024-05-19T14:42:21.240Z
-updated: 2024-05-20T14:42:21.240Z
+date: 2024-06-08T21:46:27.463Z
+updated: 2024-06-09T21:46:27.463Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Final Cut Pro X Productivity Hacks Top 40 Keyboard Shortcuts
 excerpt: This Article Describes Updated 2024 Approved Final Cut Pro X Productivity Hacks Top 40 Keyboard Shortcuts
 keywords: final cut pro x productivity hacks top 40 keyboard shortcuts,ai animation top 40 keyboard shortcuts for final cut pro x,edit like a pro top 40 keyboard shortcuts for final cut pro x,ai animation final cut pro x productivity hacks top 40 keyboard shortcuts,editing on steroids top 40 final cut pro x keyboard shortcuts,fcpx productivity hacks top 40 keyboard shortcuts for editors,top 40 keyboard shortcuts for final cut pro x
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## Final Cut Pro X Productivity Hacks: Top 40 Keyboard Shortcuts

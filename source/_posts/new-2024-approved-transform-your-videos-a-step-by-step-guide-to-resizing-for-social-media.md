@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Transform Your Videos A Step-by-Step Guide to Resizing for Social Media
-date: 2024-04-29T13:29:53.383Z
-updated: 2024-04-30T13:29:53.383Z
+date: 2024-06-08T21:46:19.844Z
+updated: 2024-06-09T21:46:19.844Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Transform Your Videos A Step-by-Step Guide to Resizing for Social Media
 excerpt: This Article Describes New 2024 Approved Transform Your Videos A Step-by-Step Guide to Resizing for Social Media
 keywords: transform your videos a step by step guide to resizing for social media,transform your videos in minutes the best way to resize for social media,transform your videos a step by step mp4 video editing guide for mac and windows,transform your gopro clips a step by step mac video editing guide,transform your videos into animated masterpieces a step by step guide,ai animation transform your videos a step by step mp4 video editing guide for mac and windows,transform your mp4 files a step by step video editing tutorial for mac and windows
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## Transform Your Videos: A Step-by-Step Guide to Resizing for Social Media

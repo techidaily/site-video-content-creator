@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Unlock the Power of Slow Motion A Kapwing Video Editing Tutorial
-date: 2024-05-19T14:42:28.752Z
-updated: 2024-05-20T14:42:28.752Z
+date: 2024-06-08T21:46:23.657Z
+updated: 2024-06-09T21:46:23.657Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Unlock the Power of Slow Motion A Kapwing Video Editing Tutorial
 excerpt: This Article Describes Updated 2024 Approved Unlock the Power of Slow Motion A Kapwing Video Editing Tutorial
 keywords: unlock the power of slow motion a kapwing video editing tutorial,slow and steady wins the race a kapwing slow motion video editing tutorial,kapwing slow motion tutorial elevate your video editing skills,ai animation unlock the power of slow motion a kapwing video editing tutorial,unlock the power of slow motion a kapwing video editing guide,unlock the power of slow mo a kapwing video editing tutorial,unleash the power of slow motion a kapwing tutorial for beginners
-thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde2fed4f7c2aee477f6b93402.jpg
 ---
 
 ## Unlock the Power of Slow Motion: A Kapwing Video Editing Tutorial

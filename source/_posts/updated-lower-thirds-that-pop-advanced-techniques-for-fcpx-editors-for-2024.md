@@ -1,7 +1,7 @@
 ---
 title: Updated Lower Thirds That Pop Advanced Techniques for FCPX Editors for 2024
-date: 2024-04-29T13:18:36.451Z
-updated: 2024-04-30T13:18:36.451Z
+date: 2024-06-08T21:46:27.638Z
+updated: 2024-06-09T21:46:27.638Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Lower Thirds That Pop Advanced Techniques for FCPX Editors for 2024
 excerpt: This Article Describes Updated Lower Thirds That Pop Advanced Techniques for FCPX Editors for 2024
 keywords: the art of motion blur advanced techniques for fcp editors,the anatomy of great lower thirds a guide for fcpx editors,lower thirds that pop advanced techniques for fcpx editors,elevate your edits advanced l cuts and j cuts techniques in fcpx,unleash the power of fcp advanced audio editing techniques,fcpx lower thirds mastery best practices and techniques,unlock fcp x advanced chroma keying techniques for video editors
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## Lower Thirds That Pop: Advanced Techniques for FCPX Editors

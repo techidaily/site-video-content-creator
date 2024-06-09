@@ -1,7 +1,7 @@
 ---
 title: Reduce Video Size for Free 10 Top Online Compression Tools for 2024
-date: 2024-05-19T14:41:22.233Z
-updated: 2024-05-20T14:41:22.233Z
+date: 2024-06-08T21:46:30.138Z
+updated: 2024-06-09T21:46:30.138Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Reduce Video Size for Free 10 Top Online Compression Tools for 2024
 excerpt: This Article Describes Reduce Video Size for Free 10 Top Online Compression Tools for 2024
 keywords: reduce webm file size top online compression tools,reduce video size online 10 best free compression tools,top 10 free online video compression tools no software required,top 10 free video compression tools for windows 10,reduce video size for free 10 top online compression tools,compress webm videos for free top online tools,reduce video size for free 10 best online compressors
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## Reduce Video Size for Free: 10 Top Online Compression Tools
