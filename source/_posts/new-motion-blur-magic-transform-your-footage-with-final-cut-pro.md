@@ -1,7 +1,7 @@
 ---
 title: New Motion Blur Magic Transform Your Footage with Final Cut Pro
-date: 2024-05-19T14:41:17.526Z
-updated: 2024-05-20T14:41:17.526Z
+date: 2024-06-16T18:17:50.497Z
+updated: 2024-06-17T18:17:50.497Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Motion Blur Magic Transform Your Footage with Final Cut Pro
 excerpt: This Article Describes New Motion Blur Magic Transform Your Footage with Final Cut Pro
 keywords: transform your footage color correction in final cut pro,how to make a motion blur effect with final cut pro,final cut pro tutorial adding realistic motion blur to your footage,transform your footage mastering the ken burns effect in final cut pro with ease,add dynamic motion to your videos with final cut pros blur tool,motion blur magic transform your footage with final cut pro,adding dynamic motion blur to your videos with final cut pro
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## Motion Blur Magic: Transform Your Footage with Final Cut Pro

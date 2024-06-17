@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to Rapid Video Trimming on Mac (Updated 2023)
-date: 2024-05-19T14:41:41.047Z
-updated: 2024-05-20T14:41:41.047Z
+date: 2024-06-16T18:17:58.723Z
+updated: 2024-06-17T18:17:58.723Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Ultimate Guide to Rapid Video Trimming on Mac (Updated 2023)
 excerpt: This Article Describes Updated The Ultimate Guide to Rapid Video Trimming on Mac (Updated 2023)
 keywords: the ultimate guide to rapid video trimming on mac updated 2023,the ultimate guide to animated video making on android and ios,the ultimate guide to mkv trimming on mac 2023 edition,the ultimate guide to video editing on mac,effortless video trimming on mac the ultimate guide,the ultimate guide to fast video trimming on mac tips and tricks,the ultimate guide to video editing on a mac
-thumbnail: https://www.lifewire.com/thmb/KgjSvzxLL1eXMJCNvZxcbrcPyWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligence-Chatbot-6921166a1d9e447eb0251f52694d919a.jpg
+thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36dfc8648cae868f4622fb576a.jpg
 ---
 
 ## The Ultimate Guide to Rapid Video Trimming on Mac (Updated 2023)

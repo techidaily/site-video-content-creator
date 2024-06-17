@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate List of Free and Open-Source Video Editing Software
-date: 2024-04-29T13:27:26.827Z
-updated: 2024-04-30T13:27:26.827Z
+date: 2024-06-16T18:18:06.823Z
+updated: 2024-06-17T18:18:06.823Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved The Ultimate List of Free and Open-Source Video Editing Software
 excerpt: This Article Describes Updated 2024 Approved The Ultimate List of Free and Open-Source Video Editing Software
 keywords: ai animation the ultimate list of free and open source video editors,the ultimate list of free and paid android video editing software,ai animation the ultimate list of free and paid android video editing software,the ultimate list of free mp4 video editing software,the ultimate list of free and open source video editing software,the ultimate list of free android video editing software,the ultimate list of free and open source video editors
-thumbnail: https://www.lifewire.com/thmb/znoWsXihZpXFxhbw3VKHAcQ2O3s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1443716794-411cf2c5404b4f35b2a1153826e5a280.jpg
+thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534149e5bce6ee9984dd257b98.jpg
 ---
 
 ## The Ultimate List of Free and Open-Source Video Editing Software

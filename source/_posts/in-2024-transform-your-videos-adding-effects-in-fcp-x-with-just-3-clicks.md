@@ -1,7 +1,7 @@
 ---
 title: In 2024, Transform Your Videos Adding Effects in FCP X with Just 3 Clicks
-date: 2024-05-19T14:41:51.938Z
-updated: 2024-05-20T14:41:51.938Z
+date: 2024-06-16T18:17:53.318Z
+updated: 2024-06-17T18:17:53.318Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Transform Your Videos Adding Effects in FCP X with Just 3 Clicks
 excerpt: This Article Describes In 2024, Transform Your Videos Adding Effects in FCP X with Just 3 Clicks
 keywords: take your videos to the next level adding effects in fcp x 3 steps,transform your videos learn how to add effects in fcp x in 3 steps,time warp transform your videos with vhs effects in fcp,unlock fcp xs power adding effects in just 3 clicks,transform your videos with pro grade jump cuts in fcpx,transform your videos adding effects in fcp x with just 3 clicks,take your videos to the next level adding effects in fcp x with ease
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Transform Your Videos: Adding Effects in FCP X with Just 3 Clicks

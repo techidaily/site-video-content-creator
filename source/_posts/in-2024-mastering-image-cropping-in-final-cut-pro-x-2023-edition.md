@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Image Cropping in Final Cut Pro X 2023 Edition
-date: 2024-05-19T14:41:15.639Z
-updated: 2024-05-20T14:41:15.639Z
+date: 2024-06-16T18:17:47.633Z
+updated: 2024-06-17T18:17:47.633Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Mastering Image Cropping in Final Cut Pro X 2023 Edition
 excerpt: This Article Describes In 2024, Mastering Image Cropping in Final Cut Pro X 2023 Edition
 keywords: cropping and resizing images in final cut pro x made easy,from footage to film mastering the art of cinematic editing in final cut pro x,final cut pro x image editing cropping made easy,background noise begone mastering audio editing in final cut pro x,final cut pro x tutorial cropping images for video editing,mastering color grading in final cut pro 2023,mastering image cropping in final cut pro x 2023 edition
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## Mastering Image Cropping in Final Cut Pro X [2023 Edition]

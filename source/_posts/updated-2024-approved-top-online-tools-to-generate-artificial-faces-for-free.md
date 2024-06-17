@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Top Online Tools to Generate Artificial Faces for Free
-date: 2024-05-19T14:42:17.395Z
-updated: 2024-05-20T14:42:17.395Z
+date: 2024-06-16T18:17:47.130Z
+updated: 2024-06-17T18:17:47.130Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Top Online Tools to Generate Artificial Faces for Free
 excerpt: This Article Describes Updated 2024 Approved Top Online Tools to Generate Artificial Faces for Free
 keywords: ai animation top online tools to generate artificial faces for free,fake it top online face generators for creating artificial faces,ai animation ai animation top online tools to generate artificial faces for free,free online face creation the top generators for artificial faces,fake face generators top free online tools for creative projects,top online tools to generate artificial faces for free,top online tools to create fake faces for free
-thumbnail: https://www.lifewire.com/thmb/tytwbqcYgTF7h7x0nLFuA1_IxhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515810476-aabe0e5a88b44bb1ae49a5bfa97bec62.jpg
+thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg
 ---
 
 ## Top Online Tools to Generate Artificial Faces for Free

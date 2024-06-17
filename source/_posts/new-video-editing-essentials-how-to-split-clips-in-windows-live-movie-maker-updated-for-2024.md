@@ -1,7 +1,7 @@
 ---
 title: New Video Editing Essentials How to Split Clips in Windows Live Movie Maker (Updated ) for 2024
-date: 2024-04-29T13:32:08.800Z
-updated: 2024-04-30T13:32:08.800Z
+date: 2024-06-16T18:17:50.563Z
+updated: 2024-06-17T18:17:50.563Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Video Editing Essentials How to Split Clips in Windows Live Movie Maker (Updated ) for 2024
 excerpt: This Article Describes New Video Editing Essentials How to Split Clips in Windows Live Movie Maker (Updated ) for 2024
 keywords: effortless video editing how to split and merge clips in windows live movie maker,video editing essentials how to split clips in windows live movie maker updated,breaking down your footage how to split videos into smaller clips in windows live movie maker,video editing essentials how to split clips in windows live movie maker 2023 update,video editing essentials how to speed up clips in quicktime player windowsmac,the ultimate guide to splitting videos in windows live movie maker 2023 edition,breaking down the footage how to split videos into smaller clips in windows live movie maker
-thumbnail: https://www.lifewire.com/thmb/_atXbVpqt-bBP3NhxI9aFSkiOqU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1305200685-e977d0ca4e9a47e2b006e5b32a9922fd.jpg
+thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg
 ---
 
 ## Video Editing Essentials: How to Split Clips in Windows Live Movie Maker (Updated )

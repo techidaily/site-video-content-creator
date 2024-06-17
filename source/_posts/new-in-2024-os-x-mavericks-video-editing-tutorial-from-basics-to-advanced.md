@@ -1,7 +1,7 @@
 ---
 title: New In 2024, OS X Mavericks Video Editing Tutorial From Basics to Advanced
-date: 2024-04-29T13:21:12.027Z
-updated: 2024-04-30T13:21:12.027Z
+date: 2024-06-16T18:18:00.392Z
+updated: 2024-06-17T18:18:00.392Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, OS X Mavericks Video Editing Tutorial From Basics to Advanced
 excerpt: This Article Describes New In 2024, OS X Mavericks Video Editing Tutorial From Basics to Advanced
 keywords: os x mavericks video editing 101 from beginner to pro,fcp audio editing tutorial from basics to advanced techniques,gopro video editing on mac tips tricks and tutorials,edit like a pro video editing in os x mavericks made easy,os x mavericks video editing tutorial from basics to advanced,effortless video editing on mac os x mavericks tutorial,os x mavericks video editing tutorial mastering the basics
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## OS X Mavericks Video Editing Tutorial: From Basics to Advanced

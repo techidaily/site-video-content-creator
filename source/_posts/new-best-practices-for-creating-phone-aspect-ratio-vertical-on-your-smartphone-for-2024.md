@@ -1,7 +1,7 @@
 ---
 title: New Best Practices for Creating Phone Aspect Ratio Vertical on Your Smartphone for 2024
-date: 2024-05-19T14:42:15.829Z
-updated: 2024-05-20T14:42:15.829Z
+date: 2024-06-16T18:17:59.997Z
+updated: 2024-06-17T18:17:59.997Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Best Practices for Creating Phone Aspect Ratio Vertical on Your Smartphone for 2024
 excerpt: This Article Describes New Best Practices for Creating Phone Aspect Ratio Vertical on Your Smartphone for 2024
 keywords: ai animation best practices for creating phone aspect ratio vertical on your smartphone,best practices for creating phone aspect ratio vertical,best practices for creating phone aspect ratio vertical on your smartphone,the art of vertical storytelling phone aspect ratio best practices,ai animation best practices for creating phone aspect ratio vertical,the art of vertical video best practices for smartphone creators,ai animation ai animation best practices for creating phone aspect ratio vertical on your smartphone
-thumbnail: https://www.lifewire.com/thmb/C5NsJYR6FRT4y8jRGIvlsTKr6LU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/santahatcomputer-5ba0332646e0fb0050e7ae93.jpg
+thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf241cd4154d769e7b945709de7.jpg
 ---
 
 ## Best Practices for Creating Phone Aspect Ratio Vertical on Your Smartphone

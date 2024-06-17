@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Create Stunning Motion Blur in Final Cut Pro A Step-by-Step Guide
-date: 2024-05-19T14:44:23.476Z
-updated: 2024-05-20T14:44:23.476Z
+date: 2024-06-16T18:17:57.956Z
+updated: 2024-06-17T18:17:57.956Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Create Stunning Motion Blur in Final Cut Pro A Step-by-Step Guide
 excerpt: This Article Describes New 2024 Approved Create Stunning Motion Blur in Final Cut Pro A Step-by-Step Guide
 keywords: mastering motion blur in final cut pro a step by step tutorial,final cut pro x captioning a step by step guide,mastering color in final cut pro a step by step guide,ai animation mastering motion blur in final cut pro a step by step tutorial,the ultimate guide to creating stunning motion blur in final cut pro,create stunning motion blur in final cut pro a step by step guide,cropping in final cut pro x a step by step guide
-thumbnail: https://www.lifewire.com/thmb/orCGFYNFlEan1uKR5h12Vm8mASA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kids-ipad-580f65635f9b58564cc0fc91-5c5cbb6ac9e77c0001d92aa4.jpg
+thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b33fad191c1a3f8c1897f172.jpg
 ---
 
 ## Create Stunning Motion Blur in Final Cut Pro: A Step-by-Step Guide

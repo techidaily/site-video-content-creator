@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Aspect Ratio Settings A Beginners Guide for 2024
-date: 2024-05-19T14:42:21.144Z
-updated: 2024-05-20T14:42:21.144Z
+date: 2024-06-16T18:17:54.032Z
+updated: 2024-06-17T18:17:54.032Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Final Cut Pro Aspect Ratio Settings A Beginners Guide for 2024
 excerpt: This Article Describes New Final Cut Pro Aspect Ratio Settings A Beginners Guide for 2024
 keywords: mastering aspect ratio in final cut pro a beginners guide,mastering aspect ratios in final cut pro a beginners guide,final cut pro aspect ratio settings a beginners guide,adjusting aspect ratio in final cut pro a step by step guide,ai animation final cut pro aspect ratio settings a beginners guide,aspect ratio 101 a beginners guide to calculating,change video aspect ratio in final cut pro easy instructions for beginners
-thumbnail: https://www.lifewire.com/thmb/7wF4Y8OF7ONJDet9sjTpYolWJ8M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-475157855-5b24021b04d1cf00369d7e11-5c66f1c04cedfd00010a2553.jpg
+thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f64d610e7943b29ad8777b2c6.jpg
 ---
 
 ## Final Cut Pro Aspect Ratio Settings: A Beginner's Guide

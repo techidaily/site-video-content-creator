@@ -1,7 +1,7 @@
 ---
 title: New Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users for 2024
-date: 2024-05-19T14:42:23.101Z
-updated: 2024-05-20T14:42:23.101Z
+date: 2024-06-16T18:17:54.296Z
+updated: 2024-06-17T18:17:54.296Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users for 2024
 excerpt: This Article Describes New Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users for 2024
 keywords: transform your footage a step by step guide to ken burns effect in final cut pro,ai animation mastering the ken burns effect a step by step guide for final cut pro users,motion blur made easy a step by step guide for final cut pro users,mastering the ken burns effect a step by step guide for final cut pro users,mastering the ken burns effect in final cut pro a step by step guide,bring your videos to life a step by step guide to the ken burns effect in final cut pro,mastering the ken burns effect a step by step guide
-thumbnail: https://www.lifewire.com/thmb/xLyhmkxw8rwSLNhzfV0GfYs8tZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-tiktok-without-the-app-63a4562e4c4b4bd69477425853809a35.jpg
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
 ## Mastering the Ken Burns Effect: A Step-by-Step Guide for Final Cut Pro Users

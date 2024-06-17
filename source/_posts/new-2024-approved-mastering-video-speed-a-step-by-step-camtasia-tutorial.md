@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Mastering Video Speed A Step-by-Step Camtasia Tutorial
-date: 2024-05-19T14:42:16.460Z
-updated: 2024-05-20T14:42:16.460Z
+date: 2024-06-16T18:17:57.851Z
+updated: 2024-06-17T18:17:57.851Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Mastering Video Speed A Step-by-Step Camtasia Tutorial
 excerpt: This Article Describes New 2024 Approved Mastering Video Speed A Step-by-Step Camtasia Tutorial
 keywords: mastering tiktok aspect ratio a step by step 2024 tutorial,ai animation ai animation mastering video speed a step by step camtasia tutorial,mastering video editing a step by step online tutorial,ai animation mastering video editing a step by step online tutorial,ai animation mastering video speed a step by step camtasia tutorial,mastering video speed a step by step camtasia tutorial,mastering video speed in camtasia tips and tricks
-thumbnail: https://www.lifewire.com/thmb/nkL-0VwZC4rZHc_IxhqFzu82L6A=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps6-concept-trailer-64aac5b7323041ad93d7535eccf7df40.png
+thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2edc67c914e7a3a40f4a1feb7f.png
 ---
 
 ## Mastering Video Speed: A Step-by-Step Camtasia Tutorial

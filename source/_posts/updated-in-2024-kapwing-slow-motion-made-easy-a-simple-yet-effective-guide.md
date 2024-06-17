@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Kapwing Slow Motion Made Easy A Simple, Yet Effective Guide
-date: 2024-04-29T13:18:05.944Z
-updated: 2024-04-30T13:18:05.944Z
+date: 2024-06-16T18:18:01.319Z
+updated: 2024-06-17T18:18:01.319Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Kapwing Slow Motion Made Easy A Simple, Yet Effective Guide
 excerpt: This Article Describes Updated In 2024, Kapwing Slow Motion Made Easy A Simple, Yet Effective Guide
 keywords: slow motion magic on kapwing a step by step guide to editing like a pro,kapwing slow motion made easy a simple yet effective guide,ai animation ken burns effect made easy follow these simple steps,make every moment epic a guide to slow motion video editing on kapwing,kapwing slow motion editing made easy a simple step by step guide,video editing on windows made easy imovie alternatives 2023,get creative with kapwing a simple guide to making slow motion videos
-thumbnail: https://www.lifewire.com/thmb/15bm4Bz9ubVpUvwkdmj9lzc-OUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-un65nu7100fxza-aaa-5b3bf3f1c9e77c00370afe54.jpg
+thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f971400d44a0a7430d69515d.jpg
 ---
 
 ## Kapwing Slow Motion Made Easy: A Simple, Yet Effective Guide

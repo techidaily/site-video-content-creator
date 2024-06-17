@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Chroma Keying Mastery Advanced FCP X Tutorials for Professionals
-date: 2024-05-19T14:42:40.185Z
-updated: 2024-05-20T14:42:40.185Z
+date: 2024-06-16T18:18:01.581Z
+updated: 2024-06-17T18:18:01.581Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Chroma Keying Mastery Advanced FCP X Tutorials for Professionals
 excerpt: This Article Describes Updated In 2024, Chroma Keying Mastery Advanced FCP X Tutorials for Professionals
 keywords: unlock fcp x advanced chroma keying techniques for video editors,ai animation fcpx compressor tutorial from basics to advanced techniques,fcp x essentials how to achieve professional chroma keying results,chroma keying mastery advanced fcp x tutorials for professionals,fcp x post production mastering the art of chroma keying,from basic to advanced mastering motion blur in final cut pro,fcpx image cropping tutorial tips and tricks for professionals
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## Chroma Keying Mastery: Advanced FCP X Tutorials for Professionals

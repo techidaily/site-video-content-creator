@@ -1,7 +1,7 @@
 ---
 title: New Protect Your Creative Assets A Quick Guide to Saving FCP Projects
-date: 2024-05-19T14:41:21.175Z
-updated: 2024-05-20T14:41:21.175Z
+date: 2024-06-16T18:17:53.239Z
+updated: 2024-06-17T18:17:53.239Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Protect Your Creative Assets A Quick Guide to Saving FCP Projects
 excerpt: This Article Describes New Protect Your Creative Assets A Quick Guide to Saving FCP Projects
 keywords: how to safeguard your work saving fcp projects like a pro,protect your creative assets a quick guide to saving fcp projects,ai animation quick guide how to save final cut pro project,dont lose your work a quick guide to saving fcp projects,quick guide how to save final cut pro project,protect your edits a beginners guide to saving in final cut pro,save time save stress a quick guide to fcp project management
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## Protect Your Creative Assets: A Quick Guide to Saving FCP Projects

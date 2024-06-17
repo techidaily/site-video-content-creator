@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering VLC How to Watch Videos in Slow Mo for 2024
-date: 2024-04-29T13:19:39.368Z
-updated: 2024-04-30T13:19:39.368Z
+date: 2024-06-16T18:17:46.196Z
+updated: 2024-06-17T18:17:46.196Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Mastering VLC How to Watch Videos in Slow Mo for 2024
 excerpt: This Article Describes Updated Mastering VLC How to Watch Videos in Slow Mo for 2024
 keywords: vlc tutorial playing videos in slow mo made easy,mastering vlc how to play videos in slow motion with ease,mastering vlc how to watch videos in slow mo,vlc hacks how to play videos in slow motion for enhanced viewing,create stunning slow mo videos with windows live movie maker updated 2023,how to watch videos in slow mo using vlc,mastering vlc how to play videos in slow motion on desktop and mobile
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## Mastering VLC: How to Watch Videos in Slow Mo

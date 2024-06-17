@@ -1,7 +1,7 @@
 ---
 title: New Premiere Pro CS6 Free Download for Mac A Comprehensive Guide
-date: 2024-05-19T14:41:20.694Z
-updated: 2024-05-20T14:41:20.694Z
+date: 2024-06-16T18:17:51.347Z
+updated: 2024-06-17T18:17:51.347Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Premiere Pro CS6 Free Download for Mac A Comprehensive Guide
 excerpt: This Article Describes New Premiere Pro CS6 Free Download for Mac A Comprehensive Guide
 keywords: adobe premiere pro cs6 free download for mac os x,windows movie maker free download a comprehensive guide,download adobe premiere pro cs6 for mac os free trial,adobe premiere pro cs6 for macos free download and install guide,premiere pro cs6 free download for mac a comprehensive guide,free download adobe premiere pro cs6 for mac os,download windows movie maker for free a comprehensive guide
-thumbnail: https://www.lifewire.com/thmb/BW2Lher3W3SF0AiM8EKoxi1zUQw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-597071115-37c5865742de421eafc8b7da4cc5a618.jpg
+thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0cd1ef1d90d54872beba93f1.jpg
 ---
 
 ## Premiere Pro CS6 Free Download for Mac: A Comprehensive Guide
