@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved A Beginner Guide to HD Video Pixel Size
-date: 2024-05-19T14:43:53.879Z
-updated: 2024-05-20T14:43:53.879Z
+date: 2024-06-24T10:57:25.016Z
+updated: 2024-06-25T10:57:25.016Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved A Beginner Guide to HD Video Pixel Size
 excerpt: This Article Describes New 2024 Approved A Beginner Guide to HD Video Pixel Size
 keywords: beginner guide to hd video pixel size,pixel power a beginners guide to hd video production,ai animation a beginner guide to hd video pixel size,ai animation ai animation a beginner guide to hd video pixel size,a beginner guide to hd video pixel size,from sd to hd a beginners guide to pixel size and video quality,ai animation beginner guide to hd video pixel size
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## A Beginner Guide to HD Video Pixel Size
@@ -136,13 +136,13 @@ You can check the video resolution by right clicking on it and then, choose "Pro
 
 Once you import the files, drag it to the timeline. Now, you can trim or remove unwanted section to reduce the size of a video.
 
-![Trim or Remove ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
+![Trim or Remove](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
 
 #### Step 3 Pick up the Export Format & Video Resolution
 
 After video editing in Filmora, decide and select the format or resolution for your saved video. Click the Export button to enter in the Export Window.
 
-![Export Video ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
+![Export Video](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
 
 #### Step 4 Find and Confirm Video Conversion
 
@@ -156,11 +156,9 @@ After all the selections, click on the "Export" button. This process will take s
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 **AI Portrait – The best feature of Wondershare Filmora for gameplay editing**
 
@@ -286,13 +284,13 @@ You can check the video resolution by right clicking on it and then, choose "Pro
 
 Once you import the files, drag it to the timeline. Now, you can trim or remove unwanted section to reduce the size of a video.
 
-![Trim or Remove ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
+![Trim or Remove](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
 
 #### Step 3 Pick up the Export Format & Video Resolution
 
 After video editing in Filmora, decide and select the format or resolution for your saved video. Click the Export button to enter in the Export Window.
 
-![Export Video ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
+![Export Video](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
 
 #### Step 4 Find and Confirm Video Conversion
 
@@ -306,11 +304,9 @@ After all the selections, click on the "Export" button. This process will take s
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 **AI Portrait – The best feature of Wondershare Filmora for gameplay editing**
 
@@ -436,13 +432,13 @@ You can check the video resolution by right clicking on it and then, choose "Pro
 
 Once you import the files, drag it to the timeline. Now, you can trim or remove unwanted section to reduce the size of a video.
 
-![Trim or Remove ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
+![Trim or Remove](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
 
 #### Step 3 Pick up the Export Format & Video Resolution
 
 After video editing in Filmora, decide and select the format or resolution for your saved video. Click the Export button to enter in the Export Window.
 
-![Export Video ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
+![Export Video](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
 
 #### Step 4 Find and Confirm Video Conversion
 
@@ -456,11 +452,9 @@ After all the selections, click on the "Export" button. This process will take s
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 **AI Portrait – The best feature of Wondershare Filmora for gameplay editing**
 
@@ -586,13 +580,13 @@ You can check the video resolution by right clicking on it and then, choose "Pro
 
 Once you import the files, drag it to the timeline. Now, you can trim or remove unwanted section to reduce the size of a video.
 
-![Trim or Remove ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
+![Trim or Remove](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
 
 #### Step 3 Pick up the Export Format & Video Resolution
 
 After video editing in Filmora, decide and select the format or resolution for your saved video. Click the Export button to enter in the Export Window.
 
-![Export Video ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
+![Export Video](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
 
 #### Step 4 Find and Confirm Video Conversion
 
@@ -606,11 +600,9 @@ After all the selections, click on the "Export" button. This process will take s
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 **AI Portrait – The best feature of Wondershare Filmora for gameplay editing**
 
@@ -650,9 +642,7 @@ Many people would like to know how to make a quality movie to share with family 
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)(originally Wondershare Video Editor), designed for both pros and casual users, is a quality movie maker for everyone to use easily. It features a stylish and intuitive interface and timeline-based video editing that lets you control over every element precisely. It also provides comprehensive sources in texts, effects, intro/credits, transitions, and sounds which will take your video to the next level. In all, it's a great helper to turn your everyday videos into high quality video, perfect for sharing. Follow easy steps below to create your masterpiece now.
 
-In addition, you can learn how to turn low quality video to 4K easily in Filmora. Watch this video!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+In addition, you can learn how to turn low quality video to 4K easily in Filmora. Watch this video![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 After you downloaded and install this program, run it. Get used to its primary window very soon, and start to create a movie in high quality.
 
@@ -717,9 +707,7 @@ Many people would like to know how to make a quality movie to share with family 
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)(originally Wondershare Video Editor), designed for both pros and casual users, is a quality movie maker for everyone to use easily. It features a stylish and intuitive interface and timeline-based video editing that lets you control over every element precisely. It also provides comprehensive sources in texts, effects, intro/credits, transitions, and sounds which will take your video to the next level. In all, it's a great helper to turn your everyday videos into high quality video, perfect for sharing. Follow easy steps below to create your masterpiece now.
 
-In addition, you can learn how to turn low quality video to 4K easily in Filmora. Watch this video!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+In addition, you can learn how to turn low quality video to 4K easily in Filmora. Watch this video![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 After you downloaded and install this program, run it. Get used to its primary window very soon, and start to create a movie in high quality.
 
@@ -784,9 +772,7 @@ Many people would like to know how to make a quality movie to share with family 
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)(originally Wondershare Video Editor), designed for both pros and casual users, is a quality movie maker for everyone to use easily. It features a stylish and intuitive interface and timeline-based video editing that lets you control over every element precisely. It also provides comprehensive sources in texts, effects, intro/credits, transitions, and sounds which will take your video to the next level. In all, it's a great helper to turn your everyday videos into high quality video, perfect for sharing. Follow easy steps below to create your masterpiece now.
 
-In addition, you can learn how to turn low quality video to 4K easily in Filmora. Watch this video!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+In addition, you can learn how to turn low quality video to 4K easily in Filmora. Watch this video![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 After you downloaded and install this program, run it. Get used to its primary window very soon, and start to create a movie in high quality.
 
@@ -851,9 +837,7 @@ Many people would like to know how to make a quality movie to share with family 
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)(originally Wondershare Video Editor), designed for both pros and casual users, is a quality movie maker for everyone to use easily. It features a stylish and intuitive interface and timeline-based video editing that lets you control over every element precisely. It also provides comprehensive sources in texts, effects, intro/credits, transitions, and sounds which will take your video to the next level. In all, it's a great helper to turn your everyday videos into high quality video, perfect for sharing. Follow easy steps below to create your masterpiece now.
 
-In addition, you can learn how to turn low quality video to 4K easily in Filmora. Watch this video!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+In addition, you can learn how to turn low quality video to 4K easily in Filmora. Watch this video![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 After you downloaded and install this program, run it. Get used to its primary window very soon, and start to create a movie in high quality.
 
@@ -943,7 +927,7 @@ Follow @Liza Brown
 
 ## Top 5 Best Free WMV Video Splitters
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
  Windows Movie Maker is a free application that offers various useful video editing functions for windows users. With it, you can manually split video and audio clips into smaller clips to make your clips easier to work with. It supports various video formats like WMV, MP4, MTS, M2T .AVI. MOV and more.
 
@@ -959,7 +943,7 @@ Follow @Liza Brown
 * Crashes a lot;
 * Has different versions for the same product.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
  Movica is a free open source video editing tool. It supports various formats such as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Movica allows you to split files according to duration’s set, number of pieces, or by size of individual pieces, which meets different splitting requirements.
 
@@ -974,7 +958,7 @@ Follow @Liza Brown
 
 * Have to install Windows Media Player on your computer.
 
-#### 3\. [HJSplit](http://hjsplit.en.softonic.com/)
+#### 3\. HJSplit
 
  HJSplit is an application that is used to split large movie files into smaller footage in different kinds of formats. The program is available on Windows, Linux and a variety of other platforms. With it, you can easily split your files into parts at any size you want.
 
@@ -990,7 +974,7 @@ Follow @Liza Brown
 
 * The design is not very appealing.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
  Video Toolbox is an online video editing tool which has a rich set of video tools. To use the video editing tools, you have to register (it’s free). The menu on the left lists all the functions. Cutting videos into smaller parts comes in two modes "Simple" and "Advanced". But like many online apps, Video Toolbox imposes a size restriction of 300MB for your video files.
 
@@ -1004,7 +988,7 @@ Follow @Liza Brown
 
 * Restricts your file sizes to just 300MB.
 
-#### 5\. [Format Factory](http://www.pcfreetime.com/)
+#### 5\. Format Factory
 
  Format Factory is a not only a featured video and audio converter, but also a good video editor with subset of tools that handle file splitting. To split a video, just select your video file, set the clip range with a start time and end time and then you can start the process immediately.
 
@@ -1047,7 +1031,7 @@ Follow @Ollie Mattison
 
 ## Top 5 Best Free WMV Video Splitters
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
  Windows Movie Maker is a free application that offers various useful video editing functions for windows users. With it, you can manually split video and audio clips into smaller clips to make your clips easier to work with. It supports various video formats like WMV, MP4, MTS, M2T .AVI. MOV and more.
 
@@ -1063,7 +1047,7 @@ Follow @Ollie Mattison
 * Crashes a lot;
 * Has different versions for the same product.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
  Movica is a free open source video editing tool. It supports various formats such as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Movica allows you to split files according to duration’s set, number of pieces, or by size of individual pieces, which meets different splitting requirements.
 
@@ -1078,7 +1062,7 @@ Follow @Ollie Mattison
 
 * Have to install Windows Media Player on your computer.
 
-#### 3\. [HJSplit](http://hjsplit.en.softonic.com/)
+#### 3\. HJSplit
 
  HJSplit is an application that is used to split large movie files into smaller footage in different kinds of formats. The program is available on Windows, Linux and a variety of other platforms. With it, you can easily split your files into parts at any size you want.
 
@@ -1094,7 +1078,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
  Video Toolbox is an online video editing tool which has a rich set of video tools. To use the video editing tools, you have to register (it’s free). The menu on the left lists all the functions. Cutting videos into smaller parts comes in two modes "Simple" and "Advanced". But like many online apps, Video Toolbox imposes a size restriction of 300MB for your video files.
 
@@ -1108,7 +1092,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-#### 5\. [Format Factory](http://www.pcfreetime.com/)
+#### 5\. Format Factory
 
  Format Factory is a not only a featured video and audio converter, but also a good video editor with subset of tools that handle file splitting. To split a video, just select your video file, set the clip range with a start time and end time and then you can start the process immediately.
 
@@ -1151,7 +1135,7 @@ Follow @Ollie Mattison
 
 ## Top 5 Best Free WMV Video Splitters
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
  Windows Movie Maker is a free application that offers various useful video editing functions for windows users. With it, you can manually split video and audio clips into smaller clips to make your clips easier to work with. It supports various video formats like WMV, MP4, MTS, M2T .AVI. MOV and more.
 
@@ -1167,7 +1151,7 @@ Follow @Ollie Mattison
 * Crashes a lot;
 * Has different versions for the same product.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
  Movica is a free open source video editing tool. It supports various formats such as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Movica allows you to split files according to duration’s set, number of pieces, or by size of individual pieces, which meets different splitting requirements.
 
@@ -1182,7 +1166,7 @@ Follow @Ollie Mattison
 
 * Have to install Windows Media Player on your computer.
 
-#### 3\. [HJSplit](http://hjsplit.en.softonic.com/)
+#### 3\. HJSplit
 
  HJSplit is an application that is used to split large movie files into smaller footage in different kinds of formats. The program is available on Windows, Linux and a variety of other platforms. With it, you can easily split your files into parts at any size you want.
 
@@ -1198,7 +1182,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
  Video Toolbox is an online video editing tool which has a rich set of video tools. To use the video editing tools, you have to register (it’s free). The menu on the left lists all the functions. Cutting videos into smaller parts comes in two modes "Simple" and "Advanced". But like many online apps, Video Toolbox imposes a size restriction of 300MB for your video files.
 
@@ -1212,7 +1196,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-#### 5\. [Format Factory](http://www.pcfreetime.com/)
+#### 5\. Format Factory
 
  Format Factory is a not only a featured video and audio converter, but also a good video editor with subset of tools that handle file splitting. To split a video, just select your video file, set the clip range with a start time and end time and then you can start the process immediately.
 
@@ -1255,7 +1239,7 @@ Follow @Ollie Mattison
 
 ## Top 5 Best Free WMV Video Splitters
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
  Windows Movie Maker is a free application that offers various useful video editing functions for windows users. With it, you can manually split video and audio clips into smaller clips to make your clips easier to work with. It supports various video formats like WMV, MP4, MTS, M2T .AVI. MOV and more.
 
@@ -1271,7 +1255,7 @@ Follow @Ollie Mattison
 * Crashes a lot;
 * Has different versions for the same product.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
  Movica is a free open source video editing tool. It supports various formats such as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Movica allows you to split files according to duration’s set, number of pieces, or by size of individual pieces, which meets different splitting requirements.
 
@@ -1286,7 +1270,7 @@ Follow @Ollie Mattison
 
 * Have to install Windows Media Player on your computer.
 
-#### 3\. [HJSplit](http://hjsplit.en.softonic.com/)
+#### 3\. HJSplit
 
  HJSplit is an application that is used to split large movie files into smaller footage in different kinds of formats. The program is available on Windows, Linux and a variety of other platforms. With it, you can easily split your files into parts at any size you want.
 
@@ -1302,7 +1286,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
  Video Toolbox is an online video editing tool which has a rich set of video tools. To use the video editing tools, you have to register (it’s free). The menu on the left lists all the functions. Cutting videos into smaller parts comes in two modes "Simple" and "Advanced". But like many online apps, Video Toolbox imposes a size restriction of 300MB for your video files.
 
@@ -1316,7 +1300,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-#### 5\. [Format Factory](http://www.pcfreetime.com/)
+#### 5\. Format Factory
 
  Format Factory is a not only a featured video and audio converter, but also a good video editor with subset of tools that handle file splitting. To split a video, just select your video file, set the clip range with a start time and end time and then you can start the process immediately.
 

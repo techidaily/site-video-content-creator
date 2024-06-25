@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Free Image Ratio Editor Resize Photos Instantly
-date: 2024-04-29T13:14:17.159Z
-updated: 2024-04-30T13:14:17.159Z
+date: 2024-06-24T10:57:27.951Z
+updated: 2024-06-25T10:57:27.951Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Free Image Ratio Editor Resize Photos Instantly
 excerpt: This Article Describes Updated 2024 Approved Free Image Ratio Editor Resize Photos Instantly
 keywords: how to resize and crop images in fcpx 2023 update,the best free iphone video editing apps for rotation 2023 review,free image ratio editor resize photos instantly,free iphone video editor top rated rotation apps,5 fantastic free online video editors like imovie updated 2023,crop and resize 8 excellent online image ratio editors,best free video rotator apps for iphone 2023 edition
-thumbnail: https://www.lifewire.com/thmb/HkQrnB6Inkx8Rh4KIo-rh5RAck0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/computerkeyboard-5c070d3ec9e77c0001b19701.jpg
+thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9da7986f6cee296d3fed5998.jpg
 ---
 
 ## Free Image Ratio Editor: Resize Photos Instantly
@@ -366,33 +366,31 @@ The videos you record with your phone often don’t last very long, which makes 
 
 The maximum file size a platform lets you upload or the number of supported file formats are among the most important factors you will have to consider before you choose an online video merger. In addition, the platform’s processing ability as well as the export options can have a significant impact on the quality of the video you’ll be able to produce. Here are the five best online video mergers you can use to create your social media videos in 2022.
 
-#### 1. [Merge Video](https://mergevideo.online/)
+#### 1. Merge Video
 
 This video editing platform allows you to do much more than just arrange and merge video clips, because it offers tools that enable you to resize, crop or rotate videos, adjust the colors in the footage you upload to the platform or cut and merge audio files. The process of combining multiple clips with this online tool can be completed in three simple steps, as you just have to upload the files you want to edit either from a hard drive or the cloud, rearrange them by dragging and dropping each video clip to a specific location on the timeline and choosing the format in which the file is going to be exported. You can opt to save the final cut of your video to your computer or to store it on Google Drive or Dropbox.
 
-#### 3. [Aconvert](https://www.aconvert.com/video/merge/)
+#### 3. Aconvert
 
 Even though this website is mostly dedicated to the conversion of different types of files, you can also use it to merge, cut, crop or rotate video files. Aconvert supports nearly all commonly used video file formats, so you can upload and merge mp4, flv, mov or avi files among numerous others. The maximum size of a video clip you can upload to this platform can’t exceed 1GB and you need to make sure that all files you want to merge have the same frame rate and format. Once you click the Submit button, you won’t be able to rearrange your video files, which is why you have to upload video clips in the exact same order in which you want them to appear in the output video. After the merging process is completed, you will be able to save the result on Dropbox, Google Drive or your Smartphone via a QR code.
 
-#### 4. [Kapwing](https://www.kapwing.com/maker/editor)
+#### 4. Kapwing
 
 ![kapwing_1](https://images.wondershare.com/filmora/images/video-effect/kapwing_1.jpg)
 
 The wide range of video editing tools that the Kapwing offers makes it one of the best online video editors. You can use Kapwing to make video montages, crop videos, rotate them or perform any other basic video editing action without even having an account on the platform. In order to start merging the video clips you just have to select the Video Maker option, upload video files from an online source or from your computer and arrange them in any way you want. The platform also lets you choose the aspect ratio of the output video which enables you to create vertical or square videos effortlessly. Simply click on the Create! button when you are ready to export the video, and wait for the new file to be generated. Afterward, you can proceed to download the video to your computer or save it to your iPhone, but keep in mind that all videos you create with the free version of Kapwing are going to be watermarked.
 
-#### 5. [Cellsea](http://www.cellsea.com/free-online-video-editor)
+#### 5. Cellsea
 
 Cellsea is a platform where you can create your own ringtones, edit photos or merge videos for free. Its video editing tools enable you to cut, trim or resize videos, which makes it quite useful in case you want to polish your video before sharing it on social media. To start merging several video clips you just have to upload those files to Cellsea, but unfortunately, you can only upload files that are stored on your computer. When done, you can choose the output format of the video file and save it as mov, mp4, flv 3gp or avi file. The platform lets you download the results to your computer or you can choose to send them to your phone.
 
-#### 6. [FlexClip](https://www.flexclip.com/features/video-merger.html)
+#### 6. FlexClip
 
 Before you can start piecing together your video clips with this online video editing tool, you must first create an account or use your Google and Facebook accounts to sign in. You can then create a new project and once the editing window loads you can start adding video clips to the storyboard. Besides enabling you to upload videos from your computer, FlexClip also offers a rich selection of stock footage you can use in your projects, but you must keep in mind that the platform won’t let you upload videos that are longer than one minute. You can change the position of the video clip by dragging it to a new location in the storyboard and you can also use FlexClip’s music library to add sound to your video. Hit the Export button after you’ve arranged the video clips in the exact same order in which you want them to appear in the video and proceed to pick a 480p, 720p or 1080p output quality.
 
 ### For Better Experience
 
-Try Filmora for a better editing experience. Faster speed, stronger performance, and easier to use!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+Try Filmora for a better editing experience. Faster speed, stronger performance, and easier to use![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Conclusion**
 
@@ -418,33 +416,31 @@ The videos you record with your phone often don’t last very long, which makes 
 
 The maximum file size a platform lets you upload or the number of supported file formats are among the most important factors you will have to consider before you choose an online video merger. In addition, the platform’s processing ability as well as the export options can have a significant impact on the quality of the video you’ll be able to produce. Here are the five best online video mergers you can use to create your social media videos in 2022.
 
-#### 1. [Merge Video](https://mergevideo.online/)
+#### 1. Merge Video
 
 This video editing platform allows you to do much more than just arrange and merge video clips, because it offers tools that enable you to resize, crop or rotate videos, adjust the colors in the footage you upload to the platform or cut and merge audio files. The process of combining multiple clips with this online tool can be completed in three simple steps, as you just have to upload the files you want to edit either from a hard drive or the cloud, rearrange them by dragging and dropping each video clip to a specific location on the timeline and choosing the format in which the file is going to be exported. You can opt to save the final cut of your video to your computer or to store it on Google Drive or Dropbox.
 
-#### 3. [Aconvert](https://www.aconvert.com/video/merge/)
+#### 3. Aconvert
 
 Even though this website is mostly dedicated to the conversion of different types of files, you can also use it to merge, cut, crop or rotate video files. Aconvert supports nearly all commonly used video file formats, so you can upload and merge mp4, flv, mov or avi files among numerous others. The maximum size of a video clip you can upload to this platform can’t exceed 1GB and you need to make sure that all files you want to merge have the same frame rate and format. Once you click the Submit button, you won’t be able to rearrange your video files, which is why you have to upload video clips in the exact same order in which you want them to appear in the output video. After the merging process is completed, you will be able to save the result on Dropbox, Google Drive or your Smartphone via a QR code.
 
-#### 4. [Kapwing](https://www.kapwing.com/maker/editor)
+#### 4. Kapwing
 
 ![kapwing_1](https://images.wondershare.com/filmora/images/video-effect/kapwing_1.jpg)
 
 The wide range of video editing tools that the Kapwing offers makes it one of the best online video editors. You can use Kapwing to make video montages, crop videos, rotate them or perform any other basic video editing action without even having an account on the platform. In order to start merging the video clips you just have to select the Video Maker option, upload video files from an online source or from your computer and arrange them in any way you want. The platform also lets you choose the aspect ratio of the output video which enables you to create vertical or square videos effortlessly. Simply click on the Create! button when you are ready to export the video, and wait for the new file to be generated. Afterward, you can proceed to download the video to your computer or save it to your iPhone, but keep in mind that all videos you create with the free version of Kapwing are going to be watermarked.
 
-#### 5. [Cellsea](http://www.cellsea.com/free-online-video-editor)
+#### 5. Cellsea
 
 Cellsea is a platform where you can create your own ringtones, edit photos or merge videos for free. Its video editing tools enable you to cut, trim or resize videos, which makes it quite useful in case you want to polish your video before sharing it on social media. To start merging several video clips you just have to upload those files to Cellsea, but unfortunately, you can only upload files that are stored on your computer. When done, you can choose the output format of the video file and save it as mov, mp4, flv 3gp or avi file. The platform lets you download the results to your computer or you can choose to send them to your phone.
 
-#### 6. [FlexClip](https://www.flexclip.com/features/video-merger.html)
+#### 6. FlexClip
 
 Before you can start piecing together your video clips with this online video editing tool, you must first create an account or use your Google and Facebook accounts to sign in. You can then create a new project and once the editing window loads you can start adding video clips to the storyboard. Besides enabling you to upload videos from your computer, FlexClip also offers a rich selection of stock footage you can use in your projects, but you must keep in mind that the platform won’t let you upload videos that are longer than one minute. You can change the position of the video clip by dragging it to a new location in the storyboard and you can also use FlexClip’s music library to add sound to your video. Hit the Export button after you’ve arranged the video clips in the exact same order in which you want them to appear in the video and proceed to pick a 480p, 720p or 1080p output quality.
 
 ### For Better Experience
 
-Try Filmora for a better editing experience. Faster speed, stronger performance, and easier to use!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+Try Filmora for a better editing experience. Faster speed, stronger performance, and easier to use![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Conclusion**
 
@@ -470,33 +466,31 @@ The videos you record with your phone often don’t last very long, which makes 
 
 The maximum file size a platform lets you upload or the number of supported file formats are among the most important factors you will have to consider before you choose an online video merger. In addition, the platform’s processing ability as well as the export options can have a significant impact on the quality of the video you’ll be able to produce. Here are the five best online video mergers you can use to create your social media videos in 2022.
 
-#### 1. [Merge Video](https://mergevideo.online/)
+#### 1. Merge Video
 
 This video editing platform allows you to do much more than just arrange and merge video clips, because it offers tools that enable you to resize, crop or rotate videos, adjust the colors in the footage you upload to the platform or cut and merge audio files. The process of combining multiple clips with this online tool can be completed in three simple steps, as you just have to upload the files you want to edit either from a hard drive or the cloud, rearrange them by dragging and dropping each video clip to a specific location on the timeline and choosing the format in which the file is going to be exported. You can opt to save the final cut of your video to your computer or to store it on Google Drive or Dropbox.
 
-#### 3. [Aconvert](https://www.aconvert.com/video/merge/)
+#### 3. Aconvert
 
 Even though this website is mostly dedicated to the conversion of different types of files, you can also use it to merge, cut, crop or rotate video files. Aconvert supports nearly all commonly used video file formats, so you can upload and merge mp4, flv, mov or avi files among numerous others. The maximum size of a video clip you can upload to this platform can’t exceed 1GB and you need to make sure that all files you want to merge have the same frame rate and format. Once you click the Submit button, you won’t be able to rearrange your video files, which is why you have to upload video clips in the exact same order in which you want them to appear in the output video. After the merging process is completed, you will be able to save the result on Dropbox, Google Drive or your Smartphone via a QR code.
 
-#### 4. [Kapwing](https://www.kapwing.com/maker/editor)
+#### 4. Kapwing
 
 ![kapwing_1](https://images.wondershare.com/filmora/images/video-effect/kapwing_1.jpg)
 
 The wide range of video editing tools that the Kapwing offers makes it one of the best online video editors. You can use Kapwing to make video montages, crop videos, rotate them or perform any other basic video editing action without even having an account on the platform. In order to start merging the video clips you just have to select the Video Maker option, upload video files from an online source or from your computer and arrange them in any way you want. The platform also lets you choose the aspect ratio of the output video which enables you to create vertical or square videos effortlessly. Simply click on the Create! button when you are ready to export the video, and wait for the new file to be generated. Afterward, you can proceed to download the video to your computer or save it to your iPhone, but keep in mind that all videos you create with the free version of Kapwing are going to be watermarked.
 
-#### 5. [Cellsea](http://www.cellsea.com/free-online-video-editor)
+#### 5. Cellsea
 
 Cellsea is a platform where you can create your own ringtones, edit photos or merge videos for free. Its video editing tools enable you to cut, trim or resize videos, which makes it quite useful in case you want to polish your video before sharing it on social media. To start merging several video clips you just have to upload those files to Cellsea, but unfortunately, you can only upload files that are stored on your computer. When done, you can choose the output format of the video file and save it as mov, mp4, flv 3gp or avi file. The platform lets you download the results to your computer or you can choose to send them to your phone.
 
-#### 6. [FlexClip](https://www.flexclip.com/features/video-merger.html)
+#### 6. FlexClip
 
 Before you can start piecing together your video clips with this online video editing tool, you must first create an account or use your Google and Facebook accounts to sign in. You can then create a new project and once the editing window loads you can start adding video clips to the storyboard. Besides enabling you to upload videos from your computer, FlexClip also offers a rich selection of stock footage you can use in your projects, but you must keep in mind that the platform won’t let you upload videos that are longer than one minute. You can change the position of the video clip by dragging it to a new location in the storyboard and you can also use FlexClip’s music library to add sound to your video. Hit the Export button after you’ve arranged the video clips in the exact same order in which you want them to appear in the video and proceed to pick a 480p, 720p or 1080p output quality.
 
 ### For Better Experience
 
-Try Filmora for a better editing experience. Faster speed, stronger performance, and easier to use!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+Try Filmora for a better editing experience. Faster speed, stronger performance, and easier to use![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Conclusion**
 
@@ -522,33 +516,31 @@ The videos you record with your phone often don’t last very long, which makes 
 
 The maximum file size a platform lets you upload or the number of supported file formats are among the most important factors you will have to consider before you choose an online video merger. In addition, the platform’s processing ability as well as the export options can have a significant impact on the quality of the video you’ll be able to produce. Here are the five best online video mergers you can use to create your social media videos in 2022.
 
-#### 1. [Merge Video](https://mergevideo.online/)
+#### 1. Merge Video
 
 This video editing platform allows you to do much more than just arrange and merge video clips, because it offers tools that enable you to resize, crop or rotate videos, adjust the colors in the footage you upload to the platform or cut and merge audio files. The process of combining multiple clips with this online tool can be completed in three simple steps, as you just have to upload the files you want to edit either from a hard drive or the cloud, rearrange them by dragging and dropping each video clip to a specific location on the timeline and choosing the format in which the file is going to be exported. You can opt to save the final cut of your video to your computer or to store it on Google Drive or Dropbox.
 
-#### 3. [Aconvert](https://www.aconvert.com/video/merge/)
+#### 3. Aconvert
 
 Even though this website is mostly dedicated to the conversion of different types of files, you can also use it to merge, cut, crop or rotate video files. Aconvert supports nearly all commonly used video file formats, so you can upload and merge mp4, flv, mov or avi files among numerous others. The maximum size of a video clip you can upload to this platform can’t exceed 1GB and you need to make sure that all files you want to merge have the same frame rate and format. Once you click the Submit button, you won’t be able to rearrange your video files, which is why you have to upload video clips in the exact same order in which you want them to appear in the output video. After the merging process is completed, you will be able to save the result on Dropbox, Google Drive or your Smartphone via a QR code.
 
-#### 4. [Kapwing](https://www.kapwing.com/maker/editor)
+#### 4. Kapwing
 
 ![kapwing_1](https://images.wondershare.com/filmora/images/video-effect/kapwing_1.jpg)
 
 The wide range of video editing tools that the Kapwing offers makes it one of the best online video editors. You can use Kapwing to make video montages, crop videos, rotate them or perform any other basic video editing action without even having an account on the platform. In order to start merging the video clips you just have to select the Video Maker option, upload video files from an online source or from your computer and arrange them in any way you want. The platform also lets you choose the aspect ratio of the output video which enables you to create vertical or square videos effortlessly. Simply click on the Create! button when you are ready to export the video, and wait for the new file to be generated. Afterward, you can proceed to download the video to your computer or save it to your iPhone, but keep in mind that all videos you create with the free version of Kapwing are going to be watermarked.
 
-#### 5. [Cellsea](http://www.cellsea.com/free-online-video-editor)
+#### 5. Cellsea
 
 Cellsea is a platform where you can create your own ringtones, edit photos or merge videos for free. Its video editing tools enable you to cut, trim or resize videos, which makes it quite useful in case you want to polish your video before sharing it on social media. To start merging several video clips you just have to upload those files to Cellsea, but unfortunately, you can only upload files that are stored on your computer. When done, you can choose the output format of the video file and save it as mov, mp4, flv 3gp or avi file. The platform lets you download the results to your computer or you can choose to send them to your phone.
 
-#### 6. [FlexClip](https://www.flexclip.com/features/video-merger.html)
+#### 6. FlexClip
 
 Before you can start piecing together your video clips with this online video editing tool, you must first create an account or use your Google and Facebook accounts to sign in. You can then create a new project and once the editing window loads you can start adding video clips to the storyboard. Besides enabling you to upload videos from your computer, FlexClip also offers a rich selection of stock footage you can use in your projects, but you must keep in mind that the platform won’t let you upload videos that are longer than one minute. You can change the position of the video clip by dragging it to a new location in the storyboard and you can also use FlexClip’s music library to add sound to your video. Hit the Export button after you’ve arranged the video clips in the exact same order in which you want them to appear in the video and proceed to pick a 480p, 720p or 1080p output quality.
 
 ### For Better Experience
 
-Try Filmora for a better editing experience. Faster speed, stronger performance, and easier to use!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+Try Filmora for a better editing experience. Faster speed, stronger performance, and easier to use![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Conclusion**
 
@@ -590,7 +582,7 @@ It is the most versatile audio format that is compatible with almost all devices
 
 01 [Basic Knowledge About the WAV Format](#Part 1)
 
-02 [The Best 6 Fast and Easy WAV Converter Online Free ](#Part 2)
+02 [The Best 6 Fast and Easy WAV Converter Online Free](#Part 2)
 
 03 [5 Quick Ways to Convert MP4 to WAV Audio Files Online and Offline](#Part 3)
 
@@ -706,7 +698,7 @@ It is the most versatile audio format that is compatible with almost all devices
 
 01 [Basic Knowledge About the WAV Format](#Part 1)
 
-02 [The Best 6 Fast and Easy WAV Converter Online Free ](#Part 2)
+02 [The Best 6 Fast and Easy WAV Converter Online Free](#Part 2)
 
 03 [5 Quick Ways to Convert MP4 to WAV Audio Files Online and Offline](#Part 3)
 
@@ -822,7 +814,7 @@ It is the most versatile audio format that is compatible with almost all devices
 
 01 [Basic Knowledge About the WAV Format](#Part 1)
 
-02 [The Best 6 Fast and Easy WAV Converter Online Free ](#Part 2)
+02 [The Best 6 Fast and Easy WAV Converter Online Free](#Part 2)
 
 03 [5 Quick Ways to Convert MP4 to WAV Audio Files Online and Offline](#Part 3)
 
@@ -938,7 +930,7 @@ It is the most versatile audio format that is compatible with almost all devices
 
 01 [Basic Knowledge About the WAV Format](#Part 1)
 
-02 [The Best 6 Fast and Easy WAV Converter Online Free ](#Part 2)
+02 [The Best 6 Fast and Easy WAV Converter Online Free](#Part 2)
 
 03 [5 Quick Ways to Convert MP4 to WAV Audio Files Online and Offline](#Part 3)
 
@@ -1086,7 +1078,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -1114,13 +1106,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -1171,7 +1163,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -1199,13 +1191,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -1256,7 +1248,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -1284,13 +1276,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -1341,7 +1333,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -1369,13 +1361,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.

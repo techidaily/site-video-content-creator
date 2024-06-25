@@ -1,7 +1,7 @@
 ---
 title: New Get Steady A Comprehensive Guide to the Best Free Online Video Stabilizers for 2024
-date: 2024-04-29T13:16:36.321Z
-updated: 2024-04-30T13:16:36.321Z
+date: 2024-06-24T10:57:28.024Z
+updated: 2024-06-25T10:57:28.024Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Get Steady A Comprehensive Guide to the Best Free Online Video Stabilizers for 2024
 excerpt: This Article Describes New Get Steady A Comprehensive Guide to the Best Free Online Video Stabilizers for 2024
 keywords: the best free online video editors a comprehensive guide,get steady shots for free the best online video stabilizers,steady your shot the best free online video stabilizers,steady shots the best free online video stabilizers reviewed,steady shots ahead the best free online video stabilizers,get steady the best free video stabilizer apps for android phones,get steady a comprehensive guide to the best free online video stabilizers
-thumbnail: https://www.lifewire.com/thmb/p0ylhoIohfzUUD_zptkk_cS1LaE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zenbook-17-fold-oled-72de5601b7334834a2962b7a8c7b4e9b-16fb2ba97f414911a71ffd37c82c541e.png
+thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32ba37267dd79e6e802f121e2.png
 ---
 
 ## Get Steady: A Comprehensive Guide to the Best Free Online Video Stabilizers
@@ -53,7 +53,7 @@ Even though fixing shaky footage is possible, you shouldn't expect miracles beca
 
 Let's have a look at how you can stabilize your videos with these free online video stabilizers.
 
-#### 1. [EZGIF Online Video Stabilizer](https://ezgif.com/video-stabilizer)
+#### 1. EZGIF Online Video Stabilizer
 
 ![video stabilization online](https://images.wondershare.com/filmora/article-images/ezgif.jpg)
 
@@ -81,7 +81,7 @@ To make things even better, the platform supports all common file formats such a
 
 **Step 3:** Click on the Download Result button after the platform finishes stabilizing your video. You can choose the destination on your hard drive where the video file is going to be stored.
 
-#### 3. [YouTube Video Editor](https://www.youtube.com/)
+#### 3. YouTube Video Editor
 
 The world's largest video sharing platform also offers basic video editing options to its users. In order to access the YouTube's video editor, you must first create an account so you can upload your videos to the platform. You can upload virtually any file format because YouTube supports a wide range of video file formats.
 
@@ -93,7 +93,7 @@ The only downside is that the platform doesn't allow you to download a video you
 
 **Step 3:** In the Enhancements tab, you'll be able to see the Stabilize icon. Click on it to start the video stabilization process, and once the process is complete, you can copy the video's URL and share it on social media or send it to your friends.
 
-#### 4. [Online Converter](https://www.onlineconverter.com/stabilize-video)
+#### 4. Online Converter
 
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/09/online-converter.png)
 
@@ -113,7 +113,7 @@ Here’s how you can use Online Converter to stabilize videos:
 
 **Step 4:** Once the stabilization process is complete, you can click the “Download Now” button to save the video on your PC.
 
-#### 5\. [Online Video Stabilizer by 123 Apps](https://online-video-cutter.com/stabilize-video)
+#### 5\. Online Video Stabilizer by 123 Apps
 
 ![video stabilizer 123 apps](https://images.wondershare.com/filmora/article-images/2022/09/video-stabilizer-123-apps.png)
 
@@ -140,7 +140,7 @@ You can follow these steps to stabilize your shaky video without paying a cent:
 
 **Step 4:**  Click the “Save” button to export your video to your Mac or Windows OS.
 
-#### 6. [MP4Compress](https://www.mp4compress.com/stabilize-shaky-video-footage/)
+#### 6. MP4Compress
 
 ![mp4compress](https://images.wondershare.com/filmora/article-images/2022/09/mp4compress.png)
 
@@ -156,7 +156,7 @@ So, if you have a video in other video formats, you will need to convert it into
 
 **Step 3:**  Once this tool corrects the shaky video, save it on your computer.
 
-#### 7. [Stabilizo](https://www.stabilizo.com/)
+#### 7. Stabilizo
 
 ![stabilizo](https://images.wondershare.com/filmora/article-images/2022/09/stabilizo.png)
 
@@ -172,7 +172,7 @@ This is how the tool works:
 
 **Step 3:** Once it’s completed, click the “Download File” button to save the video on your computer.
 
-#### 8. [VideoUtils](https://www.stabilizo.com/)
+#### 8. VideoUtils
 
 ![videoutils](https://images.wondershare.com/filmora/article-images/2022/09/videoutils.png)
 
@@ -223,7 +223,7 @@ Even though fixing shaky footage is possible, you shouldn't expect miracles beca
 
 Let's have a look at how you can stabilize your videos with these free online video stabilizers.
 
-#### 1. [EZGIF Online Video Stabilizer](https://ezgif.com/video-stabilizer)
+#### 1. EZGIF Online Video Stabilizer
 
 ![video stabilization online](https://images.wondershare.com/filmora/article-images/ezgif.jpg)
 
@@ -251,7 +251,7 @@ To make things even better, the platform supports all common file formats such a
 
 **Step 3:** Click on the Download Result button after the platform finishes stabilizing your video. You can choose the destination on your hard drive where the video file is going to be stored.
 
-#### 3. [YouTube Video Editor](https://www.youtube.com/)
+#### 3. YouTube Video Editor
 
 The world's largest video sharing platform also offers basic video editing options to its users. In order to access the YouTube's video editor, you must first create an account so you can upload your videos to the platform. You can upload virtually any file format because YouTube supports a wide range of video file formats.
 
@@ -263,7 +263,7 @@ The only downside is that the platform doesn't allow you to download a video you
 
 **Step 3:** In the Enhancements tab, you'll be able to see the Stabilize icon. Click on it to start the video stabilization process, and once the process is complete, you can copy the video's URL and share it on social media or send it to your friends.
 
-#### 4. [Online Converter](https://www.onlineconverter.com/stabilize-video)
+#### 4. Online Converter
 
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/09/online-converter.png)
 
@@ -283,7 +283,7 @@ Here’s how you can use Online Converter to stabilize videos:
 
 **Step 4:** Once the stabilization process is complete, you can click the “Download Now” button to save the video on your PC.
 
-#### 5\. [Online Video Stabilizer by 123 Apps](https://online-video-cutter.com/stabilize-video)
+#### 5\. Online Video Stabilizer by 123 Apps
 
 ![video stabilizer 123 apps](https://images.wondershare.com/filmora/article-images/2022/09/video-stabilizer-123-apps.png)
 
@@ -310,7 +310,7 @@ You can follow these steps to stabilize your shaky video without paying a cent:
 
 **Step 4:**  Click the “Save” button to export your video to your Mac or Windows OS.
 
-#### 6. [MP4Compress](https://www.mp4compress.com/stabilize-shaky-video-footage/)
+#### 6. MP4Compress
 
 ![mp4compress](https://images.wondershare.com/filmora/article-images/2022/09/mp4compress.png)
 
@@ -326,7 +326,7 @@ So, if you have a video in other video formats, you will need to convert it into
 
 **Step 3:**  Once this tool corrects the shaky video, save it on your computer.
 
-#### 7. [Stabilizo](https://www.stabilizo.com/)
+#### 7. Stabilizo
 
 ![stabilizo](https://images.wondershare.com/filmora/article-images/2022/09/stabilizo.png)
 
@@ -342,7 +342,7 @@ This is how the tool works:
 
 **Step 3:** Once it’s completed, click the “Download File” button to save the video on your computer.
 
-#### 8. [VideoUtils](https://www.stabilizo.com/)
+#### 8. VideoUtils
 
 ![videoutils](https://images.wondershare.com/filmora/article-images/2022/09/videoutils.png)
 
@@ -393,7 +393,7 @@ Even though fixing shaky footage is possible, you shouldn't expect miracles beca
 
 Let's have a look at how you can stabilize your videos with these free online video stabilizers.
 
-#### 1. [EZGIF Online Video Stabilizer](https://ezgif.com/video-stabilizer)
+#### 1. EZGIF Online Video Stabilizer
 
 ![video stabilization online](https://images.wondershare.com/filmora/article-images/ezgif.jpg)
 
@@ -421,7 +421,7 @@ To make things even better, the platform supports all common file formats such a
 
 **Step 3:** Click on the Download Result button after the platform finishes stabilizing your video. You can choose the destination on your hard drive where the video file is going to be stored.
 
-#### 3. [YouTube Video Editor](https://www.youtube.com/)
+#### 3. YouTube Video Editor
 
 The world's largest video sharing platform also offers basic video editing options to its users. In order to access the YouTube's video editor, you must first create an account so you can upload your videos to the platform. You can upload virtually any file format because YouTube supports a wide range of video file formats.
 
@@ -433,7 +433,7 @@ The only downside is that the platform doesn't allow you to download a video you
 
 **Step 3:** In the Enhancements tab, you'll be able to see the Stabilize icon. Click on it to start the video stabilization process, and once the process is complete, you can copy the video's URL and share it on social media or send it to your friends.
 
-#### 4. [Online Converter](https://www.onlineconverter.com/stabilize-video)
+#### 4. Online Converter
 
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/09/online-converter.png)
 
@@ -453,7 +453,7 @@ Here’s how you can use Online Converter to stabilize videos:
 
 **Step 4:** Once the stabilization process is complete, you can click the “Download Now” button to save the video on your PC.
 
-#### 5\. [Online Video Stabilizer by 123 Apps](https://online-video-cutter.com/stabilize-video)
+#### 5\. Online Video Stabilizer by 123 Apps
 
 ![video stabilizer 123 apps](https://images.wondershare.com/filmora/article-images/2022/09/video-stabilizer-123-apps.png)
 
@@ -480,7 +480,7 @@ You can follow these steps to stabilize your shaky video without paying a cent:
 
 **Step 4:**  Click the “Save” button to export your video to your Mac or Windows OS.
 
-#### 6. [MP4Compress](https://www.mp4compress.com/stabilize-shaky-video-footage/)
+#### 6. MP4Compress
 
 ![mp4compress](https://images.wondershare.com/filmora/article-images/2022/09/mp4compress.png)
 
@@ -496,7 +496,7 @@ So, if you have a video in other video formats, you will need to convert it into
 
 **Step 3:**  Once this tool corrects the shaky video, save it on your computer.
 
-#### 7. [Stabilizo](https://www.stabilizo.com/)
+#### 7. Stabilizo
 
 ![stabilizo](https://images.wondershare.com/filmora/article-images/2022/09/stabilizo.png)
 
@@ -512,7 +512,7 @@ This is how the tool works:
 
 **Step 3:** Once it’s completed, click the “Download File” button to save the video on your computer.
 
-#### 8. [VideoUtils](https://www.stabilizo.com/)
+#### 8. VideoUtils
 
 ![videoutils](https://images.wondershare.com/filmora/article-images/2022/09/videoutils.png)
 
@@ -563,7 +563,7 @@ Even though fixing shaky footage is possible, you shouldn't expect miracles beca
 
 Let's have a look at how you can stabilize your videos with these free online video stabilizers.
 
-#### 1. [EZGIF Online Video Stabilizer](https://ezgif.com/video-stabilizer)
+#### 1. EZGIF Online Video Stabilizer
 
 ![video stabilization online](https://images.wondershare.com/filmora/article-images/ezgif.jpg)
 
@@ -591,7 +591,7 @@ To make things even better, the platform supports all common file formats such a
 
 **Step 3:** Click on the Download Result button after the platform finishes stabilizing your video. You can choose the destination on your hard drive where the video file is going to be stored.
 
-#### 3. [YouTube Video Editor](https://www.youtube.com/)
+#### 3. YouTube Video Editor
 
 The world's largest video sharing platform also offers basic video editing options to its users. In order to access the YouTube's video editor, you must first create an account so you can upload your videos to the platform. You can upload virtually any file format because YouTube supports a wide range of video file formats.
 
@@ -603,7 +603,7 @@ The only downside is that the platform doesn't allow you to download a video you
 
 **Step 3:** In the Enhancements tab, you'll be able to see the Stabilize icon. Click on it to start the video stabilization process, and once the process is complete, you can copy the video's URL and share it on social media or send it to your friends.
 
-#### 4. [Online Converter](https://www.onlineconverter.com/stabilize-video)
+#### 4. Online Converter
 
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/09/online-converter.png)
 
@@ -623,7 +623,7 @@ Here’s how you can use Online Converter to stabilize videos:
 
 **Step 4:** Once the stabilization process is complete, you can click the “Download Now” button to save the video on your PC.
 
-#### 5\. [Online Video Stabilizer by 123 Apps](https://online-video-cutter.com/stabilize-video)
+#### 5\. Online Video Stabilizer by 123 Apps
 
 ![video stabilizer 123 apps](https://images.wondershare.com/filmora/article-images/2022/09/video-stabilizer-123-apps.png)
 
@@ -650,7 +650,7 @@ You can follow these steps to stabilize your shaky video without paying a cent:
 
 **Step 4:**  Click the “Save” button to export your video to your Mac or Windows OS.
 
-#### 6. [MP4Compress](https://www.mp4compress.com/stabilize-shaky-video-footage/)
+#### 6. MP4Compress
 
 ![mp4compress](https://images.wondershare.com/filmora/article-images/2022/09/mp4compress.png)
 
@@ -666,7 +666,7 @@ So, if you have a video in other video formats, you will need to convert it into
 
 **Step 3:**  Once this tool corrects the shaky video, save it on your computer.
 
-#### 7. [Stabilizo](https://www.stabilizo.com/)
+#### 7. Stabilizo
 
 ![stabilizo](https://images.wondershare.com/filmora/article-images/2022/09/stabilizo.png)
 
@@ -682,7 +682,7 @@ This is how the tool works:
 
 **Step 3:** Once it’s completed, click the “Download File” button to save the video on your computer.
 
-#### 8. [VideoUtils](https://www.stabilizo.com/)
+#### 8. VideoUtils
 
 ![videoutils](https://images.wondershare.com/filmora/article-images/2022/09/videoutils.png)
 
@@ -1352,9 +1352,7 @@ You need a converter or a video editor to change the aspect ratio permanently. H
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora-video-editor](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -1514,9 +1512,7 @@ You need a converter or a video editor to change the aspect ratio permanently. H
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora-video-editor](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -1676,9 +1672,7 @@ You need a converter or a video editor to change the aspect ratio permanently. H
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora-video-editor](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -1838,9 +1832,7 @@ You need a converter or a video editor to change the aspect ratio permanently. H
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora-video-editor](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -1952,11 +1944,11 @@ Even so, 8K video files can be edited with some [powerful video editing software
 
 Editing the footage recorded in 8K resolution at the professional level requires much more than a versatile video editing app. A computer’s processing power, having sufficient storage space, and a monitor that can display 8K videos accurately are all factors that can simplify and facilitate the video editing process. So let’s that a look at some of the **best 8K video editing apps** film and TV industry professionals can use to process the footage captured in 8K resolution.
 
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) \- for 4K video editing
+#### 1\. Wondershare Filmora
 
 It doesn't support 8k video yet, but mostly for 4K video editing, it's your best choice. The latest version of Filmora [video editor](https://tools.techidaily.com/wondershare/filmora/download/) is the stripped back, simpler option for video editors who do not want the complexity, advanced features and extra cost of the professional video editing software. It features an interface that has been created for ease of use, but there is also the option to select between Expert or Quick editing modes, depending upon your skill level and needs.
 
-![ Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
+![Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
 
 Cool effects include the particularly interesting Hollywood style effects, sound effects and stunning templates. Other interesting and new features include the [Green Screen](https://tools.techidaily.com/wondershare/filmora/download/) and Scene Detection options. The software can also automatically fix the footage with lighting or color issues which can result in a much more polished end result.
 
@@ -2030,11 +2022,11 @@ Even so, 8K video files can be edited with some [powerful video editing software
 
 Editing the footage recorded in 8K resolution at the professional level requires much more than a versatile video editing app. A computer’s processing power, having sufficient storage space, and a monitor that can display 8K videos accurately are all factors that can simplify and facilitate the video editing process. So let’s that a look at some of the **best 8K video editing apps** film and TV industry professionals can use to process the footage captured in 8K resolution.
 
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) \- for 4K video editing
+#### 1\. Wondershare Filmora
 
 It doesn't support 8k video yet, but mostly for 4K video editing, it's your best choice. The latest version of Filmora [video editor](https://tools.techidaily.com/wondershare/filmora/download/) is the stripped back, simpler option for video editors who do not want the complexity, advanced features and extra cost of the professional video editing software. It features an interface that has been created for ease of use, but there is also the option to select between Expert or Quick editing modes, depending upon your skill level and needs.
 
-![ Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
+![Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
 
 Cool effects include the particularly interesting Hollywood style effects, sound effects and stunning templates. Other interesting and new features include the [Green Screen](https://tools.techidaily.com/wondershare/filmora/download/) and Scene Detection options. The software can also automatically fix the footage with lighting or color issues which can result in a much more polished end result.
 
@@ -2108,11 +2100,11 @@ Even so, 8K video files can be edited with some [powerful video editing software
 
 Editing the footage recorded in 8K resolution at the professional level requires much more than a versatile video editing app. A computer’s processing power, having sufficient storage space, and a monitor that can display 8K videos accurately are all factors that can simplify and facilitate the video editing process. So let’s that a look at some of the **best 8K video editing apps** film and TV industry professionals can use to process the footage captured in 8K resolution.
 
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) \- for 4K video editing
+#### 1\. Wondershare Filmora
 
 It doesn't support 8k video yet, but mostly for 4K video editing, it's your best choice. The latest version of Filmora [video editor](https://tools.techidaily.com/wondershare/filmora/download/) is the stripped back, simpler option for video editors who do not want the complexity, advanced features and extra cost of the professional video editing software. It features an interface that has been created for ease of use, but there is also the option to select between Expert or Quick editing modes, depending upon your skill level and needs.
 
-![ Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
+![Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
 
 Cool effects include the particularly interesting Hollywood style effects, sound effects and stunning templates. Other interesting and new features include the [Green Screen](https://tools.techidaily.com/wondershare/filmora/download/) and Scene Detection options. The software can also automatically fix the footage with lighting or color issues which can result in a much more polished end result.
 
@@ -2186,11 +2178,11 @@ Even so, 8K video files can be edited with some [powerful video editing software
 
 Editing the footage recorded in 8K resolution at the professional level requires much more than a versatile video editing app. A computer’s processing power, having sufficient storage space, and a monitor that can display 8K videos accurately are all factors that can simplify and facilitate the video editing process. So let’s that a look at some of the **best 8K video editing apps** film and TV industry professionals can use to process the footage captured in 8K resolution.
 
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) \- for 4K video editing
+#### 1\. Wondershare Filmora
 
 It doesn't support 8k video yet, but mostly for 4K video editing, it's your best choice. The latest version of Filmora [video editor](https://tools.techidaily.com/wondershare/filmora/download/) is the stripped back, simpler option for video editors who do not want the complexity, advanced features and extra cost of the professional video editing software. It features an interface that has been created for ease of use, but there is also the option to select between Expert or Quick editing modes, depending upon your skill level and needs.
 
-![ Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
+![Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
 
 Cool effects include the particularly interesting Hollywood style effects, sound effects and stunning templates. Other interesting and new features include the [Green Screen](https://tools.techidaily.com/wondershare/filmora/download/) and Scene Detection options. The software can also automatically fix the footage with lighting or color issues which can result in a much more polished end result.
 

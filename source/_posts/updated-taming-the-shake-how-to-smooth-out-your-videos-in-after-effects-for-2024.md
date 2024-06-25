@@ -1,7 +1,7 @@
 ---
 title: Updated Taming the Shake How to Smooth Out Your Videos in After Effects for 2024
-date: 2024-04-29T13:24:29.428Z
-updated: 2024-04-30T13:24:29.428Z
+date: 2024-06-24T10:56:54.082Z
+updated: 2024-06-25T10:56:54.082Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Taming the Shake How to Smooth Out Your Videos in After Effects for 2024
 excerpt: This Article Describes Updated Taming the Shake How to Smooth Out Your Videos in After Effects for 2024
 keywords: fixing the shake essential techniques for smoother videos in ae,premiere pro or after effects choosing the right tool for your video project,shake it off how to stabilize video in after effects with ease,take your videos to the next level adding effects in fcp x 3 steps,elevate your video storytelling add slow motion effects without breaking the bank,premiere or after effects choosing the right tool for your video project,taming the shake how to smooth out your videos in after effects
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## Taming the Shake: How to Smooth Out Your Videos in After Effects
@@ -88,7 +88,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -98,7 +98,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -108,7 +108,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -126,9 +126,7 @@ ReelSteady's sole flaw is its high price ($399). ReelSteady is not available in 
 
 Shaky video footage would be the last thing any video creator wants unless it's done intentionally for artistic or creative reasons. As a result, they employ methods and equipment to keep the camera safe from any undesired movement.
 
-However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Video content is becoming increasingly popular; with the proliferation of online content, practically every product now needs its mini-documentary or video clip. Experienced filmmakers and VFX artists used to be the only ones who could get smooth footage. Those days, however, are over.
 
@@ -196,7 +194,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -206,7 +204,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -216,7 +214,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -234,9 +232,7 @@ ReelSteady's sole flaw is its high price ($399). ReelSteady is not available in 
 
 Shaky video footage would be the last thing any video creator wants unless it's done intentionally for artistic or creative reasons. As a result, they employ methods and equipment to keep the camera safe from any undesired movement.
 
-However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Video content is becoming increasingly popular; with the proliferation of online content, practically every product now needs its mini-documentary or video clip. Experienced filmmakers and VFX artists used to be the only ones who could get smooth footage. Those days, however, are over.
 
@@ -304,7 +300,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -314,7 +310,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -324,7 +320,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -342,9 +338,7 @@ ReelSteady's sole flaw is its high price ($399). ReelSteady is not available in 
 
 Shaky video footage would be the last thing any video creator wants unless it's done intentionally for artistic or creative reasons. As a result, they employ methods and equipment to keep the camera safe from any undesired movement.
 
-However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Video content is becoming increasingly popular; with the proliferation of online content, practically every product now needs its mini-documentary or video clip. Experienced filmmakers and VFX artists used to be the only ones who could get smooth footage. Those days, however, are over.
 
@@ -412,7 +406,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -422,7 +416,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -432,7 +426,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -508,9 +502,7 @@ When everything is done, hit the “Create” button, you'll see several options
 
 ![easy movie makers](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
 
-Now download this easy movie maker and start making your own movies!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Now download this easy movie maker and start making your own movies![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -556,9 +548,7 @@ When everything is done, hit the “Create” button, you'll see several options
 
 ![easy movie makers](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
 
-Now download this easy movie maker and start making your own movies!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Now download this easy movie maker and start making your own movies![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -604,9 +594,7 @@ When everything is done, hit the “Create” button, you'll see several options
 
 ![easy movie makers](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
 
-Now download this easy movie maker and start making your own movies!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Now download this easy movie maker and start making your own movies![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -652,9 +640,7 @@ When everything is done, hit the “Create” button, you'll see several options
 
 ![easy movie makers](https://images.wondershare.com/filmora/article-images/filmora9-export-options.jpg)
 
-Now download this easy movie maker and start making your own movies!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Now download this easy movie maker and start making your own movies![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -836,7 +822,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -1038,7 +1024,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -1240,7 +1226,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -1442,7 +1428,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -1496,7 +1482,9 @@ This is a simple tool used for video editing. Its simple features make it less c
 
 ## From Mouth to Manuscript: Speech-to-Text Solutions
 
-### ![icon note](https://images.wondershare.com/assets/images-common/icon-note.png) Latest [Speech-to-Text](https://tools.techidaily.com/wondershare/filmora/download/) Feature For 2024 with Filmora
+### icon note
+
+![icon note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 1\. Supports direct transcription of bilingual subtitles up to 27 languages.
 
