@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to Creating a Ken Burns Effect in Software
-date: 2024-05-19T14:41:40.161Z
-updated: 2024-05-20T14:41:40.161Z
+date: 2024-07-03T13:47:09.087Z
+updated: 2024-07-04T13:47:09.087Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Ultimate Guide to Creating a Ken Burns Effect in Software
 excerpt: This Article Describes Updated The Ultimate Guide to Creating a Ken Burns Effect in Software
 keywords: the ultimate guide to avchd video editing software,the ultimate guide to creating stunning motion blur effects in fcp,the ultimate guide to cheap film editing software,the ultimate guide to hd video editing software,the ultimate guide to animation creation top software,create cinematic videos the ultimate ken burns effect guide,the ultimate guide to creating a ken burns effect in software
-thumbnail: https://www.lifewire.com/thmb/j6BDiuyaUokwtXDLEnyA5LApr9c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4062264-InCar6-1500-5b803f8ec9e77c0025d3f4de.jpg
+thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557e8c99c8c7fa75aee528315d.jpg
 ---
 
 ## The Ultimate Guide to Creating a Ken Burns Effect in [Software]
@@ -40,13 +40,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -60,7 +60,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -72,7 +72,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -82,13 +82,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -100,7 +100,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -171,13 +171,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -191,7 +191,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -203,7 +203,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -213,13 +213,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -231,7 +231,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -302,13 +302,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -322,7 +322,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -334,7 +334,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -344,13 +344,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -362,7 +362,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -433,13 +433,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -453,7 +453,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -465,7 +465,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -475,13 +475,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -493,7 +493,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -597,7 +597,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -609,17 +609,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -627,15 +627,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -688,7 +688,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -700,17 +700,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -718,15 +718,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -779,7 +779,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -791,17 +791,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -809,15 +809,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -870,7 +870,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -882,17 +882,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -900,15 +900,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1084,7 +1084,7 @@ The software allows almost all types of files for conversion
 
 **A YouTube tutorial about the audio conversion software:**
 
-### 06**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 06** Wondershare Filmora Video Editor
 
 What's one thing that everyone looks for while choosing a software or while making life choices in general? Comfort We all wish to use the software we're comfortable or for that matter, we always make choices based on comfort. Are you someone who prefers comfort too? Well then, wondershare Filmora Pro is the right conversion software for you. The software has a plethora of other features which make it a one stop shop for all your audio and video needs. Why take the trouble of downloading multiple softwares for conversion, editing and sharing when you can do it all using Filmora Pro The software offers lossless conversion and a highly user friendly interface
 
@@ -1388,7 +1388,7 @@ The software allows almost all types of files for conversion
 
 **A YouTube tutorial about the audio conversion software:**
 
-### 06**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 06** Wondershare Filmora Video Editor
 
 What's one thing that everyone looks for while choosing a software or while making life choices in general? Comfort We all wish to use the software we're comfortable or for that matter, we always make choices based on comfort. Are you someone who prefers comfort too? Well then, wondershare Filmora Pro is the right conversion software for you. The software has a plethora of other features which make it a one stop shop for all your audio and video needs. Why take the trouble of downloading multiple softwares for conversion, editing and sharing when you can do it all using Filmora Pro The software offers lossless conversion and a highly user friendly interface
 
@@ -1692,7 +1692,7 @@ The software allows almost all types of files for conversion
 
 **A YouTube tutorial about the audio conversion software:**
 
-### 06**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 06** Wondershare Filmora Video Editor
 
 What's one thing that everyone looks for while choosing a software or while making life choices in general? Comfort We all wish to use the software we're comfortable or for that matter, we always make choices based on comfort. Are you someone who prefers comfort too? Well then, wondershare Filmora Pro is the right conversion software for you. The software has a plethora of other features which make it a one stop shop for all your audio and video needs. Why take the trouble of downloading multiple softwares for conversion, editing and sharing when you can do it all using Filmora Pro The software offers lossless conversion and a highly user friendly interface
 
@@ -1996,7 +1996,7 @@ The software allows almost all types of files for conversion
 
 **A YouTube tutorial about the audio conversion software:**
 
-### 06**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 06** Wondershare Filmora Video Editor
 
 What's one thing that everyone looks for while choosing a software or while making life choices in general? Comfort We all wish to use the software we're comfortable or for that matter, we always make choices based on comfort. Are you someone who prefers comfort too? Well then, wondershare Filmora Pro is the right conversion software for you. The software has a plethora of other features which make it a one stop shop for all your audio and video needs. Why take the trouble of downloading multiple softwares for conversion, editing and sharing when you can do it all using Filmora Pro The software offers lossless conversion and a highly user friendly interface
 

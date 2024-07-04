@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Unlimited Video Trimming 8 Free Tools with No Watermarks
-date: 2024-04-29T13:31:16.814Z
-updated: 2024-04-30T13:31:16.814Z
+date: 2024-07-03T13:47:20.252Z
+updated: 2024-07-04T13:47:20.252Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Unlimited Video Trimming 8 Free Tools with No Watermarks
 excerpt: This Article Describes Updated 2024 Approved Unlimited Video Trimming 8 Free Tools with No Watermarks
 keywords: unrestricted video editing top 10 free online tools with no watermark,unlimited video editing top 10 free online tools with no watermark,unlimited video editing top 10 free online editors with no watermark,unlimited video trimming 8 free tools with no watermarks,the ultimate list 8 free video trimmers with no watermark,unlimited video trimming 8 free tools with no watermark,14 top rated free video editing tools without watermarks
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## Unlimited Video Trimming: 8 Free Tools with No Watermarks
@@ -1231,7 +1231,7 @@ Even though fixing shaky footage is possible, you shouldn't expect miracles beca
 
 Let's have a look at how you can stabilize your videos with these free online video stabilizers.
 
-#### 1. [EZGIF Online Video Stabilizer](https://ezgif.com/video-stabilizer)
+#### 1. EZGIF Online Video Stabilizer
 
 ![video stabilization online](https://images.wondershare.com/filmora/article-images/ezgif.jpg)
 
@@ -1259,7 +1259,7 @@ To make things even better, the platform supports all common file formats such a
 
 **Step 3:** Click on the Download Result button after the platform finishes stabilizing your video. You can choose the destination on your hard drive where the video file is going to be stored.
 
-#### 3. [YouTube Video Editor](https://www.youtube.com/)
+#### 3. YouTube Video Editor
 
 The world's largest video sharing platform also offers basic video editing options to its users. In order to access the YouTube's video editor, you must first create an account so you can upload your videos to the platform. You can upload virtually any file format because YouTube supports a wide range of video file formats.
 
@@ -1271,7 +1271,7 @@ The only downside is that the platform doesn't allow you to download a video you
 
 **Step 3:** In the Enhancements tab, you'll be able to see the Stabilize icon. Click on it to start the video stabilization process, and once the process is complete, you can copy the video's URL and share it on social media or send it to your friends.
 
-#### 4. [Online Converter](https://www.onlineconverter.com/stabilize-video)
+#### 4. Online Converter
 
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/09/online-converter.png)
 
@@ -1291,7 +1291,7 @@ Here’s how you can use Online Converter to stabilize videos:
 
 **Step 4:** Once the stabilization process is complete, you can click the “Download Now” button to save the video on your PC.
 
-#### 5\. [Online Video Stabilizer by 123 Apps](https://online-video-cutter.com/stabilize-video)
+#### 5\. Online Video Stabilizer by 123 Apps
 
 ![video stabilizer 123 apps](https://images.wondershare.com/filmora/article-images/2022/09/video-stabilizer-123-apps.png)
 
@@ -1318,7 +1318,7 @@ You can follow these steps to stabilize your shaky video without paying a cent:
 
 **Step 4:**  Click the “Save” button to export your video to your Mac or Windows OS.
 
-#### 6. [MP4Compress](https://www.mp4compress.com/stabilize-shaky-video-footage/)
+#### 6. MP4Compress
 
 ![mp4compress](https://images.wondershare.com/filmora/article-images/2022/09/mp4compress.png)
 
@@ -1334,7 +1334,7 @@ So, if you have a video in other video formats, you will need to convert it into
 
 **Step 3:**  Once this tool corrects the shaky video, save it on your computer.
 
-#### 7. [Stabilizo](https://www.stabilizo.com/)
+#### 7. Stabilizo
 
 ![stabilizo](https://images.wondershare.com/filmora/article-images/2022/09/stabilizo.png)
 
@@ -1350,7 +1350,7 @@ This is how the tool works:
 
 **Step 3:** Once it’s completed, click the “Download File” button to save the video on your computer.
 
-#### 8. [VideoUtils](https://www.stabilizo.com/)
+#### 8. VideoUtils
 
 ![videoutils](https://images.wondershare.com/filmora/article-images/2022/09/videoutils.png)
 
@@ -1401,7 +1401,7 @@ Even though fixing shaky footage is possible, you shouldn't expect miracles beca
 
 Let's have a look at how you can stabilize your videos with these free online video stabilizers.
 
-#### 1. [EZGIF Online Video Stabilizer](https://ezgif.com/video-stabilizer)
+#### 1. EZGIF Online Video Stabilizer
 
 ![video stabilization online](https://images.wondershare.com/filmora/article-images/ezgif.jpg)
 
@@ -1429,7 +1429,7 @@ To make things even better, the platform supports all common file formats such a
 
 **Step 3:** Click on the Download Result button after the platform finishes stabilizing your video. You can choose the destination on your hard drive where the video file is going to be stored.
 
-#### 3. [YouTube Video Editor](https://www.youtube.com/)
+#### 3. YouTube Video Editor
 
 The world's largest video sharing platform also offers basic video editing options to its users. In order to access the YouTube's video editor, you must first create an account so you can upload your videos to the platform. You can upload virtually any file format because YouTube supports a wide range of video file formats.
 
@@ -1441,7 +1441,7 @@ The only downside is that the platform doesn't allow you to download a video you
 
 **Step 3:** In the Enhancements tab, you'll be able to see the Stabilize icon. Click on it to start the video stabilization process, and once the process is complete, you can copy the video's URL and share it on social media or send it to your friends.
 
-#### 4. [Online Converter](https://www.onlineconverter.com/stabilize-video)
+#### 4. Online Converter
 
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/09/online-converter.png)
 
@@ -1461,7 +1461,7 @@ Here’s how you can use Online Converter to stabilize videos:
 
 **Step 4:** Once the stabilization process is complete, you can click the “Download Now” button to save the video on your PC.
 
-#### 5\. [Online Video Stabilizer by 123 Apps](https://online-video-cutter.com/stabilize-video)
+#### 5\. Online Video Stabilizer by 123 Apps
 
 ![video stabilizer 123 apps](https://images.wondershare.com/filmora/article-images/2022/09/video-stabilizer-123-apps.png)
 
@@ -1488,7 +1488,7 @@ You can follow these steps to stabilize your shaky video without paying a cent:
 
 **Step 4:**  Click the “Save” button to export your video to your Mac or Windows OS.
 
-#### 6. [MP4Compress](https://www.mp4compress.com/stabilize-shaky-video-footage/)
+#### 6. MP4Compress
 
 ![mp4compress](https://images.wondershare.com/filmora/article-images/2022/09/mp4compress.png)
 
@@ -1504,7 +1504,7 @@ So, if you have a video in other video formats, you will need to convert it into
 
 **Step 3:**  Once this tool corrects the shaky video, save it on your computer.
 
-#### 7. [Stabilizo](https://www.stabilizo.com/)
+#### 7. Stabilizo
 
 ![stabilizo](https://images.wondershare.com/filmora/article-images/2022/09/stabilizo.png)
 
@@ -1520,7 +1520,7 @@ This is how the tool works:
 
 **Step 3:** Once it’s completed, click the “Download File” button to save the video on your computer.
 
-#### 8. [VideoUtils](https://www.stabilizo.com/)
+#### 8. VideoUtils
 
 ![videoutils](https://images.wondershare.com/filmora/article-images/2022/09/videoutils.png)
 
@@ -1571,7 +1571,7 @@ Even though fixing shaky footage is possible, you shouldn't expect miracles beca
 
 Let's have a look at how you can stabilize your videos with these free online video stabilizers.
 
-#### 1. [EZGIF Online Video Stabilizer](https://ezgif.com/video-stabilizer)
+#### 1. EZGIF Online Video Stabilizer
 
 ![video stabilization online](https://images.wondershare.com/filmora/article-images/ezgif.jpg)
 
@@ -1599,7 +1599,7 @@ To make things even better, the platform supports all common file formats such a
 
 **Step 3:** Click on the Download Result button after the platform finishes stabilizing your video. You can choose the destination on your hard drive where the video file is going to be stored.
 
-#### 3. [YouTube Video Editor](https://www.youtube.com/)
+#### 3. YouTube Video Editor
 
 The world's largest video sharing platform also offers basic video editing options to its users. In order to access the YouTube's video editor, you must first create an account so you can upload your videos to the platform. You can upload virtually any file format because YouTube supports a wide range of video file formats.
 
@@ -1611,7 +1611,7 @@ The only downside is that the platform doesn't allow you to download a video you
 
 **Step 3:** In the Enhancements tab, you'll be able to see the Stabilize icon. Click on it to start the video stabilization process, and once the process is complete, you can copy the video's URL and share it on social media or send it to your friends.
 
-#### 4. [Online Converter](https://www.onlineconverter.com/stabilize-video)
+#### 4. Online Converter
 
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/09/online-converter.png)
 
@@ -1631,7 +1631,7 @@ Here’s how you can use Online Converter to stabilize videos:
 
 **Step 4:** Once the stabilization process is complete, you can click the “Download Now” button to save the video on your PC.
 
-#### 5\. [Online Video Stabilizer by 123 Apps](https://online-video-cutter.com/stabilize-video)
+#### 5\. Online Video Stabilizer by 123 Apps
 
 ![video stabilizer 123 apps](https://images.wondershare.com/filmora/article-images/2022/09/video-stabilizer-123-apps.png)
 
@@ -1658,7 +1658,7 @@ You can follow these steps to stabilize your shaky video without paying a cent:
 
 **Step 4:**  Click the “Save” button to export your video to your Mac or Windows OS.
 
-#### 6. [MP4Compress](https://www.mp4compress.com/stabilize-shaky-video-footage/)
+#### 6. MP4Compress
 
 ![mp4compress](https://images.wondershare.com/filmora/article-images/2022/09/mp4compress.png)
 
@@ -1674,7 +1674,7 @@ So, if you have a video in other video formats, you will need to convert it into
 
 **Step 3:**  Once this tool corrects the shaky video, save it on your computer.
 
-#### 7. [Stabilizo](https://www.stabilizo.com/)
+#### 7. Stabilizo
 
 ![stabilizo](https://images.wondershare.com/filmora/article-images/2022/09/stabilizo.png)
 
@@ -1690,7 +1690,7 @@ This is how the tool works:
 
 **Step 3:** Once it’s completed, click the “Download File” button to save the video on your computer.
 
-#### 8. [VideoUtils](https://www.stabilizo.com/)
+#### 8. VideoUtils
 
 ![videoutils](https://images.wondershare.com/filmora/article-images/2022/09/videoutils.png)
 
@@ -1741,7 +1741,7 @@ Even though fixing shaky footage is possible, you shouldn't expect miracles beca
 
 Let's have a look at how you can stabilize your videos with these free online video stabilizers.
 
-#### 1. [EZGIF Online Video Stabilizer](https://ezgif.com/video-stabilizer)
+#### 1. EZGIF Online Video Stabilizer
 
 ![video stabilization online](https://images.wondershare.com/filmora/article-images/ezgif.jpg)
 
@@ -1769,7 +1769,7 @@ To make things even better, the platform supports all common file formats such a
 
 **Step 3:** Click on the Download Result button after the platform finishes stabilizing your video. You can choose the destination on your hard drive where the video file is going to be stored.
 
-#### 3. [YouTube Video Editor](https://www.youtube.com/)
+#### 3. YouTube Video Editor
 
 The world's largest video sharing platform also offers basic video editing options to its users. In order to access the YouTube's video editor, you must first create an account so you can upload your videos to the platform. You can upload virtually any file format because YouTube supports a wide range of video file formats.
 
@@ -1781,7 +1781,7 @@ The only downside is that the platform doesn't allow you to download a video you
 
 **Step 3:** In the Enhancements tab, you'll be able to see the Stabilize icon. Click on it to start the video stabilization process, and once the process is complete, you can copy the video's URL and share it on social media or send it to your friends.
 
-#### 4. [Online Converter](https://www.onlineconverter.com/stabilize-video)
+#### 4. Online Converter
 
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/09/online-converter.png)
 
@@ -1801,7 +1801,7 @@ Here’s how you can use Online Converter to stabilize videos:
 
 **Step 4:** Once the stabilization process is complete, you can click the “Download Now” button to save the video on your PC.
 
-#### 5\. [Online Video Stabilizer by 123 Apps](https://online-video-cutter.com/stabilize-video)
+#### 5\. Online Video Stabilizer by 123 Apps
 
 ![video stabilizer 123 apps](https://images.wondershare.com/filmora/article-images/2022/09/video-stabilizer-123-apps.png)
 
@@ -1828,7 +1828,7 @@ You can follow these steps to stabilize your shaky video without paying a cent:
 
 **Step 4:**  Click the “Save” button to export your video to your Mac or Windows OS.
 
-#### 6. [MP4Compress](https://www.mp4compress.com/stabilize-shaky-video-footage/)
+#### 6. MP4Compress
 
 ![mp4compress](https://images.wondershare.com/filmora/article-images/2022/09/mp4compress.png)
 
@@ -1844,7 +1844,7 @@ So, if you have a video in other video formats, you will need to convert it into
 
 **Step 3:**  Once this tool corrects the shaky video, save it on your computer.
 
-#### 7. [Stabilizo](https://www.stabilizo.com/)
+#### 7. Stabilizo
 
 ![stabilizo](https://images.wondershare.com/filmora/article-images/2022/09/stabilizo.png)
 
@@ -1860,7 +1860,7 @@ This is how the tool works:
 
 **Step 3:** Once it’s completed, click the “Download File” button to save the video on your computer.
 
-#### 8. [VideoUtils](https://www.stabilizo.com/)
+#### 8. VideoUtils
 
 ![videoutils](https://images.wondershare.com/filmora/article-images/2022/09/videoutils.png)
 
@@ -1912,13 +1912,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -1932,7 +1932,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -1944,7 +1944,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -1954,13 +1954,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -1972,7 +1972,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -2043,13 +2043,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -2063,7 +2063,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -2075,7 +2075,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -2085,13 +2085,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -2103,7 +2103,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -2174,13 +2174,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -2194,7 +2194,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -2206,7 +2206,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -2216,13 +2216,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -2234,7 +2234,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -2305,13 +2305,13 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -2325,7 +2325,7 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -2337,7 +2337,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -2347,13 +2347,13 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -2365,7 +2365,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 

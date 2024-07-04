@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Edit 3GP Videos Like a Pro Cutting, Trimming, and More
-date: 2024-04-29T13:11:33.738Z
-updated: 2024-04-30T13:11:33.738Z
+date: 2024-07-03T13:47:07.379Z
+updated: 2024-07-04T13:47:07.379Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Edit 3GP Videos Like a Pro Cutting, Trimming, and More
 excerpt: This Article Describes Updated 2024 Approved Edit 3GP Videos Like a Pro Cutting, Trimming, and More
 keywords: top free video editors for cutting and trimming mov files,top rated free mp4 video editors for cutting and trimming,edit like a pro gopro video editing for mac users 2023 update,edit 3gp videos like a pro cutting trimming and more,top rated pc video editors for trimming and cutting,the ultimate 3gp video editor cutting and trimming made simple,how to trim cut and edit 3gp videos like a pro
-thumbnail: https://www.lifewire.com/thmb/AN-vaCH0aY3tX6ZltU1G0m3Htm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/watch-free-movies-online-1356647-32f79b8cc3ed484ca1f9f898f503e416.png
+thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faab0414036ff801745dc15189.png
 ---
 
 ## Edit 3GP Videos Like a Pro: Cutting, Trimming, and More
@@ -46,7 +46,7 @@ If you want to chop a big 3GP file into several small-size files, at this time, 
 
 But if you want to cut out some unwanted segments or to extract some parts you want, just hit the clips you don’t want and click the “Delete” icon.
 
-![cut 3gp file ](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
+![cut 3gp file](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
 
 #### 3 Export the rest 3GP clips
 
@@ -61,7 +61,7 @@ Also check out below video tutorial on how to cut/trim/split 3GP files step by s
 
 Wondershare 3GP Cutter allows you to not only cut or trim your 3GP videos, but also offers you a variety of other cool editing features so that you are able to easily make Hollywood-like movies at the ease of your home. If however, you are just looking for some free and simple 3GP Cutting tools, say you don't have any other editing needs, then these following free 3GP cutters will be worth your consideration. We've listed three of them which we consider as the best for your reference.
 
-#### 2.) [Free Video Cutter](http://www.free-video-cutter.org/)
+#### 2.) Free Video Cutter
 
 Free Video Cutter is a free cutting tool which enables you to cut your 3GP video with ease. Not only does the software support 3GP but it can also cope with several other video formats. The cutting process itself is simple, it takes into account audio and even subtitles and lets you worry only about the precise point you wish to cut your video, as a good cutting application should do.
 
@@ -73,7 +73,7 @@ Another very easy to use program which supports 3GP. It creates a copy of the se
 
 ![Moo0 Video Cutter](https://images.wondershare.com/multimedia/moo0.png)
 
-#### 4.) [Weeny Free Video Cutter](http://www.weenysoft.com/free-video-cutter.html)
+#### 4.) Weeny Free Video Cutter
 
 This program adds another useful talent to the mix, being able to convert cuts to another format on the fly, and even adjust frame rates, audio settings and so on. As you may expect, with these added features the interface of this video cutter is a little busier, but it is still straightforward to operate and anyone can start cutting videos within five minutes of starting to use it. A well featured piece of software than can cut your 3GP files and many other video formats too.
 
@@ -115,7 +115,7 @@ If you want to chop a big 3GP file into several small-size files, at this time, 
 
 But if you want to cut out some unwanted segments or to extract some parts you want, just hit the clips you don’t want and click the “Delete” icon.
 
-![cut 3gp file ](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
+![cut 3gp file](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
 
 #### 3 Export the rest 3GP clips
 
@@ -130,7 +130,7 @@ Also check out below video tutorial on how to cut/trim/split 3GP files step by s
 
 Wondershare 3GP Cutter allows you to not only cut or trim your 3GP videos, but also offers you a variety of other cool editing features so that you are able to easily make Hollywood-like movies at the ease of your home. If however, you are just looking for some free and simple 3GP Cutting tools, say you don't have any other editing needs, then these following free 3GP cutters will be worth your consideration. We've listed three of them which we consider as the best for your reference.
 
-#### 2.) [Free Video Cutter](http://www.free-video-cutter.org/)
+#### 2.) Free Video Cutter
 
 Free Video Cutter is a free cutting tool which enables you to cut your 3GP video with ease. Not only does the software support 3GP but it can also cope with several other video formats. The cutting process itself is simple, it takes into account audio and even subtitles and lets you worry only about the precise point you wish to cut your video, as a good cutting application should do.
 
@@ -142,7 +142,7 @@ Another very easy to use program which supports 3GP. It creates a copy of the se
 
 ![Moo0 Video Cutter](https://images.wondershare.com/multimedia/moo0.png)
 
-#### 4.) [Weeny Free Video Cutter](http://www.weenysoft.com/free-video-cutter.html)
+#### 4.) Weeny Free Video Cutter
 
 This program adds another useful talent to the mix, being able to convert cuts to another format on the fly, and even adjust frame rates, audio settings and so on. As you may expect, with these added features the interface of this video cutter is a little busier, but it is still straightforward to operate and anyone can start cutting videos within five minutes of starting to use it. A well featured piece of software than can cut your 3GP files and many other video formats too.
 
@@ -184,7 +184,7 @@ If you want to chop a big 3GP file into several small-size files, at this time, 
 
 But if you want to cut out some unwanted segments or to extract some parts you want, just hit the clips you don’t want and click the “Delete” icon.
 
-![cut 3gp file ](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
+![cut 3gp file](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
 
 #### 3 Export the rest 3GP clips
 
@@ -199,7 +199,7 @@ Also check out below video tutorial on how to cut/trim/split 3GP files step by s
 
 Wondershare 3GP Cutter allows you to not only cut or trim your 3GP videos, but also offers you a variety of other cool editing features so that you are able to easily make Hollywood-like movies at the ease of your home. If however, you are just looking for some free and simple 3GP Cutting tools, say you don't have any other editing needs, then these following free 3GP cutters will be worth your consideration. We've listed three of them which we consider as the best for your reference.
 
-#### 2.) [Free Video Cutter](http://www.free-video-cutter.org/)
+#### 2.) Free Video Cutter
 
 Free Video Cutter is a free cutting tool which enables you to cut your 3GP video with ease. Not only does the software support 3GP but it can also cope with several other video formats. The cutting process itself is simple, it takes into account audio and even subtitles and lets you worry only about the precise point you wish to cut your video, as a good cutting application should do.
 
@@ -211,7 +211,7 @@ Another very easy to use program which supports 3GP. It creates a copy of the se
 
 ![Moo0 Video Cutter](https://images.wondershare.com/multimedia/moo0.png)
 
-#### 4.) [Weeny Free Video Cutter](http://www.weenysoft.com/free-video-cutter.html)
+#### 4.) Weeny Free Video Cutter
 
 This program adds another useful talent to the mix, being able to convert cuts to another format on the fly, and even adjust frame rates, audio settings and so on. As you may expect, with these added features the interface of this video cutter is a little busier, but it is still straightforward to operate and anyone can start cutting videos within five minutes of starting to use it. A well featured piece of software than can cut your 3GP files and many other video formats too.
 
@@ -253,7 +253,7 @@ If you want to chop a big 3GP file into several small-size files, at this time, 
 
 But if you want to cut out some unwanted segments or to extract some parts you want, just hit the clips you don’t want and click the “Delete” icon.
 
-![cut 3gp file ](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
+![cut 3gp file](https://images.wondershare.com/images/multimedia/video-editor/cut-steps.jpg)
 
 #### 3 Export the rest 3GP clips
 
@@ -268,7 +268,7 @@ Also check out below video tutorial on how to cut/trim/split 3GP files step by s
 
 Wondershare 3GP Cutter allows you to not only cut or trim your 3GP videos, but also offers you a variety of other cool editing features so that you are able to easily make Hollywood-like movies at the ease of your home. If however, you are just looking for some free and simple 3GP Cutting tools, say you don't have any other editing needs, then these following free 3GP cutters will be worth your consideration. We've listed three of them which we consider as the best for your reference.
 
-#### 2.) [Free Video Cutter](http://www.free-video-cutter.org/)
+#### 2.) Free Video Cutter
 
 Free Video Cutter is a free cutting tool which enables you to cut your 3GP video with ease. Not only does the software support 3GP but it can also cope with several other video formats. The cutting process itself is simple, it takes into account audio and even subtitles and lets you worry only about the precise point you wish to cut your video, as a good cutting application should do.
 
@@ -280,7 +280,7 @@ Another very easy to use program which supports 3GP. It creates a copy of the se
 
 ![Moo0 Video Cutter](https://images.wondershare.com/multimedia/moo0.png)
 
-#### 4.) [Weeny Free Video Cutter](http://www.weenysoft.com/free-video-cutter.html)
+#### 4.) Weeny Free Video Cutter
 
 This program adds another useful talent to the mix, being able to convert cuts to another format on the fly, and even adjust frame rates, audio settings and so on. As you may expect, with these added features the interface of this video cutter is a little busier, but it is still straightforward to operate and anyone can start cutting videos within five minutes of starting to use it. A well featured piece of software than can cut your 3GP files and many other video formats too.
 
@@ -3196,13 +3196,13 @@ You can check the video resolution by right clicking on it and then, choose "Pro
 
 Once you import the files, drag it to the timeline. Now, you can trim or remove unwanted section to reduce the size of a video.
 
-![Trim or Remove ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
+![Trim or Remove](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
 
 #### Step 3 Pick up the Export Format & Video Resolution
 
 After video editing in Filmora, decide and select the format or resolution for your saved video. Click the Export button to enter in the Export Window.
 
-![Export Video ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
+![Export Video](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
 
 #### Step 4 Find and Confirm Video Conversion
 
@@ -3220,7 +3220,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 **AI Portrait – The best feature of Wondershare Filmora for gameplay editing**
 
@@ -3346,13 +3346,13 @@ You can check the video resolution by right clicking on it and then, choose "Pro
 
 Once you import the files, drag it to the timeline. Now, you can trim or remove unwanted section to reduce the size of a video.
 
-![Trim or Remove ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
+![Trim or Remove](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
 
 #### Step 3 Pick up the Export Format & Video Resolution
 
 After video editing in Filmora, decide and select the format or resolution for your saved video. Click the Export button to enter in the Export Window.
 
-![Export Video ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
+![Export Video](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
 
 #### Step 4 Find and Confirm Video Conversion
 
@@ -3370,7 +3370,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 **AI Portrait – The best feature of Wondershare Filmora for gameplay editing**
 
@@ -3496,13 +3496,13 @@ You can check the video resolution by right clicking on it and then, choose "Pro
 
 Once you import the files, drag it to the timeline. Now, you can trim or remove unwanted section to reduce the size of a video.
 
-![Trim or Remove ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
+![Trim or Remove](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
 
 #### Step 3 Pick up the Export Format & Video Resolution
 
 After video editing in Filmora, decide and select the format or resolution for your saved video. Click the Export button to enter in the Export Window.
 
-![Export Video ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
+![Export Video](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
 
 #### Step 4 Find and Confirm Video Conversion
 
@@ -3520,7 +3520,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 **AI Portrait – The best feature of Wondershare Filmora for gameplay editing**
 
@@ -3646,13 +3646,13 @@ You can check the video resolution by right clicking on it and then, choose "Pro
 
 Once you import the files, drag it to the timeline. Now, you can trim or remove unwanted section to reduce the size of a video.
 
-![Trim or Remove ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
+![Trim or Remove](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-6.jpg)
 
 #### Step 3 Pick up the Export Format & Video Resolution
 
 After video editing in Filmora, decide and select the format or resolution for your saved video. Click the Export button to enter in the Export Window.
 
-![Export Video ](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
+![Export Video](https://images.wondershare.com/filmora/article-images/2021/hd-video-pixel-size-7.jpg)
 
 #### Step 4 Find and Confirm Video Conversion
 
@@ -3670,7 +3670,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 **AI Portrait – The best feature of Wondershare Filmora for gameplay editing**
 
@@ -3722,7 +3722,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -3730,21 +3730,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -3798,9 +3798,9 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
-In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora ![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -3836,7 +3836,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -3844,21 +3844,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -3912,9 +3912,9 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
-In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora ![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -3950,7 +3950,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -3958,21 +3958,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -4026,9 +4026,9 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
-In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora ![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -4064,7 +4064,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -4072,21 +4072,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -4140,9 +4140,9 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
-In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora ![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 

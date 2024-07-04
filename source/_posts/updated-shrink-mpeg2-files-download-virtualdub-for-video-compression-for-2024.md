@@ -1,7 +1,7 @@
 ---
 title: Updated Shrink MPEG2 Files Download VirtualDub for Video Compression for 2024
-date: 2024-04-29T13:23:19.519Z
-updated: 2024-04-30T13:23:19.519Z
+date: 2024-07-03T13:47:03.050Z
+updated: 2024-07-04T13:47:03.050Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Shrink MPEG2 Files Download VirtualDub for Video Compression for 2024
 excerpt: This Article Describes Updated Shrink MPEG2 Files Download VirtualDub for Video Compression for 2024
 keywords: shrink mpeg2 files get virtualdub for video compression,shrink mpeg2 files download virtualdub for video compression,reduce file size download virtualdub for mpeg2 compression,unlock efficient video compression download virtualdub mpeg2 now,download virtualdub mpeg2 use to compress mpeg2 videos,mpeg2 video compression made easy with virtualdub download,ai animation download virtualdub mpeg2 use to compress mpeg2 videos
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## Shrink MPEG2 Files: Download VirtualDub for Video Compression
