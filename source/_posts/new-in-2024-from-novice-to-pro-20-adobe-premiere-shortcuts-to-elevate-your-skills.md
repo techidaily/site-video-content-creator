@@ -1,0 +1,286 @@
+---
+title: New In 2024, From Novice to Pro 20 Adobe Premiere Shortcuts to Elevate Your Skills
+date: 2024-07-16T19:19:14.148Z
+updated: 2024-07-17T19:19:14.148Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes New In 2024, From Novice to Pro 20 Adobe Premiere Shortcuts to Elevate Your Skills
+excerpt: This Article Describes New In 2024, From Novice to Pro 20 Adobe Premiere Shortcuts to Elevate Your Skills
+keywords: from novice to pro how our mp3 converter windows guide can elevate your skills,adobe premiere pro secrets 20 shortcuts to supercharge your editing,from novice to pro 20 adobe premiere shortcuts to take your skills to the next level,elevate your video editing skills 6 must know adobe premiere tricks,from novice to pro 20 adobe premiere shortcuts to elevate your skills,top 20 adobe premiere shortcuts you will use when editing video files,adobe premiere pro essentials 20 shortcuts to streamline your workflow
+thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc721b43b4dca709d022c56e41.jpg
+---
+
+## From Novice to Pro: 20 Adobe Premiere Shortcuts to Elevate Your Skills
+
+# Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+ Whilst the conventional mouse control allows you to perform any task that Premiere is capable of, for efficient workflow the keyboard shortcuts cannot be beaten. We all work a little differently, and thankfully Adobe understands that, so although here we will be concentrating on the standard keyboard layout, the keyboard shortcuts can be customized to be anything you want and saved as a custom profile, there are even presets already included for Avid Media Composer and [Final Cut Pro](https://tools.techidaily.com/wondershare/filmora/download/) for those who are maybe transitioning from those packages or just prefer the way they work.
+
+---
+
+ This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+ This is achieved by going through the path edit > keyboard shortcuts as below:
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
+
+ Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
+
+#### 1Select Window
+
+ I'm starting with this one simply because I find it the most used of all, especially if like me you prefer a custom layout for all your windows. If your program monitor is hidden for instance, you can just press shift+4 and there it is. The shortcuts are the same for both platforms here.
+
+* Audio Clip Mixer Shift+9
+* Audio Track Mixer Shift+6
+* Effect Controls Shift+5
+* Effects Shift+7
+* Media Browser Shift+8
+* Program Monitor Shift+4
+* Project Shift+1
+* Source Monitor Shift+2
+* Timelines Shift+3
+
+#### 2 Import
+
+ Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
+
+#### 3Capture Panel
+
+ There are multiple shortcuts that can be used within the capture panel, but because this is such an intrinsic aspect of the Premiere workflow, being the entry into a project for all media, I think the available shortcuts are all as valuable as each other here.
+
+* Navigate Through Fields - Tab
+* Cancel Capture - Esc
+* Fast Forward - F
+* Rewind - R
+* Go to In Point - Q
+* Go to Out Point - W
+* Record - G
+* Stop - S
+* Step Back - Left Arrow
+* Step Forward - Right Arrow
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
+
+#### 4 Timeline Panel
+
+ In a similar vein to the Capture Panel, the Timeline Panel has a set of shortcuts specific to all its basic operations, and are essential for a faster workflow.
+
+* Clear Ins and Outs - G
+* Clear In Point - D
+* Clear Out Point - F
+* Go to In Point- Q
+* Go to Out Point - W
+* Match Frame - M
+* Start and Stop - Spacebar
+* Play Normal Speed - L
+* Play Reverse Normal Speed - J
+* Set In Point - I
+* Set Out Point - o
+* Shuttle Stop - K
+* Trim - T
+* Arc Tool - A
+* Ellipse Tool – E
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
+
+#### 5 Navigation within a clip
+
+ This one works within the program monitor/timeline or source monitor windows, ensure the desired one is active first of course. You can move to a specific time code within the clip, or go forwards or backwards a set number of frames using the number pad. To go to a specific time code simply type that on the number pad. To travel a set number of frames simply type + or – (to signify direction) and the number of frames.
+
+#### 6Marking Clips
+
+ By far the simplest way to mark clips is to use the keyboard shortcut.
+
+ For marking clips use X , whilst marking a selection is / .
+
+#### 7 In and Out
+
+ In addition to marking clips via shortcuts, it is also far easier to mark In and Out points this way.
+
+* To Mark In use I , whilst to mark Out use O .
+* To Clear In the shortcut is Control+Shift+I for PC and Option+I for Mac.
+* To Clear Out Control+Shift+O for PC, Option+O for Mac.
+
+#### 8Playing Clips
+
+ Going hand in hand with the shortcuts for marking, are the keyboard commands for playing clips. These are:
+
+* Play In to Out: Control+Shift+Space (PC) and Option+K for Mac
+* Clear In and Out: Control+Shift+X (PC) and Option+X for Mac
+* Play Around: The same for both platforms and is Shift+K.
+
+ To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
+
+![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
+
+ In addition, turning on looping for this can help to fine tune edits.
+
+#### 9Toggle Audio During Scrubbing
+
+ There are times you may want to hear audio when scrubbing, however turning it off can have beneficial effects on performance for lower end computers. The shortcut makes it an easy process to turn off and on as required.
+
+ The shortcut is Shift+S for both platforms.
+
+#### 10Slide a clip within the sequence
+
+ There are a couple of options available here from the shortcuts, slide one frame or 5 frames.
+
+* To slide one frame to the left is Alt+, for PC or Option+, for Mac. To increase to five frames add Shift to either shortcut.
+* To slide one frame to the right is Alt+. for PC and Option+. for Mac. Again, to increase to five frames add Shift.
+
+#### 11Slip within a sequence
+
+ As with the slide options, the choice is one frame or five frames.
+
+* To slip one frame to the left is Control+Alt+Left for PC or Option+Command+Left for Mac. To increase to five frames add Shift to either shortcut.
+* To slip one frame to the right is Control+Alt+Right for PC and Option+Command+Right for Mac. Again, to increase to five frames add Shift.
+
+#### 12Nudging
+
+ You can move a clip up or down simply by using the Up and Down arrow keys, whilst holding Alt or Option at the same time allows you to select just the video or audio to move.
+
+#### 13Multi Camera Selection
+
+ This is a tool that allows you to work with multiple camera angles of the same subject or scene. To switch between different cameras quickly is extremely useful and accomplished with the numerical keys.
+
+ Numbers 1 through 9 select the corresponding camera.
+
+#### 14Add an edit
+
+ This option cuts the track (or tracks) that are targeted. The shortcut for this is Control+K or Command+K.
+
+ You can view all added edits within a sequence by selecting show through edits within the sequence menu.
+
+![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
+
+#### 15Add the default Transition
+
+ This option applies the default transition to all selected media. To do this use Shift+D.
+
+#### 16 Match Frame
+
+ Locating a specific frame within the sequence for adding in a second clip is very useful, the shortcut is M, a great timesaver.
+
+#### 17Zoom to sequence
+
+ Being able to zoom in is great, it makes working in the sequence panel much easier, at least for me, however the one drawback I find is that I tend to get lost when looking for a particular clip. Using / enable you to quickly zoom out for navigation and back in again to work
+
+#### 18Jump to Edit
+
+ Navigating from edit to edit is a very simple process with the shortcuts available to you.
+
+ Page up takes you to the previous edit point, whilst page down takes you to the next.
+
+ With practice these shortcuts become second nature and you will find your workflow becomes not only faster but a smoother operation as well.
+
+#### 19Toggle the type of Trim used
+
+ Quickly shift between Standard, Ripple and Roll trim types.
+
+ Shift+T for PC, Control+T for Mac
+
+#### 20Ripple Trim
+
+ This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-essential-guide-to-top-6-apps-for-mac-video-snagging/"><u>[New] 2024 Approved  Essential Guide to Top 6 Apps for Mac Video Snagging</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-screen-seize-techniques-for-mac-devices-under-156-chars/"><u>[New] In 2024, Top Screen Seize Techniques for Mac Devices (Under 156 Chars)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stream-video-smoothly-save-pcmac-screens-to-youtube/"><u>[New] Stream Video Smoothly  Save PC/Mac Screens to YouTube</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-art-of-engagement-mastering-tiktoks-language-through-5-essential-caption-techniques/"><u>[Updated] In 2024, The Art of Engagement  Mastering TikTok's Language Through 5 Essential Caption Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-no-cost-screen-recording-tricks-for-pc-users-for-2024/"><u>[Updated] No-Cost Screen Recording Tricks for PC Users for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-aurora-hdr-superior-or-subpar-imaging/"><u>2024 Approved  Aurora HDR  Superior or Subpar Imaging?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-discounted-action-cams-for-the-budget-minded/"><u>2024 Approved  Discounted Action Cams for the Budget Minded</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-free-audio-to-text-conversion/"><u>2024 Approved  Free Audio to Text Conversion</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-multimedia-iptv-networking/"><u>2024 Approved  Multimedia IPTV Networking</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-the-ultimate-list-of-free-online-video-trimmers-2023-edition/"><u>2024 Approved The Ultimate List of Free Online Video Trimmers 2023 Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-infinix-note-30-vip-racing-edition-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Infinix Note 30 VIP Racing Edition without App | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/behind-the-scenes-of-lol-top-3-broadcast-techniques-for-2024/"><u>Behind the Scenes of LOL - Top 3 Broadcast Techniques for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-make-tiktok-reaction-videos-in-2-proven-ways-filmora-for-2024/"><u>How to Make TikTok Reaction Videos in 2 Proven Ways - Filmora for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-record-league-of-legends-for-2024/"><u>How to Record League of Legends for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-list-of-free-mkv-cutters/"><u>In 2024, The Ultimate List of Free MKV Cutters</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-list-of-free-online-video-merger-tools-2023-edition/"><u>In 2024, The Ultimate List of Free Online Video Merger Tools (2023 Edition)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-list-of-free-subtitle-software-for-video-editing/"><u>In 2024, The Ultimate List of Free Subtitle Software for Video Editing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-list-of-free-video-cutter-and-joiner-software-for-beginners/"><u>In 2024, The Ultimate List of Free Video Cutter and Joiner Software for Beginners</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-list-of-free-video-editors-for-starters/"><u>In 2024, The Ultimate List of Free Video Editors for Starters</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-list-of-free-video-editors-without-watermarks/"><u>In 2024, The Ultimate List of Free Video Editors Without Watermarks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-list-of-free-video-trimmers-for-windows-10/"><u>In 2024, The Ultimate List of Free Video Trimmers for Windows 10</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-list-of-free-wmv-video-editing-tools/"><u>In 2024, The Ultimate List of Free WMV Video Editing Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-list-of-glitch-video-editors-free-paid-and-online-options/"><u>In 2024, The Ultimate List of Glitch Video Editors Free, Paid, and Online Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-vn-video-editor-apk-pros-cons-and-features-review/"><u>In 2024, VN Video Editor APK Pros, Cons, and Features Review</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-6-best-voice-changers/"><u>New 2024 Approved 6 Best Voice Changers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-create-stunning-animations-best-android-and-iphone-apps-free/"><u>New In 2024, Create Stunning Animations Best Android and iPhone Apps (Free)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-unlocking-high-quality-audio-production-with-these-top-11-gratuitous-editors-on-pcmac-systems-updated/"><u>New In 2024, Unlocking High-Quality Audio Production with These Top 11 Gratuitous Editors on PC/Mac Systems, Updated</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-of-free-online-photo-background-blurring-tools/"><u>New The Ultimate List of Free Online Photo Background Blurring Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-of-free-online-video-merger-tools-2023-edition/"><u>New The Ultimate List of Free Online Video Merger Tools (2023 Edition)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-of-free-video-stabilizer-apps-for-android-users/"><u>New The Ultimate List of Free Video Stabilizer Apps for Android Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-of-free-wmv-video-editing-tools/"><u>New The Ultimate List of Free WMV Video Editing Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/offline-android-delights-top-screen-free-game-list-you-must-play/"><u>Offline Android Delights  Top Screen-Free Game List You Must Play</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/ringtune-guide-downloading-and-cutting-tamil-melodies-for-2024/"><u>RingTune Guide  Downloading and Cutting Tamil Melodies for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-ultimate-guide-to-podcast-introduction-skills-for-2024/"><u>The Ultimate Guide to Podcast Introduction Skills for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-ultimate-list-of-free-mkv-cutters-for-2024/"><u>The Ultimate List of Free MKV Cutters for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-ultimate-list-of-free-online-face-creators-for-2024/"><u>The Ultimate List of Free Online Face Creators for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-ultimate-list-of-free-online-video-editing-tools-for-2024/"><u>The Ultimate List of Free Online Video Editing Tools for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-ultimate-list-of-free-video-editors-for-starters-for-2024/"><u>The Ultimate List of Free Video Editors for Starters for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-12-proplus-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme 12 Pro+ 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-audio-liberation-nine-simple-methods-for-mp4-sound-retrieval-future-edition/"><u>Updated 2024 Approved Audio Liberation Nine Simple Methods for MP4 Sound Retrieval, Future Edition</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-create-epic-gaming-intros-best-tools-for-windows-and-macos/"><u>Updated In 2024, Create Epic Gaming Intros Best Tools for Windows and macOS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-free-online-face-generators-for-fun-and-creativity/"><u>Updated The Ultimate List of Free Online Face Generators for Fun and Creativity</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-free-video-compressors-for-windows-10-2023-edition/"><u>Updated The Ultimate List of Free Video Compressors for Windows 10 (2023 Edition)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-free-video-loopers-for-windows-and-macos/"><u>Updated The Ultimate List of Free Video Loopers for Windows and macOS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-free-webm-video-editors/"><u>Updated The Ultimate List of Free WebM Video Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-free-whiteboard-animation-software-for-windows-mac-and-beyond/"><u>Updated The Ultimate List of Free Whiteboard Animation Software for Windows, Mac, and Beyond</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-glitch-video-editors-free-paid-and-online-options/"><u>Updated The Ultimate List of Glitch Video Editors Free, Paid, and Online Options</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

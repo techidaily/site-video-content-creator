@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X
-date: 2024-07-03T13:48:30.602Z
-updated: 2024-07-04T13:48:30.602Z
+date: 2024-07-16T19:11:59.678Z
+updated: 2024-07-17T19:11:59.678Z
 tags: 
   - video editing software
   - video editing
@@ -34,12 +34,18 @@ For more tutorials on slow-motion please refer to this article: [Top 10 Slow Mot
 
 #### 1\.  STILL FRAMES
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![still frames](https://images.wondershare.com/multimedia/speed001.jpg)
 
 A still-frame freezes action. For instance, here is a clip of a hummingbird getting ready to land on a bird feeder. I want to create a freeze-frame of the bird in flight. (Um, yeah, I use "freeze-frame" and "still-frame" interchangeably.)
 
 In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freeze and type Option+F.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![freeze frames](https://images.wondershare.com/multimedia/speed002.jpg)
 
 This creates a two-second freeze-frame at the position of the playhead.
@@ -80,6 +86,9 @@ A Hold Frame is similar to an in-line still frame, but with more flexibility.
 
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
@@ -88,6 +97,9 @@ This displays the orange Retime editor bar above the clip, with a small red port
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![speed016](https://images.wondershare.com/multimedia/speed016.jpg)
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
@@ -106,12 +118,18 @@ We use slow-motion to show events that are too fast for the unaided eye to see. 
 
 WE create either effect using the same tools, just different values. Here's how.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![slow motion](https://images.wondershare.com/multimedia/speed008.jpg)
 
 Select the clip who's speed you want to change. Then, using either Modify > Retime or the "Smurf" Toolbar icon, select Slow (or Fast).
 
 Choose one of the available speeds; in this case, 50%. (Yes, you can change this to any value you want, I'll show you how in a minute.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create slow/fast motion](https://images.wondershare.com/multimedia/speed009.jpg)
 
 Three things happen at once:
@@ -126,12 +144,18 @@ To reset the speed back to normal (100%), click the downward-pointing arrow in t
 
 There are two ways to change the speed of a clip.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![speed017](https://images.wondershare.com/multimedia/speed017.jpg)
 
 The easy way is to grab the small handle at the end of the clip and drag left or right. The speed will change as you drag it.
 
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
 
 This opens a new dialog allowing a number of changes:
@@ -171,6 +195,9 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 Whether you want your clips to speed up, slow down or just plain stop, Final Cut Pro X makes the entire process easy.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -187,3 +214,42 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-breaking-barriers-a-comprehensive-guide-to-dispute-reporting-without-confrontation-on-discord/"><u>[New] In 2024, Breaking Barriers  A Comprehensive Guide to Dispute Reporting Without Confrontation on Discord</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-engaging-with-the-online-gaming-community/"><u>[New] The Art of Engaging with the Online Gaming Community</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-all-app-analysis-comprehensible-by-az-capture/"><u>[Updated] All-App Analysis  Comprehensible by AZ Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-simplified-method-for-youtubers-to-dailymotion/"><u>[Updated] Simplified Method for YouTubers to Dailymotion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-selection-5-elite-webcams-with-audio-features-for-2024/"><u>[Updated] The Ultimate Selection  5 Elite Webcams With Audio Features for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-bridging-platforms-loop-ready-setups-for-youtube-and-tv/"><u>2024 Approved  Bridging Platforms  Loop-Ready Setups for YouTube and TV</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-secret-screengrabs-elusive-methods-for-concealed-photo-taking/"><u>2024 Approved  Secret ScreenGrabs  Elusive Methods for Concealed Photo-Taking</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/bringing-in-the-crowd-the-top-ten-reasons-and-fixes-to-boost-youtube-views-for-2024/"><u>Bringing in the Crowd  The Top Ten Reasons and Fixes to Boost YouTube Views for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-m34-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy M34</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-design-amazing-whatsapp-status-photos-and-videos-with-ease/"><u>New 2024 Approved Design Amazing WhatsApp Status Photos and Videos with Ease</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-design-to-convert-youtube-thumbnail-size-guidelines-and-effective-strategies/"><u>New 2024 Approved Design to Convert YouTube Thumbnail Size Guidelines and Effective Strategies</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-design-your-own-fake-face-with-these-free-online-tools/"><u>New 2024 Approved Design Your Own Fake Face with These Free Online Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-design-and-send-video-invites-with-these-top-ios-and-android-apps-for-2024/"><u>New Design and Send Video Invites with These Top iOS and Android Apps for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-design-beautiful-invitations-with-these-10-free-video-makers-for-2024/"><u>New Design Beautiful Invitations with These 10 Free Video Makers for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-design-beautiful-memories-online-photo-and-video-collage-editors-for-2024/"><u>New Design Beautiful Memories Online Photo and Video Collage Editors for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-design-stunning-whatsapp-status-updates-with-these-apps-for-2024/"><u>New Design Stunning WhatsApp Status Updates with These Apps for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-design-your-dream-face-free-online-generators-for-2024/"><u>New Design Your Dream Face Free Online Generators for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-design-your-own-fake-face-with-these-free-online-tools-for-2024/"><u>New Design Your Own Fake Face with These Free Online Tools for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-design-engaging-video-invites-on-the-go-best-mobile-apps/"><u>New In 2024, Design Engaging Video Invites on the Go Best Mobile Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-design-your-dream-face-free-online-tools/"><u>New In 2024, Design Your Dream Face Free Online Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-designing-effective-lower-thirds-a-guide-to-fcpx-success/"><u>New In 2024, Designing Effective Lower Thirds A Guide to FCPX Success</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/pc-intro-maker-showdown-top-online-and-offline-tools/"><u>PC Intro Maker Showdown Top Online and Offline Tools</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>The Magnificent Art of Pokemon Go Streaming On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-design-and-send-top-video-invitation-apps-for-ios-and-android/"><u>Updated 2024 Approved Design and Send Top Video Invitation Apps for iOS & Android</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-design-your-own-face-online-best-free-tools-and-websites/"><u>Updated 2024 Approved Design Your Own Face Online Best Free Tools and Websites</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-designing-effective-lower-thirds-in-final-cut-pro-x/"><u>Updated 2024 Approved Designing Effective Lower Thirds in Final Cut Pro X</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-designing-engaging-lower-thirds-for-final-cut-pro-x-projects/"><u>Updated 2024 Approved Designing Engaging Lower Thirds for Final Cut Pro X Projects</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-design-beautiful-invitations-with-these-10-free-video-makers-for-2024/"><u>Updated Design Beautiful Invitations with These 10 Free Video Makers for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-design-stunning-whatsapp-status-updates-with-these-apps-for-2024/"><u>Updated Design Stunning WhatsApp Status Updates with These Apps for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-designing-engaging-lower-thirds-for-final-cut-pro-x-projects-for-2024/"><u>Updated Designing Engaging Lower Thirds for Final Cut Pro X Projects for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-dont-know-how-to-generate-neon-text-dont-worry-we-will-introduce-you-8-best-neon-sign-maker-online-for-you-some-of-them-are-even-free-to-use/"><u>Updated Dont Know How to Generate Neon Text? Dont Worry, We Will Introduce You 8 Best Neon Sign Maker Online for You. Some of Them Are Even Free to Use</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-design-engaging-video-invites-on-the-go-best-mobile-apps/"><u>Updated In 2024, Design Engaging Video Invites on the Go Best Mobile Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-design-your-dream-face-free-online-tools/"><u>Updated In 2024, Design Your Dream Face Free Online Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-design-your-dream-invite-top-10-free-online-video-makers/"><u>Updated In 2024, Design Your Dream Invite Top 10 Free Online Video Makers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-design-your-own-face-online-best-free-tools-and-websites/"><u>Updated In 2024, Design Your Own Face Online Best Free Tools and Websites</u></a></li>
+</ul></div>

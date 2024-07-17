@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Create Ken Burns Effect? Detaied Steps
-date: 2024-06-16T18:19:10.054Z
-updated: 2024-06-17T18:19:10.054Z
+date: 2024-07-16T19:09:36.406Z
+updated: 2024-07-17T19:09:36.406Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
 # How to Make Ken Burns Effect in Final Cut Pro?
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -40,13 +43,16 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+_ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+_ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -60,7 +66,10 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+_ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
 
@@ -72,7 +81,7 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+_ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
 
@@ -82,13 +91,16 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+_ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+_ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
 
@@ -100,7 +112,7 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+_ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
 
@@ -112,6 +124,9 @@ After you have optimized the speed of the Ken Burns Effect by trimming the clip�
 
 Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan and zoom effect, in much easier steps, click to download and have a try!
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
@@ -143,6 +158,9 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -159,3 +177,56 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-meet-mycam-cam-the-home-video-revolution-unfolding/"><u>[New] 2024 Approved  Meet MyCam Cam  The Home Video Revolution Unfolding</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-essential-guide-broadcast-360-videos-on-facebook/"><u>[New] Essential Guide  Broadcast 360 Videos on Facebook</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-clear-cut-strategies-transferring-your-imovie-work-to-vimeo/"><u>[New] In 2024, Clear-Cut Strategies  Transferring Your iMovie Work to Vimeo</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-recording-made-simple-your-phone-cookbook-for-snapping-stories-for-2024/"><u>[New] Recording Made Simple  Your Phone' Cookbook for Snapping Stories for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-select-4-websites-easy-skype-tone-downloads-for-2024/"><u>[Updated] Select 4 Websites  Easy Skype Tone Downloads for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stepwise-steps-to-install-windows-movie-maker-6/"><u>[Updated] Stepwise Steps to Install Windows Movie Maker 6</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-a-compreayers-must-have-top-10-free-passport-photo-tools/"><u>2024 Approved  A Compreayer's Must-Have  Top 10 Free Passport Photo Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-directsnap-recorder-for-modern-oses/"><u>2024 Approved  DirectSnap Recorder for Modern OSes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-discover-the-top-30-free-intro-creators-on-youtube/"><u>2024 Approved  Discover the Top 30 Free Intro Creators on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-high-performance-windows-editing-tools-roundup-reviewed/"><u>2024 Approved  High Performance Windows Editing Tools Roundup Reviewed</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-top-free-video-editors-for-32-bit-windows-computers/"><u>2024 Approved Top Free Video Editors for 32-Bit Windows Computers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-top-free-video-repeat-tools/"><u>2024 Approved Top Free Video Repeat Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-top-gopro-video-editing-software-alternatives/"><u>2024 Approved Top GoPro Video Editing Software Alternatives</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-top-green-screen-software-for-mac-features-pricing-and-more/"><u>2024 Approved Top Green Screen Software for Mac Features, Pricing, and More</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-top-mac-movie-makers-for-beginners-a-step-by-step-selection-process/"><u>2024 Approved Top Mac Movie Makers for Beginners A Step-by-Step Selection Process</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-10-stunning-stop-motion-movies-you-should-not-miss/"><u>In 2024, 10 Stunning Stop Motion Movies You Should Not Miss</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-captivating-startups-discovering-the-best-15-video-intros/"><u>In 2024, Captivating Startups  Discovering the Best 15 Video Intros</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a79-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A79 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-simple-tricks-make-3d-gif-production-of-inspiration-pop-up-constantly/"><u>In 2024, Simple Tricks Make 3D GIF Production of Inspiration Pop up Constantly</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-top-free-video-editors-for-32-bit-windows-computers/"><u>In 2024, Top Free Video Editors for 32-Bit Windows Computers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-top-hd-video-editors-for-creators-and-professionals/"><u>In 2024, Top HD Video Editors for Creators and Professionals</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-top-mac-movie-makers-for-beginners-a-step-by-step-selection-process/"><u>In 2024, Top Mac Movie Makers for Beginners A Step-by-Step Selection Process</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-top-mac-video-editing-software-options-beyond-pinnacle-studio/"><u>In 2024, Top Mac Video Editing Software Options Beyond Pinnacle Studio</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-motorola-razr-40-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Motorola Razr 40 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-cant-i-install-the-ipogo-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Why cant I install the ipogo On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-fb-status-video-downloads-a-2023-guide/"><u>Mastering FB Status Video Downloads  A 2023 Guide</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-how-to-make-gif-stickers-for-whatsapp-100-the-simple-way-for-2024/"><u>New How to Make GIF Stickers for WhatsApp 100 The Simple Way for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-in-2024-know-all-about-animated-business-logos-and-the-best-tools-to-create-one/"><u>New In 2024, Know All About Animated Business Logos and the Best Tools to Create One</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-free-video-smoothers-for-pc-and-mac/"><u>New Top Free Video Smoothers for PC and Mac</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-gopro-video-editing-software-alternatives/"><u>New Top GoPro Video Editing Software Alternatives</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-highlight-reel-creators-desktop-and-mobile-apps/"><u>New Top Highlight Reel Creators Desktop and Mobile Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-iphone-and-ipad-video-collage-makers/"><u>New Top iPhone and iPad Video Collage Makers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-mac-mp3-converters-for-seamless-audio-conversion/"><u>New Top Mac MP3 Converters for Seamless Audio Conversion</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-free-video-repeater-software-for-windows-and-mac-for-2024/"><u>Top Free Video Repeater Software for Windows and Mac for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-free-video-smoothers-for-pc-and-mac-for-2024/"><u>Top Free Video Smoothers for PC and Mac for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-free-wmv-video-assembly-tools-for-seamless-playback-for-2024/"><u>Top Free WMV Video Assembly Tools for Seamless Playback for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-hand-drawing-whiteboard-animation-tools-for-creators-for-2024/"><u>Top Hand Drawing Whiteboard Animation Tools for Creators for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-iphone-and-ipad-video-montage-apps-for-2024/"><u>Top iPhone and iPad Video Montage Apps for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-iphone-and-ipad-video-montage-makers-for-2024/"><u>Top iPhone and iPad Video Montage Makers for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-lego-animators-to-watch-for-2024/"><u>Top Lego Animators to Watch for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-mac-movie-makers-for-beginners-a-step-by-step-selection-process-for-2024/"><u>Top Mac Movie Makers for Beginners A Step-by-Step Selection Process for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-movie-trailer-editing-tools-for-windows-and-macos/"><u>Updated Best Movie Trailer Editing Tools for Windows and macOS</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-eliminating-audio-turbulence-in-recordings-across-devices/"><u>Updated Eliminating Audio Turbulence in Recordings Across Devices</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-free-mov-video-editors-with-rotation-feature/"><u>Updated Top Free MOV Video Editors with Rotation Feature</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-gif-accelerators-online-ios-and-android-tools/"><u>Updated Top GIF Accelerators Online, iOS, and Android Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-gopro-video-editing-software-alternatives/"><u>Updated Top GoPro Video Editing Software Alternatives</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-imovie-alternatives-for-windows-10-free-and-premium-options/"><u>Updated Top iMovie Alternatives for Windows 10 Free and Premium Options</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-mac-video-editors-of-a-comprehensive-review/"><u>Updated Top Mac Video Editors of A Comprehensive Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oneplus-ace-2v-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On OnePlus Ace 2V? Fixed | Dr.fone</u></a></li>
+</ul></div>
