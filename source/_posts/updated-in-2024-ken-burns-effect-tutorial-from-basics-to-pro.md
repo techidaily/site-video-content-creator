@@ -1,0 +1,217 @@
+---
+title: Updated In 2024, Ken Burns Effect Tutorial From Basics to Pro
+date: 2024-08-15T00:48:41.887Z
+updated: 2024-08-16T00:48:41.887Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes Updated In 2024, Ken Burns Effect Tutorial From Basics to Pro
+excerpt: This Article Describes Updated In 2024, Ken Burns Effect Tutorial From Basics to Pro
+keywords: ai animation final cut pro tutorial adding emotional depth with the ken burns effect updated 2023,how to make ken burns effect in final cut pro,ken burns effect tutorial from basics to pro,ken burns effect in minutes quick and easy tutorial,final cut pro tutorial adding emotional depth with the ken burns effect updated 2023,final cut pro aspect ratio tutorial from basics to advanced,from basic to brilliant using ken burns effect in final cut pro like a pro
+thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4f9c2a1611133710cbbaabe1.jpg
+---
+
+## Ken Burns Effect Tutorial: From Basics to Pro
+
+# How to Make Ken Burns Effect in Final Cut Pro?
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+Ken Burns Effect is an advanced feature of Final Cut Pro that allows users to add creative animations to their videos and images within minutes. You just need to select your picture, add movements to the clip, and choose the start and the end position to produce high-resolution stills. Besides, you can do a tilt, zoom in, a pan, or a combination of these three moves on a single image. This way, you can use the Ken Burns Effect to highlight the stimulating features in your photograph and save your memories in the form of innovative and high-definition animated clips.
+
+This article introduces the readers to Final Cut Pro and explains how to add the Ken Burns Effect in 8 simple steps.
+
+* [Part 1: How to Make a Ken Burns Effect in Final Cut Pro?\[detaied steps\]](#Part1)
+* [Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?](#Part2)
+* [Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?](#Part3)
+
+## **Part 1: How to Make a Ken Burns Effect in Final Cut Pro?**
+
+Final Cut Pro is user-friendly software and makes it easy for you to create a Ken Burns Effect without having advanced skills and expertise. So, are you interested in knowing the best part? Given below are a few simple steps to create Ken Burns Effect and make your pictures and videos look adorable.
+
+**Step 1: Add Images to the Timeline**
+
+First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
+
+_![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
+
+**Step 2: Check Your Settings**
+
+As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
+
+_![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
+
+**Step 3: Add the Ken Burns Effect**
+
+The Ken Burns Effect is used to focus on specific parts of an image and bring motionless content in to provoke emotional reactions. Follow these steps to add the Ken Burns Effect:
+
+1. Select the clip or picture;
+2. See the lower left of the viewer;
+3. Go to the Viewer window using the drop-down menu;
+4. Tap on the pop-up menu located in the bottom left-hand corner;
+5. Choose the Crop option from the menu or press Shift + C;
+6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
+7. Finally, notice the start frame and the end frame controls.
+
+_![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
+
+**Step 4: Customize Your Effect**
+
+In the Ken Burns display, you can see the controls for adjusting the panning and zooms effects by changing the size and position of two-colored rectangles overlaying on the clip. To customize the Ken Burns effect:
+
+1. Adjust the green rectangle’s size and position to set the start position;
+2. Adjust the red rectangle’s size and position to set the end position;
+3. The arrow depicts the direction of camera position between start and end position;
+4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
+5. You can see the preview of the animation on the screen.
+
+_![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg)_
+
+**Step 5: Add a Freeze Frame**
+
+You’re not done yet because you need to hold your picture at the end of the animation. For this purpose, you should create a freezing frame at the end of the clip to make Ken Burns do this. Here’s the deal:
+
+1. Press the Down arrow followed by the Left arrow to go to the last frame;
+2. Press Option-F to add a freeze-frame;
+3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
+
+_![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
+
+**Step 6: Adjust the Duration of the Freeze Frame**
+
+The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
+
+_![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
+
+**Step 7: Swap the Start and End Frame**
+
+Now, swap the start and ending frame as per your preference for the Ken Burns animation. Here’s how you can do this:
+
+1. Click on the Swap button;
+2. The start frame will match the still frame (previous one);
+3. Grab the end frame and move it to your desired position;
+4. Apply enough zoom in to make the black areas disappear;
+5. Preview to see how your animation looks.
+
+_![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
+
+**Step 8: Play/Preview Looping**
+
+After you have optimized the speed of the Ken Burns Effect by trimming the clip’s length and have widened the shot to include everyone, it’s time to preview the changes you have made. Given below are simple steps:
+
+* Press the Play Loop button;
+* Tap on the Pause icon and return to editing;
+* Click Done and enjoy your animation.
+
+Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan and zoom effect, in much easier steps, click to download and have a try!
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
+
+Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
+
+1. Add the first camera movement to your image;
+2. Duplicate the clip by click and drag option or copy and paste option;
+3. Press the Swap button in the Ken Burns settings to reverse the start and end positions;
+4. Verify if multiple camera movements have been added.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
+
+**What is the Ken Burns Effect?**
+
+The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effect by using your predefined start and end positions. Basically, it is a crop effect with one crop at the start of the clip while the other at the end. Ken Burns Effect can be further customized by adjusting the smoothness of the animation. While creating a Ken Burns Effect, the motion applied to the video clips gets automatically smoothed to accelerate and decelerate the movement slowly at the start and the end of the animation.
+
+**Why the Effect is named after Ken Burns?**
+
+Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
+
+![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+
+**What are the Applications of Ken Burns Effect?**
+
+Primarily, the Ken Burns Effect is used due to the unavailability of a film or video. The technique gives action to still photographs to glorify the subjects of interest like couples in wedding photography. It gets better and better as you apply simulated parallax with Ken Burns Effect to make your 2D images appear as 3D plus advanced zooming visuals. You can also use the Ken Burns effect to make a video of your graduation ceremony pictures or memorable moments of reunion. Ken Burns Effect is also used in documentaries by professional filmmakers and editors.
+
+**Conclusion**
+
+Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-critical-choice-10-apps-to-stream-your-favorite-rugby-matches/"><u>[New] Critical Choice 10 Apps to Stream Your Favorite Rugby Matches</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ideal-platforms-for-procuring-youtube-ringtone-files/"><u>[New] In 2024, Ideal Platforms for Procuring YouTube Ringtone Files</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-visuals-that-convert-mastering-the-art-of-video-marketing-on-insta/"><u>[New] In 2024, Visuals That Convert  Mastering the Art of Video Marketing on Insta</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-curating-soundscapes-a-detailed-look-at-youtube-playlists-for-2024/"><u>[Updated] Curating Soundscapes  A Detailed Look at YouTube Playlists for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-5-best-snipping-tool-for-chromebook/"><u>[Updated] In 2024, 5 Best Snipping Tool For Chromebook</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-how-to-make-a-tiktok-outro/"><u>[Updated] In 2024, How To Make A Tiktok Outro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snappy-segments-10-snippets-to-enhance-your-edits/"><u>[Updated] Snappy Segments  10 Snippets to Enhance Your Edits</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-art-of-transformation-in-tiktok-videos-via-background-shifts/"><u>[Updated] The Art of Transformation in TikTok Videos via Background Shifts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-expert-strategies-to-master-the-instagram-query-tag/"><u>2024 Approved  Expert Strategies to Master the Instagram Query Tag</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-live-stream-showdown-xsplit-vs-obs/"><u>2024 Approved  Live Stream Showdown  XSplit Vs. OBS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-pocket-money-needed-heres-a-free-solution-to-coffee-stains-in-images/"><u>2024 Approved  No Pocket Money Needed? Here’s a FREE Solution to Coffee Stains in Images</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a05-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy A05?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-tecno-spark-10-4g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Tecno Spark 10 4G</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-soundscaping-instagram-reels-a-step-by-step-tutorial/"><u>In 2024, Soundscaping Instagram Reels  A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-best-of-the-best-top-10-2d-animation-software-free-and-paid-for-2024/"><u>New The Best of the Best Top 10 2D Animation Software (Free & Paid) for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-slow-motion-video-editing-top-10-software-for-2024/"><u>New The Ultimate Guide to Slow Motion Video Editing Top 10 Software for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-free-video-editing-apps-with-special-effects-for-ios-and-android/"><u>New Top Free Video Editing Apps with Special Effects for iOS and Android</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-rated-free-mod-video-editors-the-best-for-2024/"><u>New Top-Rated Free MOD Video Editors The Best for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-trim-your-videos-for-free-10-best-online-video-editors-for-2024/"><u>New Trim Your Videos for Free 10 Best Online Video Editors for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-wax-101-how-to-edit-videos-like-a-pro-with-this-free-editor/"><u>New Wax 101 How to Edit Videos Like a Pro with This Free Editor</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/rise-and-shine-wake-up-to-savings-with-our-filmora-easter-sale-for-2024/"><u>Rise and Shine Wake Up to Savings with Our Filmora Easter Sale for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/rotate-avi-videos-with-ease-16-best-free-tools-and-apps-for-2024/"><u>Rotate AVI Videos with Ease 16 Best Free Tools and Apps for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-best-free-cloud-based-video-editing-tools-for-2024/"><u>The Best Free, Cloud-Based Video Editing Tools for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-free-flv-video-editing-solutions-top-5-recommendations/"><u>Updated 2024 Approved Free FLV Video Editing Solutions Top 5 Recommendations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-free-video-editing-solutions-for-32-bit-windows-our-top-picks/"><u>Updated 2024 Approved Free Video Editing Solutions for 32-Bit Windows Our Top Picks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-from-clips-to-masterpiece-essential-video-editing-tips-for-home-movie-makers/"><u>Updated 2024 Approved From Clips to Masterpiece Essential Video Editing Tips for Home Movie Makers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-mavericks-video-editing-software-easily-edit-mp4-files/"><u>Updated 2024 Approved Mavericks Video Editing Software Easily Edit MP4 Files</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-split-cut-and-edit-videos-for-free-our-top-recommendations/"><u>Updated 2024 Approved Split, Cut, and Edit Videos for Free Our Top Recommendations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-transform-your-memories-video-editing-secrets-for-beginners/"><u>Updated 2024 Approved Transform Your Memories Video Editing Secrets for Beginners</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-video-editors-handbook-download-and-learn/"><u>Updated In 2024, The Ultimate Video Editors Handbook Download and Learn</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlocking-adobe-premiere-pro-import-edit-and-export-video-files-with-ease/"><u>Updated In 2024, Unlocking Adobe Premiere Pro Import, Edit, and Export Video Files with Ease</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-invitation-goals-top-video-maker-apps-for-iphone-and-android-users-for-2024/"><u>Updated Invitation Goals Top Video Maker Apps for iPhone and Android Users for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-make-your-moments-shine-best-highlight-video-makers-for-desktop-and-mobile-for-2024/"><u>Updated Make Your Moments Shine Best Highlight Video Makers for Desktop and Mobile for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-5-most-popular-hand-drawn-whiteboard-animation-creators-for-2024/"><u>Updated The 5 Most Popular Hand-Drawn Whiteboard Animation Creators for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-art-of-audio-fading-2-techniques-to-elevate-your-videos-in-final-cut-pro/"><u>Updated The Art of Audio Fading 2 Techniques to Elevate Your Videos in Final Cut Pro</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-best-free-mod-video-editing-software-a-beginners-guide-for-2024/"><u>Updated The Best Free MOD Video Editing Software A Beginners Guide for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-free-iphone-video-rotators-top-5-for-2024/"><u>Updated The Ultimate Guide to Free iPhone Video Rotators Top 5 for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-gopro-video-editing-quik-review-and-pc-alternatives/"><u>Updated The Ultimate Guide to GoPro Video Editing Quik Review and PC Alternatives</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-splitting-videos-in-windows-live-movie-maker-for-beginners-for-2024/"><u>Updated The Ultimate Guide to Splitting Videos in Windows Live Movie Maker for Beginners for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-10-best-cartoon-video-makers-for-pc-and-web/"><u>Updated The Ultimate List 10 Best Cartoon Video Makers for PC and Web</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-10-best-cartoon-video-maker-apps-on-android-and-iphone/"><u>Updated Top 10 Best Cartoon Video Maker Apps on Android and iPhone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

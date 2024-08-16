@@ -1,0 +1,158 @@
+---
+title: Updated In 2024, The Best of the Best 5 Free Online Tone Generators
+date: 2024-08-15T00:55:46.004Z
+updated: 2024-08-16T00:55:46.004Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes Updated In 2024, The Best of the Best 5 Free Online Tone Generators
+excerpt: This Article Describes Updated In 2024, The Best of the Best 5 Free Online Tone Generators
+keywords: create tones in seconds 5 best online generators,simple and free the best online tone generators reviewed,free and fabulous the 5 best online tone generators out there,free and easy the best online tone generator sites,the ultimate list 5 free online tone generators,the best of the best 5 free online tone generators,the best of the best top 5 online stop motion creators
+thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401fbcd66ce15df928f6be58b2.jpg
+---
+
+## The Best of the Best: 5 Free Online Tone Generators
+
+# 5 Best Online Tone Generators for You
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+Conducting science experiments, calibrating the audio equipment, testing your hearing or tuning music instruments are just a few reasons why online tone generators can be useful in a wide range of contexts. Most of the tools that enable you to generate different tones on online platforms are easy to use and they won’t take you too much time to get a hold of them.
+
+Furthermore, some of the **online tone generators** can even be used to improve health as some scientific studies have proven that a low-frequency tone can help treat the Alzheimer's disease.
+
+Regardless of the reason why you want to generate tones, these online tone generators will help you accomplish this task with ease.
+
+You may also like: [**How to Add a Vignette Effect Online**](https://tools.techidaily.com/wondershare/filmora/download/) \>>
+
+---
+
+## Top 5 Online Tone Generators
+
+Each of the online generators listed below will enable you to **hear a pure tone, and let you adjust the tone’s frequency.** Make sure that the volume on **your headphones or the speakers is properly adjusted** to avoid damaging the equipment and your hearing.
+
+#### 1. [Online Tone Generator](http://onlinetonegenerator.com/)
+
+You can find a number of different options on this website that range from the Pitch Shifter that allows you to change the Pitch of the files you upload to the Online Tone Generator platform to Binaural Beats and DTMF Signals. After you land on the website’s homepage, you’ll be able to see a tone generator that lets you **select the frequency, volume and the waveform of a tone**. The frequency will be set to 44.1 kHz and the wave type will be set to **Sine by default**.
+
+![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/onlinetonegenerator-online-tone-generator.jpg)
+
+You can insert any frequency value you want or choose between **Sine, Square, Sawtooth and Triangle wave type options**. The volume bar lets you control how loud the tone you’re generating is. The **Play and Stop** buttons enable you to start or pause the playback whenever you want, while the **Save** button lets you **download** the tone you created.
+
+#### 2. [Audio Test File Generators](https://www.audiocheck.net/audiofrequencysignalgenerator%5Findex.php)
+
+![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-options.jpg)
+
+**Generating Sweep, Dual or Sine tones** with this online tool is easy, as you simply have to select the type of tone you want to generate. All sound files you can find on this platform are accurately calibrated, and you can adjust their frequency and amplitude. Clicking on any of the links available in the Tone Gen section of this website will take you to another page where you can adjust the properties of a tone before downloading it.
+
+![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-sinetone.jpg)
+
+In the upper left corner of the new webpage, you’ll be able to see the **Play** button that lets you hear the default tone you selected. Directly below you can find the File Generator option where you can adjust the properties of the tone you’re generating. The displayed options depend on the type of tone you selected. Clicking on the **Download** button will save the tone you generated to your computer, but you won’t be able to save a tone if you inserted an incorrect value into one of the boxes.
+
+#### 3. [Szynalski Online Tone Generator](http://www.szynalski.com/tone-generator/)
+
+Making tones on this online platform doesn’t require any effort at all since you can easily control the frequency of the tone using a large slider that is displayed across the entire page. Clicking on the **Play** button will play the tone under the current settings so you can make the necessary adjustments if you’re not happy with the results you’re getting. Several options that let you fine-tune the settings of the tone you’re generating can be found below the frequency slider.
+
+![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/szynalski-online-tone-generator.jpg)
+
+The **volume and balance** are located on the right side of the screen and they allow you to determine how loud the tone is going to be or to choose to which channel the majority of the signal is going to be sent. The value in the middle of the screen displays the current frequency of the tone. The arrows also allow you to change the frequency value, while clicking on the wave type selector lets you choose between Sawtooth, Sine, Triangle, and Square options.
+
+The tones you generate on this website **can’t be downloaded to your computer**, but you can use the **Get Link option** to send a tone to your email or to a friend.
+
+#### 4. [Wavtones Audio Frequency Signal Generator](https://www.wavtones.com/functiongenerator.php)
+
+The free version of this website offers only a **limited amount of tones** that have a maximum **duration of 5 seconds**. Purchasing Basic, Pro or Corporate packages will grant you access to all types of tones this online tone generator offers, and the tones you download can last up to 300 seconds depending on the sample rate.
+
+![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/wavtones-online-tone-generator.jpg)
+
+The **WavtonesAudio Frequency Signal Generator** allows you to alter the properties of each tone it offers, even if you’re using the free version, but you can’t listen to any of the available tones before you download them. This makes it a bit more difficult to generate a tone in accordance with your current demands. Furthermore, the **Bit Depth** of all tones the free version of this online tone generator provides is limited to 16-bit.
+
+#### 5. [Gieson TonGen](https://www.gieson.com/Library/projects/utilities/tonegen/)
+
+If you are looking for an easy way to generate tones from your browser this may be one of the best options available. You can easily change the frequency of a tone by dragging the Hz slider, and the Fine Tune Hz slider enables you to find the perfect frequency of a tone.
+
+There are **four wave types** you can choose from that generate different types of tones and you can change their tonality by clicking on one of the buttons located near the bottom of the tone generator.
+
+![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/gieson-tone-generator.jpg)
+
+Saving the tones you generate is not possible as Gieson TonGen website doesn’t offer this option. Using a link to send a tone you created is also not possible. This online tone generator is a perfect option if you’re looking for a way to quickly generate a tone directly from your web browser, but it can be hardly considered a great option if you want to generate a tone for professional purposes.
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+## Conclusion
+
+The scope of options different online tone generators provide can vary. That is the reason why your decision which of the tone-generating tools we covered in this article you are going to use depends on the reason why you’re creating a tone.
+
+What is your favorite method of generating tones? Leave a comment below and let us know.
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-magixs-acid-pro-critique-with-comparison-tools/"><u>[New] Magix's ACID Pro Critique with Comparison Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-up-your-game-mastering-effective-video-title-and-tag-techniques-for-2024/"><u>[Updated] Step Up Your Game  Mastering Effective Video Title & Tag Techniques for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superheroes-clash-black-vs-silver/"><u>2024 Approved  Superheroes Clash  BLACK vs SILVER</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bmw-ag/"><u>BMW AG</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conquer-effective-chatbot-dialogue-top-strategies-for-writing-winning-prompts/"><u>Conquer Effective Chatbot Dialogue: Top Strategies for Writing Winning Prompts</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-note-12-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi Note 12 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-c53-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme C53 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/focal-flares-amplifying-your-footage-visually/"><u>Focal Flares  Amplifying Your Footage Visually</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-logitech-g-pro-x-microphone-up-and-running-again-expert-tips-and-advice/"><u>Getting Your Logitech G Pro X Microphone Up and Running Again - Expert Tips & Advice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone? 5 Best Solutions | Stellar</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-plus-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 Plus iOS? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-70-lite-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor 70 Lite 5G Phone without Google Account?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-realme-c67-4g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Realme C67 4G Phone When You Forget the Password</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-google-pixel-fold-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Google Pixel Fold Phones with/without a PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-civi-3-disney-100th-anniversary-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Civi 3 Disney 100th Anniversary Edition Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-15-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 15 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-mastering-color-consistency-a-powerdirector-tutorial-for-video-editors/"><u>New In 2024, Mastering Color Consistency A PowerDirector Tutorial for Video Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-maximize-your-storage-tips-and-tricks-for-liberating-space-for-fcpx/"><u>New In 2024, Maximize Your Storage Tips and Tricks for Liberating Space for FCPX</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-neon-text-generators-the-9-easiest-online-tools-to-use-this-year/"><u>New In 2024, Neon Text Generators The 9 Easiest Online Tools to Use This Year</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-s-best-pc-video-dubbing-programs-reviews-and-downloads/"><u>New In 2024, S Best PC Video Dubbing Programs Reviews and Downloads</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-screen-and-webcam-recording-the-top-10-windows-10-tools/"><u>New In 2024, Screen and Webcam Recording The Top 10 Windows 10 Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-smooth-sailing-the-top-free-online-video-stabilization-software/"><u>New In 2024, Smooth Sailing The Top Free Online Video Stabilization Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-streamline-your-video-editing-fast-and-easy-video-trimming-on-mac/"><u>New In 2024, Streamline Your Video Editing Fast & Easy Video Trimming on Mac</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-best-free-mov-video-rotator-tools/"><u>New In 2024, The Best Free MOV Video Rotator Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-time-lapse-mastery-a-step-by-step-guide-in-final-cut-pro/"><u>New In 2024, Time Lapse Mastery A Step-by-Step Guide in Final Cut Pro</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-virtualdub-alternatives-for-video-editing/"><u>New In 2024, Top VirtualDub Alternatives for Video Editing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-vlog-editing-tools-for-popular-platforms-free-and-paid-options/"><u>New In 2024, Top Vlog Editing Tools for Popular Platforms Free and Paid Options</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-rated-flv-editor-for-windows-8-edit-videos-like-a-pro/"><u>New In 2024, Top-Rated FLV Editor for Windows 8 Edit Videos Like a Pro</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-rated-free-imovie-alternatives-for-video-editing/"><u>New In 2024, Top-Rated Free iMovie Alternatives for Video Editing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-vn-video-editor-pc-review-a-quick-overview/"><u>New In 2024, VN Video Editor PC Review A Quick Overview</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-this-article-you-will-see-how-filmora-video-cutter-and-joiner-lets-you-cut-and-join-the-best-of-your-original-footage-for-2024/"><u>New In This Article, You Will See How Filmora Video Cutter and Joiner Lets You Cut and Join the Best of Your Original Footage for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mac-green-screen-whats-the-best-software-for-you/"><u>New Mac Green Screen Whats the Best Software for You?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-make-a-lasting-impression-best-video-resume-creators-with-templates/"><u>New Make a Lasting Impression Best Video Resume Creators with Templates</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mastering-pip-in-final-cut-pro-a-step-by-step-guide/"><u>New Mastering PiP in Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mobile-mastery-the-top-10-vlog-editor-apps-you-need-to-know/"><u>New Mobile Mastery The Top 10 Vlog Editor Apps You Need to Know</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mp4-video-editing-software-for-windows-8-fast-and-reliable-solution/"><u>New MP4 Video Editing Software for Windows 8 Fast and Reliable Solution</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-premiere-pro-system-essentials-what-you-need-to-know-before-you-start/"><u>New Premiere Pro System Essentials What You Need to Know Before You Start</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-setup-for-chatgpt-on-linux-the-bavarder-method-unveiled/"><u>Seamless Setup for ChatGPT on Linux: The Bavarder Method Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dangerous-truth-about-9-phony-chatgpt-programs-and-the-data-theft-they-pose/"><u>The Dangerous Truth About 9 Phony ChatGPT Programs and the Data Theft They Pose</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-z-fold-5-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy Z Fold 5 FRP</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unleash-creativity-using-snapchat-to-edit-and-enhance-photos/"><u>Unleash Creativity  Using Snapchat to Edit and Enhance Photos</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo Y100i? | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
