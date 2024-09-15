@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Final Cut Pro Hack Flipping Clips in 4 Easy Steps
-date: 2024-09-09T01:38:56.325Z
-updated: 2024-09-10T01:38:56.325Z
+date: 2024-09-10T02:40:06.833Z
+updated: 2024-09-14T23:27:01.313Z
 tags: 
   - video editing software
   - video editing
@@ -48,12 +48,6 @@ There is a popup menu for you to get the **Transform** tool. It is in the lower-
 
 ![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 3:  Rotate and Re-size Video Clips
 
 You can now do the following steps to rotate the video clip and change the size as well:
@@ -62,12 +56,6 @@ There are **blue handles at each corner** which enable the user to adjust image 
 
 ![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
 ![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
@@ -76,30 +64,12 @@ The **center circle** indicates the rotation anchor points that enable the chang
 
 ![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
 ![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
 * The Scale option is for resizing the image. Click the small arrow alongside it and then you will see X and Y options. To flip the video clip, just enter-1oo in the X sidebar and press the **Enter** key. You will see then the selected clip in the timeline will be flipped horizontally to another direction. Enter -100 in the Y sidebar and then the clip will be flipped vertically, namely, upside-down direction.
@@ -120,18 +90,6 @@ If you'd like an easier way to filp a clip, Wondershare Filmora will be the best
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Flipping the clips more easily in Wondershare Filmora:
 
 **Step1: Importing the original video clip:**
@@ -152,46 +110,22 @@ Wondershare Filmora also allows you to flip a few parts of the video instead of 
 
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-3-filp-video.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * _Exporting the flip video:_
 
 After the outcome, click on **the Export option in the middle on the right side to save** the flip video. The pop-up window will appear on the screen, and choose the configuration according to your choice of playing the video. You can even upload the videos on YouTube or burn them to DVD to save them. You can even apply unique effects to your video.
 
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-4-filp-video.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Do you like the basic tutorial about Apple Final Cut Pro? Professional video editing software like FCPX is always popular among creators. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
 ![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -200,58 +134,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-be-a-youtube-gamer/"><u>[New] 2024 Approved  How To Be a YouTube Gamer</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-saving-instagrams-trending-videos/"><u>[New] 2024 Approved  The Ultimate Guide to Saving Instagram's Trending Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-polarrs-full-spectrum-tools-your-go-to-guide-to-editing-excellence/"><u>[New] Polarr's Full Spectrum Tools - Your Go-To Guide to Editing Excellence</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-video-editors-unite-adobe-and-youtube-integration-tips/"><u>[New] Video Editors Unite  Adobe and YouTube Integration Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-asmr-tactics-your-path-to-nocturnal-serenity/"><u>[Updated] ASMR Tactics  Your Path to Nocturnal Serenity</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-audio-visual-choreography-for-viral-content/"><u>[Updated] Audio-Visual Choreography for Viral Content</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-dominance-in-video-landscape-mirrorless-vs-dslr-cameras/"><u>2024 Approved  Dominance in Video Landscape  Mirrorless vs DSLR Cameras</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-activatedeactivate-pip-in-ios-web-experience/"><u>2024 Approved  How to Activate/Deactivate PIP in iOS Web Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-edits-navigating-photoshops-eraser-function/"><u>2024 Approved  Seamless Edits  Navigating Photoshop’s Eraser Function</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-transform-spoken-words-into-written-format-powerpoints-voice-recognition-insight/"><u>2024 Approved  Transform Spoken Words Into Written Format  PowerPoint’s Voice Recognition Insight</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-11-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 11 iCloud Activation Lock</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-list-of-top-8-wallpapers-for-macbooks-for-2024/"><u>Exclusive List of Top 8 Wallpapers for MacBooks for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-v27-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo V27 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-7-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 7 & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone 15 Pro</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/keeping-hyperx-headsets-up-to-date-with-new-driver-implementations/"><u>Keeping HyperX Headsets Up To Date with New Driver Implementations</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-video-quality-improvement-software-for-2024/"><u>New The Ultimate Guide to Video Quality Improvement Software for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-sources-for-free-public-domain-video-downloads/"><u>New Top Sources for Free Public Domain Video Downloads</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-trailer-magic-top-video-editing-software-for-mac-and-pc/"><u>New Trailer Magic Top Video Editing Software for Mac and PC</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-turn-your-photos-into-a-movie-a-beginners-tutorial/"><u>New Turn Your Photos Into a Movie A Beginners Tutorial</u></a></li>
-<li><a href="https://facebook.techidaily.com/stealthy-step-down-tactics-to-delete-multiple-business-profiles-on-facebook/"><u>Stealthy Step-Down Tactics to Delete Multiple Business Profiles on Facebook</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/riber-glory-the-play-button-and-accolades-for-maker-for-2024/"><u>Subscriber Glory  The Play Button & Accolades for Maker for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/subtitle-edit-for-mac-download-alternatives-for-2024/"><u>Subtitle Edit for Mac Download Alternatives for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/unleashing-potential-the-extensive-functionality-of-samsung-gear-s3-frontier-examined-in-depth/"><u>Unleashing Potential: The Extensive Functionality of Samsung Gear S3 Frontier Examined in Depth</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-video-makers-with-music-for-android-and-iphone/"><u>Updated 2024 Approved Best Video Makers with Music for Android and iPhone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-flv-editor-for-windows-8-easily-edit-flv-videos-on-pc/"><u>Updated 2024 Approved FLV Editor for Windows 8 Easily Edit FLV Videos on PC</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-cut-editing-time-in-half-40-final-cut-pro-x-keyboard-shortcuts-for-2024/"><u>Updated Cut Editing Time in Half 40 Final Cut Pro X Keyboard Shortcuts for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-effortless-video-organization-on-mac-top-8-metadata-editors-for-2024/"><u>Updated Effortless Video Organization on Mac Top 8 Metadata Editors for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-expert-recommended-3d-video-creators-you-cant-miss-for-2024/"><u>Updated Expert-Recommended 3D Video Creators You Cant Miss for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-filmora-free-trial-vs-torrent-which-one-is-safe-and-legit-for-2024/"><u>Updated Filmora Free Trial vs Torrent Which One Is Safe and Legit for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-audio-post-production-in-fcp-tips-and-tricks/"><u>Updated In 2024, Audio Post-Production in FCP Tips and Tricks</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-cutting-edge-mkv-editing-tools-for-mac/"><u>Updated In 2024, Cutting-Edge MKV Editing Tools for Mac</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-secure-your-footage-how-to-blur-faces-in-videos/"><u>Updated In 2024, Secure Your Footage How to Blur Faces in Videos</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-streamline-your-mpeg2-videos-with-virtualdub-download/"><u>Updated In 2024, Streamline Your MPEG2 Videos with VirtualDub Download</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-list-of-free-3d-animation-apps-for-android-and-iphone/"><u>Updated In 2024, The Ultimate List of Free 3D Animation Apps for Android and iPhone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-transforming-shaky-videos-into-cinematic-masterpieces-with-fcpx/"><u>Updated In 2024, Transforming Shaky Videos Into Cinematic Masterpieces with FCPX</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-video-editing-mastery-on-mac-os-x-mavericks-edition/"><u>Updated In 2024, Video Editing Mastery on Mac OS X Mavericks Edition</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-looking-beyond-pinnacle-studio-best-mac-video-editors-for-2024/"><u>Updated Looking Beyond Pinnacle Studio Best Mac Video Editors for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-reduce-file-size-not-quality-5-best-free-video-compression-apps-for-ios/"><u>Updated Reduce File Size, Not Quality 5 Best Free Video Compression Apps for iOS</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-s-best-free-whiteboard-animation-software-for-windows-mac-and-online/"><u>Updated S Best Free Whiteboard Animation Software for Windows, Mac, and Online</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-unleash-creativity-top-10-animated-text-generators-for-marketing-pros-for-2024/"><u>Updated Unleash Creativity Top 10 Animated Text Generators for Marketing Pros for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-video-editing-like-a-pro-expert-techniques-for-jaw-dropping-effects-for-2024/"><u>Updated Video Editing Like a Pro Expert Techniques for Jaw-Dropping Effects for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-vignette-perfection-discover-the-best-apps-for-ios-and-android/"><u>Updated Vignette Perfection Discover the Best Apps for iOS and Android</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-fixing-obscured-content-on-youtube-platform/"><u>[New] In 2024, Fixing Obscured Content on YouTube Platform</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-greatest-action-packed-gaming-escapades-top-10/"><u>[Updated] Greatest Action-Packed Gaming Escapades (Top 10)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-merge-easy-to-use-skype-with-advanced-zoom-features/"><u>[Updated] Merge Easy-to-Use Skype with Advanced Zoom Features</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/chuckle-champs-twitters-humor-heap/"><u>Chuckle-Champs Twitter’s Humor Heap</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comical-creation-quick-tips-for-meme-mastery/"><u>In 2024, Comical Creation Quick Tips for Meme Mastery</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-60-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo 60 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-turning-beauty-blogging-into-cash/"><u>In 2024, Turning Beauty Blogging Into Cash</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-virtualdub-substitutes-a-comprehensive-list-of-video-editors-for-2024/"><u>New VirtualDub Substitutes A Comprehensive List of Video Editors for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/our-favorite-free-video-splitters-a-comprehensive-review-for-2024/"><u>Our Favorite Free Video Splitters A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pictureweaver-pro-online-illustration-hub/"><u>PictureWeaver Pro Online Illustration Hub</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-for-improving-game-performance-and-boosting-fps-on-your-pc/"><u>Top Strategies for Improving Game Performance and Boosting FPS on Your PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-12-essential-animation-makers-to-elevate-your-video-content/"><u>Updated 2024 Approved 12 Essential Animation Makers to Elevate Your Video Content</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

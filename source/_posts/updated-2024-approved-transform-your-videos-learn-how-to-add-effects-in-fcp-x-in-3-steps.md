@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Transform Your Videos Learn How to Add Effects in FCP X in 3 Steps
-date: 2024-09-09T01:38:51.886Z
-updated: 2024-09-10T01:38:51.886Z
+date: 2024-09-09T01:32:31.015Z
+updated: 2024-09-14T17:20:03.308Z
 tags: 
   - video editing software
   - video editing
@@ -14,24 +14,12 @@ keywords: ai animation ai animation add pro level effects to your videos in 3 ea
 thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Transform Your Videos: Learn How to Add Effects in FCP X in 3 Steps
 
 # Simple Guide to FCP X: How To Add Effects in 3 Steps
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -48,12 +36,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -75,22 +57,10 @@ Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
 To apply an effect, do one of two things:
@@ -108,12 +78,6 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
@@ -142,62 +106,11 @@ The process of applying effects is the same for all effects you apply from the E
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-epic-expeditions-terrarias-richest-map-finds/"><u>[New] In 2024, Epic Expeditions  Terraria's Richest Map Finds</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-digital-doyens-guide-streaming-and-recording-mastery/"><u>[Updated] 2024 Approved  Digital Doyen’s Guide  Streaming and Recording Mastery</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-artful-animation-of-adventures-exploring-the-top-8-narrative-universities-top-8-for-2024/"><u>[Updated] Artful Animation of Adventures  Exploring the Top 8 Narrative Universities (Top 8) for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-legal-lens-for-tiktoks-pre-upload-rights-and-compliance/"><u>[Updated] In 2024, Legal Lens for TikToks  Pre-Upload Rights & Compliance</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-key-tactics-for-testimonial-videos/"><u>[Updated] Key Tactics for Testimonial Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-novice-nests-in-mc-the-essential-guide-to-housing/"><u>[Updated] Novice Nests in MC  The Essential Guide to Housing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-adapt-images-to-any-size-on-your-iphone-instantly/"><u>2024 Approved  Adapt Images to Any Size on Your iPhone Instantly</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-professional-insights-crafting-and-sharing-360-videos-on-fb/"><u>2024 Approved  Professional Insights  Crafting & Sharing 360 Videos on FB</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-synergy-between-youtube-and-creative-commons-licensinas/"><u>2024 Approved  The Synergy Between YouTube and Creative Commons Licensinas</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/67008616-2024-approved-unlock-brand-potential-access-50-banners-at-no-cost/"><u>2024 Approved  Unlock Brand Potential - Access 50 Banners at No Cost</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-elements-vs-the-competition-top-10-alternatives/"><u>Adobe Premiere Elements Vs. The Competition Top 10 Alternatives</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/affordable-high-performance-gaming-keyboards-listed-for-2024/"><u>Affordable High-Performance Gaming Keyboards Listed for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/easy-guide-to-using-your-phone-as-an-alternative-camera/"><u>Easy Guide to Using Your Phone as an Alternative Camera</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-does-a-whole-sphere-video-work-in-2024/"><u>How Does a Whole-Sphere Video Work, In 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-v29-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo V29</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/make-every-xbox-moment-count-expert-recording-advice/"><u>Make Every Xbox Moment Count  Expert Recording Advice</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-the-art-of-audio-fading-2-techniques-to-elevate-your-videos-in-final-cut-pro/"><u>New The Art of Audio Fading 2 Techniques to Elevate Your Videos in Final Cut Pro</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-10-best-gif-speed-changers-for-2024/"><u>New Top 10 Best GIF Speed Changers for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-free-wmv-video-assembly-tools-for-seamless-playback/"><u>New Top Free WMV Video Assembly Tools for Seamless Playback</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-mac-video-editors-similar-to-vsdc-for-2024/"><u>New Top Mac Video Editors Similar to VSDC for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-video-editing-apps-with-soundtracks-for-mobile-devices-for-2024/"><u>New Top Video Editing Apps with Soundtracks for Mobile Devices for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-transform-your-photos-the-ultimate-guide-to-animation-tools/"><u>New Transform Your Photos The Ultimate Guide to Animation Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-videopad-video-editor-is-it-worth-the-investment-a-detailed-review-for-2024/"><u>New Videopad Video Editor Is It Worth the Investment? A Detailed Review for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/overcoming-pc-instability-solutions-for-battlefield-2042-crash-fixes/"><u>Overcoming PC Instability: Solutions for Battlefield 2042 Crash Fixes</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/reinstatement-complete-code-cleared/"><u>Reinstatement Complete - Code Cleared</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/s-ultimate-guide-to-time-lapse-video-editing-software-for-2024/"><u>S Ultimate Guide to Time-Lapse Video Editing Software for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/subtitle-editing-in-fcpx-best-practices-and-techniques-for-2024/"><u>Subtitle Editing in FCPX Best Practices and Techniques for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-most-wanted-android-apps-on-google-play-for-2024/"><u>The Most Wanted Android Apps on Google Play for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-ultimate-showdown-final-cut-pro-vs-final-cut-express-for-2024/"><u>The Ultimate Showdown Final Cut Pro Vs. Final Cut Express for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/this-article-shows-the-detail-steps-to-create-a-chromakey-ie-greenscreen-effect-in-final-cut-pro-x-for-2024/"><u>This Article Shows the Detail Steps to Create a Chromakey, I.e. Greenscreen Effect in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-v27-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo V27 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-final-cut-pro-tutorial-reversing-video-clips-made-easy/"><u>Updated 2024 Approved Final Cut Pro Tutorial Reversing Video Clips Made Easy</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-create-cinematic-videos-the-ultimate-ken-burns-effect-guide-for-2024/"><u>Updated Create Cinematic Videos The Ultimate Ken Burns Effect Guide for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-free-3gp-video-rotation-software-top-picks/"><u>Updated In 2024, Free 3GP Video Rotation Software Top Picks</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-make-movies-without-breaking-the-bank-10-essential-low-budget-tools/"><u>Updated In 2024, Make Movies Without Breaking the Bank 10 Essential Low-Budget Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-easiest-way-to-edit-avi-files-split-trim-and-cut-with-ease/"><u>Updated In 2024, The Easiest Way to Edit AVI Files Split, Trim, and Cut with Ease</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-top-rated-free-face-creation-tools-online/"><u>Updated In 2024, Top-Rated Free Face Creation Tools Online</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-eye-catching-animations-top-10-text-generator-tools/"><u>Updated In 2024, Unlock Eye-Catching Animations Top 10 Text Generator Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-slow-mo-or-hyper-speed-top-gif-speed-editors-compared-for-2024/"><u>Updated Slow Mo or Hyper-Speed Top GIF Speed Editors Compared for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-top-rated-video-editing-tools-for-mac-users/"><u>Updated The Top-Rated Video Editing Tools for Mac Users</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-top-8-stop-motion-animation-software-for-mac-and-pc-for-2024/"><u>Updated Top 8 Stop Motion Animation Software for Mac and PC for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -205,3 +118,29 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-from-shot-to-showcase-smooth-video-capture-and-post-editing-with-adobe-connect/"><u>[New] From Shot to Showcase Smooth Video Capture & Post-Editing with Adobe Connect</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-the-secrets-to-instagram-post-replicas-for-2024/"><u>[New] Unlocking the Secrets to Instagram Post Replicas for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-perfecting-online-presence-screen-sharing-techniques/"><u>[Updated] 2024 Approved Perfecting Online Presence Screen Sharing Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamless-streaming-expert-use-of-netflixs-pip-feature/"><u>[Updated] Seamless Streaming Expert Use of Netflix's PIP Feature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/delving-into-ais-role-in-crafting-prompts-and-job-market-adaptability/"><u>Delving Into AI's Role in Crafting Prompts & Job Market Adaptability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-slowdown-how-to-resolve-dying-light-game-lags/"><u>Fixing the Slowdown: How to Resolve Dying Light Game Lags</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/hevc-codec-and-the-ps4-can-you-watch-encoded-videos-on-sonys-entertainment-system/"><u>HEVC Codec and the PS4: Can You Watch Encoded Videos on Sony's Entertainment System?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-narzo-n55-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme Narzo N55 Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-spark-go-2023-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Tecno Spark Go (2023) to New Android? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/split-your-videos-with-ease-top-5-free-software-for-2024/"><u>Split Your Videos with Ease Top 5 Free Software for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-make-a-lasting-impression-top-4-video-resume-creation-tools-free-templates/"><u>Updated 2024 Approved Make a Lasting Impression Top 4 Video Resume Creation Tools Free Templates</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-budget-friendly-video-editing-top-free-imovie-alternatives/"><u>Updated In 2024, Budget-Friendly Video Editing Top Free iMovie Alternatives</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-free-wmv-video-stitching-tools-expert-recommendations/"><u>Updated In 2024, Free WMV Video Stitching Tools Expert Recommendations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unlock-effortless-reaction-video-creation-with-filmoras-latest-features-for-2024/"><u>Updated Unlock Effortless Reaction Video Creation with Filmoras Latest Features for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Photo to Video Magic Add Music and Tell a Story
-date: 2024-09-09T01:38:55.224Z
-updated: 2024-09-10T01:38:55.224Z
+date: 2024-09-11T19:06:46.937Z
+updated: 2024-09-15T00:56:47.064Z
 tags: 
   - video editing software
   - video editing
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Liza Brown
 
  Mar 27, 2024• Proven solutions
@@ -43,12 +37,6 @@ Filmora has built-in royalty free audio effects that you can use to touch up you
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 1\. Import media files
 
 Download and open [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), create a new prtoject and import your photos or video footage into the program, drag and drop the files into the timeline to start editing.
@@ -67,36 +55,18 @@ Adding transitions between images can make the story go smoothly. Go Transitions
 
 ![add transition](https://images.wondershare.com/filmora/article-images/add-transition-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 3\. Apply title and effects
 
 If you want to express your feelings or explain something in the slideshow, you can simply add texts to the image. Click Titles at the top to browse the available caption styles. Once you've picked a title style, drag it to the Timeline.
 
 ![add titles](https://images.wondershare.com/filmora/article-images/add-titles-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 4\. Select music
 
 Music is the must-have element in a photo slideshow. In Filmora, there are over 50 royalty free music for you to choose to make your slideshow more engaging. Just drag the one you like to timeline.
 
 ![add audio](https://images.wondershare.com/filmora/article-images/add-audio-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 5\. Export
 
 Save your slideshow in different formats, choose from ready-made presets for all popular mobile devices, upload it to YouTube or burn it a DVD collection.
@@ -113,12 +83,6 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 4\. Apply more advanced video effects like Mosaic, Face Off, Jump Cut and more.
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Why Choose Wondershare Filmora?
 
 **1\. Initiative Interface**  
@@ -135,12 +99,6 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -149,69 +107,33 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-leveraging-huaweis-inbuilt-screen-capture-tech-on-its-phones/"><u>[New] Leveraging Huawei's Inbuilt Screen Capture Tech on Its Phones</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-skydrives-frugal-option-minimal-price-maximum-space-for-2024/"><u>[New] Skydrive's Frugal Option  Minimal Price, Maximum Space for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-future-in-your-hands-lgs-vr-gaming-masterpiece/"><u>[New] The Future in Your Hands  LG's VR Gaming Masterpiece</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-charting-out-youtubes-financial-strategy-for-nurturing-short-videos/"><u>[Updated] 2024 Approved  Charting Out YouTube's Financial Strategy for Nurturing Short Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-haven-guide-top-3-non-youtube-video-portals/"><u>[Updated] The Haven Guide  Top 3 Non-Youtube Video Portals</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-ultimate-list-best-fb-videos-to-watch-for-2024/"><u>[Updated] The Ultimate List  Best FB Videos To Watch for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-discovering-instagrams-most-followed-ae-presets/"><u>2024 Approved  Discovering Instagram's Most Followed AE Presets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722968053394-easy-guide-to-downloading-and-installing-corsair-void-pro-on-your-pc/"><u>Easy Guide to Downloading and Installing Corsair Void Pro on Your PC!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/garmins-ultra-30-camera-unveiled-a-comprehensive-guide-for-2024/"><u>Garmin's Ultra 30 Camera Unveiled  A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/how-to-amass-wealth-the-art-of-vimeo-video-monetization/"><u>How to Amass Wealth  The Art of Vimeo Video Monetization</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-12r-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your OnePlus 12R Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-resolve-missing-coredll-files-effectively/"><u>How to Resolve Missing Core.dll Files Effectively</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-elevate-your-creative-expression-with-smart-caption-techniques-for-tiktoks/"><u>In 2024, Elevate Your Creative Expression with Smart Caption Techniques for TikToks</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/mood-makers-best-filter-choices-to-improve-your-snap/"><u>Mood Makers  Best Filter Choices to Improve Your Snap</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-split-your-screen-double-the-fun-top-video-apps-for-mobile/"><u>New Split Your Screen, Double the Fun Top Video Apps for Mobile</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-hand-drawn-whiteboard-animation-tools-to-try-this-year-for-2024/"><u>New Top Hand-Drawn Whiteboard Animation Tools to Try This Year for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/phasmophobias-latest-fault-fixes-a-comprehensive-guide-for-the-new-year/"><u>Phasmophobia's Latest Fault Fixes - A Comprehensive Guide for the New Year</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/split-trim-and-convert-avi-files-in-minutes-2023-edition-for-2024/"><u>Split, Trim, and Convert AVI Files in Minutes 2023 Edition for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-11-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 11 Location | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/top-rated-free-wmv-video-joiner-programs-for-2024/"><u>Top-Rated Free WMV Video Joiner Programs for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/top-rated-movie-trailer-apps-for-ios-devices-this-year-for-2024/"><u>Top-Rated Movie Trailer Apps for iOS Devices This Year for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/transform-your-videos-into-audio-top-mobile-conversion-apps-for-2024/"><u>Transform Your Videos Into Audio Top Mobile Conversion Apps for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-winchatgpt-a-falsehood-decoded/"><u>Unveiling WinChatGPT: A Falsehood Decoded</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-get-creative-with-fcp-x-a-3-step-guide-to-adding-awesome-effects/"><u>Updated 2024 Approved Get Creative with FCP X A 3-Step Guide to Adding Awesome Effects</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-maximize-your-workflow-the-10-best-video-editing-software-tools/"><u>Updated 2024 Approved Maximize Your Workflow The 10 Best Video Editing Software Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-no-budget-no-problem-free-video-editing-software-for-starters/"><u>Updated 2024 Approved No Budget, No Problem Free Video Editing Software for Starters</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-s-must-have-time-lapse-apps-for-smartphone-photography/"><u>Updated 2024 Approved S Must-Have Time-Lapse Apps for Smartphone Photography</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-take-your-videos-to-the-next-level-mastering-the-ken-burns-effect-in-final-cut-pro/"><u>Updated 2024 Approved Take Your Videos to the Next Level Mastering the Ken Burns Effect in Final Cut Pro</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-best-free-online-movie-editing-solutions/"><u>Updated 2024 Approved The Best Free Online Movie Editing Solutions</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-video-editing-for-kids-made-easy-10-best-apps-with-free-and-paid-options/"><u>Updated 2024 Approved Video Editing for Kids Made Easy 10 Best Apps with Free and Paid Options</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-a-beginners-guide-to-installing-kinemaster-on-mac-computers-for-2024/"><u>Updated A Beginners Guide to Installing KineMaster on Mac Computers for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-elevate-your-career-best-video-resume-makers-and-templates-for-2024/"><u>Updated Elevate Your Career Best Video Resume Makers and Templates for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-flawless-skin-in-fcpx-a-beginners-guide-to-plugin-free-retouching-for-2024/"><u>Updated Flawless Skin in FCPX A Beginners Guide to Plugin-Free Retouching for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-free-video-watermark-software-our-top-recommendations-for-2024/"><u>Updated Free Video Watermark Software Our Top Recommendations for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-from-capture-to-share-mastering-gopro-quik-video-editing-on-macbook-for-2024/"><u>Updated From Capture to Share Mastering GoPro Quik Video Editing on MacBook for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-how-to-stabilize-your-video-for-better-impressions-in-fcpx-in-2024/"><u>Updated How to Stabilize Your Video for Better Impressions in FCPX, In 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-bring-your-ideas-to-life-top-7-animation-drawing-tools/"><u>Updated In 2024, Bring Your Ideas to Life Top 7 Animation Drawing Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-dont-miss-out-4-best-ways-to-get-filmora-discount-codes-and-offers/"><u>Updated In 2024, Dont Miss Out! 4 Best Ways to Get Filmora Discount Codes and Offers</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-green-screen-editing-on-a-mac-software-comparison-and-recommendations/"><u>Updated In 2024, Green Screen Editing on a Mac Software Comparison and Recommendations</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-mod-video-editing-on-a-budget-top-5-free-options/"><u>Updated In 2024, MOD Video Editing on a Budget Top 5 Free Options</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-mp4-to-mp3-converter-the-ultimate-guide-to-audio-conversion/"><u>Updated In 2024, MP4 to MP3 Converter The Ultimate Guide to Audio Conversion</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-battle-for-video-editing-supremacy-fcp-vs-fce/"><u>Updated In 2024, The Battle for Video Editing Supremacy FCP vs FCE</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-best-video-collage-creators-for-iphone-and-ipad/"><u>Updated In 2024, The Best Video Collage Creators for iPhone and iPad</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unleash-your-creativity-best-time-lapse-video-editing-tools/"><u>Updated In 2024, Unleash Your Creativity Best Time-Lapse Video Editing Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlocking-fcpx-freeze-frames-slow-motion-and-beyond/"><u>Updated In 2024, Unlocking FCPX Freeze Frames, Slow Motion, and Beyond</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-looking-for-suggestions-to-trim-mkv-files-with-the-best-mkv-trimmer-on-mac-your-search-is-over-because-we-have-some-great-advice-for-you-read-ahead-/"><u>Updated Looking for Suggestions to Trim MKV Files with the Best MKV Trimmer on Mac? Your Search Is over because We Have some Great Advice for You. Read Ahead to Learn How to Trim MKV Files on Mac with Ease for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-mac-subtitle-editing-made-easy-top-subtitle-edit-alternatives-for-2024/"><u>Updated Mac Subtitle Editing Made Easy Top Subtitle Edit Alternatives for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-premiere-or-after-effects-choosing-the-right-tool-for-your-video-project-for-2024/"><u>Updated Premiere or After Effects Choosing the Right Tool for Your Video Project for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-best-of-the-best-movie-trailer-creation-software-for-mac-and-pc-for-2024/"><u>Updated The Best of the Best Movie Trailer Creation Software for Mac and PC for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-best-video-editing-apps-for-mac-simplify-your-video-creation-process-for-2024/"><u>Updated The Best Video Editing Apps for Mac Simplify Your Video Creation Process for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-fcp-x-green-screen-tutorial-from-basics-to-advanced-for-2024/"><u>Updated The Ultimate FCP X Green Screen Tutorial From Basics to Advanced for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-video-editing-software-for-mac/"><u>Updated The Ultimate List of Video Editing Software for Mac</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-videopad-review-pros-cons-and-alternatives-for-2024/"><u>Updated The Ultimate Videopad Review Pros, Cons, and Alternatives for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-what-is-an-xml-file-and-how-to-export-xml-in-final-cut-pro-x-in-2024/"><u>Updated What Is an XML File and How to Export XML in Final Cut Pro X, In 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-whats-the-difference-between-adobe-premiere-and-after-effects-in-2024/"><u>Updated Whats the Difference Between Adobe Premiere and After Effects, In 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unpacked-strategies-for-optimal-viewing-of-live-videos/"><u>[New] 2024 Approved Unpacked Strategies for Optimal Viewing of Live Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ow-to-create-gifs-from-youtube-videos/"><u>[New] How to Create GIFs From YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-propel-your-content-using-igtv-hashtags-to-expand-audiences/"><u>[Updated] In 2024, Propel Your Content Using IGTV Hashtags to Expand Audiences</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fix-guide-addressing-skyline-cities-2-pc-glitches-efficiently/"><u>Expert Fix Guide: Addressing Skyline Cities 2 PC Glitches Efficiently</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/flawless-flow-from-tiktok-creations-to-twitter-broadcasting/"><u>Flawless Flow From TikTok Creations to Twitter Broadcasting</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/punchy-prowess-vs-online-influence/"><u>Punchy Prowess Vs Online Influence</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/seamless-storytelling-3-ways-to-use-transitions-in-final-cut-pro-for-2024/"><u>Seamless Storytelling 3 Ways to Use Transitions in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-best-mac-video-metadata-editors-for-beginners-and-pros-alike-for-2024/"><u>The Best Mac Video Metadata Editors for Beginners and Pros Alike for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-av-editor-pro-for-mac/"><u>Updated 2024 Approved AV Editor Pro for Mac</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-avchd-editing-made-easy-top-5-software-solutions/"><u>Updated In 2024, AVCHD Editing Made Easy Top 5 Software Solutions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/virtualdub-vs-the-competition-a-comprehensive-review-and-alternative-guide-for-2024/"><u>Virtualdub Vs. The Competition A Comprehensive Review and Alternative Guide for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Learn to Make an Emotional Video with Photos and Music for 2024
-date: 2024-09-09T01:38:54.553Z
-updated: 2024-09-10T01:38:54.553Z
+date: 2024-09-08T16:48:06.172Z
+updated: 2024-09-14T19:52:56.524Z
 tags: 
   - video editing software
   - video editing
@@ -14,24 +14,12 @@ keywords: learn to make an emotional video with photos and music,bring your phot
 thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Learn to Make an Emotional Video with Photos and Music
 
 # How to Make a Video with Photos and Music
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Liza Brown
 
  Mar 27, 2024• Proven solutions
@@ -43,30 +31,12 @@ Want to make your own video but don't have a camcorder? Don't worry, you can sti
 * [How to make a video with pictures using Wondershare Filmora](#part1)
 * [What to look for when choosing a good slideshow maker](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to make a video with pictures and music using Wondershare Filmora?
 
 Filmora has built-in royalty free audio effects that you can use to touch up your video. It includes various video effects, elements and filters to maker your video more attractive. More than that, more than 150 video transitions can also make video more natural to watch. Check this video below to know more about Filmora. Now download it to have a try!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 1\. Import media files
 
 Download and open [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), create a new prtoject and import your photos or video footage into the program, drag and drop the files into the timeline to start editing.
@@ -77,12 +47,6 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
 
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
@@ -109,12 +73,6 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to look for when choosing a good slideshow maker?
 
 Get a smart video slideshow maker to edit and create your own video, you need take those things into consideration:
@@ -125,12 +83,6 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 4\. Apply more advanced video effects like Mosaic, Face Off, Jump Cut and more.
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Why Choose Wondershare Filmora?
 
 **1\. Initiative Interface**  
@@ -155,53 +107,31 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-haptic-feedback-in-e-commerce-trials/"><u>[New] Haptic Feedback in E-Commerce Trials</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-the-new-apeaksoft-screenscape-capture-for-2024/"><u>[New] Unveiling the New Apeaksoft Screenscape Capture for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-charismatic-communicator-overview-part-8-for-2024/"><u>[Updated] Charismatic Communicator Overview, Part 8 for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-ideal-hosts-elevating-youtube-video-audiences/"><u>[Updated] In 2024, Ideal Hosts Elevating YouTube Video Audiences</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-charting-the-unknown-visual-facts-from-2017s-youtube-world/"><u>2024 Approved  Charting the Unknown  Visual Facts From 2017'S Youtube World</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-expert-level-quick-fixes-the-ultimate-5-diy-filmmaking-tricks/"><u>2024 Approved  Expert-Level Quick Fixes  The Ultimate 5 DIY Filmmaking Tricks</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-step-by-step-guide-to-boosting-eq-with-conversational-ai-technology/"><u>A Step-by-Step Guide to Boosting EQ with Conversational AI Technology</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/best-solarmovie-alternatives-watch-movies-online/"><u>Best SolarMovie Alternatives-Watch Movies Online</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Xiaomi  ?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723807876569-discover-your-running-windows-os-quick-guide-in-a-single-step/"><u>Discover Your Running Windows OS: Quick Guide in a Single Step!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novice-to-expert-free-lut-techniques-for-color-grading/"><u>In 2024, From Novice to Expert  Free LUT Techniques for Color Grading</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-asus-rog-phone-7-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Asus ROG Phone 7 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-y55s-5g-2023-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo Y55s 5G (2023) with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-find-x7-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo Find X7 Phone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-streaming-screens-using-netflixs-pip-mode/"><u>In 2024, Unveiling Streaming Screens  Using Netflix's PIP Mode</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/h-your-athletic-channel-step-by-step-guide-on-mac-os-for-2024/"><u>Launch Your Athletic Channel  Step by Step Guide on Mac OS for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-streamline-your-video-collection-best-mp4-tag-editors/"><u>New Streamline Your Video Collection Best MP4 Tag Editors</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-video-editors-handbook-download-and-learn/"><u>New The Ultimate Video Editors Handbook Download and Learn</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-transform-your-videos-the-best-iphone-editing-apps/"><u>New Transform Your Videos The Best iPhone Editing Apps</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-videopad-video-editor-a-comprehensive-review-and-buying-guide/"><u>New Videopad Video Editor A Comprehensive Review and Buying Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/private-and-business-video-hosting-10-free-options-to-consider-for-2024/"><u>Private and Business Video Hosting 10 Free Options to Consider for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/simplify-your-workflow-top-timecode-conversion-tools-for-video-pros-for-2024/"><u>Simplify Your Workflow Top Timecode Conversion Tools for Video Pros for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-ultimate-guide-to-split-screen-video-apps-for-mobile-for-2024/"><u>The Ultimate Guide to Split Screen Video Apps for Mobile for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-samsung-galaxy-a05-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Samsung Galaxy A05</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-restoring-audio-on-your-acer-notebook/"><u>Troubleshooting Steps: Restoring Audio on Your Acer Notebook</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-epson-xp-nterfaces-with-the-newest-printer-drivers-free-download/"><u>Update Your Epson XP-Nterfaces with the Newest Printer Drivers - Free Download</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-review-of-avs-video-editor-a-beginners-guide/"><u>Updated 2024 Approved The Ultimate Review of AVS Video Editor A Beginners Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-rated-mp4-editor-for-mavericks-unlock-advanced-features/"><u>Updated 2024 Approved Top-Rated MP4 Editor for Mavericks Unlock Advanced Features</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-6-top-rated-free-video-cutting-software-for-mov-files-for-2024/"><u>Updated 6 Top-Rated Free Video Cutting Software for MOV Files for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-best-of-the-best-4k8k-video-editing-software-for-professionals-for-2024/"><u>Updated Best of the Best 4K/8K Video Editing Software for Professionals for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-bring-your-logo-to-life-top-10-free-animated-logo-makers-for-2024/"><u>Updated Bring Your Logo to Life Top 10 Free Animated Logo Makers for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-16-avi-trimmers-cut-and-edit-avi-files-with-ease-windows-mac-android/"><u>Updated In 2024, Best 16 AVI Trimmers Cut and Edit AVI Files with Ease Windows, MAC, Android</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-from-basic-to-brilliant-mastering-video-editing-effects-for-beginners/"><u>Updated In 2024, From Basic to Brilliant Mastering Video Editing Effects for Beginners</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-pro-level-voice-overs-in-no-time-final-cut-pro-expert-advice/"><u>Updated In 2024, Pro-Level Voice Overs in No Time Final Cut Pro Expert Advice</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-quicktime-video-editing-guide-for-mac-os-users/"><u>Updated In 2024, The Ultimate QuickTime Video Editing Guide for Mac OS Users</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-pro-level-text-animation-on-your-phone-with-these-apps/"><u>Updated In 2024, Unlock Pro-Level Text Animation on Your Phone with These Apps</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-no-cost-video-upgrades-top-9-online-enhancement-options/"><u>Updated No-Cost Video Upgrades Top 9 Online Enhancement Options</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-top-rated-free-online-video-editing-platforms/"><u>Updated Top-Rated Free Online Video Editing Platforms</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-unleash-the-80s-easy-vhs-effects-for-final-cut-pro-users-for-2024/"><u>Updated Unleash the 80S Easy VHS Effects for Final Cut Pro Users for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-fast-loading-instagram-media-content/"><u>[New] In 2024, Mastering Fast-Loading Instagram Media Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-art-of-crafting-engaging-social-media-slideshows-on-fb-for-2024/"><u>[New] The Art of Crafting Engaging Social Media Slideshows on FB for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-rated-android-soundbanks/"><u>[Updated] Best-Rated Android Soundbanks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-morphvox-mastery-a-complete-voice-modification-companion/"><u>2024 Approved MorphVOX Mastery A Complete Voice Modification Companion</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-system-maintenance-locating-and-resolving-win-os-error-codes-via-command-prompt-expertise/"><u>Advanced System Maintenance: Locating and Resolving Win-OS Error Codes via Command Prompt Expertise</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-x7b-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on X7b.</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-best-intro-creator-software-for-windows-and-mac-for-2024/"><u>Updated Best Intro Creator Software for Windows and Mac for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-looking-for-a-sony-vegas-replacement-on-windows-try-these-options-for-2024/"><u>Updated Looking for a Sony Vegas Replacement on Windows? Try These Options for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-premiere-pro-2023-the-ultimate-guide-to-importing-and-exporting-video-files-for-2024/"><u>Updated Premiere Pro 2023 The Ultimate Guide to Importing and Exporting Video Files for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

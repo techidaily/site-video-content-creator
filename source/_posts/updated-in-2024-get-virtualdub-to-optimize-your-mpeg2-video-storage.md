@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Get VirtualDub to Optimize Your MPEG2 Video Storage
-date: 2024-09-09T01:38:51.666Z
-updated: 2024-09-10T01:38:51.666Z
+date: 2024-09-11T22:53:20.641Z
+updated: 2024-09-14T17:50:07.172Z
 tags: 
   - video editing software
   - video editing
@@ -14,30 +14,12 @@ keywords: shrink your mpeg2 videos download and use virtualdub today,virtualdub 
 thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get VirtualDub to Optimize Your MPEG2 Video Storage
 
 # Download VirtualDub MPEG2 & Use to Compress MPEG2 Videos
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Ollie Mattison
 
  Mar 27, 2024• Proven solutions
@@ -52,12 +34,6 @@ You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/Virtual
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Set Up Video Compression
 
 Open your MPEG-2 video file through File/Open video file..., then go to Video/Compression to bring up the following dialog.
@@ -68,23 +44,31 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
 
@@ -103,12 +87,6 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -117,42 +95,27 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-exploring-premium-webcams-shoppers-insights-for-2024/"><u>[New] Exploring Premium Webcams - Shopper's Insights for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-skype-voice-to-mp3-the-economical-choice/"><u>[New] In 2024, Skype Voice to MP3  The Economical Choice</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-voice-transformation-on-the-move-best-audio-modification-tools-for-smartphones/"><u>[New] In 2024, Voice Transformation on the Move  Best Audio Modification Tools for Smartphones</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-optimize-your-social-media-with-autoplay-vids-on-fb/"><u>[Updated] 2024 Approved  Optimize Your Social Media with Autoplay Vids on FB</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ingenious-webcam-use-cases-at-home/"><u>[Updated] In 2024, Ingenious Webcam Use Cases at Home</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-optimal-speech-devices-web-based/"><u>[Updated] Optimal Speech Devices, Web-Based</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieving-smooth-starfield-acoustics-addressing-volume-drops-and-sound-distortion/"><u>Achieving Smooth Starfield Acoustics: Addressing Volume Drops & Sound Distortion</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-zte-by-drfone-android/"><u>Full Guide to Unlock Your ZTE</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-safely-as-a-mental-health-coach/"><u>How to Use ChatGPT Safely as a Mental Health Coach</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-take-your-videos-to-the-next-level-professional-results-guaranteed-for-2024/"><u>New Take Your Videos to the Next Level Professional Results Guaranteed for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-10-best-free-online-video-looping-software-for-2024/"><u>New The Ultimate List 10 Best Free Online Video Looping Software for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-mobile-apps-for-animated-text-overlays-in-videos/"><u>New Top Mobile Apps for Animated Text Overlays in Videos</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-unlock-mac-video-editing-potential-vn-video-editor-and-more/"><u>New Unlock Mac Video Editing Potential VN Video Editor and More</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-virtualdub-competitors-compare-the-best-video-editors-for-2024/"><u>New VirtualDub Competitors Compare the Best Video Editors for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/online-video-combination-made-easy-top-5-free-tools-for-2024/"><u>Online Video Combination Made Easy Top 5 Free Tools for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-technical-hurdles-of-freesync/"><u>Overcoming Technical Hurdles of FreeSync</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-combine-avi-videos-without-spending-a-dime-top-free-tools/"><u>Updated 2024 Approved Combine AVI Videos Without Spending a Dime Top Free Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-free-online-video-editing-made-easy-a-jaycut-user-guide/"><u>Updated 2024 Approved Free Online Video Editing Made Easy A Jaycut User Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-make-it-shine-professional-video-editing-tips-for-creating-breathtaking-home-videos/"><u>Updated 2024 Approved Make It Shine Professional Video Editing Tips for Creating Breathtaking Home Videos</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-pc-video-dubbing-made-easy-top-software-options/"><u>Updated 2024 Approved PC Video Dubbing Made Easy Top Software Options</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-transforming-your-canon-footage-advanced-video-editing-techniques/"><u>Updated 2024 Approved Transforming Your Canon Footage Advanced Video Editing Techniques</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-cutting-edge-cinema-10-famous-films-edited-with-final-cut-pro-for-2024/"><u>Updated Cutting-Edge Cinema 10 Famous Films Edited with Final Cut Pro for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-fcp-audio-editing-essentials-tips-and-tricks-for-perfect-sound-for-2024/"><u>Updated FCP Audio Editing Essentials Tips and Tricks for Perfect Sound for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-free-video-editing-solutions-for-32-bit-windows-top-picks-for-2024/"><u>Updated Free Video Editing Solutions for 32-Bit Windows Top Picks for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-create-engaging-slideshows-with-final-cut-pro-a-step-by-step-guide/"><u>Updated In 2024, Create Engaging Slideshows with Final Cut Pro A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-fcpx-plugin-roundup-the-best-of-both-worlds-free-and-paid/"><u>Updated In 2024, FCPX Plugin Roundup The Best of Both Worlds (Free & Paid)</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-top-rated-avi-file-combiners-10-free-solutions-for-you/"><u>Updated In 2024, Top-Rated AVI File Combiners 10 Free Solutions for You</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unleash-your-creativity-10-top-rated-music-video-makers/"><u>Updated In 2024, Unleash Your Creativity 10 Top-Rated Music Video Makers</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-video-editing-on-chromebook-the-best-online-solutions/"><u>Updated In 2024, Video Editing on Chromebook The Best Online Solutions</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/approved-quicker-scaling-ensure-perfect-youtubemac-ratios/"><u>2024 Approved Quicker Scaling Ensure Perfect Youtube/Mac Ratios</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-7-essential-metaverse-tech-for-your-arsenal/"><u>2024 Approved Top 7 Essential Metaverse Tech for Your Arsenal</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-note-30i-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Note 30i System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-networking-sites-explore-facebook-twitter-instagram-and-youtube/"><u>Essential Networking Sites: Explore Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-xiaomi-mix-fold-3-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Xiaomi Mix Fold 3? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-rated-free-flv-video-editing-tools-for-2024/"><u>New Top-Rated Free FLV Video Editing Tools for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-watermark-free-video-editing-the-best-free-options-for-2024/"><u>New Watermark-Free Video Editing The Best Free Options for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/say-it-with-a-like-favorite-platform/"><u>Say It with a Like: Favorite Platform</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-final-cut-pro-vs-express-which-one-reigns-supreme/"><u>Updated 2024 Approved Final Cut Pro vs Express Which One Reigns Supreme?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-choosing-the-perfect-green-screen-tool-for-mac-users-for-2024/"><u>Updated Choosing the Perfect Green Screen Tool for Mac Users for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-icons-how-to-ditch-the-focused-wallpaper-symbol/"><u>Win11 Icons: How to Ditch the Focused Wallpaper Symbol</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Transform Your Footage Color Correction in Final Cut Pro for 2024
-date: 2024-09-09T01:38:53.878Z
-updated: 2024-09-10T01:38:53.878Z
+date: 2024-09-08T03:21:12.522Z
+updated: 2024-09-14T17:09:24.261Z
 tags: 
   - video editing software
   - video editing
@@ -38,12 +38,6 @@ The steps below can help all beginners to develop easy video edited projects usi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 **Related article:**
@@ -63,12 +57,6 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
@@ -77,40 +65,16 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
 ![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
 ![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
 ![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
@@ -123,18 +87,6 @@ Now it is time to work on color correction directly. There are three types of co
 
 ![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
 ![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
@@ -149,18 +101,6 @@ It is possible to preview all the corrections on the original image before makin
 
 ![correction On and Off options](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-10.png)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
@@ -171,56 +111,35 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-experience-the-joy-sorrow-merge-with-these-ten-meme-ig-accounts-for-2024/"><u>[New] Experience the Joy-Sorrow Merge with These Ten Meme IG Accounts for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-guide-to-selecting-8-best-instagram-scheduler-tools-for-2024/"><u>[New] The Ultimate Guide to Selecting 8 Best Instagram Scheduler Tools for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-circumventing-video-send-blockages-in-facebook-chat-apps/"><u>[Updated] Circumventing Video Send Blockages in Facebook Chat Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-proven-techniques-to-enhance-engagement-and-interaction/"><u>[Updated] In 2024, Proven Techniques to Enhance Engagement and Interaction</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-veiled-side-of-instagram-stories-what-youre-not-seeing/"><u>[Updated] In 2024, The Veiled Side of Instagram Stories  What You're Not Seeing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-techniques-for-recording-your-youtube-events/"><u>[Updated] Optimal Techniques for Recording Your YouTube Events</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-steps-for-msi-bios-updates-across-windows-platforms/"><u>Essential Steps for MSI BIOS Updates Across Windows Platforms</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/from-shot-to-showcase-smooth-video-capture-and-post-editing-with-adobe-connect/"><u>From Shot to Showcase  Smooth Video Capture & Post-Editing with Adobe Connect</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-6-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 6</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-device-based-digital-recording-pcmac-plus-phone-edition/"><u>In 2024, Device-Based Digital Recording  PC/Mac + Phone Edition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-compressed-to-captioned-zip-to-srt-effortlessly/"><u>In 2024, From Compressed To Captioned  Zip to .Srt Effortlessly</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-105-classic-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nokia 105 Classic Lock Screen Password?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-time-lapse-video-editors-free-and-paid-options/"><u>New In 2024, Top Time-Lapse Video Editors Free and Paid Options</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-online-video-editing-on-chromebook/"><u>New The Ultimate Guide to Online Video Editing on Chromebook</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-apps-to-convert-videos-to-live-photos-on-iphone-for-2024/"><u>New Top Apps to Convert Videos to Live Photos on iPhone for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-green-screen-software-for-mac-features-pricing-and-more-for-2024/"><u>New Top Green Screen Software for Mac Features, Pricing, and More for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-mac-video-editors-similar-to-vsdc/"><u>New Top Mac Video Editors Similar to VSDC</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-unlock-pro-quality-edits-top-1080p-video-editing-tools-for-2024/"><u>New Unlock Pro-Quality Edits Top 1080P Video Editing Tools for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-unlocking-camtasias-power-how-to-speed-up-or-slow-down-videos-for-2024/"><u>New Unlocking Camtasias Power How to Speed Up or Slow Down Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/no-cost-speedy-tips-for-exposing-deceptive-instagram-acquaintances/"><u>No-Cost, Speedy Tips for Exposing Deceptive Instagram Acquaintances</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/step-by-step-guide-to-fixing-helldivers-2-the-msvcr110dll-error/"><u>Step-by-Step Guide to Fixing Helldivers 2: The MSVCR110.dll Error</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-motorola-g54-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Motorola G54 5G Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-full-potential-of-mixer-streaming-on-macos-for-2024/"><u>Unlocking Full Potential of Mixer Streaming on macOS for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-beginners-paradise-the-best-free-and-paid-video-editing-software/"><u>Updated 2024 Approved Beginners Paradise The Best Free and Paid Video Editing Software</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-discover-the-best-top-game-download-websites/"><u>Updated 2024 Approved Discover the Best Top Game Download Websites</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-ditch-the-search-get-filmora-discounts-without-reddit/"><u>Updated 2024 Approved Ditch the Search Get Filmora Discounts Without Reddit</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-if-you-are-having-mkv-files-that-do-not-meet-your-desired-size-length-or-quality-then-you-need-to-access-editing-tools/"><u>Updated 2024 Approved If You Are Having MKV Files that Do Not Meet Your Desired Size, Length or Quality, Then You Need to Access Editing Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-mastering-fcp-essential-tips-for-saving-and-organizing-your-projects/"><u>Updated 2024 Approved Mastering FCP Essential Tips for Saving and Organizing Your Projects</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-speed-up-or-slow-down-top-10-free-video-editing-apps-for-mobile/"><u>Updated 2024 Approved Speed Up or Slow Down Top 10 Free Video Editing Apps for Mobile</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-videopad-video-editor-review-features-pricing-and-more/"><u>Updated 2024 Approved The Ultimate Videopad Video Editor Review Features, Pricing, and More</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-zero-cost-wonders-the-best-free-vob-video-editing-software/"><u>Updated 2024 Approved Zero-Cost Wonders The Best Free VOB Video Editing Software</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-easily-edit-avi-files-on-your-windows-8-pc-a-beginners-guide-for-2024/"><u>Updated Easily Edit AVI Files on Your Windows 8 PC A Beginners Guide for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-home-movie-magic-simple-yet-effective-video-editing-techniques-for-2024/"><u>Updated Home Movie Magic Simple yet Effective Video Editing Techniques for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-free-green-screen-apps-for-mobile-devices-updated-2023/"><u>Updated In 2024, Best Free Green Screen Apps for Mobile Devices (Updated 2023)</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-top-10-free-music-production-tools-expert-reviews/"><u>Updated In 2024, Top 10 Free Music Production Tools Expert Reviews</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-great-sound-a-comprehensive-guide-to-fcp-audio-editing/"><u>Updated In 2024, Unlock Great Sound A Comprehensive Guide to FCP Audio Editing</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-make-a-heartfelt-video-montage-with-pictures-and-songs/"><u>Updated Make a Heartfelt Video Montage with Pictures and Songs</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-make-your-own-music-magic-top-lip-sync-video-creation-apps/"><u>Updated Make Your Own Music Magic Top Lip Sync Video Creation Apps</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-rotate-your-videos-with-ease-10-top-online-tools/"><u>Updated Rotate Your Videos with Ease 10 Top Online Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-s-top-picks-best-split-screen-video-apps-for-iphone-and-android/"><u>Updated S Top Picks Best Split-Screen Video Apps for iPhone and Android</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-unleash-the-power-of-fcpx-plugins-troubleshooting-and-fixing-common-issues/"><u>Updated Unleash the Power of FCPX Plugins Troubleshooting and Fixing Common Issues</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-windows-8-flv-editor-convert-trim-and-enhance-your-videos/"><u>Updated Windows 8 FLV Editor Convert, Trim, and Enhance Your Videos</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/windows-8-video-editor-easy-avi-file-editing-made-possible-2023-edition-for-2024/"><u>Windows 8 Video Editor Easy AVI File Editing Made Possible - 2023 Edition for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-detailed-guide-to-dollar-counts-a-stepwise-strategy-to-track-youtube-earnings/"><u>[Updated] In 2024, Detailed Guide to Dollar Counts A Stepwise Strategy to Track YouTube Earnings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-silencing-distractions-enhancing-youtube-videos/"><u>2024 Approved Silencing Distractions Enhancing YouTube Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-streamline-your-cricket-experience-a-guide-to-top-live-sports-services/"><u>2024 Approved Streamline Your Cricket Experience A Guide to Top Live Sports Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bring-tiktok-content-to-life-on-your-hdtv-the-ultimate-how-to/"><u>Bring TikTok Content To Life On Your HDTV – The Ultimate How-To</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/exceptional-smartwatch-evaluation-the-artistry-of-samsung-galaxy-watch-inside-and-out/"><u>Exceptional Smartwatch Evaluation - The Artistry of Samsung Galaxy Watch Inside and Out</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-google-pixel-8-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Google Pixel 8 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unleash-your-creativity-with-a-fast-and-reliable-video-editor-for-2024/"><u>New Unleash Your Creativity with a Fast and Reliable Video Editor for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-glitches-and-audio-quirks-in-windows-107-a-complete-fix-guide/"><u>Resolving Sound Glitches & Audio Quirks in Windows 10/7 – A Complete Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-black-ops-cold-war-silent-mode-issues-on-windows-tips-and-tricks/"><u>Solving Black Ops: Cold War Silent Mode Issues on Windows - Tips & Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-companion-for-creating-unique-metaverse-avatars/"><u>The Ultimate Companion for Creating Unique Metaverse Avatars</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-hd-video-editing-made-easy-top-5-software-recommendations-for-2024/"><u>Updated HD Video Editing Made Easy Top 5 Software Recommendations for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-repeat-repeat-repeat-10-best-free-video-looping-services-for-2024/"><u>Updated Repeat, Repeat, Repeat 10 Best Free Video Looping Services for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unlock-chromecast-streaming-any-video-format-made-easy-updated-2023/"><u>Updated Unlock Chromecast Streaming Any Video Format Made Easy (Updated 2023)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-virtualdub-replacements-top-picks-for-video-editing/"><u>Updated VirtualDub Replacements Top Picks for Video Editing</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
