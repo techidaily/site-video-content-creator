@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Get VirtualDub to Optimize Your MPEG2 Video Storage
-date: 2024-09-11T22:53:20.641Z
-updated: 2024-09-14T17:50:07.172Z
+date: 2024-09-15T08:51:58.787Z
+updated: 2024-09-19T20:18:14.723Z
 tags: 
   - video editing software
   - video editing
@@ -47,28 +47,15 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
 
@@ -87,6 +74,13 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -104,18 +98,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/approved-quicker-scaling-ensure-perfect-youtubemac-ratios/"><u>2024 Approved Quicker Scaling Ensure Perfect Youtube/Mac Ratios</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-7-essential-metaverse-tech-for-your-arsenal/"><u>2024 Approved Top 7 Essential Metaverse Tech for Your Arsenal</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-note-30i-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Note 30i System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-networking-sites-explore-facebook-twitter-instagram-and-youtube/"><u>Essential Networking Sites: Explore Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-xiaomi-mix-fold-3-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Xiaomi Mix Fold 3? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-rated-free-flv-video-editing-tools-for-2024/"><u>New Top-Rated Free FLV Video Editing Tools for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-watermark-free-video-editing-the-best-free-options-for-2024/"><u>New Watermark-Free Video Editing The Best Free Options for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/say-it-with-a-like-favorite-platform/"><u>Say It with a Like: Favorite Platform</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-final-cut-pro-vs-express-which-one-reigns-supreme/"><u>Updated 2024 Approved Final Cut Pro vs Express Which One Reigns Supreme?</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-choosing-the-perfect-green-screen-tool-for-mac-users-for-2024/"><u>Updated Choosing the Perfect Green Screen Tool for Mac Users for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-icons-how-to-ditch-the-focused-wallpaper-symbol/"><u>Win11 Icons: How to Ditch the Focused Wallpaper Symbol</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-comprehensive-guide-to-top-tier-skype-recorder-tech/"><u>[New] 2024 Approved Comprehensive Guide to Top-Tier Skype Recorder Tech</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-boost-story-impact-with-customized-video-speed-settings/"><u>[New] Boost Story Impact with Customized Video Speed Settings</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-building-on-your-content-a-guide-to-stellar-videography-closures/"><u>[Updated] Building on Your Content A Guide to Stellar Videography Closures</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-final-cut-pro-x-insider-market-vertical-videos-for-instagram-enthusiasts-for-2024/"><u>[Updated] Final Cut Pro X Insider' Market Vertical Videos for Instagram Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/mpg-mpg/"><u>完全自由のMPG編集ソフトでパワフルに分割・カット - MPG分割フリープログラム</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ensuring-smooth-audio-functionality-update-your-hyperx-headset-drivers/"><u>Ensuring Smooth Audio Functionality: Update Your HyperX Headset Drivers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exploring-efficiency-and-performance-the-electric-rivian-r1s-versus-traditional-trucks/"><u>Exploring Efficiency and Performance: The Electric Rivian R1S Versus Traditional Trucks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/how-to-successfully-convert-your-rmhd-videos-into-mp4-format-a-step-by-step-guide/"><u>How To Successfully Convert Your RMHD Videos Into MP4 Format: A Step-By-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/how-to-transform-your-music-files-seamlessly-the-ultimate-guide-to-free-flac-to-mp3-conversion-techniques/"><u>How to Transform Your Music Files Seamlessly: The Ultimate Guide to FREE Flac-to-Mp3 Conversion Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-detected-from-your-microphone-heres-what-to-do/"><u>No Audio Detected From Your Microphone - Here’s What To Do</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/playing-ogg-audio-files-on-modern-operating-systems-windows-11-10-8-and/"><u>Playing OGG Audio Files on Modern Operating Systems (Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/powerpointpc/"><u>PowerPointを使ったPC表示・プレゼンテーション動画撮影ガイド</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/ps52024/"><u>PS5機能不全？動画を正常に視聴できる最新トラブルシューティング手法（2024年）</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-digital-identity-nuances-on-major-sites/"><u>Understanding Digital Identity Nuances on Major Sites</u></a></li>
 </ul></div>
 
