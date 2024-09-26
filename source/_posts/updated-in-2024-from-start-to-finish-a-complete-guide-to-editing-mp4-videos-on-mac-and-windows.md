@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, From Start to Finish A Complete Guide to Editing MP4 Videos on Mac and Windows
-date: 2024-09-10T17:07:45.619Z
-updated: 2024-09-15T00:30:41.582Z
+date: 2024-09-21T03:37:34.763Z
+updated: 2024-09-25T23:57:13.220Z
 tags: 
   - video editing software
   - video editing
@@ -58,6 +58,13 @@ It's free to download now.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ####
 
 #### 1. Cut MP4 Video
@@ -67,6 +74,13 @@ To cut your MP4 video into certain parts, drag and drop the video on the Timelin
 After that, move the red marker to the end of the scene, and repeat this again to cut the video into several fragments. If you want to cut off the unwanted parts, right click the video and choose "Delete".
 
 ![export edited MP4 by cutting](https://images.wondershare.com/filmora/article-images/cut-a-section.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ####
 
@@ -93,6 +107,13 @@ No problem.
 Just highlight your MP4 video, right click and choose "Audio Detach". The audio file of your video will immediately be separated and appear on the music timeline. Since it is separated from the video, you can easily delete the audio track or replace it with your own music.
 
 ![edit MP4 audio](https://images.wondershare.com/filmora/article-images/add-audio-volume-keyframe.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ####
 
@@ -124,6 +145,13 @@ When all the editing is done, hit "Create" to save or share your videos in diffe
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -137,12 +165,17 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-detailed-survey-gecatas-game-capture-utility/"><u>[New] 2024 Approved Detailed Survey Gecata's Game Capture Utility</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-journey-to-joyrides-top-housing-ideas-for-new-players/"><u>2024 Approved Journey to Joyrides Top Housing Ideas for New Players</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-80-pro-straight-screen-edition-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Honor 80 Pro Straight Screen Edition Phone with Broken Screen</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-14-pro-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone 14 Pro iCloud Activation Lock</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-rated-free-flv-video-editing-tools-for-2024/"><u>New Top-Rated Free FLV Video Editing Tools for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-watermark-free-video-editing-the-best-free-options-for-2024/"><u>New Watermark-Free Video Editing The Best Free Options for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/polaroid-camplus-pro-a-complete-action-recorder-review/"><u>Polaroid Cam+ Pro A Complete Action Recorder Review</u></a></li>
+<li><a href="https://facebook.techidaily.com/unboxing-facebooks-new-addition-ray-ban-stories-explained/"><u>Unboxing Facebook's New Addition: Ray-Ban Stories Explained</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-final-cut-pro-vs-express-which-one-reigns-supreme/"><u>Updated 2024 Approved Final Cut Pro vs Express Which One Reigns Supreme?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-choosing-the-perfect-green-screen-tool-for-mac-users-for-2024/"><u>Updated Choosing the Perfect Green Screen Tool for Mac Users for 2024</u></a></li>
+</ul></div>
 

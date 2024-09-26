@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Secret to Engaging Lower Thirds FCPX Best Practices Revealed
-date: 2024-09-16T07:52:05.862Z
-updated: 2024-09-19T18:19:02.848Z
+date: 2024-09-18T20:26:26.704Z
+updated: 2024-09-26T08:22:23.220Z
 tags: 
   - video editing software
   - video editing
@@ -85,6 +85,32 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -128,10 +154,17 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
@@ -160,13 +193,6 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -180,5 +206,22 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/14183827-new-in-2024-eliminate-camera-sway-no-tripods-allowed/"><u>[New] In 2024, Eliminate Camera Sway No Tripods, Allowed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-which-frame-rate-is-ideal-analyzing-benefits-of-30fps-and-60fps/"><u>[Updated] In 2024, Which Frame Rate Is Ideal? Analyzing Benefits of 30Fps and 60Fps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-filmmakers-toolkit-essential-tips-for-youtube-creators-with-smartphones-for-2024/"><u>[Updated] The Filmmaker's Toolkit Essential Tips for YouTube Creators with Smartphones for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-a38-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo A38 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/bts-dvdand/"><u>BTS DVD全収録のコピー術：最もスピーディー&清潔に辿り着くための究極テクニック</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-video-editors-handbook-download-and-learn/"><u>New The Ultimate Video Editors Handbook Download and Learn</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/private-and-business-video-hosting-10-free-options-to-consider-for-2024/"><u>Private and Business Video Hosting 10 Free Options to Consider for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/restoring-functionality-to-malfunctioning-xbox-series-x-and-s-earphones-a-comprehensive-guide/"><u>Restoring Functionality to Malfunctioning Xbox Series X & S Earphones: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-experts-manual-to-crafting-impeccable-srt-files/"><u>The Expert's Manual to Crafting Impeccable SRT Files</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-rated-mp4-editor-for-mavericks-unlock-advanced-features/"><u>Updated 2024 Approved Top-Rated MP4 Editor for Mavericks Unlock Advanced Features</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-6-top-rated-free-video-cutting-software-for-mov-files-for-2024/"><u>Updated 6 Top-Rated Free Video Cutting Software for MOV Files for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-16-avi-trimmers-cut-and-edit-avi-files-with-ease-windows-mac-android/"><u>Updated In 2024, Best 16 AVI Trimmers Cut and Edit AVI Files with Ease Windows, MAC, Android</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-pro-level-voice-overs-in-no-time-final-cut-pro-expert-advice/"><u>Updated In 2024, Pro-Level Voice Overs in No Time Final Cut Pro Expert Advice</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unleash-the-80s-easy-vhs-effects-for-final-cut-pro-users-for-2024/"><u>Updated Unleash the 80S Easy VHS Effects for Final Cut Pro Users for 2024</u></a></li>
+</ul></div>
 
