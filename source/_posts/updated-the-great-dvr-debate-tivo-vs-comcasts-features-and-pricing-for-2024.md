@@ -1,7 +1,7 @@
 ---
 title: Updated The Great DVR Debate TiVo vs Comcasts Features and Pricing for 2024
-date: 2024-09-11T05:23:39.675Z
-updated: 2024-09-15T05:33:09.512Z
+date: 2024-09-23T18:48:07.230Z
+updated: 2024-09-30T17:55:13.177Z
 tags: 
   - video editing software
   - video editing
@@ -48,9 +48,23 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  TiVo interface
 
@@ -67,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
  The iPhone app remote screen looks like this:
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
@@ -86,19 +107,6 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
@@ -109,19 +117,6 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
  TiVo’s device remote has a sleek layout called the “peanut”.
@@ -129,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Summary**
@@ -142,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -156,5 +158,23 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-complete-guide-to-mastering-picsart/"><u>[New] 2024 Approved Complete Guide to Mastering PicsArt</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-live-stream-titans-duel-comparative-exploration-of-twitch-and-youtube/"><u>[New] In 2024, Live-Stream Titans Duel Comparative Exploration of Twitch & YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-instagram-unfollow-detection/"><u>[New] In 2024, Mastering Instagram Unfollow Detection</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unleash-creativity-a-detailed-look-at-vsco-features/"><u>[New] In 2024, Unleash Creativity A Detailed Look at VSCO Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-superior-fb-video-tools-save-as-top-quality-mp4s/"><u>[Updated] In 2024, Superior FB Video Tools – Save as Top Quality MP4s</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-effective-is-chatgpt-at-tackling-complex-number-calculations/"><u>How Effective Is ChatGPT at Tackling Complex Number Calculations?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-neon-typography-made-easy-10-online-generators-to-try-now/"><u>New 2024 Approved Neon Typography Made Easy 10 Online Generators to Try Now</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-tiktok-watermark-erasers-remove-logos-in-seconds/"><u>New 2024 Approved Top TikTok Watermark Erasers Remove Logos in Seconds</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-easy-video-flip-a-beginners-guide-to-rotating-footage-for-2024/"><u>New Easy Video Flip A Beginners Guide to Rotating Footage for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-home-movie-magic-simple-yet-effective-video-editing-techniques-for-2024/"><u>New Home Movie Magic Simple yet Effective Video Editing Techniques for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-achieve-hollywood-grade-video-a-step-by-step-fcpx-guide/"><u>New In 2024, Achieve Hollywood-Grade Video A Step-by-Step FCPX Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-from-steps-to-strides-the-best-motion-tracking-apps/"><u>New In 2024, From Steps to Strides The Best Motion Tracking Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-loop-your-gifs-for-free-top-maker-tools/"><u>New In 2024, Loop Your GIFs for Free Top Maker Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-for-quick-and-effective-aac-file-modifications-in-windows-environments/"><u>Ultimate Tutorial for Quick and Effective AAC File Modifications in Windows Environments</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-art-of-screenshot-sharing-tips-and-tricks-for-ps4-gamers/"><u>Updated 2024 Approved The Art of Screenshot Sharing Tips and Tricks for PS4 Gamers</u></a></li>
+</ul></div>
 

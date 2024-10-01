@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Get VirtualDub to Optimize Your MPEG2 Video Storage
-date: 2024-09-19T11:24:19.259Z
-updated: 2024-09-26T03:19:11.393Z
+date: 2024-09-26T11:47:32.958Z
+updated: 2024-10-01T08:32:17.393Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,13 @@ You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/Virtual
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Set Up Video Compression
 
 Open your MPEG-2 video file through File/Open video file..., then go to Video/Compression to bring up the following dialog.
@@ -44,25 +51,18 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
 
@@ -74,10 +74,10 @@ Now it's the time to start processing your video, here is how:
 4. Click Save.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -89,10 +89,10 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -112,20 +112,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-making-friends-across-networks-instagram-plus-facebook/"><u>[New] 2024 Approved Making Friends Across Networks Instagram + Facebook</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-crafting-the-perfect-strategy-exclusive-youtube-to-gmail-connection/"><u>[New] Crafting the Perfect Strategy Exclusive YouTube to Gmail Connection</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-stream-with-style-hacks-to-keep-your-daily-video-game-engaging/"><u>[New] In 2024, Stream with Style Hacks to Keep Your Daily Video Game Engaging</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-goovision-xtreme-cam-high-res-screen-capturer/"><u>2024 Approved GooVision Xtreme Cam High-Res Screen Capturer</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/erweiterung-der-arbeitspipeline-mit-dem-neuen-multilingualen-module-jobrouter-fur-fortschrittliche-abbyy-ocr-anwendung/"><u>Erweiterung Der Arbeitspipeline Mit Dem Neuen Multilingualen Module JobRouter Für Fortschrittliche ABBYY OCR Anwendung</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-methods-to-transform-your-mts-videos-into-mp4-format-compatible-with-all-devices-on-windows-and-macos/"><u>Free Methods to Transform Your MTS Videos Into MP4 Format Compatible with All Devices on Windows and macOS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-webm-video-editing-on-a-budget-top-10-free-options/"><u>New WebM Video Editing on a Budget Top 10 Free Options</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-infinix-note-30-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Infinix Note 30 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/top-10-animated-text-tools-you-need-to-try-this-year-for-2024/"><u>Top 10 Animated Text Tools You Need to Try This Year for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-discover-the-best-free-animation-software-for-windows-and-mac/"><u>Updated 2024 Approved Discover the Best Free Animation Software for Windows and Mac</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-jump-cut-like-a-pro-advanced-editing-techniques-in-fcpx/"><u>Updated 2024 Approved Jump Cut Like a Pro Advanced Editing Techniques in FCPX</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unleash-the-chaos-top-glitch-art-video-editing-apps-for-mobile/"><u>Updated In 2024, Unleash the Chaos Top Glitch Art Video Editing Apps for Mobile</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-mastering-fcp-top-3-transition-techniques-for-smooth-edits-for-2024/"><u>Updated Mastering FCP Top 3 Transition Techniques for Smooth Edits for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creativity-gopro-video-editing-on-mac-made-easy/"><u>Updated Unleash Your Creativity GoPro Video Editing on Mac Made Easy</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-building-your-asmr-empire-key-concepts-and-best-practices/"><u>[New] 2024 Approved Building Your ASMR Empire Key Concepts and Best Practices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-perfect-meeting-aesthetics-how-to-blur-video-backgrounds-for-2024/"><u>[New] Perfect Meeting Aesthetics How to Blur Video Backgrounds for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/download-a-gif-from-an-url-step-by-step-guide/"><u>Download a GIF From an URL: Step-by-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/economical-solutions-for-mendin-movie-files-revive-your-movs-at-no-charge/"><u>Economical Solutions for Mendin' Movie Files - Revive Your MOVs at No Charge</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/effortless-conversion-guide-turning-m4v-files-into-compatible-webm-format/"><u>Effortless Conversion Guide: Turning M4V Files Into Compatible WebM Format</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/effortless-techniques-to-transform-high-dynamic-range-hdr-footage-into-standard-dynamic-range-sdr/"><u>Effortless Techniques to Transform High Dynamic Range (HDR) Footage Into Standard Dynamic Range (SDR)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/fc23/"><u>FC2動画コピー技術：3種類のダウンロード手順を解説します</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-smart-8-hd-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Smart 8 HD Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-stock-photos-free-flawless-and-legal/"><u>Navigating Stock Photos Free, Flawless, and Legal</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m14-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M14 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-encrypted-email-providers-to-protect-your-privacy/"><u>Top 5 Encrypted Email Providers to Protect Your Privacy</u></a></li>
 </ul></div>
 

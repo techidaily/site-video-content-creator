@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Secret to Engaging Lower Thirds FCPX Best Practices Revealed
-date: 2024-09-18T20:26:26.704Z
-updated: 2024-09-26T08:22:23.220Z
+date: 2024-09-25T18:42:06.807Z
+updated: 2024-10-01T05:53:43.211Z
 tags: 
   - video editing software
   - video editing
@@ -47,6 +47,13 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -58,6 +65,13 @@ The color combinations of your lower third element play a vital factor. Choose t
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -85,32 +99,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -126,6 +114,13 @@ Features of Final Cut Pro X to design lower third module element
 * You can include animations for the lower third module to persuade the viewers.
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
@@ -153,20 +148,6 @@ For those who still need more guides about making lower thirds, this Filmora tut
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -184,6 +165,13 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 **Minimalistic collection**
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -208,20 +196,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/14183827-new-in-2024-eliminate-camera-sway-no-tripods-allowed/"><u>[New] In 2024, Eliminate Camera Sway No Tripods, Allowed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-which-frame-rate-is-ideal-analyzing-benefits-of-30fps-and-60fps/"><u>[Updated] In 2024, Which Frame Rate Is Ideal? Analyzing Benefits of 30Fps and 60Fps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-filmmakers-toolkit-essential-tips-for-youtube-creators-with-smartphones-for-2024/"><u>[Updated] The Filmmaker's Toolkit Essential Tips for YouTube Creators with Smartphones for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-a38-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo A38 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/bts-dvdand/"><u>BTS DVD全収録のコピー術：最もスピーディー&清潔に辿り着くための究極テクニック</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-video-editors-handbook-download-and-learn/"><u>New The Ultimate Video Editors Handbook Download and Learn</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/private-and-business-video-hosting-10-free-options-to-consider-for-2024/"><u>Private and Business Video Hosting 10 Free Options to Consider for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/restoring-functionality-to-malfunctioning-xbox-series-x-and-s-earphones-a-comprehensive-guide/"><u>Restoring Functionality to Malfunctioning Xbox Series X & S Earphones: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-experts-manual-to-crafting-impeccable-srt-files/"><u>The Expert's Manual to Crafting Impeccable SRT Files</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-rated-mp4-editor-for-mavericks-unlock-advanced-features/"><u>Updated 2024 Approved Top-Rated MP4 Editor for Mavericks Unlock Advanced Features</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-6-top-rated-free-video-cutting-software-for-mov-files-for-2024/"><u>Updated 6 Top-Rated Free Video Cutting Software for MOV Files for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-16-avi-trimmers-cut-and-edit-avi-files-with-ease-windows-mac-android/"><u>Updated In 2024, Best 16 AVI Trimmers Cut and Edit AVI Files with Ease Windows, MAC, Android</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-pro-level-voice-overs-in-no-time-final-cut-pro-expert-advice/"><u>Updated In 2024, Pro-Level Voice Overs in No Time Final Cut Pro Expert Advice</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-unleash-the-80s-easy-vhs-effects-for-final-cut-pro-users-for-2024/"><u>Updated Unleash the 80S Easy VHS Effects for Final Cut Pro Users for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-revitalizing-past-moments-with-instagram-filters/"><u>[New] In 2024, Revitalizing Past Moments with Instagram Filters</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-artisans-guide-to-snapchat-filters-mastery/"><u>[New] The Artisan's Guide to Snapchat Filters Mastery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fix-for-freezing-photo-booth-videos-that-disrupt-usage/"><u>[Updated] Fix for Freezing Photo Booth Videos That Disrupt Usage</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/44cm5yid5bplusd6icf44oe44ol44ol44ki44or77ya5oml44gj5yplusw44kk5pep44gp44op44oz44oj44ow44os44kk44kx44gn5yq55p6c55qe44gq5l244ge5pa544go44k744od44og44kj44oz44k62/"><u>「初心者マニュアル：手っ取り早くハンドブレイケで効果的な使い方とセッティングの仕方」</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/1-quick-guide-turning-your-vitalsource-evbk-files-into-a-downloadable-pdf-format/"><u>1. Quick Guide: Turning Your VitalSource eVBK Files Into a Downloadable PDF Format</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/6auy6ycf44gn5yq55p6c55qe44gq5yuv55s744kz44oz44ox44oq44kx44o844k344on44oz44oe44o844oric0g44gp44gg44ke44gj44gm44ot44oh44kq44gu5asn44gn44gv44ks5bcp44gv44gp44gx46/"><u>高速で効果的な動画コンプリケーションツール - どうやってビデオの大きさを小さくしますか?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/a-comprehensive-guide-to-enablingdisabling-uptobox-stream-authorization-on-the-kodi-platform/"><u>A Comprehensive Guide to Enabling/Disabling Uptobox Stream Authorization on the Kodi Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-of-effective-online-streaming/"><u>Behind the Scenes of Effective Online Streaming</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/best-5-trusted-microsoft-window-compatible-video-surveillance-programs/"><u>Best 5 Trusted Microsoft Window-Compatible Video Surveillance Programs</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/comparing-dvdplus-r-dual-layer-to-standard-dvd-key-insights-into-capacity-and-quality/"><u>Comparing DVD+/- R Dual Layer to Standard DVD - Key Insights Into Capacity & Quality</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-repairing-older-usb-composite-device-connections-fixed/"><u>Comprehensive Guide to Repairing Older USB Composite Device Connections [FIXED]</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/converting-dvds-to-wmv-format-with-superior-quality-on-your-pc/"><u>Converting DVDs to WMV Format with Superior Quality on Your PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/discover-fresh-korean-drama-episodes-locate-and-download-them-without-payment/"><u>Discover Fresh Korean Drama Episodes - Locate & Download Them Without Payment</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/discover-the-ultimate-list-of-free-live-sports-streaming-services/"><u>Discover the Ultimate List of FREE Live Sports Streaming Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-diablo-gameplay-enthusiasts/"><u>Essential Tips for Diablo Gameplay Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-does-shap-e-simplify-ml-complexities/"><u>How Does SHAP E Simplify ML Complexities?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bers-edge-the-ultimate-guide-to-apps-for-short-form-edits/"><u>Youtubers' Edge The Ultimate Guide to Apps for Short Form Edits</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/44ou44ki44o744op44kk44ow6ywn5lplush55s75yop44gu6kiy6yyy44go5b6m44gn6kal44kj44km44kl44ki44gg44gr44gz44kl5pa55rov/"><u>ピア・ライブ配信画像の記録と後で見られるようにする方法</u></a></li>
 </ul></div>
 

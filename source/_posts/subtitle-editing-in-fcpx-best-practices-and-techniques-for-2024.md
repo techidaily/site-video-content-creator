@@ -1,7 +1,7 @@
 ---
 title: Subtitle Editing in FCPX Best Practices and Techniques for 2024
-date: 2024-09-09T01:38:58.212Z
-updated: 2024-09-10T01:38:58.212Z
+date: 2024-09-29T04:24:57.790Z
+updated: 2024-09-30T19:13:03.171Z
 tags: 
   - video editing software
   - video editing
@@ -14,30 +14,12 @@ keywords: fcpx lower thirds mastery best practices and techniques,canon video ed
 thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Subtitle Editing in FCPX: Best Practices and Techniques
 
 # How to Add Subtitles/Captions in Final Cut Pro X?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Oct 26, 2023• Proven solutions
@@ -69,11 +51,12 @@ It is a standard caption format for web videos and broadcasts.
 It is a simple and popular format used in online videos.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Steps to Add Subtitles or Captions in FCPX
 
 **Step 1: Create Caption Roles**
@@ -103,17 +86,12 @@ Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
 
 Let's list some incredibly efficient and free subtitles tools that you can use for Final Cut Pro X.
@@ -130,12 +108,6 @@ The Quick Caption is another free tool available in Mac App Store to automatical
 
 It is the go-to free plugin by Stupid Raisins to display the text in animated templates. It generally depicts different kinds of paragraph titles, which you can edit as per the subtitles. It is one of the ideal plugins to impart professionalism into your videos with catchy descriptions. There are lots of templates available to select among them. Also, the simple drag and drop feature won't let you down in any scenario of adding subtitles or captions effectively.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Tips for adding Subtitles/Captions in Final Cut Pro X
 
 Given below are some quick tips to add Final Cut Pro captions or subtitles.
@@ -151,11 +123,18 @@ Every Caption set must export individually in Final Cut Pro X. However; there is
 ![send-to-compressor](https://images.wondershare.com/filmora/images/final-cut-pro/send-to-compressor.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Some may wonder, what is Compressor exactly？ [Click here to learn how to use the Compressor in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 * **Use the keyboard shortcut keys**
@@ -163,6 +142,13 @@ Some may wonder, what is Compressor exactly？ [Click here to learn how to use t
 You can use various keyboard shortcut keys to add the subtitles and captions into the video quickly. There are shortcut keys available at each step of adding these captions or subtitles in Final Cut Pro X.
 
 [Click here for some best shortcuts we summarised for you!](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -176,11 +162,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/utting-edge-computers-optimal-machines-for-media-creation-for-2024/"><u>[New] Cutting-Edge Computers Optimal Machines for Media Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-time-travelers-guide-to-youtube-queue-watch-from-end-to-start/"><u>[Updated] 2024 Approved A Time Traveler’s Guide to YouTube Queue Watch From End to Start</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-constructing-youtube-video-content-that-resonates-with-viewers-for-2024/"><u>[Updated] Constructing YouTube Video Content That Resonates with Viewers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-voice-interpretation-without-a-price-tag-for-2024/"><u>[Updated] Voice Interpretation Without a Price Tag for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-text-file-privacy-a-comprehensive-guide-to-implementing-password-security/"><u>Master the Art of Text File Privacy: A Comprehensive Guide to Implementing Password Security</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-mpeg-video-splitting-made-easy-top-5-free-tools/"><u>New In 2024, MPEG Video Splitting Made Easy Top 5 Free Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-saving-made-easy-a-step-by-step-final-cut-pro-guide/"><u>New In 2024, Saving Made Easy A Step-by-Step Final Cut Pro Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-ultimate-videopad-review-features-pricing-and-alternatives/"><u>New In 2024, The Ultimate Videopad Review Features, Pricing, and Alternatives</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-6-video-dubbing-tools-for-hilarious-edits/"><u>New In 2024, Top 6 Video Dubbing Tools for Hilarious Edits</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unlocking-great-sound-audio-editing-techniques-in-fcp/"><u>New In 2024, Unlocking Great Sound Audio Editing Techniques in FCP</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-vivo-y36i-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Vivo Y36i</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-stop-wallpaper-engine-from-crashing-in-windows-operating-systems/"><u>Troubleshooting Guide: How to Stop Wallpaper Engine From Crashing in Windows Operating Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-12-proplus-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme 12 Pro+ 5G Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-as-the-users-intention-is-to-explore-the-best-for-this-purpose-a-list-of-top-5-free-mpeg-video-splitters-are-under-discussion/"><u>Updated 2024 Approved As the Users Intention Is to Explore the Best; for This Purpose, a List of Top 5 Free MPEG Video Splitters Are Under Discussion</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-elevate-your-video-production-top-4k-video-editing-software/"><u>Updated 2024 Approved Elevate Your Video Production Top 4K Video Editing Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-master-adobe-premiere-with-these-20-must-know-shortcuts/"><u>Updated In 2024, Master Adobe Premiere with These 20 Must-Know Shortcuts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows-11mp3/"><u>Windows 11におけるMP3ファイルの効果的な操作手順：カット、連結、ボリューム設定</u></a></li>
+</ul></div>
+
