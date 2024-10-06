@@ -1,7 +1,7 @@
 ---
 title: Updated Vintage Vibes in FCP A Step-by-Step Guide to VHS Effects for 2024
-date: 2024-09-09T01:38:58.844Z
-updated: 2024-09-10T01:38:58.844Z
+date: 2024-10-03T19:15:14.898Z
+updated: 2024-10-06T18:31:17.575Z
 tags: 
   - video editing software
   - video editing
@@ -14,24 +14,12 @@ keywords: elevate your video content a step by step guide to 3d effects on windo
 thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b95afc8af67003c49b108b72.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Vintage Vibes in FCP: A Step-by-Step Guide to VHS Effects
 
 # Do VHS Effect with Final Cut Pro in the Right Way
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
@@ -62,18 +50,6 @@ Open the Effects, and in the search bar, type Add Noise. Select the Add Noise ef
 
 ![add_noise_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_noise_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Go to the option Blend Mode and select Color Dodge. Now click on Type and select Gaussian Noise (Film Grain). In the Amount section, add the amount between 0.23-0.32.
 
 Now go back to the search bar and type Gaussian Blur. Select that and drop it to your footage in FCPX.
@@ -92,36 +68,18 @@ Now in the search bar type Bad TV effect. Select it and drop it on your footage 
 
 ![add_bad_tv_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_bad_tv_effect_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Set the amount of the effect to roughly around 8.0-9.0\. In the option, Static Type, select Gaussian Noise (Film Grain). Select Soft Light in Static Blend mode option.
 
 Now go to the search bar again and type Prism. Select the prism effect and drop it to your footage in Final Cut Pro. This will add some 3D effect to your footage.
 
 ![add_prism_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_prism_effect_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Set the amount to around 13.0-14.0.
 
 Go back to the search bar and type Color Correction. Drag and drop this effect to your footage in Final Cut Pro.
 
 ![color_correction_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/color_correction_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Click on Exposure and adjust the Highlights, Midtones, and Shadow. Go to the Saturation option and lower it. Now go to the Color and adjust the tint of your video by changing the Global option. Also, adjust the Highlights, Midtones, and Shadows. Wait for a few minutes for it to render.
 
 After your video is rendered, you will get the final results using the VHS filter in Final Cut Pro. Your video will look like it was made in a VCR Video format.
@@ -129,11 +87,18 @@ After your video is rendered, you will get the final results using the VHS filte
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
@@ -143,14 +108,22 @@ First, if you haven't got Filmora, click here to download it for free!
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
@@ -187,18 +160,6 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Search for **Chromatic Aberration effect**.
 
 * Drag and drop it above the previous layer.
@@ -209,11 +170,12 @@ Search for **Chromatic Aberration effect**.
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now Search for **VCR Distortion** in the search bar.
 
 1. Drag and drop it above the previous layer.
@@ -267,25 +229,11 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -293,3 +241,25 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-virtual-venue-vaults-audiences/"><u>[New] Virtual Venue Vaults Audiences</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-video-grabber-win-mac-and-mobile-for-2024/"><u>[Updated] FB Video Grabber - Win, Mac & Mobile for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/elevate-your-websites-user-experience-with-cookiebot-technology/"><u>Elevate Your Website's User Experience with Cookiebot Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enjoying-the-journey-discovering-pexels-treasures/"><u>Enjoying the Journey Discovering Pexels' Treasures</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-g54-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola G54 5G FRP</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-5-android-screen-recorders-essential-app-selection/"><u>In 2024, Top 5 Android Screen Recorders Essential App Selection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-chronological-browsing-in-instagrams-desktop-version/"><u>Mastering the Art of Chronological Browsing in Instagram's Desktop Version</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-freeze-rewind-repeat-mastering-the-art-of-frozen-frames-in-video-editing/"><u>New 2024 Approved Freeze, Rewind, Repeat Mastering the Art of Frozen Frames in Video Editing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-from-hobbyist-to-pro-the-best-free-and-paid-3d-animation-tools/"><u>New 2024 Approved From Hobbyist to Pro The Best Free and Paid 3D Animation Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-macs-best-video-production-tools-unleash-your-creativity/"><u>New 2024 Approved Macs Best Video Production Tools Unleash Your Creativity</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-revolutionize-your-gameplay-videos-top-free-editing-tools/"><u>New 2024 Approved Revolutionize Your Gameplay Videos Top Free Editing Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-free-flv-video-editors-for-windows-and-mac/"><u>New 2024 Approved Top Free FLV Video Editors for Windows and Mac</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-videopad-video-editor-review-and-buying-recommendation/"><u>New 2024 Approved Videopad Video Editor Review and Buying Recommendation</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-free-video-editing-software-for-dummies-top-picks-for-2024/"><u>New Free Video Editing Software for Dummies Top Picks for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-editing-on-steroids-top-40-final-cut-pro-x-keyboard-shortcuts/"><u>New In 2024, Editing on Steroids Top 40 Final Cut Pro X Keyboard Shortcuts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-mkv-format-a-comprehensive-guide-on-opening-matroska-files/"><u>Understanding the MKV Format: A Comprehensive Guide on Opening Matroska Files</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-gaming-power-save-big-and-grab-hp-omens-transcend-14-with-rtx-displayed-in-oled-brilliance-300-off/"><u>Unleash Gaming Power: Save Big & Grab HP Omen's Transcend 14 with RTX, Displayed in OLED Brilliance - $300 Off!</u></a></li>
+</ul></div>
+

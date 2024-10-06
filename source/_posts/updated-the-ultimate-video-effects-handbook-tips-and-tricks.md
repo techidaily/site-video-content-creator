@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Video Effects Handbook Tips and Tricks
-date: 2024-08-15T00:58:16.215Z
-updated: 2024-08-16T00:58:16.215Z
+date: 2024-10-01T17:30:40.982Z
+updated: 2024-10-06T19:25:48.610Z
 tags: 
   - video editing software
   - video editing
@@ -44,9 +44,6 @@ Besides these common cool video effects, [Filmora Effects Store](https://tools.t
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Add Cool Effects to Videos in Filmora \[Tutorial\]
 
 With Filmora, you can also add some cool effects conveniently to improve your video with ease. After several clicks, your video will turn out to be a stunning masterpiece which is really fantastic to share with your family and friends on YouTube or Facebook. Now follow this step-by-step guide on how to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with this cool software.
@@ -56,8 +53,12 @@ With Filmora, you can also add some cool effects conveniently to improve your vi
 Install and launch Wondershare Filmora. Click New Project and then click the “Import” button to load your media files through its navigation import panel or directly drag and drop your files to the media library.
 
 ![cool video editor](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2 Add cool effects to your video
@@ -71,15 +72,16 @@ You can also right click your favorite effect and select apply. You will see the
 Detailed information about how to add a split-screen effect video, check our [guide about how to make a split screen video here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 
 For steps of compositing a green screen video, check this video tutorial below:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Besides that, you can add more cool effects provided by Video Editor. Just highlight the target media file, then go to Effects Tab. Yu can select and apply more cool effects like Tilt-Shift, Mosaic, and Face Off under Utitliy filters. These effects will help you turn your video clip into a work of art.
@@ -91,8 +93,12 @@ Besides that, you can add more cool effects provided by Video Editor. Just highl
 You can preview and watch your video by clicking the “Play” button before you export it. Go back and make some necessary adjustments. Then you can save and export the video to your computer in the “Format” tab. If you want to play video on mobile devices, go to the “Devices” tab and choose a device from the list. Of course, you can also directly burn it to DVD or post on YouTube or Vimeo.
 
 ![cool video editor](https://images.wondershare.com/filmora/article-images/export-output.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Filmora features more than 300 video effects, elements and motion effects and 100+ text and title styles to choose. Besides adding cool video effects to video clips, you can also reverse, speed up or slow down the video to make a cool effect. You can also choose music sound from the built in music library and do some audio editing with the Audio Mixer or Audio Equalizer tool.
@@ -104,8 +110,12 @@ As one of the best and easiest video editing software which comes with cool effe
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -114,11 +124,28 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-prime-guidelines-youtube-respect-and-usage/"><u>[New] In 2024, Prime Guidelines YouTube Respect & Usage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>[New] Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diving-into-apples-world-ipad-mini-vs-ipad-air-a-comprehensive-review/"><u>Diving Into Apple's World: IPad Mini vs iPad Air - A Comprehensive Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171021579-enhance-visual-appeal-opt-for-expansive-cabinet-panels/"><u>Enhance Visual Appeal: Opt for Expansive Cabinet Panels!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-se-2022-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone SE (2022) in the Best Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-k11x-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo K11x to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-eos-login-challenges-in-palworld-with-effective-strategies/"><u>Navigating Through EOS Login Challenges in Palworld with Effective Strategies</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/unleash-the-power-of-time-lapse-expert-tips-for-final-cut-pro-users-for-2024/"><u>Unleash the Power of Time Lapse Expert Tips for Final Cut Pro Users for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-mac-video-tag-editor-8-best-tools-for-easy-organization/"><u>Updated 2024 Approved Mac Video Tag Editor 8 Best Tools for Easy Organization</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-fcpx-tutorial-elevate-your-audio-game-with-l-cuts-and-j-cuts-for-2024/"><u>Updated FCPX Tutorial Elevate Your Audio Game with L-Cuts and J-Cuts for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-movie-mastery-unlocked-easy-tips-and-tricks-for-filmmakers/"><u>Updated Movie Mastery Unlocked Easy Tips and Tricks for Filmmakers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-best-of-the-best-top-mts-video-editing-software/"><u>Updated The Best of the Best Top MTS Video Editing Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-whats-the-best-green-screen-app-for-mac-weve-got-the-answer-for-2024/"><u>Updated Whats the Best Green Screen App for Mac? Weve Got the Answer for 2024</u></a></li>
+</ul></div>
+

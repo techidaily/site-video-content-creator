@@ -1,7 +1,7 @@
 ---
 title: PC上のJ SPORTSオンデマンド動画保存手順：完全ガイド
-date: 2024-09-28T19:10:38.295Z
-updated: 2024-10-01T01:15:16.261Z
+date: 2024-10-03T18:05:44.435Z
+updated: 2024-10-06T19:04:31.100Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad7a99594a73a26d6b57f4450.jpg
@@ -38,18 +38,18 @@ Add background music or custom audio
 
 Let's see how to use Microsoft Photos to edit videos on Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1\. Import the Video
 
 Click the "Start" button and scroll down to find and open the "**Video Editor**". Click "**New video project**" > name the video > press the "**\+ Add**" button to select a video to import. Drag the video from the "**Project library**" to the editing workplace.
 
 ![Open Video Editor](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-12.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2\. Edit the Video as You Wish
 
@@ -63,18 +63,18 @@ For more video editing functions, you just need to press the related icon to ope
 
 ![Edit Videos on Windows 10](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-13.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3\. Export Edited Video
 
 Once finished editing, you can click "**Finish video**", choose a video quality, and click "**Export**" to export the edited video.
 
 ![Export Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-14.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 However, the Microsoft Photos app only supports a few video formats and often crashes when processing large videos. So I'm here to introduce a third-party free video editing tool for Windows 10 and 11\. It is powerful and user-friendly and allows you to easily edit videos with simple clicks. The next part will show you how to edit videos on Windows 10 for free. Just read on!
 
@@ -94,27 +94,26 @@ Just install this Windows video editor on your PC and learn how to edit a video 
 
 [Free Download](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
-## \---How to Edit Videos with the Free Video Editor
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## \---How to Edit Videos with the Free Video Editor
 
 ### Step 1: Add the Source Video into the Program
 
 Launch _**Free HD Video Converter Factory**_ after installing it on your PC. Open the **Converter** window and click the **\+ Add Files** button in the upper right of the interface to import the video you want to edit. Alternatively, you can also hit the center **+** button or drag and drop the video file into the software.
 
 ![How to Edit Videos on Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-1.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Edit Videos with Different Tools
 
@@ -134,13 +133,6 @@ Click the **Trim** (**scissor** icon) on the toolbar to bring up the video cutti
 
 ![How to Edit a Video on Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-3.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Also Read:** [Best Video Trimmer no Watermark](https://tools.techidaily.com/videoconverterfactory/video-watermark/) | [Trim Video without Increasing File Size](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 _**#3\. Rotate/Flip the Video**_
@@ -148,13 +140,6 @@ _**#3\. Rotate/Flip the Video**_
 Click the **Rotate** (**circle-shaped**) icon next to the scissor icon to enter a new window. Here you can [rotate the video 90 degrees](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) clockwise or counterclockwise, as well as [flip the video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)horizontally or vertically. And you can see the output preview on the right window. Then click **OK** to save the process and go back to the main interface.
 
 ![Free Video Editing Software for Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-4.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _**#4\. Crop the Video**_
 
@@ -175,10 +160,10 @@ Click the **Stamper** icon to bring up the **Watermark** window. Here you can ty
 ![How to Edit Videos on Laptop Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-7.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _**#7\. Edit the Video Metadata**_
@@ -201,6 +186,19 @@ Tips: Open the **Parameter settings** window, and you'll be able to modify the v
 
 ![Best Free Video Editor for Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-10.webp) 
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 4: Start Exporting the Edited Video
 
 When everything is OK, specify a destination folder to save the output video by pressing the **inverted triangle** button on the bottom. Finally, hit the **Run** button to start exporting the video.
@@ -213,6 +211,13 @@ Apart from the video editing and conversion features, Free HD Video Converter al
 
 [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final Words...
 
 Above is all I want to share with you about how to edit videos on Windows 10 for free. Despite the Photos and some online video editors being capable of video editing on Windows 10/11, they also have some drawbacks like format restrictions, usually crashes, limited video size and length, etc. Therefore, **Free HD Video Converter Factory** is definitely the best choice to edit videos on Windows. Just [**get**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)[**get**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) it to edit your videos free, handily, and effortlessly. Thanks for reading!
@@ -223,11 +228,25 @@ Above is all I want to share with you about how to edit videos on Windows 10 for
 
 Yes, the video editor is a function in the Microsoft Photos application. It is an independent program, including some basic video editings features like trim, add background music, draw, text, 3D effects, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Q2\. Can I edit a video in Windows Media Player?
 
 Actually, Windows Media Player doesn't come with any video editing features. But you can trim videos in Windows Media Player with a smart plug-in (SolveigMM WMP Trimmer Plugin) installed.
 
 See how to trim video with Windows Media Player: [How to Cut Video in Windows Media Player](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. How do I crop a video in Windows 10?
 
@@ -253,19 +272,6 @@ _\* Please do not use the DVD ripper to rip any copy-protected DVDs for commerci
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -281,21 +287,19 @@ _\* Please do not use the DVD ripper to rip any copy-protected DVDs for commerci
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/est-screen-replayer-for-high-impact-youtubing-experience/"><u>[New] Best Screen Replayer for High-Impact YouTubing Experience</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-optimizing-content-sharing-from-twitters-to-snaps/"><u>[New] In 2024, Optimizing Content Sharing From Twitters to Snaps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-tips-for-crafting-effective-igtv-titles-and-summaries/"><u>[Updated] In 2024, Tips for Crafting Effective IGTV Titles & Summaries</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-ultima-designs-analysis-pinnacle-suite-studio-2023-overview-for-2024/"><u>[Updated] Ultima Designs Analysis Pinnacle Suite Studio, 2023 Overview for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-for-moving-programs-in-windows-11/"><u>A Step-by-Step Approach for Moving Programs in Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/comprendiendo-los-botones-para-tiempo-en-aplicaciones/"><u>Comprendiendo Los Botones Para Tiempo en Aplicaciones</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-newest-graphics-drivers-for-nvidias-rtx-2080-supports-win10-win78-systems/"><u>Download the Newest Graphics Drivers for NVIDIA's RTX 2080 – Supports Win10, Win7/8 Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-effortlessly-get-the-newest-synaptics-driver-version-for-windows-computers/"><u>How to Effortlessly Get the Newest Synaptics Driver Version for Windows Computers</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-timecode-calculation-made-easy-top-picks-for-online-ios-and-android-tools-for-2024/"><u>New Timecode Calculation Made Easy Top Picks for Online, iOS, and Android Tools for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-5-best-free-mov-video-joiners-for-2024/"><u>New Top 5 Best Free MOV Video Joiners for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-10-animation-software-for-bringing-photos-to-life/"><u>Updated 2024 Approved Top 10 Animation Software for Bringing Photos to Life</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-take-your-videos-to-the-next-level-adding-effects-in-fcp-x-3-steps/"><u>Updated In 2024, Take Your Videos to the Next Level Adding Effects in FCP X (3 Steps)</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-videopad-video-editor-review-features-pricing-and-verdict/"><u>Updated In 2024, Videopad Video Editor Review Features, Pricing, and Verdict</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-mp4-file-editor-for-windows-8-quick-and-easy-video-editing-for-2024/"><u>Updated MP4 File Editor for Windows 8 Quick and Easy Video Editing for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-splice-video-editor-on-mac-download-guide-and-best-alternative-for-2024/"><u>Updated Splice Video Editor on Mac Download Guide and Best Alternative for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-a-comprehensive-tutorial-changing-gender-in-social-media-images/"><u>[Updated] 2024 Approved A Comprehensive Tutorial Changing Gender in Social Media Images</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-easy-to-follow-guide-adding-snapchat-to-your-mac-os/"><u>[Updated] In 2024, Easy-to-Follow Guide Adding Snapchat to Your Mac OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/batch-conversion-of-media-files-using-vlc-player-a-comprehensive-guide/"><u>Batch Conversion of Media Files Using VLC Player - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-setup-how-to-install-auto-gpt-a-comprehveive-walkthrough/"><u>Easy Setup: How to Install Auto-GPT - A Comprehveive Walkthrough</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How to share/fake gps on Uber for Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-into-the-world-of-incredible-ig-filmmaking-for-2024/"><u>Step Into the World of Incredible IG Filmmaking for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-ensuring-accurate-age-on-tiktok/"><u>Step-by-Step Ensuring Accurate Age on TikTok</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-ultimate-list-of-avi-video-trimmers-edit-and-cut-videos-with-ease-multi-platform-for-2024/"><u>The Ultimate List of AVI Video Trimmers Edit and Cut Videos with Ease Multi-Platform for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/up-to-date-hl-2240-printer-driver-for-enhanced-windows-compatibility/"><u>Up-to-Date HL-2240 Printer Driver for Enhanced Windows Compatibility</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-notch-avchd-video-editing-software-our-2023-rankings/"><u>Updated 2024 Approved Top-Notch AVCHD Video Editing Software Our 2023 Rankings</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unlock-fcpx-potential-troubleshooting-secrets-revealed/"><u>Updated 2024 Approved Unlock FCPX Potential Troubleshooting Secrets Revealed</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-best-way-to-trim-vlc-videos-on-mac-maintain-original-quality-for-2024/"><u>Updated The Best Way to Trim VLC Videos on Mac Maintain Original Quality for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creativity-top-video-collage-apps-for-ios-devices-for-2024/"><u>Updated Unleash Your Creativity Top Video Collage Apps for iOS Devices for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro for 2024
-date: 2024-08-15T00:59:55.687Z
-updated: 2024-08-16T00:59:55.687Z
+date: 2024-09-29T19:46:37.717Z
+updated: 2024-10-06T19:36:45.827Z
 tags: 
   - video editing software
   - video editing
@@ -65,8 +65,12 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -82,20 +86,32 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -110,9 +126,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -120,11 +133,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-evaluating-toolwiz-in-a-world-of-mobile-photography-apps/"><u>[New] Evaluating Toolwiz in a World of Mobile Photography Apps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-understanding-facebooks-policy-on-media-content-sharing-for-2024/"><u>[New] Understanding Facebook's Policy on Media Content Sharing for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-freeframe-finders-your-path-to-aesthetic-economical-backdrops-on-tiktok/"><u>[Updated] In 2024, FreeFrame Finders Your Path to Aesthetic, Economical Backdrops on TikTok</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-inside-virtual-worlds-todays-insights-and-tomorrows-trials/"><u>[Updated] In 2024, Inside Virtual Worlds Today's Insights & Tomorrow's Trials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-chatgpt-is-revolutionizing-communication-7-case-studies/"><u>Discover How ChatGPT Is Revolutionizing Communication: 7 Case Studies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-poco-c51-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Poco C51</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-11-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme 11 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-must-have-iphone-apps-expertly-curated-list-with-reviews/"><u>New In 2024, Must-Have iPhone Apps Expertly Curated List with Reviews</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-best-free-wmv-video-concatenation-software/"><u>New In 2024, The Best Free WMV Video Concatenation Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-best-of-the-big-screen-top-movie-trailer-apps-for-iphone-and-ipad-users/"><u>New In 2024, The Best of the Big Screen Top Movie Trailer Apps for iPhone and iPad Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unleash-your-gopro-footage-a-quik-review-and-top-pc-video-editing-alternatives/"><u>New In 2024, Unleash Your GoPro Footage A Quik Review and Top PC Video Editing Alternatives</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-vlog-editing-made-easy-the-best-free-and-paid-software-solutions/"><u>New In 2024, Vlog Editing Made Easy The Best Free and Paid Software Solutions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-jaycut-how-to-use-free-online-video-editing-software-jaycut-for-2024/"><u>New Jaycut - How to Use Free Online Video Editing Software Jaycut for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-motion-tracking-software-for-text-top-picks-for-2024/"><u>New Motion Tracking Software for Text Top Picks for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-professional-audio-editing-essentials-top-10-software-solutions/"><u>New Professional Audio Editing Essentials Top 10 Software Solutions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-s-hottest-2d-animation-software-reviews-and-comparisons/"><u>New S Hottest 2D Animation Software Reviews and Comparisons</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-honor-magic-6-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Honor Magic 6 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/scripting-sci-fi-elements-time-and-space-in-action/"><u>Scripting Sci-Fi Elements Time & Space in Action</u></a></li>
+<li><a href="https://win-forum.techidaily.com/third-party-uninstaller-do-i-really-need-it-revo-uninstaller/"><u>Third-Party Uninstaller - Do I Really Need It? - Revo Uninstaller</u></a></li>
+</ul></div>
+
