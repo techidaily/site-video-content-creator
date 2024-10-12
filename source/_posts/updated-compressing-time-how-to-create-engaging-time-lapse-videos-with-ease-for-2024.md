@@ -1,7 +1,7 @@
 ---
 title: Updated Compressing Time How to Create Engaging Time Lapse Videos with Ease for 2024
-date: 2024-08-15T00:57:55.737Z
-updated: 2024-08-16T00:57:55.737Z
+date: 2024-10-09T17:49:33.801Z
+updated: 2024-10-12T06:58:57.934Z
 tags: 
   - video editing software
   - video editing
@@ -86,8 +86,12 @@ If you want to save and play your video on iPhone, iPod, iPad and other devices,
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Speed Up to Make a Time lapse Video
 
 In case that you want to make a time lapse video with video footage, below are the step-by-step tutorial:
@@ -101,13 +105,12 @@ Just like importing photos to Filmora, follow the steps to import the video clip
 Next, drag your video onto the video column in the timeline. Select the loaded video and click the "Play" button. While playing the video, drag the slider bar at the start time and hit the "Split" icon to cut out the part you want to do time lapse editing.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 3 Speed up to create time lapse video
@@ -115,8 +118,12 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
@@ -128,13 +135,14 @@ If you are satisfied with the newly made time lapse video, just click **Export**
 That’s how to make a cool time lapse video with the time lapse video software Filmora, no matter whether you want to make a time lapse video from photos, or speed up the video to make a time lapse video, you can achieve that with a few clicks.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -143,11 +151,33 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cost-effective-strategies-to-combine-videos-with-text/"><u>[New] 2024 Approved Cost-Effective Strategies to Combine Videos with Text</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-scheduling-zoom-conferences-for-android-users-for-2024/"><u>[New] Scheduling Zoom Conferences for Android Users for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tips-for-zoom-on-chrome-devices/"><u>[New] Top Tips for Zoom on Chrome Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-budget-friendly-sponsorship-blueprint-for-youtube-enthusiasts/"><u>[Updated] In 2024, Budget-Friendly Sponsorship Blueprint for YouTube Enthusiasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-visual-impact-with-extra-camera-work/"><u>2024 Approved Maximizing Visual Impact with Extra Camera Work</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-poco-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Poco</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-raw-to-ready-a-comprehensive-instruction-manual-for-picture-posting-on-youtube-for-2024/"><u>From Raw to Ready A Comprehensive Instruction Manual for Picture Posting on YouTube for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Pro Max Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-in-motion-a-thorough-review-of-magix-vpxs-features/"><u>In 2024, Mastery in Motion A Thorough Review of Magix VPX's Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-y55s-5g-2023-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo Y55s 5G (2023) Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unleash-your-creativity-best-free-online-glitch-effect-tools/"><u>New Unleash Your Creativity Best Free Online Glitch Effect Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-6-video-dubbing-software-for-pc-free-download/"><u>Updated 2024 Approved Best 6 Video Dubbing Software for PC - Free Download</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-from-beginner-to-pro-5-final-cut-pro-editing-tips-to-up-your-game-for-2024/"><u>Updated From Beginner to Pro 5 Final Cut Pro Editing Tips to Up Your Game for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-get-animated-top-10-software-for-2d-animation-enthusiasts-for-2024/"><u>Updated Get Animated Top 10 Software for 2D Animation Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-free-video-editing-learn-to-blur-videos-online-in-minutes/"><u>Updated In 2024, Free Video Editing Learn to Blur Videos Online in Minutes</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-pc-video-editors-similar-to-gopro-quik-top-picks/"><u>Updated In 2024, PC Video Editors Similar to GoPro Quik Top Picks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-s-best-gopro-editing-tools-replacing-gopro-studio-with-these-alternatives/"><u>Updated In 2024, S Best GoPro Editing Tools Replacing GoPro Studio with These Alternatives</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-shrink-your-files-9-best-free-video-compression-tools-for-windows-10-for-2024/"><u>Updated Shrink Your Files 9 Best Free Video Compression Tools for Windows 10 for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/vlc-video-cutter-for-mac-preserve-quality-while-trimming-for-2024/"><u>VLC Video Cutter for Mac Preserve Quality While Trimming for 2024</u></a></li>
+</ul></div>
+

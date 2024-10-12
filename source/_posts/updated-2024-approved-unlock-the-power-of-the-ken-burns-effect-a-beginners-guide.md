@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Unlock the Power of the Ken Burns Effect A Beginners Guide
-date: 2024-08-15T00:53:31.559Z
-updated: 2024-08-16T00:53:31.559Z
+date: 2024-10-06T00:07:31.612Z
+updated: 2024-10-12T12:33:56.360Z
 tags: 
   - video editing software
   - video editing
@@ -115,10 +115,12 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -129,8 +131,12 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
 **What is the Ken Burns Effect?**
@@ -142,8 +148,12 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -155,12 +165,12 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -169,11 +179,25 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-creating-your-first-home-theater-disc-with-mac/"><u>[New] In 2024, Creating Your First Home Theater Disc with Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-gratis-onlinedesktop-video-collaboration-tools-for-2024/"><u>[New] Top 10 Gratis Online/Desktop Video Collaboration Tools for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tweetvidcutter-mp4webm-extractor/"><u>[New] TweetVidCutter MP4/WebM Extractor</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-seamlessly-capture-igtv-5-windows-and-mac-downloading-tips/"><u>[Updated] How to Seamlessly Capture IGTV 5 Windows & Mac Downloading Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pioneer-your-way-through-youtube-shorts-production/"><u>2024 Approved Pioneer Your Way Through YouTube Shorts Production</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/a-guide-to-accessing-christian-film-content-on-the-internet/"><u>A Guide to Accessing Christian Film Content on the Internet</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/best-methods-converting-mpeg-videos-to-mov-format-cost-free-both-online-and-offline/"><u>Best Methods: Converting MPEG Videos to MOV Format Cost-Free, Both Online & Offline</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/comparing-the-iconic-a-detailed-head-to-head-of-nokia-n8-and-apple-iphone-4/"><u>Comparing the Iconic: A Detailed Head-to-Head of Nokia N8 & Apple iPhone 4</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/convert-your-vproj-files-into-mp4-a-step-by-step-guide/"><u>Convert Your VPROJ Files Into MP4: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/desktop-and-mobile-guide-step-by-step-video-upload-process-on-facebook/"><u>Desktop & Mobile Guide: Step-by-Step Video Upload Process on Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategize-victory-without-paying-play-champion-managers-for-free/"><u>Strategize Victory Without Paying: Play Champion Managers for Free</u></a></li>
+</ul></div>
+
