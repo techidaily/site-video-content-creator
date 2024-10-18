@@ -1,7 +1,7 @@
 ---
 title: Effective Remedies for Fixing Palworld's Session-Based Search Glitches
-date: 2024-09-29T17:31:49.637Z
-updated: 2024-10-06T20:04:01.442Z
+date: 2024-10-13T12:35:42.632Z
+updated: 2024-10-17T16:36:14.260Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
@@ -64,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b336957ab.jpg)
 3. Click the**Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
@@ -88,17 +81,24 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6c02c345.jpg)
 3. Click the**Options** button and select**Scan and Repair** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
 Once finish, restart your game and see if it works properly.
 
@@ -114,16 +114,17 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
 
@@ -136,15 +137,21 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -168,21 +175,16 @@ Here’s what you can do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-oppo-f23-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Oppo F23 5G</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/comprehensive-tutorial-on-moving-data-from-a-samsung-s4-to-s5-device/"><u>Comprehensive Tutorial on Moving Data From a Samsung S4 to S5 Device</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-840-g3-graphics-driver-step-by-step-guide/"><u>Download & Install HP 840 G3 Graphics Driver: Step-by-Step Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-13-mini-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 13 mini and iPad</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-quick-and-easy-methods-for-including-emojis-into-discord-statements/"><u>In 2024, Quick and Easy Methods for Including Emojis Into Discord Statements</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-tecno-pova-6-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Tecno Pova 6 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/kostenloser-und-hochwertiger-filmformatwechsel-umwandlung-von-mkv-in-mp4-mithilfe-von-handbrake-erklart/"><u>Kostenloser Und Hochwertiger Filmformatwechsel: Umwandlung Von MKV in MP4 Mithilfe Von HandBrake Erklärt</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-ken-burns-effect-tutorial-from-basics-to-pro/"><u>New 2024 Approved Ken Burns Effect Tutorial From Basics to Pro</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-replace-sony-vegas-with-these-powerful-windows-video-editing-tools/"><u>New 2024 Approved Replace Sony Vegas with These Powerful Windows Video Editing Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-rated-video-editing-solutions-for-creators/"><u>New 2024 Approved Top-Rated Video Editing Solutions for Creators</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-vn-video-editor-pc-edition-a-fast-and-furious-review/"><u>New 2024 Approved VN Video Editor PC Edition A Fast and Furious Review</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-edit-mov-files-for-free-top-6-cutting-tools-reviewed-for-2024/"><u>New Edit MOV Files for Free Top 6 Cutting Tools Reviewed for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-apps-for-making-reaction-video/"><u>New In 2024, Best Apps for Making Reaction Video</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-easy-video-editing-top-picks-for-beginners-free-and-paid/"><u>New In 2024, Easy Video Editing Top Picks for Beginners (Free & Paid)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-rechargeable-battery-charger-units/"><u>Top-Rated Rechargeable Battery Charger Units</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-15-cameras-for-professional-vlogging-experience-for-2024/"><u>[Updated] Essential 15 Cameras for Professional Vlogging Experience for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-movies-the-best-18-4k-recorder-list/"><u>2024 Approved Mastering Movies The Best 18 4K Recorder List</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/comment-preparer-votre-pc-a-la-transition-pour-windows-11-avec-le-tpm-20-requis/"><u>Comment Préparer Votre PC À La Transition Pour Windows 11 Avec Le TPM 2.0 Requis ?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descargar-conversiones-de-archivo-amv-libre-de-codigo-guia-del-asistente-de-movavi/"><u>Descargar Conversiones De Archivo AMV Libre De Código: Guía Del Asistente De Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-a34-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy A34 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-wi-fi-wav-m4a-online/"><u>Movavi: 무료 제공 Wi-Fi를 통해 WAV을 M4A 암호화로 전환 - Online 모바일</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-sources-for-free-public-domain-video-downloads/"><u>New Top Sources for Free Public Domain Video Downloads</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-video-makers-with-music-for-android-and-iphone/"><u>Updated 2024 Approved Best Video Makers with Music for Android and iPhone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-filmora-free-trial-vs-torrent-which-one-is-safe-and-legit-for-2024/"><u>Updated Filmora Free Trial vs Torrent Which One Is Safe and Legit for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-cutting-edge-mkv-editing-tools-for-mac/"><u>Updated In 2024, Cutting-Edge MKV Editing Tools for Mac</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-secure-your-footage-how-to-blur-faces-in-videos/"><u>Updated In 2024, Secure Your Footage How to Blur Faces in Videos</u></a></li>
 </ul></div>
 

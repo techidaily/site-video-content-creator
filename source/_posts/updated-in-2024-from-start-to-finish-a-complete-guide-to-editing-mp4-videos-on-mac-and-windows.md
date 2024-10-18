@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, From Start to Finish A Complete Guide to Editing MP4 Videos on Mac and Windows
-date: 2024-10-02T18:38:45.185Z
-updated: 2024-10-06T18:04:31.044Z
+date: 2024-10-15T09:57:50.439Z
+updated: 2024-10-18T05:48:06.897Z
 tags: 
   - video editing software
   - video editing
@@ -58,6 +58,13 @@ It's free to download now.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ####
 
 #### 1. Cut MP4 Video
@@ -67,13 +74,6 @@ To cut your MP4 video into certain parts, drag and drop the video on the Timelin
 After that, move the red marker to the end of the scene, and repeat this again to cut the video into several fragments. If you want to cut off the unwanted parts, right click the video and choose "Delete".
 
 ![export edited MP4 by cutting](https://images.wondershare.com/filmora/article-images/cut-a-section.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ####
 
@@ -102,10 +102,10 @@ Just highlight your MP4 video, right click and choose "Audio Detach". The audio 
 ![edit MP4 audio](https://images.wondershare.com/filmora/article-images/add-audio-volume-keyframe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ####
@@ -121,13 +121,6 @@ Besides the basic video editing functions, Video Editor also provides various st
 
 ![edit MP4 video adding effects](https://images.wondershare.com/filmora/article-images/filmora-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ####
 
 #### 5. Save or Share the Edited Video
@@ -141,15 +134,22 @@ When all the editing is done, hit "Create" to save or share your videos in diffe
 
 ![export edited MP4](https://images.wondershare.com/filmora/article-images/filmora-export-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -167,22 +167,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/triking-visuals-a-deep-dive-into-optimal-youtube-thumbnail-sizes/"><u>[New] Striking Visuals A Deep Dive Into Optimal YouTube Thumbnail Sizes</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/solved-headphones-crackling-issues-quickly-and-easily/"><u>[SOLVED] Headphones Crackling Issues. Quickly & Easily!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-investigating-authenticitys-role-in-social-media-selfie-presentation/"><u>[Updated] Investigating Authenticity’s Role in Social Media Selfie Presentation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-lightroom-guide-creating-and-merging-stunning-hdr-images-for-2024/"><u>[Updated] Lightroom Guide Creating & Merging Stunning HDR Images for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/dont-panic-windows-11-users-discover-5-effective-strategies-before-official-end-of-service-zdnet/"><u>Don't Panic, Windows 11 Users! Discover 5 Effective Strategies Before Official End of Service | ZDNET</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guide-to-overcoming-dark-display-glitches-in-persona-5-strikers/"><u>Guide to Overcoming Dark Display Glitches in Persona 5 Strikers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-acrocefexe-application-issues-effectively/"><u>How to Repair AcroCEF.exe Application Issues Effectively</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-definition-stream-cameras-explored/"><u>In 2024, High Definition Stream Cameras Explored</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-10-mac-video-tag-editors-for-effortless-organization/"><u>New Top 10 Mac Video Tag Editors for Effortless Organization</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/successfully-launching-age-of-empires-ii-compatible-with-your-new-windows-11-system/"><u>Successfully Launching Age of Empires II Compatible with Your New Windows 11 System</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/unlock-your-chromebook-how-to-run-linux-for-2024/"><u>Unlock Your Chromebook How to Run Linux for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-jaycut-crash-course-master-free-online-video-editing-in-no-time/"><u>Updated 2024 Approved Jaycut Crash Course Master Free Online Video Editing in No Time</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-split-merge-and-edit-the-best-video-apps-for-ios-and-android/"><u>Updated 2024 Approved Split, Merge, and Edit The Best Video Apps for iOS and Android</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-vob-video-editor-reviews-top-5-free-options/"><u>Updated 2024 Approved VOB Video Editor Reviews Top 5 Free Options</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-hd-video-editing-made-easy-top-5-software-recommendations/"><u>Updated In 2024, HD Video Editing Made Easy Top 5 Software Recommendations</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-free-video-blurring-easy-online-solution/"><u>Updated In 2024, Unlock Free Video Blurring Easy Online Solution</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-elevate-your-facebook-voice-with-gratuitous-enhancement-tools/"><u>[New] Elevate Your Facebook Voice with Gratuitous Enhancement Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-capture-to-screen-advanced-editing-strategies-for-full-spherical-video-content-in-adobe-premiere-pro/"><u>[New] From Capture to Screen Advanced Editing Strategies for Full Spherical Video Content in Adobe Premiere Pro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-reimagine-virtual-engagements-with-customized-video-filters-in-zoom-for-2024/"><u>[New] Reimagine Virtual Engagements with Customized Video Filters in Zoom for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtubes-everlasting-titles-with-millions-of-viewers/"><u>[Updated] 2024 Approved YouTube's Everlasting Titles with Millions of Viewers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024vlciso/"><u>「2024」におけるVLC再生時のISOファイル不正認識:トラブルシューティングガイド</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1726029824676-8/"><u>「高解像度動画から静止画切り取りフリーソフトランキングトップ8をご紹介します」</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024itunes-mp3/"><u>2024年iTunes MP3ファイル追加不能解決法 - 最新マニュアル</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1726028487727-wrfmp4/"><u>一言で説明する、WRFファイルからMP4へのシンプルな変換ガイド</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/6ieq5yig44gu44gk5rcx44gr5ywl44kk44gu6zplusz5qw944ks5l244gj44gm5yuv55s744ks5yi25l2c44gz44kl44kz44oe/"><u>自分のお気に入りの音楽を使って動画を制作するコツ</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/elite-cloud-saving-solutions-compilation/"><u>Elite Cloud Saving Solutions Compilation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-podcast-renaming-made-easy-with-these-ai-tools/"><u>In 2024, Podcast Renaming Made Easy with These AI Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-v29-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo V29 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-getting-valorant-up-and-running-on-your-computer/"><u>Troubleshooting Steps for Getting Valorant Up and Running on Your Computer</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/windows-1110-audacity/"><u>Windows 11と10に最適: Audacityで問題が発生したらこの解決法を覚えておきます</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/xbox-onexbox-series-xs-dvd/"><u>Xbox OneとXbox Series X・S: DVDビデオ再生ガイド</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1726028560538-youtube/"><u>YouTube動画アーカイブを変更する詳細ガイド</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1726029868382-pc/"><u>カカオトークビデオチャットのためのPC・スマートフォンでの録画および録音技術：実践的な手引き</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/44k544od44o844oe44ow44or6ywn5lplush5yuv55s744gu5a6j5ywo44gq44oa44km44oz44ot44o844oj5oml6acg/"><u>スポーツブル配信動画の安全なダウンロード手順</u></a></li>
 </ul></div>
 
