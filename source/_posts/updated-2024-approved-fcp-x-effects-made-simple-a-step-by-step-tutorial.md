@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved FCP X Effects Made Simple A Step-by-Step Tutorial
-date: 2024-08-09T04:46:04.630Z
-updated: 2024-08-10T04:46:04.630Z
+date: 2024-10-21T01:45:36.685Z
+updated: 2024-10-24T03:20:54.880Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db
 
 # Simple Guide to FCP X: How To Add Effects in 3 Steps
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -35,9 +32,6 @@ I've written previously about how to use Inspector effects to create a [picture-
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -53,9 +47,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 Here is our clip - a fearsome polar bear.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
 To apply an effect, first select the clip in the Timeline.
@@ -64,16 +55,10 @@ To apply an effect, first select the clip in the Timeline.
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
@@ -91,9 +76,6 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
@@ -130,11 +112,35 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-multi-view-magic-is-splitcam-prime/"><u>[New] In 2024, Multi-View Magic Is SplitCam Prime?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-creativity-6-approaches-for-recording-minecraft-games-for-2024/"><u>[Updated] Capturing Creativity 6 Approaches for Recording Minecraft Games for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-diving-into-the-world-of-youtubers-starting-your-channel-earning-cash/"><u>[Updated] In 2024, Diving Into the World of Youtubers Starting Your Channel, Earning Cash</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y100a-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y100A? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/discovering-uncharted-territory-on-instagram-for-2024/"><u>Discovering Uncharted Territory on Instagram for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expedited-reinstating-logildadll/"><u>Expedited: Reinstating LogiLDA.dll</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/how-to-fix-input-lag-for-a-smoother-experience-in-valorant-on-your-pc-the-ultimate-tips/"><u>How to Fix Input Lag for a Smoother Experience in Valorant on Your PC - The Ultimate Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/learn-the-layers-of-photography-with-snapseed-for-2024/"><u>Learn the Layers of Photography with Snapseed for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-easiest-way-to-edit-gopro-videos-a-beginners-guide-for-2024/"><u>The Easiest Way to Edit GoPro Videos A Beginners Guide for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-pc-video-editing-made-easy-a-vn-editor-review/"><u>Updated 2024 Approved PC Video Editing Made Easy A VN Editor Review</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-guide-to-animated-video-making-on-android-and-ios/"><u>Updated 2024 Approved The Ultimate Guide to Animated Video Making on Android and iOS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-9-best-free-video-cutting-software-for-mp4-format/"><u>Updated In 2024, 9 Best Free Video Cutting Software for MP4 Format</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-kinemaster-for-mac-download-guide-for-you/"><u>Updated In 2024, KineMaster for Mac Download Guide for You</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

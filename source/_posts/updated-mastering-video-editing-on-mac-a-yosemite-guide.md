@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Video Editing on Mac A Yosemite Guide
-date: 2024-08-15T00:45:40.212Z
-updated: 2024-08-16T00:45:40.212Z
+date: 2024-10-21T23:23:36.091Z
+updated: 2024-10-24T02:04:17.925Z
 tags: 
   - video editing software
   - video editing
@@ -36,9 +36,6 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2. Edit videos, audio and photos
 
 When all the media files have been imported to the software, drag and drop them to the respective timeline. Then you can do various video editing tasks as you like.
@@ -48,8 +45,12 @@ When all the media files have been imported to the software, drag and drop them 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Edit and enhance audio**
@@ -57,9 +58,6 @@ You have two different ways to edit the video. One is to double click the video 
 If you want to add an additional audio file as the background music to the videos and photos, just drag your favorite audio clip to the music track. To further edit the audio file, just double click the clip. Then the Audio Inspector will pop up for you to adjust different settings like pitch, volume, and speed or add Fade in/out effect. You can also right click the audio to cut, copy or trim the audio file.
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  **Add transition and other effects**
 
@@ -67,24 +65,36 @@ This app also allows you to add cool transitions and other effects to your video
 
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -92,11 +102,28 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-essential-techniques-for-canon-timelapses/"><u>[New] 2024 Approved Essential Techniques for Canon Timelapses</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-visual-storytelling-with-online-wallpaper-swap-for-2024/"><u>[New] Mastering Visual Storytelling with Online Wallpaper Swap for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-step-by-step-process-to-embed-timestamps-on-youtube-links-for-2024/"><u>[New] The Step-by-Step Process to Embed Timestamps on YouTube Links for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-best-vistas-backgrounds-boosting-live-quality/"><u>[Updated] In 2024, Best Vistas Backgrounds Boosting Live Quality</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unlock-the-potential-of-top-ranked-tiktok-campaigns-for-2024/"><u>[Updated] Unlock the Potential of Top-Ranked TikTok Campaigns for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digiarty-pro-dvd-and-video-conversion-tool-tailored-for-professionals/"><u>Digiarty Pro: DVD & Video Conversion Tool Tailored for Professionals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stop-windows-11-update-completely/"><u>How to Stop Windows 11 Update Completely</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unleash-creativity-10-top-public-domain-image-sources/"><u>New Unleash Creativity 10 Top Public Domain Image Sources</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-mastering-pip-in-final-cut-pro-a-step-by-step-guide/"><u>Updated 2024 Approved Mastering PiP in Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unleash-the-chaos-the-best-free-online-glitch-effect-makers/"><u>Updated 2024 Approved Unleash the Chaos The Best Free Online Glitch Effect Makers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-essential-3d-video-editing-tools-every-creator-should-use-for-2024/"><u>Updated Essential 3D Video Editing Tools Every Creator Should Use for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-best-free-video-editing-apps-for-32-bit-windows-systems/"><u>Updated The Best Free Video Editing Apps for 32-Bit Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-makes-telegram-a-preferred-chat-service-for-millions/"><u>What Makes Telegram a Preferred Chat Service for Millions?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-to-audio-gold-prime-10-converter-hits-for-2024/"><u>YouTube to Audio Gold Prime 10 Converter Hits for 2024</u></a></li>
+</ul></div>
+

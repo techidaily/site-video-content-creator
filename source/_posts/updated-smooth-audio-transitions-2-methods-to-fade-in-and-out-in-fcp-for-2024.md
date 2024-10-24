@@ -1,7 +1,7 @@
 ---
 title: Updated Smooth Audio Transitions 2 Methods to Fade In and Out in FCP for 2024
-date: 2024-08-15T00:47:16.736Z
-updated: 2024-08-16T00:47:16.736Z
+date: 2024-10-21T17:52:32.600Z
+updated: 2024-10-23T16:14:30.228Z
 tags: 
   - video editing software
   - video editing
@@ -65,8 +65,18 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -82,22 +92,26 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -111,8 +125,12 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -121,11 +139,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/tales-of-arise-why-it-fails-and-how-to-keep-it-running-smoothly/"><u>'Tales of Arise': Why It Fails and How to Keep It Running Smoothly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ultimate-budget-friendly-online-face-offs/"><u>[Updated] In 2024, Ultimate Budget-Friendly Online Face-Offs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860787589-2024-approved-capture-every-moment-on-mac-free/"><u>2024 Approved Capture Every Moment on Mac, FREE!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-s23-fe-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-itel-p55plus-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Itel P55+ Phones with/without a PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-interactive-guide-twitter-and-facebook-synergy/"><u>In 2024, Interactive Guide Twitter & Facebook Synergy</u></a></li>
+<li><a href="https://howto.techidaily.com/microsoft-unveils-proprietary-network-gear-engineered-for-optimized-ai-data-center-performance-new-revelation/"><u>Microsoft Unveils Proprietary Network Gear Engineered for Optimized AI Data Center Performance: New Revelation</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-stabilize-your-videos-for-free-8-best-online-tools-and-a-step-by-step-guide/"><u>New In 2024, Stabilize Your Videos for Free 8 Best Online Tools and a Step-by-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-best-video-joiners-with-no-watermark-limitations/"><u>New In 2024, The Best Video Joiners with No Watermark Limitations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-webm-to-mp3-conversion-made-simple-top-tools/"><u>New In 2024, WebM to MP3 Conversion Made Simple Top Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-xml-files-in-fcpx-tips-tricks-and-best-practices/"><u>New In 2024, XML Files in FCPX Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mp4-to-mp3-fast-and-easy-conversion-with-these-top-tools/"><u>New MP4 to MP3 Fast and Easy Conversion with These Top Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-pro-editing-techniques-l-cuts-and-j-cuts-in-fcpx-made-easy-for-2024/"><u>New Pro Editing Techniques L-Cuts and J-Cuts in FCPX Made Easy for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-pro-level-video-editing-l-cuts-and-j-cuts-in-final-cut-pro-x/"><u>New Pro-Level Video Editing L-Cuts and J-Cuts in Final Cut Pro X</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-s-best-stop-motion-animation-programs-for-mac-and-pc-computers/"><u>New S Best Stop Motion Animation Programs for Mac and PC Computers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tips-for-capturing-whatsapp-chat-calls-methods-and-techniques/"><u>Tips for Capturing WhatsApp Chat Calls Methods & Techniques</u></a></li>
+</ul></div>
+

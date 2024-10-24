@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, From Slow to Fast How to Create Time Lapses in Final Cut Pro
-date: 2024-08-09T04:45:26.448Z
-updated: 2024-08-10T04:45:26.448Z
+date: 2024-10-23T04:54:44.129Z
+updated: 2024-10-23T17:57:58.344Z
 tags: 
   - video editing software
   - video editing
@@ -34,16 +34,10 @@ In this article, we are going to show you how you can easily increase the speed 
 
 This is a basic tutorial about Apple Final Cut Pro X, a professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) (Originally Wondershare Video Editor for Mac). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below to try it right now. And here's a video tutorial on how to make a time-lapse video with Filmora for your reference:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Make a Time-Lapse Video in Final Cut Pro
 
 #### Step 1 Import Clips
@@ -54,35 +48,22 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you have any questions about making time-lapse videos, feel free to drop a line below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -91,11 +72,38 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-crafting-squares-for-viral-videos-in-a-social-media-world/"><u>[New] 2024 Approved Crafting Squares for Viral Videos in a Social Media World</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-explore-the-leading-youtube-to-webm-video-conversion-tools-for-2024/"><u>[New] Explore the Leading YouTube-to-WebM Video Conversion Tools for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ey-videographers-in-asmr-landscape-for-2024/"><u>[New] Key Videographers in ASMR Landscape for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-snapchat-sponsored-content/"><u>[Updated] 2024 Approved Mastering the Art of Snapchat Sponsored Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-infinite-jest-joyride-top-kids-game-lineup-in-2024/"><u>[Updated] Infinite Jest Joyride - Top Kids' Game Lineup, In 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-realme-narzo-60-pro-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-from-airwaves-to-archives-online-recording-strategies-for-tv-shows/"><u>In 2024, From Airwaves to Archives Online Recording Strategies for TV Shows</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unlock-the-power-of-animation-converting-videos-into-cartoons-for-2024/"><u>New Unlock the Power of Animation Converting Videos Into Cartoons for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/simplify-your-workflow-10-essential-timecode-calculators-for-filmmakers-for-2024/"><u>Simplify Your Workflow 10 Essential Timecode Calculators for Filmmakers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-complete-cheat-sheet-mastering-googles-voice-transcription-tool-for-2024/"><u>The Complete Cheat Sheet Mastering Google's Voice Transcription Tool for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-repair-a-non-functional-windows-11-start-menu/"><u>Troubleshooting Guide: How to Repair a Non-Functional Windows 11 Start Menu</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-fcp-in-the-spotlight-10-renowned-movies-made-with-final-cut-pro/"><u>Updated 2024 Approved FCP in the Spotlight 10 Renowned Movies Made with Final Cut Pro</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-steady-shots-the-best-free-online-video-stabilizers-reviewed/"><u>Updated 2024 Approved Steady Shots The Best Free Online Video Stabilizers Reviewed</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-free-and-fabulous-the-5-best-online-video-mergers-to-use-this-year-for-2024/"><u>Updated Free and Fabulous The 5 Best Online Video Mergers to Use This Year for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-bring-your-canon-videos-to-life-top-editing-software-and-tips/"><u>Updated In 2024, Bring Your Canon Videos to Life Top Editing Software and Tips</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-s-ultimate-guide-to-online-stop-motion-creation-top-picks/"><u>Updated In 2024, S Ultimate Guide to Online Stop Motion Creation Top Picks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mac-video-editing-essentials-a-yosemite-users-handbook/"><u>Updated Mac Video Editing Essentials A Yosemite Users Handbook</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

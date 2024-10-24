@@ -1,7 +1,7 @@
 ---
 title: Updated Unleash the Power of Pan and Zoom Creating a Ken Burns Effect
-date: 2024-08-15T00:46:04.798Z
-updated: 2024-08-16T00:46:04.798Z
+date: 2024-10-21T04:19:14.966Z
+updated: 2024-10-24T00:04:35.716Z
 tags: 
   - video editing software
   - video editing
@@ -115,8 +115,12 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -127,8 +131,12 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
 **What is the Ken Burns Effect?**
@@ -140,8 +148,12 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -153,8 +165,12 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -163,11 +179,33 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-cutting-edge-psd-effects-guide/"><u>[New] Cutting-Edge PSD Effects Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-quick-tip-to-uncover-your-recently-watched-movies-on-fb/"><u>[New] Quick Tip to Uncover Your Recently Watched Movies on FB</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/solved-headphones-crackling-issues-quickly-and-easily/"><u>[SOLVED] Headphones Crackling Issues. Quickly & Easily!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-upgrade-your-youtube-bio-with-pro-templates/"><u>2024 Approved Upgrade Your Youtube Bio with Pro Templates</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/customize-your-youtube-watch-experience-speed-settings/"><u>Customize Your YouTube Watch Experience (Speed Settings)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-the-roku-channel-without-owning-a-roku-alternative-ways-for-streaming-enthusiasts/"><u>Enjoy the Roku Channel Without Owning a Roku: Alternative Ways for Streaming Enthusiasts</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-motorola-razr-40-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Motorola Razr 40 Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-refresh-rate-marvels/"><u>High Refresh Rate Marvels</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-11-pro-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 11 Pro Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-10-mac-video-tag-editors-for-effortless-organization/"><u>New Top 10 Mac Video Tag Editors for Effortless Organization</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/take-your-videos-to-the-next-level-3-creative-transition-ideas-in-fcp/"><u>Take Your Videos to the Next Level 3 Creative Transition Ideas in FCP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-easy-ways-to-extract-embedded-video-content/"><u>Top 5 Easy Ways to Extract Embedded Video Content</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/unlock-your-chromebook-how-to-run-linux-for-2024/"><u>Unlock Your Chromebook How to Run Linux for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-jaycut-crash-course-master-free-online-video-editing-in-no-time/"><u>Updated 2024 Approved Jaycut Crash Course Master Free Online Video Editing in No Time</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-split-merge-and-edit-the-best-video-apps-for-ios-and-android/"><u>Updated 2024 Approved Split, Merge, and Edit The Best Video Apps for iOS and Android</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-vob-video-editor-reviews-top-5-free-options/"><u>Updated 2024 Approved VOB Video Editor Reviews Top 5 Free Options</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-hd-video-editing-made-easy-top-5-software-recommendations/"><u>Updated In 2024, HD Video Editing Made Easy Top 5 Software Recommendations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-free-video-blurring-easy-online-solution/"><u>Updated In 2024, Unlock Free Video Blurring Easy Online Solution</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-tivo-vs-comcast-who-wins-the-dvr-battle-for-2024/"><u>Updated TiVo vs Comcast, Who Wins the DVR Battle for 2024</u></a></li>
+</ul></div>
+
