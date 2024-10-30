@@ -1,7 +1,7 @@
 ---
 title: The Art of Pan and Zoom How to Achieve the Ken Burns Effect for 2024
-date: 2024-08-09T04:41:04.274Z
-updated: 2024-08-10T04:41:04.274Z
+date: 2024-10-23T22:08:33.221Z
+updated: 2024-10-29T20:11:08.329Z
 tags: 
   - video editing software
   - video editing
@@ -32,9 +32,6 @@ This article introduces the readers to Final Cut Pro and explains how to add the
 * [Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?](#Part2)
 * [Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?](#Part3)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Part 1: How to Make a Ken Burns Effect in Final Cut Pro?**
 
 Final Cut Pro is user-friendly software and makes it easy for you to create a Ken Burns Effect without having advanced skills and expertise. So, are you interested in knowing the best part? Given below are a few simple steps to create Ken Burns Effect and make your pictures and videos look adorable.
@@ -43,18 +40,12 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 _![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 _![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
 
 **Step 3: Add the Ken Burns Effect**
@@ -69,10 +60,6 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 _![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
 
 **Step 4: Customize Your Effect**
@@ -95,9 +82,6 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 _![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
 
 **Step 6: Adjust the Duration of the Freeze Frame**
@@ -128,10 +112,14 @@ After you have optimized the speed of the Ken Burns Effect by trimming the clip�
 
 Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan and zoom effect, in much easier steps, click to download and have a try!
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
@@ -141,6 +129,13 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 2. Duplicate the clip by click and drag option or copy and paste option;
 3. Press the Swap button in the Ken Burns settings to reverse the start and end positions;
 4. Verify if multiple camera movements have been added.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
@@ -154,6 +149,19 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **What are the Applications of Ken Burns Effect?**
 
 Primarily, the Ken Burns Effect is used due to the unavailability of a film or video. The technique gives action to still photographs to glorify the subjects of interest like couples in wedding photography. It gets better and better as you apply simulated parallax with Ken Burns Effect to make your 2D images appear as 3D plus advanced zooming visuals. You can also use the Ken Burns effect to make a video of your graduation ceremony pictures or memorable moments of reunion. Ken Burns Effect is also used in documentaries by professional filmmakers and editors.
@@ -162,10 +170,14 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -173,11 +185,33 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-advanced-screen-recorder-options-for-mac-not-including-bandicamp/"><u>[New] 2024 Approved Advanced Screen Recorder Options for Mac, Not Including Bandicamp</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/die-top-2-methoden-zum-einrichten-von-windows-11-auf-einer-neuen-ssd-schritt-fur-schritt-anleitung/"><u>Die Top-2 Methoden Zum Einrichten Von Windows 11 Auf Einer Neuen SSD: Schritt-Für-Schritt Anleitung</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-ways-to-eliminate-bluetooth-speaker-lag-for-smooth-playback/"><u>Easy Ways to Eliminate Bluetooth Speaker Lag for Smooth Playback</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-started-in-editing-videos-via-windows-11s-movie-maker-for-2024/"><u>Get Started in Editing Videos via Windows 11'S Movie Maker for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-12plus-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Realme 12+ 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola Phone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/how-to-resolve-the-common-genshin-error-4201-step-by-step-tips/"><u>How to Resolve the Common Genshin Error 4201: Step-by-Step Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-s17-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo S17 Device</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unbranded-video-merging-our-top-7-recommendations-for-2024/"><u>New Unbranded Video Merging Our Top 7 Recommendations for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-ultimate-list-10-animated-text-generators-for-stunning-visuals-for-2024/"><u>The Ultimate List 10 Animated Text Generators for Stunning Visuals for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-xml-blueprint-a-step-by-step-guide-to-fcpx-success-for-2024/"><u>The XML Blueprint A Step-by-Step Guide to FCPX Success for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-linux-into-windows-10-the-ultimate-tutorial-for-seamless-user-experience-transition/"><u>Transforming Linux Into Windows 10: The Ultimate Tutorial for Seamless User Experience Transition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-diablo-4-pc-performance-smoother-gameplay-consistent-item-drops/"><u>Troubleshooting Diablo 4 PC Performance: Smoother Gameplay, Consistent Item Drops</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-discover-the-best-public-domain-video-resources-for-free/"><u>Updated 2024 Approved Discover the Best Public Domain Video Resources for Free</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-10-free-video-repeater-tools-for-seamless-loops/"><u>Updated 2024 Approved Top 10 Free Video Repeater Tools for Seamless Loops</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-create-stunning-whiteboard-animations-with-these-top-5-tools-for-2024/"><u>Updated Create Stunning Whiteboard Animations with These Top 5 Tools for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-best-of-the-rest-10-adobe-premiere-elements-alternatives-for-video-production/"><u>Updated In 2024, The Best of the Rest 10 Adobe Premiere Elements Alternatives for Video Production</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-s-best-mts-video-editing-tools-expert-reviews-and-ratings/"><u>Updated S Best MTS Video Editing Tools Expert Reviews and Ratings</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/w64wav/"><u>W64ファイルを対象にしたコストなしウェブ上の波形(WAV)変換 - ムーバビ</u></a></li>
+</ul></div>
+

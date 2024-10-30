@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Reduce File Size Download VirtualDub for MPEG2 Compression
-date: 2024-08-09T04:43:56.636Z
-updated: 2024-08-10T04:43:56.636Z
+date: 2024-10-22T18:02:23.830Z
+updated: 2024-10-30T00:35:49.702Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 
 # Download VirtualDub MPEG2 & Use to Compress MPEG2 Videos
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -29,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 
 VirtualDub is a free video capture/processing tool for Windows platforms (2000/XP/Vista/7). And VirtualDub MPEG-2 is a modified version of VirtualDub that supports MPEG-2 import originally. However, just as the author said "This software is obsolete and will no longer be updated. For MPEG-2 and WMV support in the latest VirtualDub, try my plugins (MPEG-2 plugin for VirtualDub 1.8.1 or above - by editor)".
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Download and Install VirtualDub MPEG-2
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
@@ -44,27 +38,32 @@ VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows,
 
 Open your MPEG-2 video file through File/Open video file..., then go to Video/Compression to bring up the following dialog.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Step 3: Start Compressing
 
 Now it's the time to start processing your video, here is how:
@@ -75,9 +74,12 @@ Now it's the time to start processing your video, here is how:
 4. Click Save.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The VirtualDub MPEG-2 needs some time to compress your video. The larger the video file is, the longer. But VirtualDub MPEG2 is a fast video processing software. Take a cup of coffee and relax. Once finished, use your favorite video player to see the compressing result.
@@ -88,13 +90,24 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -102,3 +115,25 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-amplify-your-brands-message-top-terminology-secrets/"><u>[New] In 2024, Amplify Your Brand’s Message Top Terminology Secrets</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-a-deep-dive-into-vscos-creative-palette/"><u>[Updated] In 2024, A Deep Dive Into VSCO's Creative Palette</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/valorant/"><u>「次世代ゲーマーに人気! Valorant戦闘シーンを完璧に記録する方法」</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-xiaomi-mix-fold-3-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-motorola-moto-g24-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-v29-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo V29 and Browser | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-sync-incorporating-songs-into-videos-using-your-iphone-for-2024/"><u>Seamless Sync Incorporating Songs Into Videos Using Your iPhone for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/uncovering-the-truth-about-vn-video-editor-pro-a-worthy-alternative-for-2024/"><u>Uncovering the Truth About VN Video Editor Pro A Worthy Alternative for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-free-dvd-player-roundup-top-picks-for-windows-10/"><u>Updated 2024 Approved Free DVD Player Roundup Top Picks for Windows 10</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-noise-cancellation-101-tips-and-tricks-for-final-cut-pro-x-users/"><u>Updated 2024 Approved Noise Cancellation 101 Tips and Tricks for Final Cut Pro X Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unbiased-review-of-vn-video-editor-apk-worth-your-time/"><u>Updated 2024 Approved Unbiased Review of VN Video Editor APK Worth Your Time?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mkvtoolnix-for-mac-the-easiest-way-to-edit-videos-for-2024/"><u>Updated MKVtoolnix for Mac The Easiest Way to Edit Videos for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-compressor-tutorial-for-final-cut-pro-x-users/"><u>Updated The Ultimate Compressor Tutorial for Final Cut Pro X Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-virtualdub-vs-other-video-editors-a-2023-comparison-and-review/"><u>Updated Virtualdub vs Other Video Editors A 2023 Comparison and Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-visual-flow-color-matching-and-grading-in-powerdirector-for-beginners-for-2024/"><u>Updated Visual Flow Color Matching and Grading in PowerDirector for Beginners for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-watermark-free-video-editing-top-10-online-tools-you-need-to-know/"><u>Updated Watermark-Free Video Editing Top 10 Online Tools You Need to Know</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Master Adobe Premiere with These 20 Must-Know Shortcuts
-date: 2024-08-09T04:38:47.396Z
-updated: 2024-08-10T04:38:47.396Z
+date: 2024-10-25T00:56:18.180Z
+updated: 2024-10-29T17:53:41.699Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -39,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -81,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -106,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -180,9 +167,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -215,9 +199,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -226,11 +207,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-uniting-choreography-with-crafted-audio-in-instagram/"><u>[New] 2024 Approved Uniting Choreography with Crafted Audio in Instagram</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-slicing-sequences-smoothly-effective-ways-to-trim-vimeo-video-lengths-for-2024/"><u>[New] Slicing Sequences Smoothly Effective Ways to Trim Vimeo Video Lengths for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-gear-for-enhanced-live-video-quality/"><u>2024 Approved Optimal Gear for Enhanced Live Video Quality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-rocket-league-stalls-and-lags-proven-methods-to-restore-smooth-gaming-experience/"><u>Fixing Rocket League Stalls and Lags: Proven Methods to Restore Smooth Gaming Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harness-the-power-of-wins11-new-gaming-titles/"><u>In 2024, Harness the Power of Wins11 New Gaming Titles</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-social-media-top-10-ingenious-igtv-methods-for-brands/"><u>Mastering Social Media Top 10 Ingenious IGTV Methods for Brands</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-communities-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Communities: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-freeze-rewind-repeat-mastering-the-art-of-frozen-frames-in-video-editing/"><u>New 2024 Approved Freeze, Rewind, Repeat Mastering the Art of Frozen Frames in Video Editing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-from-hobbyist-to-pro-the-best-free-and-paid-3d-animation-tools/"><u>New 2024 Approved From Hobbyist to Pro The Best Free and Paid 3D Animation Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-macs-best-video-production-tools-unleash-your-creativity/"><u>New 2024 Approved Macs Best Video Production Tools Unleash Your Creativity</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-revolutionize-your-gameplay-videos-top-free-editing-tools/"><u>New 2024 Approved Revolutionize Your Gameplay Videos Top Free Editing Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-s-best-stop-motion-creators-free-paid-and-everything-in-between/"><u>New 2024 Approved S Best Stop Motion Creators Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-free-flv-video-editors-for-windows-and-mac/"><u>New 2024 Approved Top Free FLV Video Editors for Windows and Mac</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-videopad-video-editor-review-and-buying-recommendation/"><u>New 2024 Approved Videopad Video Editor Review and Buying Recommendation</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-free-video-editing-software-for-dummies-top-picks-for-2024/"><u>New Free Video Editing Software for Dummies Top Picks for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-editing-on-steroids-top-40-final-cut-pro-x-keyboard-shortcuts/"><u>New In 2024, Editing on Steroids Top 40 Final Cut Pro X Keyboard Shortcuts</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-rated-flv-media-player-complimentary-downloads-for-macos-and-windows/"><u>Top Rated FLV Media Player: Complimentary Downloads for macOS & Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unveiling-advanced-features-of-vlc-for-2024/"><u>Unveiling Advanced Features of VLC for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windowsandroidiosdiscord/"><u>Windows/Android/iOSでのDiscord音声会話録音法：ハイクオリティサウンドガイド</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

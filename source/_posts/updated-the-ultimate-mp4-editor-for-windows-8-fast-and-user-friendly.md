@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate MP4 Editor for Windows 8 Fast and User-Friendly
-date: 2024-08-09T04:40:26.428Z
-updated: 2024-08-10T04:40:26.428Z
+date: 2024-10-26T16:02:30.079Z
+updated: 2024-10-29T20:25:39.505Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Easily Edit MP4 Files on PC
 
 #### 1\.  Import your MP4 videos
@@ -41,9 +38,6 @@ Click Import or directly drop and drop to load your source videos into Filmora a
 
 The imported MP4 videos will show as thumbnails in the user's album's item tray. Double click it, you can preview them on the right screen (full screen is available), and take snapshots freely.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
 
 #### 2\.  Easy MP4 editing in Windows 8
@@ -66,18 +60,12 @@ Select a clip in the Timeline, drag the Indicator to where you want to split and
 
 To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wondershare/filmora/download/) of the video, you can select the editing box as your editing helper. Double click the video clip, or right click and choose Edit option, you'll go to the edit window.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![simple mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-video-audio-editing.jpg)
 
 ##### Add Scene Transition
 
 Click "Transition" tab on the main interface and drag one scene transition you like to your video, or you can right click on a favorite transition and choose the option "Apply to All", which can apply the certain transition effect to all your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -90,14 +78,8 @@ MP4 [video editor](https://tools.techidaily.com/wondershare/filmora/download/) f
 
 Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -106,11 +88,36 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/"><u>[New] 2024 Approved Immersive Innovations The Distinct Worlds of MR, AR, & VR</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-5-ways-to-record-youtube-live-stream/"><u>[New] Top 5 Ways to Record YouTube Live Stream</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-untouched-live-visual-recorders/"><u>[Updated] In 2024, Untouched Live Visual Recorders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unable-to-see-video-sony-a6400-troubleshoot-guide/"><u>[Updated] Unable To See Video Sony A6400 Troubleshoot Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/guide-to-picking-best-free-online-srt-translation-providers/"><u>Guide to Picking Best Free Online SRT Translation Providers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-your-designs-incorporating-3d-text-psx/"><u>In 2024, Revolutionize Your Designs Incorporating 3D Text PSX</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-mobile-apps-for-animated-text-overlays-in-videos/"><u>New Top Mobile Apps for Animated Text Overlays in Videos</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-virtualdub-competitors-compare-the-best-video-editors-for-2024/"><u>New VirtualDub Competitors Compare the Best Video Editors for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-mastering-bings-ai-features-on-android/"><u>The Ultimate Guide to Mastering Bing's AI Features on Android</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-video-resume-creators-get-started-with-free-templates/"><u>Updated 2024 Approved Top Video Resume Creators Get Started with Free Templates</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-cutting-edge-cinema-10-famous-films-edited-with-final-cut-pro-for-2024/"><u>Updated Cutting-Edge Cinema 10 Famous Films Edited with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-fcpx-plugin-roundup-the-best-of-both-worlds-free-and-paid/"><u>Updated In 2024, FCPX Plugin Roundup The Best of Both Worlds (Free & Paid)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-top-rated-avi-file-combiners-10-free-solutions-for-you/"><u>Updated In 2024, Top-Rated AVI File Combiners 10 Free Solutions for You</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-video-editing-on-chromebook-the-best-online-solutions/"><u>Updated In 2024, Video Editing on Chromebook The Best Online Solutions</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

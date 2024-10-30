@@ -1,7 +1,7 @@
 ---
 title: New Linux on Chrome OS A Step-by-Step Guide for 2024
-date: 2024-08-02T03:59:23.190Z
-updated: 2024-08-03T03:59:23.190Z
+date: 2024-10-23T18:19:55.859Z
+updated: 2024-10-29T23:37:44.953Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
 # How to Install Linux on Chromebook
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -37,9 +34,6 @@ Chrome OS is a Linux based environment and for that reason, Chromebook owners wh
 * [Part 4: How to Install Linux as a Chroot Using Crouton on Chromebook](#part4)
 * [Part 5: Recommended Linux Video Editing Software](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Part 1: Preparing before installing Linux OS on Chromebook
 
 The first step of the process of installing the Linux OS is the decision itself, and you need to have all the necessary information before you decide to install a Linux OS on your Chromebook.
@@ -47,6 +41,13 @@ The first step of the process of installing the Linux OS is the decision itself,
 * Make sure that the version of Chromebook you have is capable of supporting a Linux OS. Your device must be equipped with an ARM or Intel chip in order to be able to run the version of Linux OS you want to install. Although both chips will allow you to go through the process, running closed source software such the Steam is only possible with Intel chips.
 * Regardless of which method of installing Linux OS you choose, you will have to switch to the Developer Mode, a special built-in function that allows you to install the unapproved operating system, among other things.
 * Now that you are aware of the requirements and risks, you will have to backup all the files you have on your Chromebook because once you switch to the Developer Mode all the information stored locally will be erased. You can save the files on another computer or on the cloud depending on how much data you need to move and which one is more convenient for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Install Linux as a Chroot Using Crouton on Chromebook
 
@@ -56,20 +57,20 @@ After you have stored all your data safely, your Chromebook is ready for the beg
 
 The first step of the process is to reboot your system, while your Chromebook is on. In order to do so hold Escape and Refresh keys on your keyboard and then hit the power button. Once your device is back online you will find yourself in the recovery mode, and you will see a message telling you to insert a recovery disc. Instead of inserting the disc, hold Ctrl+D and wait for OS verification menu to appear on the screen. At this point, if you are still having second thoughts about this process, you can hit the spacebar to return to recovery mode, or press Enter to proceed. Hitting Enter will delete all the data stored on your device and take you into the Developer Mode. Once your Chromebook lets you know that you are now in the Developer Mode, reboot the system and install a fresh version of the Chrome OS. Insert your login information and follow the instructions until you are looking at the Chrome OS desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-1.jpg)
 
 #### 2. Installing Chroot
 
 At this stage of the process, your Chromebook is ready for the installation of the Crouton environment. Crouton is a series of scripts that makes running a Linux OS much easier, especially for inexperienced users. In order to download Crouton, go to [GitHub](https://github.com/dnschneid/crouton) and find the download link, detailed instructions or extensions that can add more functionality to your OS. Once the installation file or files are in the Download folder, your next step is to access the Chromebook's terminal a feature called 'Crosh'. The fastest way to do this is to hold CTRL + ALT keys and then hit the T key. This action will cause the Chrome window to appear on the screen, and you will need to type the 'shell' command without using quotation marks. Afterwards, enter the following command: 'sudo sh \~/Downloads/crouton -t xfce' and if you want to install extensions you will have to add 'xfce,extension' command at the end.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Press the Enter key and wait for the system to start setting up the Chroot. This process may take a while, so it is important to be patient, but more importantly, do not interfere with it in any way. Installation of your secondary OS is now on the way, and you may be asked to insert your login data, like your Gmail username and password. Wait patiently until the process is over and then return to shell and enter this command: 'sudo enter-chroot startxfce4'. Your screen will go black for a while, but after the black screen is gone your Chromebook will be in the freshly installed Linux OS.
 
@@ -95,10 +96,6 @@ Once the partitioning of your hard-drive is completed, you will have to repeat t
 
 Once the installation is completed, restart your Chromebook to finalize the process, and when you see the 'OS Verification is Off' notification press Ctrl+L to access Linux or Ctrl+D boot into Chrome OS.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-3.jpg)
 
 #### 3. Uninstall ChrUbuntu
@@ -107,9 +104,6 @@ Removing ChrUbuntu is a relatively painless process that can be completed with j
 
 This Linux removal method will also require you to have a USB stick with a minimum of 4GB of storage space. After you created the disk, you can go into the Recovery Mode, by holding Esc and Refresh buttons simultaneously and then pressing the Power button. In the Recovery Mode, you will be asked to insert the recovery disk and the process will be on the way.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to Dual-Boot a Chromebook Using Gallium OS
 
 If neither Chroot nor ChrUbuntu work for you, using Gallium OS may be the right choice. The Gallium is Xbuntu-based OS that is equipped with touchpad mouse drivers among other advantages it offers over other operating systems. The installation process isn't complicated, although it may require more effort than installing Crouton.
@@ -132,6 +126,13 @@ Each of the options to install a Linux OS on your Chromebook we described has it
 
 On the other hand, other methods require more knowledge about the Linux OS installation process and switching between OS' is not that simple. If you are looking for an easy way to dual-boot your Chromebook that best way to do it is to install Linux as a Chroot using Crouton.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: Recommended Linux Video Editing Software: Lightworks
 
 **Price:** $24.99/month, although free versions of the software are also available.
@@ -146,13 +147,18 @@ The software is compatible with Mac, Windows, and Linux OS, which makes it a per
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -160,3 +166,19 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-navigating-zoom-chats-a-guide-to-effective-online-interactions/"><u>[New] 2024 Approved Navigating Zoom Chats A Guide to Effective Online Interactions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-strategizing-against-the-phantom-follower-phenomenon/"><u>[New] 2024 Approved Strategizing Against the Phantom Follower Phenomenon</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-7-best-total-war-games/"><u>[Updated] In 2024, The 7 Best Total War Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-laugh-out-loud-the-best-video-voiceover-apps/"><u>New 2024 Approved Laugh Out Loud The Best Video Voiceover Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-secure-your-space-top-10-free-security-camera-programs/"><u>New 2024 Approved Secure Your Space Top 10 Free Security Camera Programs</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-animation-drawing-made-easy-top-software-picks-and-beyond-for-2024/"><u>New Animation Drawing Made Easy Top Software Picks and Beyond for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-cutting-edge-editing-40-final-cut-pro-x-keyboard-shortcuts-you-need-for-2024/"><u>New Cutting-Edge Editing 40 Final Cut Pro X Keyboard Shortcuts You Need for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-subscription-entertainment-psplus-vs-xbgplus/"><u>Seamless Subscription Entertainment: PS+ Vs. XBG+</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-overcoming-error-0x803f8001-on-your-minecraft-game-in-windows-11-and-10/"><u>Step-by-Step Guide to Overcoming Error 0X803f8001 on Your Minecraft Game in WIndows 11 and 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209258918-troubleshoot-and-resolve-the-0x80070002-issue-in-windows-update-seamlessly/"><u>Troubleshoot and Resolve the 0X80070002 Issue in Windows Update Seamlessly</u></a></li>
+</ul></div>
+

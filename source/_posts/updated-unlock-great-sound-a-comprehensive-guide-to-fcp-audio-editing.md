@@ -1,7 +1,7 @@
 ---
 title: Updated Unlock Great Sound A Comprehensive Guide to FCP Audio Editing
-date: 2024-08-09T04:40:30.482Z
-updated: 2024-08-10T04:40:30.482Z
+date: 2024-10-23T20:26:59.156Z
+updated: 2024-10-29T23:49:14.600Z
 tags: 
   - video editing software
   - video editing
@@ -32,16 +32,10 @@ Final Cut Pro (FCP) is one of the most powerful editing tools often used by prof
 
 Those of you reading this article as a guide to audio editing of videos on Final Cut Pro, needs to remember that this is just a basic tutorial for this professional editing software. However, if you are new to the field of video editing then you should consider using the [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). It is a powerful but simple tool that is just the right editing software for beginners. The advanced tools of this software would even allow you to use a lot of special effects like picture in picture, tilt shifts, split-screen, and much more.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to edit audio on FCP
 
 There are 2 ways of editing audio of videos on FCP-clip-level audio editing and advanced audio editing.
@@ -64,10 +58,6 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
@@ -81,24 +71,14 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
 
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Effects](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-7.png)
 
 * Audio Configuration: The audio configuration tool would allow the user to modify the audio channel with mono, stereo, or reverse stereo.
@@ -113,11 +93,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-leveraging-social-media-power-optimal-use-of-hash-tags-on-fb/"><u>[Updated] 2024 Approved Leveraging Social Media Power Optimal Use of Hash Tags on FB</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-the-ultimate-guide-to-video-trimming/"><u>[Updated] Mastering YouTube The Ultimate Guide to Video Trimming</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-and-legal-dvd-ripper-tools-with-advanced-features-zero-restrictions/"><u>Free and Legal DVD Ripper Tools with Advanced Features, Zero Restrictions!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ideal-shops-for-unique-crafted-gift-enclosures/"><u>Ideal Shops for Unique, Crafted Gift Enclosures</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unleash-your-creativity-top-10-free-webm-video-editing-tools-for-2024/"><u>New Unleash Your Creativity Top 10 Free WebM Video Editing Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-resolving-issues-with-windows-11-not-shutting-down/"><u>Troubleshooting Steps: Resolving Issues with Windows 11 Not Shutting Down</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-android-video-editor-showdown-top-10-free-and-paid-apps/"><u>Updated 2024 Approved Android Video Editor Showdown Top 10 Free and Paid Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-trailer-magic-top-video-editing-software-for-mac-and-pc/"><u>Updated 2024 Approved Trailer Magic Top Video Editing Software for Mac and PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-filmmaking-on-a-shoestring-the-7-best-affordable-software-options/"><u>Updated In 2024, Filmmaking on a Shoestring The 7 Best Affordable Software Options</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/video-editing-on-mac-vn-editor-and-other-top-picks-for-2024/"><u>Video Editing on Mac VN Editor and Other Top Picks for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

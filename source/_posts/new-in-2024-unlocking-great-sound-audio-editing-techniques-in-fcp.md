@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Unlocking Great Sound Audio Editing Techniques in FCP
-date: 2024-08-02T04:00:01.150Z
-updated: 2024-08-03T04:00:01.150Z
+date: 2024-10-25T22:47:34.175Z
+updated: 2024-10-29T17:31:30.542Z
 tags: 
   - video editing software
   - video editing
@@ -32,16 +32,10 @@ Final Cut Pro (FCP) is one of the most powerful editing tools often used by prof
 
 Those of you reading this article as a guide to audio editing of videos on Final Cut Pro, needs to remember that this is just a basic tutorial for this professional editing software. However, if you are new to the field of video editing then you should consider using the [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). It is a powerful but simple tool that is just the right editing software for beginners. The advanced tools of this software would even allow you to use a lot of special effects like picture in picture, tilt shifts, split-screen, and much more.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## How to edit audio on FCP
 
 There are 2 ways of editing audio of videos on FCP-clip-level audio editing and advanced audio editing.
@@ -50,16 +44,10 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
 
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -87,9 +75,6 @@ The Audio Inspector would allow you to apply the following effects:
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
 
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
@@ -100,9 +85,6 @@ The Audio Inspector would allow you to apply the following effects:
 
 **Here's the video tutorial on how to edit audios in Final Cut Pro:**
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -111,11 +93,37 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-best-free-screen-cast-options-on-windows-ranked-1-to-5/"><u>2024 Approved Best Free Screen Cast Options on Windows, Ranked #1 to #5</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-craft-compelling-videos-utilize-no-cost-templates-and-samples/"><u>2024 Approved Craft Compelling Videos Utilize No-Cost Templates & Samples</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125656-9781609253394-create-a-world-that-works/"><u>Create a World That Works | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-distinctive-aspects-in-ai-pcs/"><u>Demystifying Distinctive Aspects in AI PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-your-online-presence-discover-the-power-of-manycam-for-professional-livestreams-and-fake-cameras/"><u>Enhance Your Online Presence: Discover the Power of ManyCam for Professional Livestreams and Fake Cameras</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y100t-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y100t to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ating-sustainable-communities-within-the-concrete-jungle/"><u>Innovating Sustainable Communities Within the Concrete Jungle</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-multiplayer-gameplay-friendships-that-capture-pokemon-successfully-in-go/"><u>Mastering Multiplayer Gameplay: Friendships that Capture Pokémon Successfully in 'Go'</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-we-tried-vn-video-editor-pro-heres-what-we-found-out/"><u>New 2024 Approved We Tried VN Video Editor Pro Heres What We Found Out</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-best-adobe-premiere-elements-replacements-for-video-editing-for-2024/"><u>New Best Adobe Premiere Elements Replacements for Video Editing for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-best-free-dvd-playback-options-for-windows-10-users-for-2024/"><u>New Best Free DVD Playback Options for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-fast-video-editing-on-mac-tips-and-tricks-for-speedy-video-cutting-for-2024/"><u>New Fast Video Editing on Mac Tips and Tricks for Speedy Video Cutting for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-how-to-trim-cut-and-edit-3gp-videos-like-a-pro-for-2024/"><u>New How to Trim, Cut, and Edit 3GP Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-free-filmora-download-no-strings-attached-no-viruses/"><u>New In 2024, Free Filmora Download No Strings Attached, No Viruses</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-get-started-with-mp4-video-editing-a-quick-and-easy-tutorial-for-mac-and-windows/"><u>New In 2024, Get Started with MP4 Video Editing A Quick and Easy Tutorial for Mac and Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/strategies-to-address-inaccessible-epson-scanner/"><u>Strategies to Address Inaccessible Epson Scanner</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

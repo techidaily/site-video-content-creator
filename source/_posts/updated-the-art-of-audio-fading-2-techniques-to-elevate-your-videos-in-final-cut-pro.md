@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Audio Fading 2 Techniques to Elevate Your Videos in Final Cut Pro
-date: 2024-08-09T04:42:51.714Z
-updated: 2024-08-10T04:42:51.714Z
+date: 2024-10-25T22:27:14.801Z
+updated: 2024-10-29T22:56:14.536Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056
 
 # Two Ways to Fade In/Out Audio in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -37,9 +34,6 @@ Creating a fade in or out effect in [Final Cut Pro](https://www.apple.com/final-
 
 This tutorial offers only the basics of the audio fading techniques in Apple Final Cut Pro X, which is a specialized video editing software used by professionals worldwide. If you are an amateur who is new to video editing, we suggest you begin with [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) (originally Wondershare Video Editor for Mac). It is a powerful yet easy-to-use software that is ideal for beginners. You can download the free trial version of Wondershare Filmora below.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 With this modern and extremely user-friendly tool, you'll find that applying effects like fade-in, fade-out, or crossfade to your audio clips is very easy.
@@ -50,9 +44,6 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -67,18 +58,12 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -95,14 +80,38 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -117,13 +126,24 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,3 +151,18 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-charting-a-course-through-public-domain-landmarks/"><u>[New] Charting a Course Through Public Domain Landmarks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-complete-examination-unboxing-logitechs-ultimate-4k-webcam-for-2024/"><u>[Updated] Complete Examination Unboxing Logitech’s Ultimate 4K Webcam for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-computer-storage-the-c-and-d-scene/"><u>Comparing Computer Storage: The 'C:' And 'D:' Scene</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-guide-to-overcoming-mobile-video-sending-problems-in-fb-chat/"><u>In 2024, Guide to Overcoming Mobile Video Sending Problems in FB Chat</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/obtain-your-sound-blaster-audigy-fx-driver-software-here/"><u>Obtain Your Sound Blaster Audigy FX Driver Software Here</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-get-creative-with-fcp-x-a-3-step-guide-to-adding-awesome-effects/"><u>Updated 2024 Approved Get Creative with FCP X A 3-Step Guide to Adding Awesome Effects</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-maximize-your-workflow-the-10-best-video-editing-software-tools/"><u>Updated 2024 Approved Maximize Your Workflow The 10 Best Video Editing Software Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mac-subtitle-editing-made-easy-top-subtitle-edit-alternatives-for-2024/"><u>Updated Mac Subtitle Editing Made Easy Top Subtitle Edit Alternatives for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-best-video-editing-apps-for-mac-simplify-your-video-creation-process-for-2024/"><u>Updated The Best Video Editing Apps for Mac Simplify Your Video Creation Process for 2024</u></a></li>
+</ul></div>
+

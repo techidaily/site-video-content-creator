@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Edit Audio of a Video on FCP
-date: 2024-08-09T04:43:16.730Z
-updated: 2024-08-10T04:43:16.730Z
+date: 2024-10-22T23:11:07.782Z
+updated: 2024-10-29T21:18:58.183Z
 tags: 
   - video editing software
   - video editing
@@ -36,9 +36,6 @@ Those of you reading this article as a guide to audio editing of videos on Final
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to edit audio on FCP
 
 There are 2 ways of editing audio of videos on FCP-clip-level audio editing and advanced audio editing.
@@ -47,10 +44,6 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
@@ -69,9 +62,6 @@ The audio of the video can be detached for editing the audio file separately. Th
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
@@ -81,32 +71,14 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
 
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Effects](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-7.png)
 
 * Audio Configuration: The audio configuration tool would allow the user to modify the audio channel with mono, stereo, or reverse stereo.
@@ -121,11 +93,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/nhancing-youtube-videos-with-professional-techniques-using-wmm-for-2024/"><u>[New] Enhancing YouTube Videos with Professional Techniques Using WMM for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-audiovisual-excellence-youtube-videos-in-premiere-pro/"><u>[Updated] In 2024, Audiovisual Excellence YouTube Videos in Premiere Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-up-your-file-game-compiling-top-20-free-spacious-cloud-storage-solutions/"><u>[Updated] Step Up Your File Game Compiling Top 20 Free, Spacious Cloud Storage Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063190647-accelerate-driver-updates-on-windows-versions-10plus81plus7-guide/"><u>Accelerate Driver Updates on Windows Versions: 10+8.1+7 Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-xs-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone XS Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-90-lite-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor 90 Lite to New Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-cropping-videos-in-avidemux-tips-and-tricks-for-2024/"><u>New The Ultimate Guide to Cropping Videos in Avidemux Tips and Tricks for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/online-tools-to-delete-tiktok-watermarks-for-free-for-2024/"><u>Online Tools to Delete TikTok Watermarks for Free for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-edit-like-a-pro-top-free-vob-video-editors/"><u>Updated 2024 Approved Edit Like a Pro Top Free VOB Video Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-16-free-avi-video-rotators-for-every-device-and-browser/"><u>Updated The Ultimate List 16 Free AVI Video Rotators for Every Device and Browser</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winxvideo-artificial-intelligence-masterclass-professional-video-optimization-learn-how-to-elevate-your-content-with-cutting-edge-audio-and-video-processing114/"><u>Winxvideo Artificial Intelligence Masterclass: Professional Video Optimization - Learn How to Elevate Your Content with Cutting-Edge Audio & Video Processing Tools</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

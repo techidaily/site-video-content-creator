@@ -1,7 +1,7 @@
 ---
 title: New Wax 101 How to Edit Videos Like a Pro with This Free Editor
-date: 2024-08-09T04:42:43.539Z
-updated: 2024-08-10T04:42:43.539Z
+date: 2024-10-22T23:53:26.780Z
+updated: 2024-10-29T17:55:17.160Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 
 # Wax - How to Use Free Video Editor Wax to Edit Videos
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 
  Note: If you think Wax is something complicated, you can turn to [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which enables you to edit videos with separate tracks and add transitions to your videos, finally, convert your video to any video format you like.Download the free trial version of Wondershare Filmora (originally Wondershare Video Editor) (Windows/Mac) below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -46,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 
  Download Wax and install it first. Run the software and Load Media Files by right-clicking on MediaPool panel. But this doesn't finish. To edit video, you need to drag-n-drop desired media files to the timeline. Then switch to Video Plugins to drag-n-drop Quick 3d plugin to the just added track.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax free video editor](https://images.wondershare.com/topic/video-editing/wax.jpg)
 
  As shown above, click the triangle next to Quick 3d, you would see many options such as Posx, Posz, Cropleft, Cropbottom, etc. Please see detailed instructions to make editing in Wax:
@@ -65,25 +56,16 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 
  Press F3 or click the Project Settings button in the tool bar to bring up the dialog. There, specify the file name, save path and video options, including video dimensions, frame rate, and click OK.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to use wax](https://images.wondershare.com/topic/video-editing/wax-settings.jpg)
 
 #### 3. Render AVI video
 
  Click the green arrow button on the tool bar to start saving video to specified path in the project settings. A few minutes later, you will get the edited video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![wax video editing](https://images.wondershare.com/topic/video-editing/wax-render.jpg)
 
  To be concluded, this is just the beginning Wax tutorial. You will find more features while using it. Just download Wax and have a try.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -92,11 +74,36 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-brilliance-bunch-leading-gk-video-channels/"><u>[Updated] In 2024, Brilliance Bunch Leading GK Video Channels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-archival-artwork-creative-commons-haven/"><u>2024 Approved Archival Artwork Creative Commons Haven</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-figures-unveiled-exploring-youtubes-curious-numbers-2017/"><u>2024 Approved Figures Unveiled! Exploring YouTube's Curious Numbers (2017)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-free-download-hp-photosmart-7520-printer-software-today/"><u>Get Your [Free Download] HP Photosmart 7520 Printer Software Today!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hassle-free-fixes-for-failed-to-play-test-tone-issues-on-devices/"><u>Hassle-Free Fixes for 'Failed to Play Test Tone' Issues on Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-elevating-gameplay-tips-for-using-the-steam-switch-controller/"><u>In 2024, Elevating Gameplay Tips for Using the Steam Switch Controller</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unlock-pro-quality-edits-top-1080p-video-editing-tools-for-2024/"><u>New Unlock Pro-Quality Edits Top 1080P Video Editing Tools for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/pourquoi-ne-synchronisent-ils-pas-tous-les-documents-avec-synology-cloudsync-solutions-et-astuces/"><u>Pourquoi Ne Synchronisent-Ils Pas Tous Les Documents Avec Synology CloudSync? Solutions Et Astuces.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/steady-yourself-against-oculus-nausea/"><u>Steady Yourself Against Oculus Nausea</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/step-by-step-guide-to-fixing-helldivers-2-the-msvcr110dll-error/"><u>Step-by-Step Guide to Fixing Helldivers 2: The MSVCR110.dll Error</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-beginners-paradise-the-best-free-and-paid-video-editing-software/"><u>Updated 2024 Approved Beginners Paradise The Best Free and Paid Video Editing Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-speed-up-or-slow-down-top-10-free-video-editing-apps-for-mobile/"><u>Updated 2024 Approved Speed Up or Slow Down Top 10 Free Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-videopad-video-editor-review-features-pricing-and-more/"><u>Updated 2024 Approved The Ultimate Videopad Video Editor Review Features, Pricing, and More</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-get-loopy-top-10-free-video-looping-websites-you-need-to-try/"><u>Updated In 2024, Get Loopy Top 10 Free Video Looping Websites You Need to Try</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-windows-8-flv-editor-convert-trim-and-enhance-your-videos/"><u>Updated Windows 8 FLV Editor Convert, Trim, and Enhance Your Videos</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

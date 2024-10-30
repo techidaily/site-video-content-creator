@@ -1,7 +1,7 @@
 ---
 title: New In 2024, VHS Nostalgia Made Easy Final Cut Pro Tutorials
-date: 2024-08-02T03:59:49.924Z
-updated: 2024-08-03T03:59:49.924Z
+date: 2024-10-22T19:00:16.300Z
+updated: 2024-10-29T20:36:37.528Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
 # Do VHS Effect with Final Cut Pro in the Right Way
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -33,9 +30,6 @@ Fortunately, you don't have to reshoot your video using an analog camera and tra
 
 In this article, you will learn how to add VHS effects to a video in Final Cut Pro X, how to use VHS video effects, and some common VHS filter choices to use in your next project, so keep reading:
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part1: How to do VHS effect in FCPX?
 
 A VHS effect is a textured, warped effect that looks like an outdated analog videotape cassette recording. Adding this antique effect to an edit adds a fantastic old-school discord. How often should you utilize these glitchy and vintage effects? When the mood you're trying to create begs for some visual or aural distortion. Perhaps you need to recreate the appearance of discovered film or express a dramatic flashback to a character's history. In any case, VHS tapes and glitch effects are pretty trendy right now.
@@ -48,9 +42,6 @@ Open Final Cut Pro and click on New Project.
 
 Name your project as VHS effect in the Project Name section. Change the Video format to NTSC SD and frame rate to 29.97p. Click on Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![change_project_name_and_format_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/change_project_name_and_format_in_final_cut_pro.jpg)
 
 Drag and drop your footage in the timeline of FCPX. After this, scale your project so that it fits the frame.
@@ -69,9 +60,6 @@ Go to the Gaussian settings and set the amount to roughly 2.0-3.0.
 
 Go back to the search bar in FCPX and type Sharpen. Select the Sharpen effect and drop it to your footage in Final Cut Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add_sharpness_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_sharpness_in_final_cut_pro.jpg)
 
 Set the amount of sharpness to around 8.0-9.0.
@@ -84,18 +72,12 @@ Set the amount of the effect to roughly around 8.0-9.0\. In the option, Static T
 
 Now go to the search bar again and type Prism. Select the prism effect and drop it to your footage in Final Cut Pro. This will add some 3D effect to your footage.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add_prism_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_prism_effect_in_final_cut_pro.jpg)
 
 Set the amount to around 13.0-14.0.
 
 Go back to the search bar and type Color Correction. Drag and drop this effect to your footage in Final Cut Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![color_correction_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/color_correction_in_final_cut_pro.jpg)
 
 Click on Exposure and adjust the Highlights, Midtones, and Shadow. Go to the Saturation option and lower it. Now go to the Color and adjust the tint of your video by changing the Global option. Also, adjust the Highlights, Midtones, and Shadows. Wait for a few minutes for it to render.
@@ -104,9 +86,6 @@ After your video is rendered, you will get the final results using the VHS filte
 
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
@@ -114,6 +93,13 @@ If you want to quickly add VHS effect to your video, you can use Filmora X. You 
 First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To do VHS effects quickly, follow these steps:
 
@@ -136,12 +122,16 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
 * Drag and Place the VHS Rewind effect above the previous layer.
@@ -183,9 +173,6 @@ You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -206,10 +193,14 @@ A resources center built for Filmora. You can find all the materials and effects
 
 Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Stories – Glitch & VHS Edition**
 
@@ -223,10 +214,14 @@ The look of a VHS glitch effect is basic yet incredibly authentic. This one was 
 
 The appearance and feel of your production may be significantly enhanced by using VHS video effects. Nothing brings back memories for a viewer like a VHS video. By following the steps mentioned above, you can easily use the VHS effect in your video. However, we recommend you use Wondershare Filmore to create VHS effect as you wouldn't require any plugin. What are some of your favorite VHS effects?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -234,11 +229,30 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-defining-your-visual-and-stylistic-identity-high-relevance/"><u>[Updated] In 2024, Defining Your Visual and Stylistic Identity [High Relevance]</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-fix-in-a-flash-rapid-recovery-techniques-for-disrupted-fb-lives/"><u>In 2024, Fix in a Flash Rapid Recovery Techniques for Disrupted FB Lives</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-optimal-lens-selection-for-smooth-vlogging-experience/"><u>In 2024, Optimal Lens Selection for Smooth Vlogging Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-latest-tech-why-pros-love-iphone-15-comprehensive-review/"><u>Mastering the Latest Tech: Why Pros Love iPhone 15 – Comprehensive Review</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-shattered-media-playback-sequences/"><u>Mending Shattered Media Playback Sequences</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mastering-jump-cuts-in-fcpx-a-step-by-step-guide/"><u>New 2024 Approved Mastering Jump Cuts in FCPX A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-transform-low-res-videos-into-stunning-hd-with-these-software/"><u>New 2024 Approved Transform Low-Res Videos Into Stunning HD with These Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-turn-your-photos-into-a-movie-a-beginners-tutorial/"><u>New 2024 Approved Turn Your Photos Into a Movie A Beginners Tutorial</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unleash-your-creativity-video-editing-on-mac-os-x-yosemite-for-beginners/"><u>New 2024 Approved Unleash Your Creativity Video Editing on Mac OS X Yosemite for Beginners</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-wevideo-the-ultimate-online-video-creation-solution/"><u>New 2024 Approved WeVideo The Ultimate Online Video Creation Solution</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-16-essential-avi-cutters-simplify-video-editing-on-windows-mac-and-android/"><u>New In 2024, 16 Essential AVI Cutters Simplify Video Editing on Windows, MAC, and Android</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-easy-video-editing-free-cutters-and-joiners-for-new-users/"><u>New In 2024, Easy Video Editing Free Cutters and Joiners for New Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/paper-jams-and-more-win810-hp-printer-help-needed/"><u>Paper Jams & More: Win8/10 HP Printer Help Needed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-yearly-revelation-of-cost-effective-editing-apps-for-2024/"><u>The Yearly Revelation of Cost-Effective Editing Apps for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-top-12-best-meme-makers-online-for-free/"><u>Updated In 2024, Top 12 Best Meme Makers Online for FREE</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y78+ | Dr.fone</u></a></li>
+</ul></div>
+

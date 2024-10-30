@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Time Lapse Mastery A Step-by-Step Guide in Final Cut Pro
-date: 2024-08-02T03:58:42.594Z
-updated: 2024-08-03T03:58:42.594Z
+date: 2024-10-26T19:40:49.181Z
+updated: 2024-10-29T16:53:00.242Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
 # How to Make a Time Lapse Video in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -37,16 +34,10 @@ In this article, we are going to show you how you can easily increase the speed 
 
 This is a basic tutorial about Apple Final Cut Pro X, a professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) (Originally Wondershare Video Editor for Mac). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below to try it right now. And here's a video tutorial on how to make a time-lapse video with Filmora for your reference:
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Make a Time-Lapse Video in Final Cut Pro
 
 #### Step 1 Import Clips
@@ -57,9 +48,6 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
@@ -70,18 +58,12 @@ You can also drag the retiming handle to adjust the speed: dragging to the left 
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you have any questions about making time-lapse videos, feel free to drop a line below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -90,11 +72,38 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-dive-deep-into-duality-mastering-multi-video-watching-on-youtube-for-2024/"><u>[Updated] Dive Deep Into Duality Mastering Multi-Video Watching on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-definitive-guide-to-youtubes-algorithmic-secrets-for-rankings-for-2024/"><u>[Updated] The Definitive Guide to YouTube's Algorithmic Secrets for Rankings for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/grabacion-y-conversion-de-m4a-de-formato-3gpp-sin-coste-hacerlo-con-elegancia/"><u>Grabación Y Conversión De M4A De Formato 3GPP Sin Coste - Hacerlo Con Elegancia</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-create-animated-facebook-ads-with-high-roi-for-2024/"><u>How to Create Animated Facebook Ads With High ROI for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-neon-text-generators-the-9-easiest-online-tools-to-use-this-year/"><u>New In 2024, Neon Text Generators The 9 Easiest Online Tools to Use This Year</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-screen-and-webcam-recording-the-top-10-windows-10-tools/"><u>New In 2024, Screen and Webcam Recording The Top 10 Windows 10 Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-virtualdub-alternatives-for-video-editing/"><u>New In 2024, Top VirtualDub Alternatives for Video Editing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mastering-pip-in-final-cut-pro-a-step-by-step-guide/"><u>New Mastering PiP in Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mp4-video-editing-software-for-windows-8-fast-and-reliable-solution/"><u>New MP4 Video Editing Software for Windows 8 Fast and Reliable Solution</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ling-the-most-innovative-free-video-editors-for-idevices-for-2024/"><u>Unveiling the Most Innovative Free Video Editors for iDevices for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

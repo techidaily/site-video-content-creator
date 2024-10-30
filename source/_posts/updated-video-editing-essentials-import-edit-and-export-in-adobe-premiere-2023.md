@@ -1,7 +1,7 @@
 ---
 title: Updated Video Editing Essentials Import, Edit, and Export in Adobe Premiere 2023
-date: 2024-08-09T04:42:16.556Z
-updated: 2024-08-10T04:42:16.556Z
+date: 2024-10-24T21:08:38.757Z
+updated: 2024-10-29T20:30:22.136Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ This is a basic tutorial about Adobe Premiere, professional video editing softwa
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Importing
 
 There are two main ways to import media into Premiere, the import command and the media browser. They do things slightly differently and have uses they are both best suited to, here we will look at the process itself and which method to use in a given situation.
@@ -47,15 +44,6 @@ This is a straightforward command that works like most other programs, and is ac
 
 Whichever way you access it, you get the standard for the platform import dialogue box we see here.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-1.jpg)
 
 This method of importing is best suited to self-contained media such as audio or graphics, or video files such as MP4 that are single files themselves, whose location on your computer you know so you can navigate to them easily. This is not the way to import videos from cameras, as they invariably create complex file and folder arrangements that make choosing the correct files difficult. This is where you would opt for the media browser method instead.
@@ -79,34 +67,50 @@ There are some exceptions to this, however, despite having a huge number of file
 [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) offers an easy way to convert any file you may have into media that Premiere can use quickly and efficiently, and is a great tool to have alongside premiere if you commonly work with multiple file types.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Exporting
 
 The ultimate aim of any project is obviously to finish it and let others see the result of your creativity, and that means exporting your work into a format that is suitable for the medium you wish the project to be viewed on. Premiere offers a number of options regarding export, you can select an entire sequence to export as a single file for the web or disc, choose a single frame to post to a website, blog or to distribute through email, you can export just the audio, or just the video from a sequence, and if you have the right hardware, can export directly to tape or disk.
 
 To export a project that closely matches the original media in quality and frame rates, often called a master copy, is very straightforward in Premiere, with the sequence selected, either in the Timeline Panel or the Project Panel, you simply use the File > Export > Media path :
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Which opens the media export dialogue.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Selecting 'Match Sequence Settings' here creates a finished file that matches the quality of the original source media. Then you simply choose a suitable name for the file in the Output Name field, and click export. This creates in essence a digital clone of the sequence, and best practice is to always do this for any project, however, for many projects, this is not necessarily the format you would want the final product to be in, those concentrating on YouTube output, or someone wanting to author a DVD for instance will need other options.
 
 Thankfully Premiere caters here as well. Instead of selecting the 'Match Sequence Settings' within export dialogue, you can click on the 'Format' field to change the type of file that is produced. What options here can vary depending on codecs installed, this screenshot shows only those that are included with the product for clarity.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Depending on which format you choose. The preset below will allow you to choose a wide range of output settings to suit the intended platform. For instance, selecting  format brings up a huge number of presets for various Tablets and Phones, but also for Vimeo and YouTube, which is why it is one of the most common output formats. Here's a look at some of the presets available from the menu.
 
@@ -126,11 +130,25 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-25-capture-apps-for-your-windows-10-device/"><u>[New] 2024 Approved Top 25 Capture Apps for Your Windows 10 Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unlock-youtube-comment-insights-a-comprehensible-guide/"><u>[New] In 2024, Unlock YouTube Comment Insights A Comprehensible Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-finding-the-perfect-pitch-discover-no-cost-voice-alteration-apps/"><u>[Updated] In 2024, Finding the Perfect Pitch Discover No-Cost Voice Alteration Apps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-mastery-in-motion-building-high-impact-gifs/"><u>[Updated] Vimeo Mastery in Motion Building High-Impact GIFs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-fantasy-realms-awaits-ultimate-list-of-no-cost-rpgs/"><u>In 2024, Fantasy Realms Awaits Ultimate List of No-Cost RPGs</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-video-snapshots-made-easy-top-10-converters-for-converting-videos-to-images/"><u>New Video Snapshots Made Easy Top 10 Converters for Converting Videos to Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ordered-movie-marathon-how-to-experience-the-matrix-saga-correctly/"><u>Ordered Movie Marathon: How To Experience The Matrix Saga Correctly</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-mobility-with-apple-maps/"><u>Unlocking Windows Mobility with Apple Maps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-elevate-your-brand-with-free-animated-logos-top-creators-and-tips/"><u>Updated 2024 Approved Elevate Your Brand with Free Animated Logos Top Creators and Tips</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-designing-effective-lower-thirds-a-guide-to-fcpx-success-for-2024/"><u>Updated Designing Effective Lower Thirds A Guide to FCPX Success for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-fcpx-pro-tip-add-a-skin-smoother-effect-without-any-plugins-for-2024/"><u>Updated FCPX Pro Tip Add a Skin Smoother Effect Without Any Plugins for 2024</u></a></li>
+</ul></div>
+
