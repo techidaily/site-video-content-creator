@@ -1,7 +1,7 @@
 ---
 title: New In 2024, From Novice to Pro 20 Adobe Premiere Shortcuts to Elevate Your Skills
-date: 2024-08-09T04:36:05.531Z
-updated: 2024-08-10T04:36:05.531Z
+date: 2024-11-02T16:15:34.518Z
+updated: 2024-11-04T18:40:12.535Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -67,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -87,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -112,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -225,12 +207,37 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-financial-scale-one-million-youtube-viewers-pay/"><u>[Updated] The Financial Scale One Million YouTube Viewers' Pay</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unlock-video-brilliance-through-advanced-chroma-techniques-11-steps/"><u>[Updated] Unlock Video Brilliance Through Advanced Chroma Techniques (11 Steps)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-essential-steps-for-embedding-facebook-streams-online/"><u>2024 Approved Essential Steps for Embedding Facebook Streams Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-wi-fi-drivers-for-windows-7-simple-steps/"><u>Download and Update Wi-Fi Drivers for Windows 7 – Simple Steps!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-tecno-pova-5-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Tecno Pova 5 Pro Is Unlocked</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-analyzing-investment-costs-for-auditory-visual-fusion/"><u>In 2024, Analyzing Investment Costs For Auditory-Visual Fusion</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-v30-lite-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo V30 Lite 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oneplus-nord-ce-3-lite-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On OnePlus Nord CE 3 Lite 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-the-art-of-preserving-instagram-live-moments/"><u>Mastering the Art of Preserving Instagram Live Moments</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-ultimate-guide-to-imovie-alternatives-on-windows-10-for-2024/"><u>The Ultimate Guide to iMovie Alternatives on Windows 10 for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-free-mov-video-trimmers-for-easy-editing/"><u>Updated 2024 Approved Best Free MOV Video Trimmers for Easy Editing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-how-to-edit-audio-of-a-video-on-fcp/"><u>Updated 2024 Approved How to Edit Audio of a Video on FCP</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-10-free-video-repeater-tools-for-endless-loops/"><u>Updated 2024 Approved Top 10 Free Video Repeater Tools for Endless Loops</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-mac-slideshow-software-simplify-your-video-editing-experience/"><u>Updated In 2024, Mac Slideshow Software Simplify Your Video Editing Experience</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-cropping-videos-in-avidemux-tips-and-tricks/"><u>Updated In 2024, The Ultimate Guide to Cropping Videos in Avidemux Tips and Tricks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-rated-free-video-rotation-software-for-windows-and-mac/"><u>Updated Top-Rated Free Video Rotation Software for Windows and Mac</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: New Audio Post-Production in FCP A Beginners Guide to Pro Results for 2024
-date: 2024-08-09T04:36:32.039Z
-updated: 2024-08-10T04:36:32.039Z
+date: 2024-10-31T18:44:18.862Z
+updated: 2024-11-04T18:28:19.334Z
 tags: 
   - video editing software
   - video editing
@@ -32,9 +32,6 @@ Final Cut Pro (FCP) is one of the most powerful editing tools often used by prof
 
 Those of you reading this article as a guide to audio editing of videos on Final Cut Pro, needs to remember that this is just a basic tutorial for this professional editing software. However, if you are new to the field of video editing then you should consider using the [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). It is a powerful but simple tool that is just the right editing software for beginners. The advanced tools of this software would even allow you to use a lot of special effects like picture in picture, tilt shifts, split-screen, and much more.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -47,16 +44,10 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
 
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -67,9 +58,6 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
@@ -83,9 +71,6 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
@@ -100,18 +85,6 @@ The Audio Inspector would allow you to apply the following effects:
 
 **Here's the video tutorial on how to edit audios in Final Cut Pro:**
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -120,12 +93,44 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-unlock-iphone-photo-potential-with-leading-line-techniques/"><u>[New] Unlock iPhone Photo Potential with Leading Line Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-excellent-free-cam-snipping-software/"><u>[Updated] 2024 Approved Excellent Free Cam Snipping Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/harness-canons-power-explore-10-basic-free-luts-and-more-for-2024/"><u>Harness Canon's Power Explore 10 Basic Free LUTs and More for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-13-mini-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 13 mini Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-solutions-how-to-restore-sounds-on-a-quiet-laptop-or-desktop/"><u>Instant Solutions: How To Restore Sounds On A Quiet Laptop Or Desktop</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/life-q30-hearing-aid-unveiled-cost-effective-anc-headphone-exploration/"><u>Life Q30 Hearing Aid Unveiled: Cost-Effective ANC Headphone Exploration</u></a></li>
+<li><a href="https://fox-info.techidaily.com/simplifying-itunes-add-and-listen-to-your-choice-of-podcasts-for-2024/"><u>Simplifying iTunes Add and Listen to Your Choice of Podcasts for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/triggering-instant-play-for-youtube-videos-on-social-media/"><u>Triggering Instant Play for YouTube Videos on Social Media</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/unlocking-the-power-of-titles-in-final-cut-pro-x-2023-update-for-2024/"><u>Unlocking the Power of Titles in Final Cut Pro X 2023 Update for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-free-dvd-player-roundup-top-picks-for-windows-10/"><u>Updated 2024 Approved Free DVD Player Roundup Top Picks for Windows 10</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-noise-cancellation-101-tips-and-tricks-for-final-cut-pro-x-users/"><u>Updated 2024 Approved Noise Cancellation 101 Tips and Tricks for Final Cut Pro X Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-elevate-your-storytelling-how-to-create-engaging-hollywood-style-movies-for-2024/"><u>Updated Elevate Your Storytelling How to Create Engaging, Hollywood-Style Movies for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-video-editing-software-for-hot-vloggers-free-and-paid/"><u>Updated The Ultimate List of Video Editing Software for Hot Vloggers Free & Paid</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-updated-the-top-10-free-and-paid-2d-animation-software-you-need-to-know-for-2024/"><u>Updated Updated The Top 10 Free and Paid 2D Animation Software You Need to Know for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-virtualdub-vs-other-video-editors-a-2023-comparison-and-review/"><u>Updated Virtualdub vs Other Video Editors A 2023 Comparison and Review</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-watermark-free-video-editing-top-10-online-tools-you-need-to-know/"><u>Updated Watermark-Free Video Editing Top 10 Online Tools You Need to Know</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/voice-modulation-made-easy-ranking-the-best-audio-alteration-apps-on-smartphones-for-2024/"><u>Voice Modulation Made Easy Ranking the Best Audio Alteration Apps on Smartphones for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

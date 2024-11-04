@@ -1,7 +1,7 @@
 ---
 title: New Maximize Your Reach Learn How to Make Viral Reaction Videos with Filmora
-date: 2024-08-02T03:56:38.792Z
-updated: 2024-08-03T03:56:38.792Z
+date: 2024-11-03T16:42:43.317Z
+updated: 2024-11-04T16:01:15.570Z
 tags: 
   - video editing software
   - video editing
@@ -47,17 +47,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step2.png)
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step3.png](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step3.png)
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
@@ -74,16 +67,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step7.png)
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step8.png)
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
@@ -92,9 +79,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step10.png)
 
 #### Conclusion
@@ -103,14 +87,6 @@ AI Portrait allows you to create wonderful effects using artificial intelligence
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -119,11 +95,38 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-comprehensively-understanding-instagram-video-restrictions/"><u>[Updated] 2024 Approved Comprehensively Understanding Instagram Video Restrictions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-profile-pictures-download-for-free/"><u>[Updated] Profile Pictures - Download for FREE</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-retweeted-gifs-iphoneandroid-step-by-step-savings/"><u>[Updated] Retweeted Gifs IPhone/Android Step-by-Step Savings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-speedy-skimmer-of-windows-imagery/"><u>2024 Approved Speedy Skimmer of Windows Imagery</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cropping-photos-why-does-imovie-adjust-video-sizes/"><u>Cropping Photos Why Does iMovie Adjust Video Sizes?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-itel-s23-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Itel S23 Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-v29e-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo V29e Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-powered-content-leveraging-chatgpt-for-professional-copywriting-techniques/"><u>Mastering AI-Powered Content: Leveraging ChatGPT for Professional Copywriting Techniques</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-5-free-avi-video-editing-programs-for-beginners/"><u>New 2024 Approved Top 5 Free AVI Video Editing Programs for Beginners</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-we-tried-vn-video-editor-pro-heres-what-we-found-out/"><u>New 2024 Approved We Tried VN Video Editor Pro Heres What We Found Out</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-best-adobe-premiere-elements-replacements-for-video-editing-for-2024/"><u>New Best Adobe Premiere Elements Replacements for Video Editing for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-best-free-dvd-playback-options-for-windows-10-users-for-2024/"><u>New Best Free DVD Playback Options for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-fast-video-editing-on-mac-tips-and-tricks-for-speedy-video-cutting-for-2024/"><u>New Fast Video Editing on Mac Tips and Tricks for Speedy Video Cutting for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-how-to-trim-cut-and-edit-3gp-videos-like-a-pro-for-2024/"><u>New How to Trim, Cut, and Edit 3GP Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-free-filmora-download-no-strings-attached-no-viruses/"><u>New In 2024, Free Filmora Download No Strings Attached, No Viruses</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-get-started-with-mp4-video-editing-a-quick-and-easy-tutorial-for-mac-and-windows/"><u>New In 2024, Get Started with MP4 Video Editing A Quick and Easy Tutorial for Mac and Windows</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

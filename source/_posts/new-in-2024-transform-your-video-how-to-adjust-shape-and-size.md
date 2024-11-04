@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Transform Your Video How to Adjust Shape and Size
-date: 2024-08-02T03:56:53.503Z
-updated: 2024-08-03T03:56:53.503Z
+date: 2024-10-31T17:42:21.984Z
+updated: 2024-11-04T18:34:46.114Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
 # How to Change Shape of a Video?
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -37,9 +34,6 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Change Video Shape from Rectangle to Square
 
 Depending on the recording device and the target audiences a video is intended to be distributed to, the aspect ratio of the produced footage could be 16:9, 4:3, or 21:9 that makes the film rectangular-shaped. Given that, the aspect ratio can be modified to change the film shape from rectangle to square.
@@ -61,16 +55,24 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
@@ -90,16 +92,27 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -149,9 +162,6 @@ A) In Filmora, Image Mask allows you to use an image (or any available preset) f
 
 A) At the time of this writing, Wondershare Filmora has around 40 image mask presets. In addition, it also allows you to add custom images from your PC for more dynamic approach.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -160,11 +170,28 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-hacks-to-dodge-digital-lessons-at-home/"><u>[New] Hacks to Dodge Digital Lessons at Home</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-navigating-the-market-selecting-from-top-15-tripodsmounts/"><u>[New] In 2024, Navigating the Market Selecting From Top 15 Tripods/Mounts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-markets-top-picks-premier-drone-gimbals-for-2024/"><u>[New] Market's Top Picks Premier Drone Gimbals for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unlock-the-full-potential-of-pixiz-in-video-making/"><u>[New] Unlock the Full Potential of Pixiz in Video Making</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-harmonize-your-favorites-creating-custom-youtube-playlists/"><u>[Updated] In 2024, Harmonize Your Favorites Creating Custom YouTube Playlists</u></a></li>
+<li><a href="https://facebook.techidaily.com/did-a-facebook-incident-cause-your-number-to-go-public/"><u>Did A Facebook Incident Cause Your Number to Go Public?</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagram-enables-2fa-via-whatsapp-for-secure-access/"><u>Instagram Enables 2FA via WhatsApp for Secure Access</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-should-you-buy-videopad-video-editor-a-honest-review-and-analysis/"><u>New 2024 Approved Should You Buy Videopad Video Editor? A Honest Review and Analysis</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-10-best-free-mkv-cutters-2023-update/"><u>New 2024 Approved Top 10 Best Free MKV Cutters-2023 Update</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-dvd-to-digital-made-easy-a-comprehensive-conversion-guide/"><u>New In 2024, DVD to Digital Made Easy A Comprehensive Conversion Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-expert-approved-video-editing-software/"><u>New In 2024, Expert-Approved Video Editing Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-filmora-scrn-tutorial-how-to-record-your-computer-screen-like-a-pro/"><u>New In 2024, Filmora Scrn Tutorial How to Record Your Computer Screen Like a Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-fix-iphone-call-reception-problems/"><u>Step-by-Step Guide to Fix iPhone Call Reception Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-continuous-freezing-and-crashes-of-genshin-impact-on-personal-computers/"><u>Troubleshooting Continuous Freezing and Crashes of Genshin Impact on Personal Computers</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Final Cut Pro Essentials Adding Picture-in-Picture Effects
-date: 2024-08-09T04:36:53.771Z
-updated: 2024-08-10T04:36:53.771Z
+date: 2024-11-01T16:54:38.778Z
+updated: 2024-11-04T17:27:14.758Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 # How to Create a Picture-in-Picture Effect Using Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,9 +30,6 @@ This tool can help you to use the picture-in-picture effect with ease. However, 
 
 The article below contains complete details about how to add PIP effects using Final Cut Pro. You will be glad to know that FCP also works with few integrated plugins that assist in the free picture in picture effect generation.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create PIP Effect with FCP
 
 If you are ready with two videos and now want to bring them to the same screen then prefer to follow these simple steps:
@@ -44,9 +38,6 @@ If you are ready with two videos and now want to bring them to the same screen t
 
 The very first step that you need to follow for PIP effect generation using FCP is to bring your main or background video to the timeline as a primary storyline. Once you have created the primary storyline then all videos for the PIP effect will be added to it.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add pip video](https://images.wondershare.com/filmora/article-images/add-pip-videos-in-fcp.jpg)
 
 #### Step 2: Add PIP videos
@@ -55,27 +46,12 @@ It is time to choose the higher video clip so that the PIP effect can be applied
 
 Note that lower clips use to stay in the background in final results whereas upper clips will appear in the foreground. By default, both clips use to have 100% full screen with 100% opaque settings.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
 
 #### Step 3: Apply PIP effect
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
 
 #### Step 4: Adjust PIP Effect
@@ -101,8 +77,12 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 Check this video tutorial to know more details:
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Picture in Picture Plug-ins for Final Cut Pro
 
 There are so many plug-ins available in the market for Final Cut Pro platform and all of them possess unique qualities along with impressive toolsets. No matter whether you are a beginner with the PIP effect or professional making high-end video projects, FCP plug-ins can make your task much easier with their intuitive controls.
@@ -119,13 +99,18 @@ ProPIP is the best choice for newscasting, commentaries, and many other applicat
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -133,4 +118,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-elevate-your-tweeted-visuals-ultimate-gif-saver-guide/"><u>[New] Elevate Your Tweeted Visuals Ultimate GIF Saver Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-step-by-step-guide-for-pcmac-movie-recording/"><u>[Updated] 2024 Approved Step-by-Step Guide for PC/Mac Movie Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-captureitease-2023s-best-screen-recording-tools-for-2024/"><u>[Updated] CaptureItEase 2023'S Best Screen Recording Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-visual-storytelling-what-angle-matters-most-for-2024/"><u>[Updated] Facebook's Visual Storytelling What Angle Matters Most for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-digital-humor-designer-tool/"><u>2024 Approved Digital Humor Designer Tool</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-your-analytics-using-cookiebot-technology/"><u>Enhance Your Analytics Using Cookiebot Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-dev-drive-for-developers-on-windows-11/"><u>How to Use Dev Drive for Developers on Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-simplify-avi-video-editing-16-top-avi-cutters-for-trimming-and-cutting-cross-platform-compatibility-for-2024/"><u>New Simplify AVI Video Editing 16 Top AVI Cutters for Trimming and Cutting Cross-Platform Compatibility for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-witness-the-power-of-4k-the-most-impressive-video-demos-for-2024/"><u>New Witness the Power of 4K The Most Impressive Video Demos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-added-tap-response-to-htc-display/"><u>SOLVED: Added Tap Response to HTC Display</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/speed-up-your-storytelling-time-lapse-video-editing-in-final-cut-pro-for-2024/"><u>Speed Up Your Storytelling Time Lapse Video Editing in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-pages-for-stylish-shiny-3d-type-creations/"><u>Top Pages for Stylish, Shiny 3D Type Creations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-breaking-the-rules-10-innovative-glitch-art-video-editing-apps-for-mobile/"><u>Updated 2024 Approved Breaking the Rules 10 Innovative Glitch Art Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-fcpx-jump-cuts-tutorial-from-beginner-to-expert/"><u>Updated 2024 Approved FCPX Jump Cuts Tutorial From Beginner to Expert</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-art-of-color-grading-in-final-cut-pro/"><u>Updated 2024 Approved The Art of Color Grading in Final Cut Pro</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-video-maestro-convert-casual-clips-into-cinematic-masterpieces/"><u>Updated 2024 Approved Video Maestro Convert Casual Clips Into Cinematic Masterpieces</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-free-and-easy-3gp-video-rotation-top-picks-for-this-year/"><u>Updated In 2024, Free and Easy 3GP Video Rotation Top Picks for This Year</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-image-to-video-conversion-made-easy-10-best-online-solutions/"><u>Updated In 2024, Image to Video Conversion Made Easy 10 Best Online Solutions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/uploading-in-bulk-a-comprehensive-guide-to-multimedia-on-ig/"><u>Uploading in Bulk A Comprehensive Guide to Multimedia on IG</u></a></li>
+</ul></div>
 

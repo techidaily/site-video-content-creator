@@ -1,7 +1,7 @@
 ---
 title: New Are You Fed up with Viewing Static and Stagnant Pictures Captured in Your Memorable Moments? You Can Present the Historical Moments of Your Life Creatively by Adding the Ken Burns Effect. You Might Be Wondering How, Here Is the Solution for 2024
-date: 2024-08-09T04:36:16.688Z
-updated: 2024-08-10T04:36:16.688Z
+date: 2024-11-02T17:59:13.592Z
+updated: 2024-11-04T18:15:10.825Z
 tags: 
   - video editing software
   - video editing
@@ -46,9 +46,6 @@ _ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/fin
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
@@ -75,9 +72,6 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
@@ -94,9 +88,6 @@ _ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-c
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 _ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
@@ -109,9 +100,6 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 _ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
@@ -127,8 +115,12 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -139,8 +131,12 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
 **What is the Ken Burns Effect?**
@@ -153,6 +149,13 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **What are the Applications of Ken Burns Effect?**
 
 Primarily, the Ken Burns Effect is used due to the unavailability of a film or video. The technique gives action to still photographs to glorify the subjects of interest like couples in wedding photography. It gets better and better as you apply simulated parallax with Ken Burns Effect to make your 2D images appear as 3D plus advanced zooming visuals. You can also use the Ken Burns effect to make a video of your graduation ceremony pictures or memorable moments of reunion. Ken Burns Effect is also used in documentaries by professional filmmakers and editors.
@@ -163,13 +166,18 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -177,4 +185,27 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-ranking-the-most-effortlessly-successful-youtube-content/"><u>[New] In 2024, Ranking the Most Effortlessly Successful YouTube Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-techniques-live-streaming-games-via-obs/"><u>[New] In 2024, Top Techniques Live-Streaming Games via OBS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-enhancing-video-experience-on-youtube-with-slower-playback-48-chars/"><u>2024 Approved Enhancing Video Experience on YouTube with Slower Playback (48 Chars)</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/detecting-delirium-identifying-fake-insights-amongst-ai-generations/"><u>Detecting Delirium: Identifying Fake Insights Amongst AI Generations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-supercharged-productivity-while-flipping-audio-switches/"><u>In 2024, Supercharged Productivity While Flipping Audio Switches</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-motorola-razr-40-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Motorola Razr 40 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/score-a-bargain-on-final-cut-pro-with-our-education-bundle-guide-for-2024/"><u>Score a Bargain on Final Cut Pro with Our Education Bundle Guide for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-honest-guide-to-getting-filmora-for-free-no-illegal-stuff-for-2024/"><u>The Honest Guide to Getting Filmora for Free (No Illegal Stuff) for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-sound-of-silence-expert-advice-on-noise-reduction-in-final-cut-pro-x-for-2024/"><u>The Sound of Silence Expert Advice on Noise Reduction in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-guide-for-resolving-the-0x80070422-error-on-windows-10-devices/"><u>Troubleshooting Guide for Resolving the 0X80070422 Error on Windows 10 Devices</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-expert-review-avs-video-editor-2023-the-good-the-bad-and-the-ugly/"><u>Updated 2024 Approved Expert Review AVS Video Editor 2023 - The Good, the Bad, and the Ugly</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-ps4-screenshot-sharing-for-beginners-a-simple-and-easy-guide/"><u>Updated 2024 Approved PS4 Screenshot Sharing for Beginners A Simple and Easy Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-explore-your-options-top-premiere-rush-alternatives-for-video-creators-for-2024/"><u>Updated Explore Your Options Top Premiere Rush Alternatives for Video Creators for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-free-online-dailymotion-converter-no-registration-required-for-2024/"><u>Updated Free Online Dailymotion Converter No Registration Required for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unifying-your-visuals-how-to-color-match-video-clips-in-powerdirector/"><u>Updated In 2024, Unifying Your Visuals How to Color Match Video Clips in PowerDirector</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/upgrade-your-visuals-best-video-quality-improvement-software-for-2024/"><u>Upgrade Your Visuals Best Video Quality Improvement Software for 2024</u></a></li>
+</ul></div>
 

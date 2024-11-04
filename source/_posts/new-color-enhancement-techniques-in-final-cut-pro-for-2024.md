@@ -1,7 +1,7 @@
 ---
 title: New Color Enhancement Techniques in Final Cut Pro for 2024
-date: 2024-08-09T04:36:28.210Z
-updated: 2024-08-10T04:36:28.210Z
+date: 2024-11-02T17:07:54.986Z
+updated: 2024-11-04T17:25:28.311Z
 tags: 
   - video editing software
   - video editing
@@ -59,23 +59,14 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
 
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
@@ -86,9 +77,6 @@ As soon as you start working on **Color Board**, it is good to open Video Scopes
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
@@ -105,18 +93,12 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
 It is possible to preview all the corrections on the original image before making them final. Simple hit the arrow with left-facing formation in the top left corner of the Color Board and then return to the video inspector. Hit on the Blue box to switch between correction On and Off options.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![correction On and Off options](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-10.png)
 
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
@@ -129,12 +111,32 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-framefulness-selecting-the-top-websites-and-apps-for-photoshopping/"><u>[New] Framefulness Selecting the Top Websites & Apps for Photoshopping</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-journey-through-ingenious-animated-texts-top-14-snapshots/"><u>[Updated] Journey Through Ingenious Animated Texts Top 14 Snapshots</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premier-5-minute-longshot-recorder-for-2024/"><u>[Updated] Premier 5-Minute Longshot Recorder for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-counter-flow-strategy-reversing-your-youtube-video-sequence/"><u>[Updated] The Counter-Flow Strategy Reversing Your YouTube Video Sequence</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-an-overview-of-youtube-short-content-basics/"><u>2024 Approved An Overview of YouTube Short Content Basics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-back-to-sailing-with-these-solutions-for-a-non-responsive-pacific-drive/"><u>Get Back to Sailing with These Solutions for a Non-Responsive Pacific Drive</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-fcp-x-visual-effects-green-screen-and-beyond/"><u>Updated 2024 Approved FCP X Visual Effects Green Screen and Beyond</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-revamp-your-footage-top-free-online-video-quality-improvement-tools/"><u>Updated 2024 Approved Revamp Your Footage Top Free Online Video Quality Improvement Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-timer-tutorial-how-to-create-a-countdown-in-fcpx-fast/"><u>Updated In 2024, Timer Tutorial How to Create a Countdown in FCPX Fast</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unleash-fcpx-top-10-free-plugin-essentials-for-2024/"><u>Updated Unleash FCPX Top 10 Free Plugin Essentials for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/vertical-video-editing-in-the-cloud-top-web-apps-for-2024/"><u>Vertical Video Editing in the Cloud Top Web Apps for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

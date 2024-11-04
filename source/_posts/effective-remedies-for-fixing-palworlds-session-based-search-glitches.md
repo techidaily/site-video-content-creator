@@ -1,7 +1,7 @@
 ---
 title: Effective Remedies for Fixing Palworld's Session-Based Search Glitches
-date: 2024-10-13T12:35:42.632Z
-updated: 2024-10-17T16:36:14.260Z
+date: 2024-11-02T17:20:31.140Z
+updated: 2024-11-04T18:20:26.668Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 4. **[Disable DVR app in Xbox](https://tools.techidaily.com/drivereasy/download/)**
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
 
@@ -82,20 +75,20 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 3. Click the**Options** button and select**Scan and Repair** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
@@ -114,19 +107,26 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -137,21 +137,15 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -175,16 +169,24 @@ Here’s what you can do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-essential-15-cameras-for-professional-vlogging-experience-for-2024/"><u>[Updated] Essential 15 Cameras for Professional Vlogging Experience for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-movies-the-best-18-4k-recorder-list/"><u>2024 Approved Mastering Movies The Best 18 4K Recorder List</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/comment-preparer-votre-pc-a-la-transition-pour-windows-11-avec-le-tpm-20-requis/"><u>Comment Préparer Votre PC À La Transition Pour Windows 11 Avec Le TPM 2.0 Requis ?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descargar-conversiones-de-archivo-amv-libre-de-codigo-guia-del-asistente-de-movavi/"><u>Descargar Conversiones De Archivo AMV Libre De Código: Guía Del Asistente De Movavi</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-a34-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy A34 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-wi-fi-wav-m4a-online/"><u>Movavi: 무료 제공 Wi-Fi를 통해 WAV을 M4A 암호화로 전환 - Online 모바일</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-sources-for-free-public-domain-video-downloads/"><u>New Top Sources for Free Public Domain Video Downloads</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-video-makers-with-music-for-android-and-iphone/"><u>Updated 2024 Approved Best Video Makers with Music for Android and iPhone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-filmora-free-trial-vs-torrent-which-one-is-safe-and-legit-for-2024/"><u>Updated Filmora Free Trial vs Torrent Which One Is Safe and Legit for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-cutting-edge-mkv-editing-tools-for-mac/"><u>Updated In 2024, Cutting-Edge MKV Editing Tools for Mac</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-secure-your-footage-how-to-blur-faces-in-videos/"><u>Updated In 2024, Secure Your Footage How to Blur Faces in Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-archival-artwork-creative-commons-haven/"><u>[New] 2024 Approved Archival Artwork Creative Commons Haven</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-boost-your-revenue-yielding-earnings-from-youtube-at-500-followers/"><u>[New] 2024 Approved Boost Your Revenue Yielding Earnings From YouTube at 500 Followers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elevating-your-style-with-youtubes-best-hauls/"><u>[New] 2024 Approved Elevating Your Style with YouTube's Best Hauls</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-optimal-owing-uavs-heavy-load-drone-rankings/"><u>[New] Optimal Owing UAVs Heavy Load Drone Rankings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-art-and-science-of-writing-smart-slug-lines/"><u>[New] The Art and Science of Writing Smart Slug Lines</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-digital-classrooms-prime-ed-tutorials-online/"><u>[Updated] Digital Classrooms Prime Ed Tutorials Online</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-creating-breathtaking-slow-motion-photo-editing-techniques-explored/"><u>[Updated] In 2024, Creating Breathtaking Slow Motion Photo Editing Techniques Explored</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-vivo-y36-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Vivo Y36? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/initial-setup-tasks-a-beginners-guide-to-starting-with-your-new-device/"><u>Initial Setup Tasks: A Beginner's Guide to Starting with Your New Device</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-from-disc-to-device-converting-dvds-to-digital-video-files/"><u>New 2024 Approved From Disc to Device Converting DVDs to Digital Video Files</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-best-free-online-video-reversers/"><u>New 2024 Approved The Best Free Online Video Reversers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unleash-your-creativity-top-chromebook-video-editor-apps/"><u>New 2024 Approved Unleash Your Creativity Top Chromebook Video Editor Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-best-free-and-paid-glitch-video-editors-for-windowsmac-onlinedesktop-for-2024/"><u>New Best Free & Paid Glitch Video Editors for Windows/Mac Online/Desktop for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-edit-like-a-pro-top-10-free-and-paid-android-video-editors-you-need-for-2024/"><u>New Edit Like a Pro Top 10 Free and Paid Android Video Editors You Need for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-get-animated-top-online-makers-for-engaging-video-content-for-2024/"><u>New Get Animated Top Online Makers for Engaging Video Content for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-3gp-video-editing-cutting-and-trimming-made-easy/"><u>New In 2024, 3GP Video Editing Cutting and Trimming Made Easy</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-video-editing-apps-for-mac-from-novice-to-expert/"><u>New In 2024, Best Video Editing Apps for Mac From Novice to Expert</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-get-a-new-look-free-online-face-generators-for-everyone/"><u>New In 2024, Get a New Look Free Online Face Generators for Everyone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tailoring-your-own-ai-conversational-agent-with-gpt-technology-key-steps-unveiled/"><u>Tailoring Your Own AI Conversational Agent with GPT Technology - Key Steps Unveiled</u></a></li>
 </ul></div>
 

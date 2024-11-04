@@ -1,7 +1,7 @@
 ---
 title: New From Square to Wide How to Change Video Aspect Ratio for 2024
-date: 2024-08-09T04:37:14.547Z
-updated: 2024-08-10T04:37:14.547Z
+date: 2024-10-29T16:22:24.466Z
+updated: 2024-11-04T16:14:30.490Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Change Video Shape from Rectangle to Square
 
 Depending on the recording device and the target audiences a video is intended to be distributed to, the aspect ratio of the produced footage could be 16:9, 4:3, or 21:9 that makes the film rectangular-shaped. Given that, the aspect ratio can be modified to change the film shape from rectangle to square.
@@ -58,16 +55,24 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
@@ -87,19 +92,20 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -149,10 +155,20 @@ A) In Filmora, Image Mask allows you to use an image (or any available preset) f
 
 A) At the time of this writing, Wondershare Filmora has around 40 image mask presets. In addition, it also allows you to add custom images from your PC for more dynamic approach.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -160,12 +176,33 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-viewer-to-video-voyager-building-strong-backlinks-in-youtube/"><u>[New] In 2024, From Viewer to Video Voyager Building Strong Backlinks in YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-google-hangouts-recording-guide/"><u>[Updated] 2024 Approved Google Hangouts Recording Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>[Updated] Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elevate-your-engagement-with-strategic-youtube-titles/"><u>[Updated] In 2024, Elevate Your Engagement with Strategic YouTube Titles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-obs-vs-twitch-studio-which-one-is-better/"><u>2024 Approved OBS Vs Twitch Studio Which One Is Better?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-c67-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted C67 5G Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-dell-inspiron-15-device-drivers-on-windows-11/"><u>How to Update Dell Inspiron 15 Device Drivers on Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-slow-down-the-10-best-video-players-for-smooth-playback-for-2024/"><u>New Slow Down The 10 Best Video Players for Smooth Playback for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-trim-cut-and-edit-divx-videos-with-these-free-tools/"><u>New Trim, Cut, and Edit Divx Videos with These Free Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/s-best-time-lapse-video-editing-tools-a-comprehensive-review-for-2024/"><u>S Best Time-Lapse Video Editing Tools A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-your-spot-elite-imagery-repair-solutions-now/"><u>Secure Your Spot - Elite Imagery Repair Solutions Now</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-most-popular-stock-photo-meme-and-their-stories-for-2024/"><u>The Most Popular Stock Photo Meme and Their Stories for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-rated-free-m4a-editing-software-for-pc-and-mac/"><u>Updated 2024 Approved Top-Rated Free M4A Editing Software for PC and Mac</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unleash-your-creativity-best-android-video-editor-apps-for-chrome-os/"><u>Updated 2024 Approved Unleash Your Creativity Best Android Video Editor Apps for Chrome OS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-dual-display-video-editing-top-apps-for-iphone-and-android-for-2024/"><u>Updated Dual-Display Video Editing Top Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-how-to-create-home-dvds-with-best-movie-making-software-for-2024/"><u>Updated How to Create Home DVDs with Best Movie Making Software for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-online-video-creation-made-easy-with-wevideo/"><u>Updated In 2024, Online Video Creation Made Easy with WeVideo</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-s-top-free-mkv-splitters-no-watermarks-or-trials/"><u>Updated In 2024, S Top Free MKV Splitters No Watermarks or Trials</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Nokia C12? | Dr.fone</u></a></li>
+</ul></div>
 

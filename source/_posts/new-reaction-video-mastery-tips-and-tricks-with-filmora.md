@@ -1,7 +1,7 @@
 ---
 title: New Reaction Video Mastery Tips and Tricks with Filmora
-date: 2024-08-02T03:57:56.703Z
-updated: 2024-08-03T03:57:56.703Z
+date: 2024-11-02T16:53:05.263Z
+updated: 2024-11-04T16:52:57.294Z
 tags: 
   - video editing software
   - video editing
@@ -51,16 +51,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step3.png](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step3.png)
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step4](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step4.png)
 
 **Step 05:** Our goal is to remove the background of the reaction. To do that, we will use Human Segmentation. Drag and drop Human Segmentation into the reaction video. If you haven't purchased this effect already, it will ask you to buy it to export the video. But you want to try it first, click on "Try It."
@@ -77,9 +71,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step8.png)
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
@@ -88,24 +79,14 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step10.png)
 
 #### Conclusion
 
 AI Portrait allows you to create wonderful effects using artificial intelligence. This is one of the best uses of AI to make stunning reaction videos. It will not only save you a lot of time but will also help you save a lot of money by helping you remove the background of your video without expensive materials such as a green screen and other materials related to it.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -114,11 +95,37 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-online-video-quality-mastery-in-finalcut-for-youtube/"><u>[New] 2024 Approved Elevate Your Online Video Quality Mastery in FinalCut for YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-insta-gurus-guide-the-essential-hashtags-you-need-today/"><u>[New] In 2024, Insta Gurus Guide The Essential Hashtags You Need Today</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-methodology-incorporating-youtube-playlists-into-a-websites-structure/"><u>[Updated] Methodology Incorporating YouTube Playlists Into a Website's Structure</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-leading-meaningful-conversations-an-interviewers-journey/"><u>2024 Approved Leading Meaningful Conversations An Interviewer's Journey</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/exceptional-smartwatch-evaluation-the-artistry-of-samsung-galaxy-watch-inside-and-out/"><u>Exceptional Smartwatch Evaluation - The Artistry of Samsung Galaxy Watch Inside and Out</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-note-30-vip-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Infinix Note 30 VIP Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-oppo-f25-pro-5g-phone-by-drfone-android/"><u>How to Reset a Locked Oppo F25 Pro 5G Phone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/known-problem-fixes/"><u>Known Problem Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210767938-9781803411798-pagan-portals-dream-analysis-made-easy/"><u>Pagan Portals - Dream Analysis Made Easy | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-repairing-a-malfunctioning-touch-screen-on-windows-10/"><u>Top 5 Solutions for Repairing a Malfunctioning Touch Screen on Windows 10</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-hd-video-editing-made-easy-top-5-software-recommendations-for-2024/"><u>Updated HD Video Editing Made Easy Top 5 Software Recommendations for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-kids-in-the-directors-chair-a-fun-and-interactive-guide-to-movie-making/"><u>Updated In 2024, Kids in the Directors Chair A Fun and Interactive Guide to Movie Making</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-whats-hot-the-best-ipad-video-editors-you-need-to-know/"><u>Updated In 2024, Whats Hot The Best iPad Video Editors You Need to Know</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mavericks-video-editor-how-to-edit-mp4-files-with-ease-for-2024/"><u>Updated Mavericks Video Editor How to Edit MP4 Files with Ease for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-repeat-repeat-repeat-10-best-free-video-looping-services-for-2024/"><u>Updated Repeat, Repeat, Repeat 10 Best Free Video Looping Services for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-virtualdub-replacements-top-picks-for-video-editing/"><u>Updated VirtualDub Replacements Top Picks for Video Editing</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

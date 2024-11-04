@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Unleash the Power of Time FCPX Freeze Frames and Slow Motion Tutorials
-date: 2024-08-02T03:55:48.870Z
-updated: 2024-08-03T03:55:48.870Z
+date: 2024-10-30T17:25:22.670Z
+updated: 2024-11-04T17:43:53.790Z
 tags: 
   - video editing software
   - video editing
@@ -40,16 +40,10 @@ A still-frame freezes action. For instance, here is a clip of a hummingbird gett
 
 In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freeze and type Option+F.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![freeze frames](https://images.wondershare.com/multimedia/speed002.jpg)
 
 This creates a two-second freeze-frame at the position of the playhead.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![create freeze frame](https://images.wondershare.com/multimedia/speed003.jpg)
 
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
@@ -90,9 +84,6 @@ Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using e
 
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
@@ -101,14 +92,6 @@ Change the duration of the Hold frame by dragging the small thumb at the right e
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
 
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
@@ -117,18 +100,12 @@ NOTE: Changing the source frame is a feature that I like a LOT!
 
 #### 3\.  SLOW (or FAST) MOTION
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fast/slow motion](https://images.wondershare.com/multimedia/speed007.jpg)
 
 We use slow-motion to show events that are too fast for the unaided eye to see. And fast motion to speed up very slow events. Both of these effects use what's called a "constant speed change," where the entire clip changes by the same amount - either faster or slower.
 
 WE create either effect using the same tools, just different values. Here's how.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![slow motion](https://images.wondershare.com/multimedia/speed008.jpg)
 
 Select the clip who's speed you want to change. Then, using either Modify > Retime or the "Smurf" Toolbar icon, select Slow (or Fast).
@@ -143,18 +120,12 @@ Three things happen at once:
 * The orange Retiming bar appears over the top of the clip
 * The speed of the clip changes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
 
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
 
 There are two ways to change the speed of a clip.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![speed017](https://images.wondershare.com/multimedia/speed017.jpg)
 
 The easy way is to grab the small handle at the end of the clip and drag left or right. The speed will change as you drag it.
@@ -176,9 +147,6 @@ You will get the smoothest speed changes when the percentage you choose divides 
 
 There is one more setting to consider when slowing a clip. (This does not apply when creating fast motion.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![speed012](https://images.wondershare.com/multimedia/speed012.jpg)
 
 Using, again, either Modify > Retime or the "Smurf" menu, select Video Quality.
@@ -203,9 +171,6 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 Whether you want your clips to speed up, slow down or just plain stop, Final Cut Pro X makes the entire process easy.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -214,11 +179,36 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-10-affordable-iphone-apps-your-guide-to-free-photo-arrangement-and-editing/"><u>[New] In 2024, Top 10 Affordable iPhone Apps – Your Guide to Free Photo Arrangement & Editing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-ranking-the-top-16-youtube-intros-to-amplify-views/"><u>[Updated] 2024 Approved Ranking the Top 16 YouTube Intros to Amplify Views</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-total-motion-analysis-2023/"><u>[Updated] In 2024, Total Motion Analysis 2023</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-and-downloading-personalized-insta-ringtones-for-2024/"><u>Crafting & Downloading Personalized Insta Ringtones for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-reno-10-proplus-5g-frp-by-drfone-android/"><u>How Can We Bypass Oppo Reno 10 Pro+ 5G FRP?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-edge-40-neo-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Edge 40 Neo? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-architectural-marvels-best-6-mojave-homes/"><u>In 2024, Architectural Marvels Best 6 Mojave Homes</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-hand-drawn-whiteboard-animation-made-easy-top-5-tools/"><u>New 2024 Approved Hand-Drawn Whiteboard Animation Made Easy Top 5 Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-5-best-online-tone-generators-for-you-for-2024/"><u>New 5 Best Online Tone Generators for You for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-how-to-flip-video-quickly-and-easily-for-2024/"><u>New How to Flip Video Quickly and Easily for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-create-fake-identities-best-free-face-generator-websites/"><u>New In 2024, Create Fake Identities Best Free Face Generator Websites</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-cut-trim-and-edit-the-best-free-and-paid-android-video-editors/"><u>New In 2024, Cut, Trim, and Edit The Best Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-from-zero-to-hero-mastering-reaction-videos-with-filmoras-latest-features/"><u>New In 2024, From Zero to Hero Mastering Reaction Videos with Filmoras Latest Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-wise-implementation-of-ms-defender-application-guard-in-edge-browser/"><u>Step-Wise Implementation of MS Defender Application Guard in Edge Browser</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/talking-tech-understanding-gpt-vs-bingbot-differences/"><u>Talking Tech: Understanding GPT Vs. BingBot Differences</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
