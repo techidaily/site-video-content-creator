@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Ken Burns Effect Tutorial From Basics to Pro
-date: 2024-08-02T03:50:58.981Z
-updated: 2024-08-03T03:50:58.981Z
+date: 2024-11-08T00:30:39.752Z
+updated: 2024-11-14T19:41:07.889Z
 tags: 
   - video editing software
   - video editing
@@ -32,9 +32,6 @@ This article introduces the readers to Final Cut Pro and explains how to add the
 * [Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?](#Part2)
 * [Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?](#Part3)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 1: How to Make a Ken Burns Effect in Final Cut Pro?**
 
 Final Cut Pro is user-friendly software and makes it easy for you to create a Ken Burns Effect without having advanced skills and expertise. So, are you interested in knowing the best part? Given below are a few simple steps to create Ken Burns Effect and make your pictures and videos look adorable.
@@ -75,9 +72,6 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
@@ -106,9 +100,6 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
@@ -121,10 +112,14 @@ After you have optimized the speed of the Ken Burns Effect by trimming the clip�
 
 Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan and zoom effect, in much easier steps, click to download and have a try!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
@@ -134,6 +129,13 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 2. Duplicate the clip by click and drag option or copy and paste option;
 3. Press the Swap button in the Ken Burns settings to reverse the start and end positions;
 4. Verify if multiple camera movements have been added.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
@@ -145,10 +147,14 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
 
@@ -158,18 +164,20 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -178,5 +186,22 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-ideal-cards-for-ultra-hd-content-creation-for-2024/"><u>[Updated] Ideal Cards for Ultra-HD Content Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enjoy-your-favorite-songs-anytime-convert-youtube-to-mp3-now/"><u>[Updated] In 2024, Enjoy Your Favorite Songs Anytime Convert YouTube to MP3 Now</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-rated-traffic-cameras-for-automobiles-2023-for-2024/"><u>[Updated] Top-Rated Traffic Cameras for Automobiles 2023 for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-get-high-quality-audiovideo-convert-facebooks-hd-content-into-mp4/"><u>2024 Approved Get High-Quality Audio/Video Convert Facebook's HD Content Into MP4</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-troubleshooting-solving-the-inverted-video-display-problem/"><u>ASUS Laptop Troubleshooting: Solving the Inverted Video Display Problem</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-12-5g-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from 12 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-top-mkv-video-cutting-software-for-mac-for-2024/"><u>The Top MKV Video Cutting Software for Mac for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-5-free-avi-video-editing-programs-for-beginners-for-2024/"><u>Top 5 Free AVI Video Editing Programs for Beginners for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-corsair-k55-drivers-with-the-newest-version-now-available/"><u>Update Your Corsair K55 Drivers with the Newest Version Now Available</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-5-free-video-watermark-removal-and-addition-software/"><u>Updated In 2024, 5 Free Video Watermark Removal and Addition Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-6-essential-video-audio-dubbing-tools-for-pc-users/"><u>Updated In 2024, 6 Essential Video Audio Dubbing Tools for PC Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-vignette-apps-for-mobile-free-paid-and-everything-in-between/"><u>Updated The Ultimate List of Vignette Apps for Mobile Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creativity-10-top-rated-music-video-makers-for-2024/"><u>Updated Unleash Your Creativity 10 Top-Rated Music Video Makers for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728466234816-windows-server-2016/"><u>セキュアかつ手軽なWindows Server 2016へのデータ復旧法🔄</u></a></li>
+</ul></div>
 

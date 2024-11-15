@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved From Still to Stunning How to Achieve the Ken Burns Effect
-date: 2024-08-02T03:50:46.575Z
-updated: 2024-08-03T03:50:46.575Z
+date: 2024-11-09T00:36:44.448Z
+updated: 2024-11-14T20:58:00.595Z
 tags: 
   - video editing software
   - video editing
@@ -60,9 +60,6 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 _ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
@@ -75,9 +72,6 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
@@ -106,9 +100,6 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
@@ -124,8 +115,12 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -136,8 +131,12 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
 **What is the Ken Burns Effect?**
@@ -148,10 +147,14 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
 
@@ -163,13 +166,24 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -178,5 +192,18 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-stepwise-strategies-to-perfect-youtube-trailers-by-filmora/"><u>[New] In 2024, Stepwise Strategies to Perfect YouTube Trailers by Filmora</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-how-to-record-skype-meeting-on-windows-and-mac-skype-for-business/"><u>[Updated] In 2024, How to Record Skype Meeting on Windows and Mac | Skype for Business</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immerse-yourself-the-top-15-dolby-atmos-films-that-elevate-home-cinema-to-new-heights/"><u>Immerse Yourself: The Top 15 Dolby Atmos Films That Elevate Home Cinema to New Heights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/ranking-the-best-video-editing-apps-with-music-for-android-and-ios-devices-for-2024/"><u>Ranking the Best Video Editing Apps with Music for Android and iOS Devices for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-performance-analysis-the-6tb-version-of-the-western-digital-my-passport/"><u>Top-Performance Analysis: The 6TB Version of the Western Digital My Passport</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-movie-making-blueprint-easy-and-fast/"><u>Updated 2024 Approved The Ultimate Movie Making Blueprint Easy and Fast</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unleash-your-creativity-top-3d-video-making-software/"><u>Updated In 2024, Unleash Your Creativity Top 3D Video Making Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-creating-a-ken-burns-effect-in-software-for-2024/"><u>Updated The Ultimate Guide to Creating a Ken Burns Effect in Software for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-10-best-avi-joiner-freeware-to-join-avi-video-files-for-2024/"><u>Updated Top 10 Best AVI Joiner Freeware to Join AVI Video Files for 2024</u></a></li>
+</ul></div>
 

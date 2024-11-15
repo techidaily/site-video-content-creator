@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved From Basic to Brilliant Transforming Your Videos with Cool Effects
-date: 2024-08-02T03:50:32.372Z
-updated: 2024-08-03T03:50:32.372Z
+date: 2024-11-07T16:27:48.106Z
+updated: 2024-11-14T23:38:19.129Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 # Cool Video Editor: How to Add Cool Effects to Video
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -31,9 +28,6 @@ How to make a cool video? Besides creativities, you may also need a video editin
 
 ## Part 1: Introducing 5 cool effects that you may be interested in
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **1\. Mask:** Filmora allows you add various image masks and shape mask to the image and video in the timeline, which will create a special effect. You can always add Mask effect to media when creating PIP videos.
@@ -48,9 +42,6 @@ How to make a cool video? Besides creativities, you may also need a video editin
 
 Besides these common cool video effects, [Filmora Effects Store](https://tools.techidaily.com/wondershare/filmora/download/) offers more possibilities. There are packs, sets and bundles covering gaming, media, beauty and fashion, action cam, education, lifestyle, VFX and special event. Check the blockbuster video effects video below to check how it works.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part 2: How to Add Cool Effects to Videos in Filmora \[Tutorial\]
@@ -62,6 +53,13 @@ With Filmora, you can also add some cool effects conveniently to improve your vi
 Install and launch Wondershare Filmora. Click New Project and then click the “Import” button to load your media files through its navigation import panel or directly drag and drop your files to the media library.
 
 ![cool video editor](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2 Add cool effects to your video
 
@@ -77,10 +75,14 @@ Detailed information about how to add a split-screen effect video, check our [gu
 
 For steps of compositing a green screen video, check this video tutorial below:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Besides that, you can add more cool effects provided by Video Editor. Just highlight the target media file, then go to Effects Tab. Yu can select and apply more cool effects like Tilt-Shift, Mosaic, and Face Off under Utitliy filters. These effects will help you turn your video clip into a work of art.
 
@@ -94,18 +96,32 @@ You can preview and watch your video by clicking the “Play” button before yo
 
 Filmora features more than 300 video effects, elements and motion effects and 100+ text and title styles to choose. Besides adding cool video effects to video clips, you can also reverse, speed up or slow down the video to make a cool effect. You can also choose music sound from the built in music library and do some audio editing with the Audio Mixer or Audio Equalizer tool.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As one of the best and easiest video editing software which comes with cool effects, Filmora can empower your imagination. Download this cool video editor with various effects and try it yourself!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -114,8 +130,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -123,5 +137,24 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unearthed-echo-collectors-best-unnoticed-android-and-ios-recorders-for-2024/"><u>[New] Unearthed Echo Collectors Best Unnoticed Android & iOS Recorders for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-dji-phantom-3-a-complete-technical-review/"><u>[Updated] Unveiling DJI Phantom 3 A Complete Technical Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hd-audio-revolution-for-win11-users/"><u>HD Audio Revolution for Win11 Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-motorola-edge-2023-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Motorola Edge 2023 Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-huawei-nova-y91-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Huawei Nova Y91 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-g42-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Nokia G42 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavi-wma-to-vob-and/"><u>Movavi WMA-to-VOB 바이트 크론기: 비용 없는 원자성 & 웹 내 변환 기술</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-slow-motion-video-editing-top-10-software-for-2024/"><u>New The Ultimate Guide to Slow Motion Video Editing Top 10 Software for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-rated-free-mod-video-editors-the-best-for-2024/"><u>New Top-Rated Free MOD Video Editors The Best for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-blue-screen-error-0xc0000185-with-ease/"><u>Troubleshooting Blue Screen Error 0xC0000185 with Ease</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-free-flv-video-editing-solutions-top-5-recommendations/"><u>Updated 2024 Approved Free FLV Video Editing Solutions Top 5 Recommendations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-mavericks-video-editing-software-easily-edit-mp4-files/"><u>Updated 2024 Approved Mavericks Video Editing Software Easily Edit MP4 Files</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-split-cut-and-edit-videos-for-free-our-top-recommendations/"><u>Updated 2024 Approved Split, Cut, and Edit Videos for Free Our Top Recommendations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-invitation-goals-top-video-maker-apps-for-iphone-and-android-users-for-2024/"><u>Updated Invitation Goals Top Video Maker Apps for iPhone and Android Users for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-10-best-cartoon-video-makers-for-pc-and-web/"><u>Updated The Ultimate List 10 Best Cartoon Video Makers for PC and Web</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-10-best-cartoon-video-maker-apps-on-android-and-iphone/"><u>Updated Top 10 Best Cartoon Video Maker Apps on Android and iPhone</u></a></li>
+</ul></div>
 

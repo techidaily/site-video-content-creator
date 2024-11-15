@@ -1,7 +1,7 @@
 ---
 title: New Trimming Made Easy A Step-by-Step Guide to Cropping Videos in Avidemux for 2024
-date: 2024-10-12T18:31:12.798Z
-updated: 2024-10-18T04:44:22.624Z
+date: 2024-11-11T22:44:38.034Z
+updated: 2024-11-15T00:31:03.089Z
 tags: 
   - video editing software
   - video editing
@@ -115,10 +115,10 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 1**: Open a video that you want to edit. Go to “Import” and choose the file that you want to upload and put it in the Media Library.
@@ -126,10 +126,10 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2**: Select the "Crop and Zoom" icon in the Filmora editing tool.
@@ -137,26 +137,32 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3**: To alter the size of the crop frame, drag the pointer from any corner of your video preview window.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4**: When you've changed it to your liking, click the green "OK" button. As a result, you may effortlessly add or remove any element of a video clip on Filmora.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -175,16 +181,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-cinematic-quality-the-leading-10-smartphones-with-outstanding-4k-cameras/"><u>[New] In 2024, Cinematic Quality The Leading 10 Smartphones with Outstanding 4K Cameras</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-search-for-prime-video-making-experts/"><u>[New] The Search for Prime Video Making Experts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/cutting-edge-tips-for-game-capture-in-obs/"><u>Cutting-Edge Tips for Game Capture in OBS</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elevating-ancs-marshall-aesthetics-and-rhythms-enhanced/"><u>Elevating ANC's Marshall - Aesthetics & Rhythms Enhanced</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twittervidstowebm-direct-media-conversion/"><u>In 2024, TwitterVidsToWebM Direct Media Conversion</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-from-one-to-many-how-to-split-a-single-video-into-multiple-clips-in-windows-live-movie-maker/"><u>New 2024 Approved From One to Many How to Split a Single Video Into Multiple Clips in Windows Live Movie Maker</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-no-copyright-worries-10-top-public-domain-image-sites/"><u>New 2024 Approved No Copyright Worries 10 Top Public Domain Image Sites</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-from-amateur-to-pro-the-top-10-video-editing-software-for-all-levels-for-2024/"><u>New From Amateur to Pro The Top 10 Video Editing Software for All Levels for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-break-free-from-q/"><u>New In 2024, Break Free From Q</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-how-to-trim-and-split-3gp-videos-in-minutes/"><u>New In 2024, How to Trim and Split 3GP Videos in Minutes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-fifa-2022-game-crashes-on-windows-systems/"><u>Resolved: Fixes for FIFA 2022 Game Crashes on Windows Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-depth-assessment-gopro-silver-hero4-sliver-for-2024/"><u>[New] In-Depth Assessment GoPro Silver Hero4 Sliver for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-zen-journey-tracks-copyright-free-legally-downloaded-playlist/"><u>[Updated] Zen Journey Tracks - Copyright-Free, Legally Downloaded Playlist</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/decoding-virtual-realm-must-know-phrases-for-2024/"><u>Decoding Virtual Realm Must-Know Phrases for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nokia-c02-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nokia C02?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-strategic-first-impressions-the-unpacking-edge/"><u>In 2024, Strategic First Impressions The Unpacking Edge</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-avs-video-editor-review-and-tutorial-for-2024/"><u>New The Ultimate Guide to AVS Video Editor Review and Tutorial for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-from-one-to-many-how-to-split-a-single-video-into-multiple-clips-in-windows-live-movie-maker-for-2024/"><u>Updated From One to Many How to Split a Single Video Into Multiple Clips in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-best-free-divx-video-cutting-software/"><u>Updated In 2024, The Best Free Divx Video Cutting Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creativity-top-free-mod-video-editors/"><u>Updated Unleash Your Creativity Top Free MOD Video Editors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/1720600307432-windows-stellar-data-recovery/"><u>Windows版フリーデータリカバリプログラム: Stellar Data Recovery(ステラデータリカバリ) - 失われた情報が見つかります</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Remedies for Fixing Palworld's Session-Based Search Glitches
-date: 2024-11-06T16:29:11.698Z
-updated: 2024-11-13T18:27:42.258Z
+date: 2024-11-09T23:57:28.402Z
+updated: 2024-11-15T00:55:25.302Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 4. **[Disable DVR app in Xbox](https://tools.techidaily.com/drivereasy/download/)**
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
 
@@ -65,13 +72,6 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 
  If WOW keeps crashing, don’t worry. There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Run Scan and Repair for your game
 
  If some problems occur to World of Warcraft, such as WOW crashes, you can try the Scan and Repair feature in Battle.net application, which automatically scans and repairs the problems in your game. To do so:
@@ -81,25 +81,25 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6c02c345.jpg)
 3. Click the**Options** button and select**Scan and Repair** .  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
 Once finish, restart your game and see if it works properly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable DVR app in Xbox
@@ -114,25 +114,19 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -147,10 +141,10 @@ Here’s what you can do:
 4. Restart your computer and launch World of Warcraft and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
@@ -175,18 +169,20 @@ Here’s what you can do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-5-ways-to-remove-stickers-from-a-tiktok-video/"><u>2024 Approved 5 Ways to Remove Stickers From a TikTok Video</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-conversational-magic-how-to-write-podcast-scripts/"><u>2024 Approved Crafting Conversational Magic How to Write Podcast Scripts</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-fb-events-as-a-key-tool-for-organizing-activities/"><u>Exploring FB Events as a Key Tool for Organizing Activities</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-install-the-best-video-codecs-for-windows-media-player-in-windows-11-8-and-7/"><u>How to Install the Best Video Codecs for Windows Media Player in Windows 11, 8 and 7</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-magic-vs-2-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor Magic Vs 2 and Browser | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/step-by-step-guide-to-toggle-hardware-acceleration-in-dvd-ripper-profree-dvd-ripperdvd-video-converter-software/"><u>Step-by-Step Guide to Toggle Hardware Acceleration in DVD Ripper Pro/Free DVD Ripper/DVD Video Converter Software</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/step-by-step-solutions-for-when-your-pcs-media-player-wont-open-videos-or-music/"><u>Step-by-Step Solutions for When Your PC's Media Player Won't Open Videos or Music</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/stream-your-favorite-anime-elsewhere-top-7-options-beyond-crunchyroll/"><u>Stream Your Favorite Anime Elsewhere: Top 7 Options Beyond Crunchyroll</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/successfully-streaming-webm-videos-on-your-iphone-three-effective-methods/"><u>Successfully Streaming WebM Videos on Your iPhone: Three Effective Methods!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-secrets-to-seamless-zoom-talks-mastering-online-communication-skills/"><u>The Secrets to Seamless Zoom Talks Mastering Online Communication Skills</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/title-understanding-the-distinctions-dvd-r-vs-dvdplusr-a-comprehensive-guide/"><u>Title: Understanding the Distinctions: DVD-R vs DVD+R - A Comprehensive Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/top-rated-samsung-galaxy-s3-video-converters-your-ultimate-selection-guide/"><u>Top-Rated Samsung Galaxy S3 Video Converters: Your Ultimate Selection Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unleash-your-brands-potential-on-igtv-with-these-top-10-tactics/"><u>Unleash Your Brand’s Potential on IGTV with These Top 10 Tactics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-quick-guide-android-video-recording-techniques/"><u>[New] In 2024, Quick Guide Android Video Recording Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-10-budget-friendly-platforms-for-youtube-branding-mastery-for-2024/"><u>[Updated] 10 Budget-Friendly Platforms for YouTube Branding Mastery for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-secure-survival-housing-in-minecraft/"><u>[Updated] In 2024, Secure Survival Housing in Minecraft</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-art-of-360-degree-video-9-must-have-tips-for-filmmakers-for-2024/"><u>[Updated] The Art of 360-Degree Video 9 Must-Have Tips for Filmmakers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-blackout-blitz-premiere-pro-60s/"><u>2024 Approved Blackout Blitz Premiere Pro 60S</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/conquering-instagrams-video-challenges-head-on/"><u>Conquering Instagram's Video Challenges Head-On</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-nubia-red-magic-8s-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Nubia Red Magic 8S Pro Phone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-get-creative-with-these-10-free-green-screen-apps-for-android-and-ios/"><u>New 2024 Approved Get Creative with These 10 Free Green Screen Apps for Android and iOS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-best-of-the-best-top-mts-video-editing-software-2023/"><u>New 2024 Approved The Best of the Best Top MTS Video Editing Software 2023</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-best-video-editing-software-for-kids-a-fun-and-interactive-list/"><u>New 2024 Approved The Best Video Editing Software for Kids A Fun and Interactive List</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-easiest-way-to-convert-4k-videos-to-mp4-for-offline-viewing/"><u>New 2024 Approved The Easiest Way to Convert 4K Videos to MP4 for Offline Viewing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-10-free-video-stabilization-tools-to-smooth-out-your-footage/"><u>New 2024 Approved Top 10 Free Video Stabilization Tools to Smooth Out Your Footage</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-from-noisy-to-nice-a-comprehensive-guide-to-audio-post-production-in-fcpx/"><u>New In 2024, From Noisy to Nice A Comprehensive Guide to Audio Post-Production in FCPX</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionary-magsafe-powered-charger-sleek-design-and-rapid-recharge-unveiled/"><u>Revolutionary MagSafe-Powered Charger: Sleek Design & Rapid Recharge Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/who-will-rule-the-road-identifying-leading-manufacturers-of-self-driving-cars/"><u>Who Will Rule the Road? Identifying Leading Manufacturers of Self-Driving Cars</u></a></li>
 </ul></div>
 
