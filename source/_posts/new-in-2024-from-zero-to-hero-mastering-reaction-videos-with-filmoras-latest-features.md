@@ -1,7 +1,7 @@
 ---
 title: New In 2024, From Zero to Hero Mastering Reaction Videos with Filmoras Latest Features
-date: 2024-08-02T03:54:55.977Z
-updated: 2024-08-03T03:54:55.977Z
+date: 2024-11-11T20:45:12.606Z
+updated: 2024-11-13T20:18:11.573Z
 tags: 
   - video editing software
   - video editing
@@ -47,9 +47,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step2.png)
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
@@ -62,16 +59,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 05:** Our goal is to remove the background of the reaction. To do that, we will use Human Segmentation. Drag and drop Human Segmentation into the reaction video. If you haven't purchased this effect already, it will ask you to buy it to export the video. But you want to try it first, click on "Try It."
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step5.png)
 
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step6.png)
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
@@ -80,16 +71,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step8.png)
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step9.png)
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
@@ -102,9 +87,6 @@ AI Portrait allows you to create wonderful effects using artificial intelligence
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -113,12 +95,34 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ynamic-duo-shots-perfecting-youtube-video-splitting/"><u>[New] Dynamic Duo Shots Perfecting YouTube Video Splitting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-top-10-websites-for-mystery-box-acquisitions/"><u>[New] Navigating the Top 10 Websites for Mystery Box Acquisitions</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-gameplay-recording-harnessing-intel-graphics-hub/"><u>Advanced Gameplay Recording: Harnessing Intel Graphics Hub</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-for-haldll-malfunction-in-windows-operating-systems-from-11-to-xp/"><u>Comprehensive Fixes for hal.dll Malfunction in Windows Operating Systems: From 11 to XP</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-ios-virtual-reality-gaming-must-play-iphone-apps/"><u>Essential iOS Virtual Reality Gaming Must-Play IPhone Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-free-guide-repairing-stuck-or-unresponsive-keys-on-your-hp-laptop/"><u>Trouble-Free Guide: Repairing Stuck or Unresponsive Keys on Your HP Laptop</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-free-and-easy-avi-video-editing-software-options/"><u>Updated 2024 Approved Free and Easy AVI Video Editing Software Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-create-epic-lip-syncs-top-rated-apps-for-android-and-ios-for-2024/"><u>Updated Create Epic Lip Syncs Top-Rated Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-from-adventure-to-art-editing-gopro-videos-on-mac-made-easy/"><u>Updated In 2024, From Adventure to Art Editing GoPro Videos on Mac Made Easy</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-get-ready-to-play-top-10-free-game-download-sites-for-pc-and-android/"><u>Updated In 2024, Get Ready to Play Top 10 Free Game Download Sites for PC and Android</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-make-your-own-dvds-a-step-by-step-guide-to-movie-creation/"><u>Updated In 2024, Make Your Own DVDs A Step-by-Step Guide to Movie Creation</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-make-reaction-videos-like-a-pro-simplified-with-filmoras-user-friendly-tools-for-2024/"><u>Updated Make Reaction Videos Like a Pro Simplified with Filmoras User-Friendly Tools for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-review-of-vn-video-editor-mobile-app-for-2024/"><u>Updated The Ultimate Review of VN Video Editor Mobile App for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

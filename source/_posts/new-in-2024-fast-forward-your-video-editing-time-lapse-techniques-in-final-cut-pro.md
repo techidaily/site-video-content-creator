@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Fast Forward Your Video Editing Time Lapse Techniques in Final Cut Pro
-date: 2024-08-02T03:53:49.692Z
-updated: 2024-08-03T03:53:49.692Z
+date: 2024-11-10T16:28:42.540Z
+updated: 2024-11-13T19:03:32.649Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 
 # How to Make a Time Lapse Video in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -37,16 +34,10 @@ In this article, we are going to show you how you can easily increase the speed 
 
 This is a basic tutorial about Apple Final Cut Pro X, a professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) (Originally Wondershare Video Editor for Mac). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below to try it right now. And here's a video tutorial on how to make a time-lapse video with Filmora for your reference:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Make a Time-Lapse Video in Final Cut Pro
 
 #### Step 1 Import Clips
@@ -57,9 +48,6 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
@@ -70,18 +58,12 @@ You can also drag the retiming handle to adjust the speed: dragging to the left 
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you have any questions about making time-lapse videos, feel free to drop a line below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -90,12 +72,35 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mac-centric-review-the-complete-guide-to-screenflow-v4/"><u>[New] Mac-Centric Review The Complete Guide to ScreenFlow V4</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-inquiry-exploring-shared-videos-and-images-in-direct-conversations/"><u>[Updated] In 2024, Inquiry Exploring Shared Videos & Images in Direct Conversations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-ps1-emulation-software-on-modern-computers/"><u>[Updated] Top 5 PS1 Emulation Software on Modern Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-12-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme 12 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-utilizing-apples-distance-based-diagnostic-for-iphone-repair-assessments/"><u>Guide: Utilizing Apple's Distance-Based Diagnostic for iPhone Repair Assessments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-t2x-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo T2x 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-renewed-view-of-sony-s3700-2023-edition/"><u>In 2024, The Renewed View of Sony S3700 2023 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/outperforming-understanding-why-pcs-triumph-over-macs-9/"><u>Outperforming: Understanding Why PCs Triumph over Macs (#9)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-free-vob-video-editor-roundup-top-5-choices/"><u>Updated 2024 Approved Free VOB Video Editor Roundup Top 5 Choices</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-easiest-video-making-apps-for-mac-unleash-your-creativity-for-2024/"><u>Updated Easiest Video Making Apps for Mac Unleash Your Creativity for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-shrink-your-videos-10-best-free-online-compression-tools/"><u>Updated In 2024, Shrink Your Videos 10 Best Free Online Compression Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-professional-results-without-the-professionals-diy-movie-making-for-beginners-for-2024/"><u>Updated Professional Results Without the Professionals DIY Movie Making for Beginners for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-easiest-way-to-share-ps4-screenshots-on-social-media-2023-update/"><u>Updated The Easiest Way to Share PS4 Screenshots on Social Media (2023 Update)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-video-rotation-made-simple-a-fast-and-easy-guide/"><u>Updated Video Rotation Made Simple A Fast and Easy Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

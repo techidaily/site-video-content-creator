@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Secret to Engaging Lower Thirds FCPX Best Practices Revealed
-date: 2024-11-03T17:10:00.861Z
-updated: 2024-11-04T16:57:15.891Z
+date: 2024-11-12T21:33:05.714Z
+updated: 2024-11-13T21:28:18.997Z
 tags: 
   - video editing software
   - video editing
@@ -47,13 +47,6 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -65,6 +58,13 @@ The color combinations of your lower third element play a vital factor. Choose t
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -109,10 +109,10 @@ Features of Final Cut Pro X to design lower third module element
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
@@ -129,6 +129,13 @@ In the home screen, import the video that requires the edits and then tap the �
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3Step 3: Customize the Title**
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
@@ -140,13 +147,6 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -166,13 +166,6 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
@@ -180,6 +173,13 @@ Thus, this article had given you enlightening discussion about the lower third e
 Display the texts promptly to enlighten the audience. Connect the texts to the target audience without distracting them. Work on this challenging element using a professional app like the Final Cut Pro X program. Stay tuned with this article to discover the new horizons of video editing.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -196,18 +196,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-end-to-start-annoying-yourself-with-yt-playlist-upside-down/"><u>[Updated] 2024 Approved From End to Start Annoying Yourself with YT Playlist Upside-Down</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unveiling-the-secrets-to-dynamic-video-cover-design-in-facebook-space-for-2024/"><u>[Updated] Unveiling the Secrets to Dynamic Video Cover Design in Facebook Space for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-narzo-n55-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/clear-cache-to-run-facebook-games-smoothly-in-chrome/"><u>Clear Cache to Run Facebook Games Smoothly in Chrome</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-facebook-the-story-behind-its-creation-appeal-and-important-functions/"><u>Demystifying Facebook: The Story Behind Its Creation, Appeal, and Important Functions</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-meizu-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Meizu Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-city-fast-with-gotraxs-gxl-v2-electric-scooter-our-comprehensive-guide/"><u>Navigating the City Fast with Gotrax's GXL V2 Electric Scooter – Our Comprehensive Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-get-animated-top-free-software-for-windows-mac-and-beyond/"><u>New 2024 Approved Get Animated Top Free Software for Windows, Mac, and Beyond</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-looking-beyond-premiere-elements-top-10-video-editing-software/"><u>New 2024 Approved Looking Beyond Premiere Elements Top 10 Video Editing Software</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-ultimate-list-of-avi-video-trimmers-edit-and-cut-videos-with-ease-multi-platform/"><u>New 2024 Approved The Ultimate List of AVI Video Trimmers Edit and Cut Videos with Ease Multi-Platform</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-drawing-to-animating-the-best-software-tools-for-bringing-your-art-to-life-for-2024/"><u>New Drawing to Animating The Best Software Tools for Bringing Your Art to Life for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-android-video-editors-for-chromebook-top-recommendations/"><u>New In 2024, Android Video Editors for Chromebook Top Recommendations</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-web-based-online-vertical-video-editors/"><u>New In 2024, Best Web-Based Online Vertical Video Editors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-concealed-viewing-of-instagrams-private-content-on-devices-for-2024/"><u>[New] Concealed Viewing of Instagram's Private Content on Devices for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/deinterlacing-techniques-in-vlc-a-step-by-step-guide/"><u>Deinterlacing Techniques in VLC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/discover-the-leading-10-free-flv-conversion-apps-your-complete-guide-to-effortless-file-transformation/"><u>Discover the Leading 10 Free FLV Conversion Apps: Your Complete Guide to Effortless File Transformation</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/discovering-online-content-on-kodi-a-tutorial-of-two-effective-approaches/"><u>Discovering Online Content on Kodi: A Tutorial of Two Effective Approaches</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/download-and-watch-movies-offline-a-step-by-er-guide-for-your-ipad/"><u>Download and Watch Movies Offline: A Step-by-Er Guide for Your iPad</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-epson-workforce-ds-30-printer-driver-on-windows-11-8-and-7/"><u>Download the Latest Epson WorkForce DS 30 Printer Driver on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/dvd-burning-secrets-unveiled-expert-tips-for-flawless-rip-and-copy-techniques/"><u>DVD Burning Secrets Unveiled: Expert Tips for Flawless Rip and Copy Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/gaming-earphones-top-quality-audio-with-minimalist-design/"><u>Gaming Earphones – Top Quality Audio with Minimalist Design</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-fraudgpt-work-and-what-are-the-risks-securing-against-cyber-threats/"><u>How Does FraudGPT Work and What Are the Risks? Securing Against Cyber Threats</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/parrot-powered-prowess-a-fresh-lens-on-bebop-2/"><u>Parrot-Powered Prowess – A Fresh Lens on Bebop 2</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premier-8-safe-video-communication-programs-for-smbs/"><u>Premier 8 Safe Video Communication Programs for SMBs</u></a></li>
 </ul></div>
 

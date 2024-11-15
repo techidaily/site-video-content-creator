@@ -1,7 +1,7 @@
 ---
 title: PowerPointプレゼンテーション時にマイクを使えない場合の7つの解決策
-date: 2024-11-02T18:32:17.623Z
-updated: 2024-11-04T16:55:02.548Z
+date: 2024-11-11T20:45:55.296Z
+updated: 2024-11-13T17:40:33.203Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a255d5c3126b3ad30bf05b53.jpg
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 * [Part 2\. How to Record BIGO Live Without Black Screen on Android](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 * [Part 3\. How to Record BIGO Live Without Black Screen on iOS Devices](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 * [FAQs about BIGO Live Screen Recording](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Record BIGO Live Without Black Screen on PC
 
@@ -48,10 +41,10 @@ _\* Before starting recording, please locate the live streaming content you want
 ![Open Screen Recorder](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-1.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2.** Now choose a recording mode from **Custom**, **Full-screen**, **Game recording**, or **Audio-only recording**. Then drag the four border lines to adjust the recording region if you choose the "**Custom**" mode. Click “**OK**” to confirm the recording area.
@@ -59,26 +52,26 @@ _\* Before starting recording, please locate the live streaming content you want
 ![Confirm Recording Area](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-2.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3.** Select a video recording format from the format drop-down list. Then, modify the recording quality and choose a recording frame rate. (You can turn on the GPU Acceleration to boost the recording performance if your computer supports [hardware acceleration](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/).) Remember to uncheck the "**Microphone**" box if you don't want to record the background noise. Then set an output path at the bottom of the interface.
 
 ![Customize the Recording Settings](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-3.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4.** All set. Tap on the red “**REC**” button, and it will start recording on BIGO live video after a five-second countdown. Once done, press “**Ctrl + F1**” on your keyboard to end the recording. Then, you can watch the recorded shows on your PC or transfer the recording to other devices for viewing.
 
 ![Start Recording on BIGO](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-4.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you want to trim or [merge the recorded video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), just close the **Screen Recorder** and enter the “**Converter**” module. Add the source files and start editing.
 
@@ -94,26 +87,12 @@ If you want to trim or [merge the recorded video](https://tools.techidaily.com/v
 
 [Free Download Compatible with Windows 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [Free Download Compatible with Windows 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Record BIGO Live Without Black Screen on Android
 
   
 When it comes to recording BIGO Live on Android devices, AZ Screen Recorder is a handy tool. It is a lightweight screen recorder that won't take up much storage space on your device. With it, you can easily capture BIGO Live as well as other content on your Android devices in a few easy clicks. It also offers a video editor that allows you to edit the recorded file after finishing recording.
 
 Simple, no watermark, and no time limit! It can be the best screen recorder for Andriod.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Capture BIGO Live Stream on Android?
 
@@ -128,10 +107,10 @@ Then, you can find the recorded video in the AZ screen recording's "**Video**" t
 ![Record Bigo on Android](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-6.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Record BIGO Live Without Black Screen on iOS Devices
@@ -152,6 +131,13 @@ Then, you can find the recorded video in the Photos app.
 ![Capture Bigo Live on iPhone](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-7.webp) 
 
 Tips: If you cannot find the “**Screen Recording**” feature in the “**Control Center**”, enter the “**Settings**” window, go to “**Control Center**” > “**Customize Controls**”, and scroll down to tap “**Screen Recording**” > “**+**” to add the recording feature to the Control Center.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Wrap-up
 
@@ -177,6 +163,13 @@ Best Way to Rip and Convert DVD Movies on Windows
 
 ![WonderFox DVD Ripper Pro](https://www.videoconverterfactory.com/tips/img-autofit/single-ripperpro.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **WonderFox DVD Ripper Pro**
 
 WonderFox DVD Ripper Pro is a professional DVD ripping program that can easily rip any DVD, be it homemade or commercial, to all popular formats including MP4, MKV, MP3, WAV, H264, H265, Android, iPhone, etc. without losing quality. It also lets you edit and compress DVD videos at high efficiency. Download it to enjoy fast and trouble-free DVD ripping experience.
@@ -188,6 +181,13 @@ _\* Please DO NOT use it to rip any copy-protected DVDs for commercial purposes.
 [Free Download](https://tools.techidaily.com/videoconverterfactory/dvd-ripper/) 
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -204,24 +204,20 @@ _\* Please DO NOT use it to rip any copy-protected DVDs for commercial purposes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-transformative-video-editing-master-the-art-of-ken-burns-in-camtasa-9/"><u>[New] 2024 Approved Transformative Video Editing Master the Art of Ken Burns in Camtasa 9</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-top-5-best-screens-for-playstation-5-gamers/"><u>[New] TOP 5 Best Screens for PlayStation 5 Gamers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-best-browser-capture-tools-top-5-screen-recorder-selections/"><u>2024 Approved Best Browser Capture Tools Top 5 Screen Recorder Selections</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/androidplusios-ai-curated-instavideo-mosaic/"><u>Android+iOS AI-Curated InstaVideo Mosaic</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-troubleshooting-tips-for-updating-your-casting-box-chromecast-edition/"><u>Easy Troubleshooting Tips for Updating Your Casting Box - Chromecast Edition</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-to-burn-an-iso-file-onto-a-dvd-using-windows-11-8-or-7-a-step-by-step-guide/"><u>How to Burn an ISO File Onto a DVD Using Windows 11, 8 or 7 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-14-plus-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 14 Plus in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-5-free-avi-video-editing-programs-for-beginners/"><u>New Top 5 Free AVI Video Editing Programs for Beginners</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-sources-for-free-public-domain-video-downloads/"><u>New Top Sources for Free Public Domain Video Downloads</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-trailer-magic-top-video-editing-software-for-mac-and-pc/"><u>New Trailer Magic Top Video Editing Software for Mac and PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/optimizing-your-pc-a-users-manual-to-clean-up-bloatware-on-windows-11/"><u>Optimizing Your PC: A User's Manual to Clean Up Bloatware on Windows 11</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/s-top-online-video-editing-platforms-for-chromebooks-for-2024/"><u>S Top Online Video Editing Platforms for Chromebooks for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-zte-nubia-flip-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your ZTE Nubia Flip 5G Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-motorola-edge-2023-by-drfone-android/"><u>Top 10 Password Cracking Tools For Motorola Edge 2023</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/unlock-your-gopros-potential-best-alternative-video-editing-software-for-2024/"><u>Unlock Your GoPros Potential Best Alternative Video Editing Software for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-cutting-edge-mkv-editing-tools-for-mac/"><u>Updated In 2024, Cutting-Edge MKV Editing Tools for Mac</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-s-top-rated-free-avi-video-rotation-software-revealed/"><u>Updated In 2024, S Top-Rated Free AVI Video Rotation Software Revealed</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-secure-your-footage-how-to-blur-faces-in-videos/"><u>Updated In 2024, Secure Your Footage How to Blur Faces in Videos</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-looking-beyond-pinnacle-studio-best-mac-video-editors-for-2024/"><u>Updated Looking Beyond Pinnacle Studio Best Mac Video Editors for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-from-average-to-spectacular-mastering-dynamic-range-portraits-for-2024/"><u>[Updated] From Average to Spectacular Mastering Dynamic Range Portraits for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-educational-gaming-content-on-youtube/"><u>[Updated] In 2024, Educational Gaming Content on YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-g2-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo G2 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/clean-up-your-computer-top-12-windows-extras-for-removal/"><u>Clean Up Your Computer: Top 12 Windows Extras for Removal</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-samsung-galaxy-a25-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy A25 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-video-polisher-refine-your-clips-into-stunning-works-of-art/"><u>New In 2024, The Video Polisher Refine Your Clips Into Stunning Works of Art</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-video-editing-mastery-online-tutorials-for-beginners-and-pros-for-2024/"><u>New Video Editing Mastery Online Tutorials for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-network-hurdles-correcting-ethernet-problems-under-windows-10-and-7/"><u>Overcoming Network Hurdles: Correcting Ethernet Problems Under Windows 10 & 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-honor-v-purse-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Honor V Purse Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/tone-it-up-5-easy-to-use-online-generators-no-charge-for-2024/"><u>Tone It Up 5 Easy-to-Use Online Generators No Charge for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-5-free-mov-file-mergers-for-seamless-video-editing-for-2024/"><u>Top 5 Free MOV File Mergers for Seamless Video Editing for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-highlight-reel-makers-best-desktop-and-mobile-apps/"><u>Updated 2024 Approved Highlight Reel Makers Best Desktop and Mobile Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unbiased-review-of-vn-video-editor-apk-worth-your-time/"><u>Updated 2024 Approved Unbiased Review of VN Video Editor APK Worth Your Time?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mkvtoolnix-for-mac-the-easiest-way-to-edit-videos-for-2024/"><u>Updated MKVtoolnix for Mac The Easiest Way to Edit Videos for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-no-cost-movie-magic-top-free-online-video-editors/"><u>Updated No-Cost Movie Magic Top Free Online Video Editors</u></a></li>
 </ul></div>
 

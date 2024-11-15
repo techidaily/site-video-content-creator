@@ -1,7 +1,7 @@
 ---
 title: 「初心者マニュアル：手っ取り早くハンドブレイケで効果的な使い方とセッティングの仕方」
-date: 2024-10-30T17:59:48.339Z
-updated: 2024-11-04T18:11:07.203Z
+date: 2024-11-11T18:43:35.294Z
+updated: 2024-11-13T18:56:37.530Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b573d2796a1411e612ad84808.jpg
@@ -33,16 +33,10 @@ To capture BIGO Live streams on a PC, there is one application you cannot miss �
 _**Must Read**: The following guide on screen recording BIGO Live is for personal fair use only. WonderFox does not approve of copyright infringement in any way. Do not record any live streams for commercial purposes._
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Start the Recording with HD Video Converter Factory Pro
@@ -53,52 +47,39 @@ _\* Before starting recording, please locate the live streaming content you want
 
 ![Open Screen Recorder](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-1.webp) 
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** Now choose a recording mode from **Custom**, **Full-screen**, **Game recording**, or **Audio-only recording**. Then drag the four border lines to adjust the recording region if you choose the "**Custom**" mode. Click “**OK**” to confirm the recording area.
 
 ![Confirm Recording Area](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-2.webp) 
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3.** Select a video recording format from the format drop-down list. Then, modify the recording quality and choose a recording frame rate. (You can turn on the GPU Acceleration to boost the recording performance if your computer supports [hardware acceleration](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/).) Remember to uncheck the "**Microphone**" box if you don't want to record the background noise. Then set an output path at the bottom of the interface.
 
 ![Customize the Recording Settings](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-3.webp) 
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4.** All set. Tap on the red “**REC**” button, and it will start recording on BIGO live video after a five-second countdown. Once done, press “**Ctrl + F1**” on your keyboard to end the recording. Then, you can watch the recorded shows on your PC or transfer the recording to other devices for viewing.
 
 ![Start Recording on BIGO](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-4.webp) 
 
-If you want to trim or [merge the recorded video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), just close the **Screen Recorder** and enter the “**Converter**” module. Add the source files and start editing.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If you want to trim or [merge the recorded video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), just close the **Screen Recorder** and enter the “**Converter**” module. Add the source files and start editing.
 
 ### More Than Just Capture BIGO LIVE
 
@@ -112,19 +93,19 @@ If you want to trim or [merge the recorded video](https://tools.techidaily.com/v
 
 [Free Download Compatible with Windows 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [Free Download Compatible with Windows 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Record BIGO Live Without Black Screen on Android
 
   
 When it comes to recording BIGO Live on Android devices, AZ Screen Recorder is a handy tool. It is a lightweight screen recorder that won't take up much storage space on your device. With it, you can easily capture BIGO Live as well as other content on your Android devices in a few easy clicks. It also offers a video editor that allows you to edit the recorded file after finishing recording.
 
 Simple, no watermark, and no time limit! It can be the best screen recorder for Andriod.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Capture BIGO Live Stream on Android?
 
@@ -139,10 +120,16 @@ Then, you can find the recorded video in the AZ screen recording's "**Video**" t
 ![Record Bigo on Android](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-6.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Record BIGO Live Without Black Screen on iOS Devices
@@ -176,6 +163,13 @@ Thanks for your reading. Have a nice day!
 
 Most of the time, this is because your device does not have enough capacity or you did not grant permission to the tool you used to record. Check the storage space on your device (phone or computer) to solve this problem. Check to see if you have allowed the screen recorder to record a video. If everything appears to be in order, but you still cannot begin recording, try restarting your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Is it illegal to screen record protected videos?
 
 It all depends. Screen capturing protected videos for personal use typically falls into a legal gray area. But if you distribute or use such recordings for commercial purposes, then it is prohibited and breaches copyright rules.
@@ -188,6 +182,13 @@ Best Way to Rip and Convert DVD Movies on Windows
 
 ![WonderFox DVD Ripper Pro](https://www.videoconverterfactory.com/tips/img-autofit/single-ripperpro.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **WonderFox DVD Ripper Pro**
 
 WonderFox DVD Ripper Pro is a professional DVD ripping program that can easily rip any DVD, be it homemade or commercial, to all popular formats including MP4, MKV, MP3, WAV, H264, H265, Android, iPhone, etc. without losing quality. It also lets you edit and compress DVD videos at high efficiency. Download it to enjoy fast and trouble-free DVD ripping experience.
@@ -199,13 +200,6 @@ _\* Please DO NOT use it to rip any copy-protected DVDs for commercial purposes.
 [Free Download](https://tools.techidaily.com/videoconverterfactory/dvd-ripper/) 
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -222,17 +216,20 @@ _\* Please DO NOT use it to rip any copy-protected DVDs for commercial purposes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/oremost-guide-to-youtube-equipment-for-rookies-for-2024/"><u>[New] Foremost Guide to YouTube Equipment for Rookies for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-zoom-meetings-effectively-utilizing-whiteboard-on-various-devices/"><u>[New] In 2024, Zoom Meetings Effectively Utilizing Whiteboard on Various Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pro-android-image-correction-apps/"><u>[New] Pro Android Image Correction Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-brilliance-at-a-click-choosing-5-pioneering-apps-for-video/"><u>[Updated] Brilliance at a Click Choosing 5 Pioneering Apps for Video</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-efficiently-explore-every-entry-facebook-profile-hunt-101/"><u>[Updated] Efficiently Explore Every Entry Facebook Profile Hunt 101</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-pro-video-production-mastering-the-coordination-between-windows-photos-and-storyremix/"><u>[Updated] In 2024, Pro Video Production Mastering the Coordination Between Windows, Photos, and StoryRemix</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guia-facil-y-rapida-para-copiar-una-imagen-de-windows-10-a-multiples-computadoras-con-solo-tres-pases/"><u>Guía Fácil Y Rápida Para Copiar Una Imagen De Windows 10 a Múltiples Computadoras Con Solo Tres Pases</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-privacy-protection-101-how-to-blur-faces-in-photos-and-videos-with-these-10-free-tools/"><u>New 2024 Approved Privacy Protection 101 How to Blur Faces in Photos and Videos with These 10 Free Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-ezvid-for-mac-create-slideshows-and-home-videos-easily-in-mac-os-for-2024/"><u>New Ezvid for Mac Create Slideshows and Home Videos Easily in Mac OS for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-frame-your-moments-the-best-vignette-editing-apps-for-mobile-free-and-paid-for-2024/"><u>New Frame Your Moments The Best Vignette Editing Apps for Mobile Free & Paid for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-free-vob-video-editor-roundup-top-5-choices/"><u>New In 2024, Free VOB Video Editor Roundup Top 5 Choices</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-here-are-some-of-the-best-glitch-video-editors-on-the-market/"><u>New In 2024, Here Are some of the Best Glitch Video Editors on the Market</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-definitive-list-of-tools-for-computer-and-microphone-capture-for-2024/"><u>[New] The Definitive List of Tools for Computer & Microphone Capture for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-complete-rundown-top-10-digital-drawing-software-on-chrome/"><u>[Updated] A Complete Rundown Top 10 Digital Drawing Software on Chrome</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-compatible-drone-models-with-gopro-cameras/"><u>2024 Approved Best Compatible Drone Models with GoPro Cameras</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cambia-tus-canciones-mp3-en-tonos-de-llamada-gratuitos-mediante-el-conversor-de-formatos-mp3-para-marcadores-telefonicos-online/"><u>Cambia Tus Canciones MP3 en Tonos De Llamada Gratuitos Mediante El Conversor De Formatos Mp3 Para Marcadores Telefónicos Online</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/effective-strategies-for-creating-an-itunes-backup-before-your-next-ios-upgrade/"><u>Effective Strategies for Creating an iTunes Backup Before Your Next iOS Upgrade</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-web-journey-the-ultimate-list-of-e-7-power-packed-chatgpt-plugins-enhancing-browser-intelligence-on-chrome/"><u>Elevate Your Web Journey: The Ultimate List of E 7 Power-Packed ChatGPT Plugins Enhancing Browser Intelligence on Chrome</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-maximizing-video-visibility-top-strategies-on-fb/"><u>In 2024, Maximizing Video Visibility Top Strategies on FB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-photos-adding-motion-blur-to-peoples-portraits-with-picsart/"><u>In 2024, Transforming Photos Adding Motion Blur to People's Portraits with Picsart</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-best-of-the-best-top-timecode-calculators-for-iphone-android-and-web/"><u>New The Best of the Best Top Timecode Calculators for iPhone, Android, and Web</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-of-10-image-to-video-makers-online-for-2024/"><u>New The Ultimate List of 10 Image to Video Makers Online for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-glitch-your-way-to-creativity-top-free-online-effect-generators-for-2024/"><u>Updated Glitch Your Way to Creativity Top Free Online Effect Generators for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-4k-video-editing-made-easy-top-proxy-editing-tools/"><u>Updated In 2024, 4K Video Editing Made Easy Top Proxy Editing Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-free-split-screen-video-editor-online-and-offline/"><u>Updated In 2024, Best Free Split Screen Video Editor Online & Offline</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-elevate-your-vlog-game-the-top-10-mobile-video-editing-apps/"><u>Updated In 2024, Elevate Your Vlog Game The Top 10 Mobile Video Editing Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-resize-and-reframe-how-to-crop-videos-in-avidemux-for-better-storytelling-for-2024/"><u>Updated Resize and Reframe How to Crop Videos in Avidemux for Better Storytelling for 2024</u></a></li>
 </ul></div>
 

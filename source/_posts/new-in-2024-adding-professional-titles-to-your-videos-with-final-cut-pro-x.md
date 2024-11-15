@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Adding Professional Titles to Your Videos with Final Cut Pro X
-date: 2024-08-02T03:53:38.675Z
-updated: 2024-08-03T03:53:38.675Z
+date: 2024-11-12T20:19:16.599Z
+updated: 2024-11-13T21:07:43.992Z
 tags: 
   - video editing software
   - video editing
@@ -18,14 +18,6 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
 # How to Add Titles in Final Cut Pro X
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -56,9 +48,6 @@ Just to keep us all on the same page, here are my definitions of key terms relat
 
 #### JUST THE BASICS
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles001.jpg)
 
 I'd like to introduce "Yertle," he's a sea turtle and the star of this article. (Footage courtesy of Jim Walker and Lobsters Gone Wild Productions.)
@@ -79,9 +68,6 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
@@ -142,9 +128,6 @@ If you want a fast way to format text, click the word "Normal" at the top. This 
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -155,9 +138,6 @@ While many of these settings you already know there are a few you may not:
 * Tracking. Adjusts the horizontal spacing between letters.
 * Baseline. Adjusts the vertical spacing of text compared to the horizontal line running thru the center of the white circle in the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles013.jpg)
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
@@ -166,9 +146,6 @@ The Face section allows us to change font color, opacity and blue. Outline and G
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles014.jpg)
 
 After making a few changes in the Inspector, here's the final result. Very cool - and very different from where we started!
@@ -181,16 +158,10 @@ While much of today's video is designed for the web, your titles will look the b
 
 Titles015
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles015.jpg)
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles016.jpg)
 
 This displays two pale rectangles in the frame. The outer rectangle is called "Action Safe," the inner one is called "Title Safe." Action Safe is 5% in from all edges; Title Safe is 10% in from all edges.
@@ -203,9 +174,6 @@ Here, for example, notice that my title is fully contained within Action Safe.
 
 Titles give our programs character and personality, plus they explain what's going on to the audience. Final Cut Pro X provides a wealth of formatting options to make our text look great.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -214,12 +182,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-tailoring-twitter-video-thumbnails-a-step-by-step-guide-for-2024/"><u>[New] Tailoring Twitter Video Thumbnails A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-explore-interaction-tips-for-uploading-videos-from-twitter-snapchat/"><u>[Updated] In 2024, Explore Interaction Tips for Uploading Videos From Twitter (Snapchat)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/44cm5yid5bplusd6icf44oe44ol44ol44ki44or77ya5oml44gj5yplusw44kk5pep44gp44op44oz44oj44ow44os44kk44kx44gn5yq55p6c55qe44gq5l244ge5pa544go44k744od44og44kj44oz44k62/"><u>「初心者マニュアル：手っ取り早くハンドブレイケで効果的な使い方とセッティングの仕方」</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/44cm5a625bqt55so44k544og44os44kq44k344k544og44og44gl44kj44gu44kv44oq44ki44gq44oe44kk44kv6yyy6zplusz44og44kv44ol44od44kv44ks5o6i5rgc44gz44kl44cn/"><u>「家庭用ステレオシステムからのクリアなマイク録音テクニックを探求する」</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-v27-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo V27 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-laughlens-lab-snapsatiricals/"><u>2024 Approved LaughLens Lab SnapSatiricals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-lenovo-thinkphone-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Lenovo ThinkPhone without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/6auy6ycf44gn5yq55p6c55qe44gq5yuv55s744kz44oz44ox44oq44kx44o844k344on44oz44oe44o844oric0g44gp44gg44ke44gj44gm44ot44oh44kq44gu5asn44gn44gv44ks5bcp44gv44gp44gx46/"><u>高速で効果的な動画コンプリケーションツール - どうやってビデオの大きさを小さくしますか?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1726030268310-rumble/"><u>効率的なRumble動画ダウンロードテクニックとセーフな保管方法</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/a-comprehensive-guide-to-enablingdisabling-uptobox-stream-authorization-on-the-kodi-platform/"><u>A Comprehensive Guide to Enabling/Disabling Uptobox Stream Authorization on the Kodi Platform</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/a-step-by-written-guide-to-luts-for-professional-photographers/"><u>A Step-By Written Guide to LUTs for Professional Photographers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/best-5-trusted-microsoft-window-compatible-video-surveillance-programs/"><u>Best 5 Trusted Microsoft Window-Compatible Video Surveillance Programs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-lenovo-thinkphone-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Lenovo ThinkPhone is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-ios-choices-for-superior-video-experience/"><u>In 2024, Premier iOS Choices for Superior Video Experience</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-viewer-engagement-and-loyalty-6-proven-strategies-for-youtube-success/"><u>In 2024, The Ultimate Guide to Viewer Engagement and Loyalty 6 Proven Strategies for YouTube Success</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1726030576069-youtube/"><u>YouTube音楽のダウンロード方法</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/44ou44ki44o744op44kk44ow6ywn5lplush55s75yop44gu6kiy6yyy44go5b6m44gn6kal44kj44km44kl44ki44gg44gr44gz44kl5pa55rov/"><u>ピア・ライブ配信画像の記録と後で見られるようにする方法</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/30fps60fps/"><u>フレームレートを下げるための動画変換: 30Fpsへの60fps方法</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
