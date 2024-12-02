@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Secret to Engaging Lower Thirds FCPX Best Practices Revealed
-date: 2024-11-11T21:02:18.621Z
-updated: 2024-11-15T01:17:30.318Z
+date: 2024-11-28T21:16:49.567Z
+updated: 2024-12-01T16:49:59.135Z
 tags: 
   - video editing software
   - video editing
@@ -47,6 +47,10 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -86,17 +90,11 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -142,10 +140,11 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
@@ -165,13 +164,6 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 **Minimalistic collection**
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +188,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-extracting-soundtracks-from-facebook-videos/"><u>[New] Extracting Soundtracks From Facebook Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/windows-11-dvdand/"><u>「Windows 11で動画再生可能! DVD用ソフトウェア紹介&解説チュートリアル」</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-lava-blaze-curve-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Lava Blaze Curve 5G?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-s24plus-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy S24+ Through Google Earth?</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-reboot-and-revive-how-to-reset-final-cut-pro-x-for-smooth-video-editing/"><u>New 2024 Approved Reboot and Revive How to Reset Final Cut Pro X for Smooth Video Editing</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-rotate-avi-videos-for-free-top-16-software-for-multiple-platforms/"><u>New 2024 Approved Rotate AVI Videos for Free Top 16 Software for Multiple Platforms</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-rated-mp4-to-mp3-converters-for-fast-and-easy-conversion/"><u>New 2024 Approved Top-Rated MP4 to MP3 Converters for Fast and Easy Conversion</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-transform-your-photos-the-ultimate-guide-to-animation-tools/"><u>New 2024 Approved Transform Your Photos The Ultimate Guide to Animation Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unlock-pro-level-videos-top-free-online-video-editing-tools/"><u>New 2024 Approved Unlock Pro-Level Videos Top Free Online Video Editing Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-filmora-coupon-code-2022-7-ways-to-find2022-full-list-for-2024/"><u>New Filmora Coupon Code 2022 - 7 Ways to Find(2022 Full List) for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/recording-made-easy-tips-for-youtube-vids/"><u>Recording Made Easy Tips for YouTube Vids</u></a></li>
-<li><a href="https://facebook.techidaily.com/stepwise-change-of-personal-facebook-imagery/"><u>Stepwise Change of Personal Facebook Imagery</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1297509-9781609259143-the-mystery-of-the-seven-vowels/"><u>The Mystery of the Seven Vowels | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-momentary-motion-picture-manuscript/"><u>2024 Approved Momentary Motion Picture Manuscript</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/4-effective-methods-for-retrieving-accidentally-deleted-video-files-in-windows-operating-systems/"><u>4 Effective Methods for Retrieving Accidentally Deleted Video Files in Windows Operating Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazons-smart-speakers-showdown-echo-pop-vs-echo-dot-explored/"><u>Amazon's Smart Speakers Showdown: Echo Pop Vs. Echo Dot Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chronological-superman-movie-marathon-your-step-by-step-guide/"><u>Chronological Superman Movie Marathon: Your Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-create-news-style-outro-for-2024/"><u>How To Create News Style Outro for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leading-ways-streaming-and-recording-real-time-sport-events/"><u>Leading Ways Streaming and Recording Real-Time Sport Events</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-size-control-achieved-in-new-version-of-windows-11/"><u>Screen Size Control Achieved in New Version of Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncovering-concealed-images-on-your-iphone/"><u>Uncovering Concealed Images on Your iPhone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/unleash-the-power-of-high-definition-best-video-quality-boosters-for-2024/"><u>Unleash the Power of High-Definition Best Video Quality Boosters for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-download-the-best-video-dubbing-apps-for-pc-free-and-paid/"><u>Updated 2024 Approved Download the Best Video Dubbing Apps for PC (Free and Paid)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-slow-down-time-10-exceptional-video-editing-software/"><u>Updated 2024 Approved Slow Down Time 10 Exceptional Video Editing Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-guide-to-converting-webm-to-mp4-10-best-options/"><u>Updated 2024 Approved The Ultimate Guide to Converting WebM to MP4 10 Best Options</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-watermark-free-video-joining-7-top-rated-solutions/"><u>Updated In 2024, Watermark-Free Video Joining 7 Top-Rated Solutions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-vegas-or-premiere-choosing-the-best-video-editing-software-for-you-for-2024/"><u>Updated Vegas or Premiere? Choosing the Best Video Editing Software for You for 2024</u></a></li>
 </ul></div>
 
