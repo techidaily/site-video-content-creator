@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Secret to Engaging Lower Thirds FCPX Best Practices Revealed
-date: 2024-11-28T21:16:49.567Z
-updated: 2024-12-01T16:49:59.135Z
+date: 2024-12-03T21:13:18.500Z
+updated: 2024-12-10T01:06:43.214Z
 tags: 
   - video editing software
   - video editing
@@ -48,7 +48,7 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -62,6 +62,10 @@ The color combinations of your lower third element play a vital factor. Choose t
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -90,11 +94,7 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -121,6 +121,10 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
@@ -138,14 +142,6 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -173,6 +169,10 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -188,19 +188,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/2024-approved-momentary-motion-picture-manuscript/"><u>2024 Approved Momentary Motion Picture Manuscript</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/4-effective-methods-for-retrieving-accidentally-deleted-video-files-in-windows-operating-systems/"><u>4 Effective Methods for Retrieving Accidentally Deleted Video Files in Windows Operating Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazons-smart-speakers-showdown-echo-pop-vs-echo-dot-explored/"><u>Amazon's Smart Speakers Showdown: Echo Pop Vs. Echo Dot Explored</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chronological-superman-movie-marathon-your-step-by-step-guide/"><u>Chronological Superman Movie Marathon: Your Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-create-news-style-outro-for-2024/"><u>How To Create News Style Outro for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/leading-ways-streaming-and-recording-real-time-sport-events/"><u>Leading Ways Streaming and Recording Real-Time Sport Events</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-size-control-achieved-in-new-version-of-windows-11/"><u>Screen Size Control Achieved in New Version of Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/uncovering-concealed-images-on-your-iphone/"><u>Uncovering Concealed Images on Your iPhone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/unleash-the-power-of-high-definition-best-video-quality-boosters-for-2024/"><u>Unleash the Power of High-Definition Best Video Quality Boosters for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-download-the-best-video-dubbing-apps-for-pc-free-and-paid/"><u>Updated 2024 Approved Download the Best Video Dubbing Apps for PC (Free and Paid)</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-slow-down-time-10-exceptional-video-editing-software/"><u>Updated 2024 Approved Slow Down Time 10 Exceptional Video Editing Software</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-guide-to-converting-webm-to-mp4-10-best-options/"><u>Updated 2024 Approved The Ultimate Guide to Converting WebM to MP4 10 Best Options</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-watermark-free-video-joining-7-top-rated-solutions/"><u>Updated In 2024, Watermark-Free Video Joining 7 Top-Rated Solutions</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-vegas-or-premiere-choosing-the-best-video-editing-software-for-you-for-2024/"><u>Updated Vegas or Premiere? Choosing the Best Video Editing Software for You for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-guide-to-dynamic-youtube-openers-in-imovie/"><u>[New] 2024 Approved The Ultimate Guide to Dynamic YouTube Openers in iMovie</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-viewership-elevate-your-live-stream-game-with-just-a-few-supporters/"><u>2024 Approved Transform Viewership Elevate Your Live Stream Game with Just a Few Supporters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-professional-edits-including-sounds-in-premiere-projects-for-2024/"><u>Crafting Professional Edits Including Sounds in Premiere Projects for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effective-strategies-to-resolve-error-retrieving-frame-challenges-within-adobe-premiere-pro/"><u>Effective Strategies to Resolve ‘Error Retrieving Frame’ Challenges Within Adobe Premiere Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expertise-in-zending-en-terugkeer-de-opgeluchtende-vrijehandse-beleid-van-movavi/"><u>Expertise in Zending en Terugkeer: De Opgeluchtende Vrijehandse Beleid Van Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guida-completa-al-centro-di-assistenza-tecnica-online-per-winx-dvd-ripper-e-winxvideo-con-intelligenza-artificiale/"><u>Guida Completa Al Centro Di Assistenza Tecnica Online per WinX DVD Ripper E WinXVideo Con Intelligenza Artificiale</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jumpstart-your-photo-editing-skills-with-these-must-have-pixlr-tips/"><u>In 2024, Jumpstart Your Photo-Editing Skills with These Must-Have Pixlr Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-hdr-masterclass-from-basics-to-brilliance-for-2024/"><u>IPhone HDR Masterclass From Basics to Brilliance for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/marketing-mentor-to-depart-from-facebook/"><u>Marketing Mentor to Depart From Facebook</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mobile-split-screen-video-editors-the-best-for-ios-and-android/"><u>New 2024 Approved Mobile Split Screen Video Editors The Best for iOS and Android</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-should-you-buy-videopad-video-editor-a-honest-review-and-analysis/"><u>New 2024 Approved Should You Buy Videopad Video Editor? A Honest Review and Analysis</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-virtualdub-for-mac-easily-edit-video-in-mac/"><u>New 2024 Approved VirtualDub for Mac Easily Edit Video in Mac</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-audio-refinement-the-ultimate-guide-to-removing-background-noise-in-fcpx-for-2024/"><u>New Audio Refinement The Ultimate Guide to Removing Background Noise in FCPX for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-get-filmora-13-video-editor-free-download-for-2024/"><u>New Get Filmora 13 Video Editor Free Download for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-dvd-to-digital-made-easy-a-comprehensive-conversion-guide/"><u>New In 2024, DVD to Digital Made Easy A Comprehensive Conversion Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-filmora-scrn-tutorial-how-to-record-your-computer-screen-like-a-pro/"><u>New In 2024, Filmora Scrn Tutorial How to Record Your Computer Screen Like a Pro</u></a></li>
 </ul></div>
 

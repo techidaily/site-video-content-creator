@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Get VirtualDub to Optimize Your MPEG2 Video Storage
-date: 2024-11-09T23:24:05.402Z
-updated: 2024-11-14T19:23:02.389Z
+date: 2024-12-07T01:44:32.421Z
+updated: 2024-12-10T03:10:09.229Z
 tags: 
   - video editing software
   - video editing
@@ -26,15 +26,16 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
 VirtualDub is a free video capture/processing tool for Windows platforms (2000/XP/Vista/7). And VirtualDub MPEG-2 is a modified version of VirtualDub that supports MPEG-2 import originally. However, just as the author said "This software is obsolete and will no longer be updated. For MPEG-2 and WMV support in the latest VirtualDub, try my plugins (MPEG-2 plugin for VirtualDub 1.8.1 or above - by editor)".
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Download and Install VirtualDub MPEG-2
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
@@ -47,13 +48,6 @@ Open your MPEG-2 video file through File/Open video file..., then go to Video/Co
 
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
@@ -65,10 +59,7 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
@@ -81,10 +72,7 @@ Now it's the time to start processing your video, here is how:
 4. Click Save.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -96,6 +84,10 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -112,24 +104,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-world-of-iphone-x-animoji-like-a-pro/"><u>[New] Navigating the World of iPhone X Animoji Like a Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-engagement-in-stories-tips-for-adding-smoothly-animated-text/"><u>2024 Approved Boost Engagement in Stories Tips for Adding Smoothly Animated Text</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chart-topping-stock-photos-and-their-narratives-for-2024/"><u>Chart-Topping Stock Photos and Their Narratives for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guia-completo-como-configurar-o-fortnite-no-seu-pc-utilizando-as-dicas-do-movavi-etapa-a-etapa/"><u>Guia Completo: Como Configurar O Fortnite No Seu PC Utilizando as Dicas Do Movavi – Etapa a Etapa</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-itel-a60-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Itel A60</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-f15-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy F15 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mavericks-video-editing-software-easily-edit-mp4-files/"><u>New 2024 Approved Mavericks Video Editing Software Easily Edit MP4 Files</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-sound-effect-mastery-finding-and-integrating-free-resources-in-final-cut-pro/"><u>New 2024 Approved Sound Effect Mastery Finding and Integrating Free Resources in Final Cut Pro</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-this-article-shows-you-how-to-do-freeze-frames-and-slow-motion-in-final-cut-pro-x/"><u>New 2024 Approved This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-9-online-movie-makers-to-make-movie-online-for-free/"><u>New 2024 Approved Top 9 Online Movie Makers to Make Movie Online for Free</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unleash-your-creativity-10-public-domain-image-sites/"><u>New 2024 Approved Unleash Your Creativity 10 Public Domain Image Sites</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-cut-trim-and-polish-the-best-free-online-video-editors-for-2024/"><u>New Cut, Trim, and Polish The Best Free Online Video Editors for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-create-cartoons-like-a-pro-top-10-tools-for-beginners/"><u>New In 2024, Create Cartoons Like a Pro Top 10 Tools for Beginners</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-get-started-with-free-video-editing-top-tools-for-32-bit-windows/"><u>New In 2024, Get Started with Free Video Editing Top Tools for 32-Bit Windows</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-how-to-add-a-countdown-timer-in-final-cut-pro-x/"><u>New In 2024, How to Add a Countdown Timer in Final Cut Pro X?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/omotn-t1-tablet-support-a-cost-effective-and-reliable-solution-for-users/"><u>Omotn T1 Tablet Support: A Cost-Effective and Reliable Solution for Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-setup-for-seamless-use-of-a-wireless-printer-at-homeoffice/"><u>Quick Setup for Seamless Use of a Wireless Printer at Home/Office</u></a></li>
-<li><a href="https://windows11.techidaily.com/supercharge-ssds-in-windows-mastery-of-ssd-fresh/"><u>Supercharge SSDs in Windows - Mastery of SSD Fresh</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-easy-steps-to-record-skype-on-both-platforms-for-2024/"><u>[New] Easy Steps to Record Skype on Both Platforms for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/avigating-youtube-skip-the-top-8-novice-missteps/"><u>[New] Navigating YouTube Skip the Top 8 Novice Missteps!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-future-of-flight-hubsans-revolutionary-h501s-explored/"><u>[Updated] In 2024, The Future of Flight - Hubsan's Revolutionary H501S Explored</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-plan-for-livestream-and-document-sports-contests/"><u>[Updated] In 2024, Ultimate Plan for Livestream & Document Sports Contests</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/automated-data-collection-with-cookiebot-technology/"><u>Automated Data Collection with Cookiebot Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-restore-night-light-feature-in-windows-11/"><u>Fixing the Issue: How to Restore Night Light Feature in Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-huawei-nova-y71-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Huawei Nova Y71 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-premiere-pro-or-after-effects-choosing-the-right-tool-for-your-video-project/"><u>New 2024 Approved Premiere Pro or After Effects Choosing the Right Tool for Your Video Project</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-speed-up-or-slow-down-top-10-free-video-editing-apps-for-mobile/"><u>New 2024 Approved Speed Up or Slow Down Top 10 Free Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unbiased-review-of-avs-video-editor-features-pricing-and-more/"><u>New 2024 Approved Unbiased Review of AVS Video Editor Features, Pricing, and More</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-toolbox-to-translate-youtube-videos-to-english-subtitles-for-2024/"><u>New Best Toolbox to Translate YouTube Videos to English Subtitles for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-best-whiteboard-animation-software-for-hand-drawn-videos-for-2024/"><u>New Best Whiteboard Animation Software for Hand-Drawn Videos for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-from-square-to-wide-how-to-change-video-aspect-ratio-for-2024/"><u>New From Square to Wide How to Change Video Aspect Ratio for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-dual-view-video-recording-top-apps-for-iphone-and-android/"><u>New In 2024, Dual-View Video Recording Top Apps for iPhone and Android</u></a></li>
 </ul></div>
 

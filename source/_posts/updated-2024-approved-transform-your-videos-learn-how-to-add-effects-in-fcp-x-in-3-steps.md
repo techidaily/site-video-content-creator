@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Transform Your Videos Learn How to Add Effects in FCP X in 3 Steps
-date: 2024-11-09T00:09:16.632Z
-updated: 2024-11-14T23:25:02.592Z
+date: 2024-12-08T05:15:01.416Z
+updated: 2024-12-09T19:02:52.089Z
 tags: 
   - video editing software
   - video editing
@@ -49,13 +49,25 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
@@ -88,11 +100,19 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
 
@@ -121,27 +141,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-sierras-icloud-drive-accessibility/"><u>[New] 2024 Approved Mastering Sierra’s iCloud Drive Accessibility</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/xclusive-access-top-8-platforms-for-free-green-screen-scenery-files/"><u>[New] Exclusive Access Top 8 Platforms for Free Green Screen Scenery Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-become-an-nft-expert-with-these-top-7-creative-tools/"><u>[Updated] Become an NFT Expert with These Top 7 Creative Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimal-cloud-vaults-recommended-solutions/"><u>[Updated] Optimal Cloud Vaults Recommended Solutions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-secrets-to-excellent-screen-recordings-on-lenovo/"><u>[Updated] Secrets to Excellent Screen Recordings on Lenovo</u></a></li>
-<li><a href="https://win-lab.techidaily.com/exploring-safe-options-after-the-m3-raw-disk-hack-a-guide/"><u>Exploring Safe Options After the M3 Raw Disk Hack - A Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-details-below-can-help-you-make-color-correction-simply-in-final-cut-pro/"><u>New 2024 Approved The Details Below Can Help You Make Color Correction Simply in Final Cut Pro</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-ultimate-list-top-10-free-webm-video-editors-you-need-to-try/"><u>New 2024 Approved The Ultimate List Top 10 Free WebM Video Editors You Need to Try</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-windows-compatible-options-to-replace-sony-vegas-pro/"><u>New 2024 Approved Windows-Compatible Options to Replace Sony Vegas Pro</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-best-zero-cost-mp4-video-editors-top-10-reviews-for-2024/"><u>New Best Zero-Cost MP4 Video Editors Top 10 Reviews for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-break-free-from-limits-running-windows-and-mac-video-editing-apps-on-chrome-os/"><u>New In 2024, Break Free From Limits Running Windows and Mac Video Editing Apps on Chrome OS</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-break-free-from-q/"><u>New In 2024, Break Free From Q</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-budget-video-editing-software-top-picks/"><u>New In 2024, Budget Video Editing Software Top Picks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-start-guide-how-to-swiftly-download-razer-mamba-drivers-today/"><u>Quick-Start Guide: How To Swiftly Download Razer Mamba Drivers Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-chatgpt-for-peak-household-performance/"><u>Tailoring ChatGPT for Peak Household Performance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-entry-into-the-world-of-google-meet-webinars-for-2024/"><u>[New] Entry Into the World of Google Meet Webinars for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-elevate-your-tiktok-score-with-these-10-key-tools/"><u>[Updated] 2024 Approved Elevate Your TikTok Score with These 10 Key Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-optimizing-chromebook-prime-zoom-features/"><u>[Updated] Optimizing Chromebook Prime Zoom Features</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-c67-4g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme C67 4G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-google-plays-hidden-gems-underrated-but-amazing-apps/"><u>New 2024 Approved Google Plays Hidden Gems Underrated but Amazing Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-ditch-premiere-elements-10-better-video-editing-options-for-you-for-2024/"><u>New Ditch Premiere Elements 10 Better Video Editing Options for You for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-effortless-video-editing-with-quicktime-on-mac-a-step-by-step-handbook-for-2024/"><u>New Effortless Video Editing with QuickTime on Mac A Step-by-Step Handbook for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-free-video-editing-without-the-catch-top-14-watermark-free-options-for-2024/"><u>New Free Video Editing Without the Catch Top 14 Watermark-Free Options for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-get-animated-the-top-10-software-for-creating-stunning-2d-animations/"><u>New In 2024, Get Animated The Top 10 Software for Creating Stunning 2D Animations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/terramat-cubefit-assessment-enhance-fitness-with-an-innovative-standing-exercise-device/"><u>TerraMat CubeFit Assessment: Enhance Fitness with an Innovative Standing Exercise Device</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ling-the-most-honest-youtube-growth-services-for-2024/"><u>Unveiling the Most Honest Youtube Growth Services for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
