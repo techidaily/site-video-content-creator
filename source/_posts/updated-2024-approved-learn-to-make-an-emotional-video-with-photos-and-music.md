@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Learn to Make an Emotional Video with Photos and Music
-date: 2024-12-06T17:09:52.731Z
-updated: 2024-12-10T00:21:57.802Z
+date: 2024-12-19T01:46:07.472Z
+updated: 2024-12-25T00:44:07.612Z
 tags: 
   - video editing software
   - video editing
@@ -48,7 +48,7 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
@@ -56,7 +56,7 @@ Adding motion and trasitions can make your photo slideshow more attractive. To a
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
@@ -68,10 +68,6 @@ Adding transitions between images can make the story go smoothly. Go Transitions
 If you want to express your feelings or explain something in the slideshow, you can simply add texts to the image. Click Titles at the top to browse the available caption styles. Once you've picked a title style, drag it to the Timeline.
 
 ![add titles](https://images.wondershare.com/filmora/article-images/add-titles-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 4\. Select music
 
@@ -85,10 +81,6 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What to look for when choosing a good slideshow maker?
 
 Get a smart video slideshow maker to edit and create your own video, you need take those things into consideration:
@@ -100,7 +92,7 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
@@ -119,7 +111,15 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -136,16 +136,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-optimize-game-console-audio-settings-on-sony-platforms/"><u>[New] Optimize Game Console Audio Settings on Sony Platforms</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-premiering-popularity-amazon-prime-tweets-of-23-for-2024/"><u>[New] Premiering Popularity Amazon Prime Tweets of '23 for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-drone-enthusiasts-guide-to-vibration-reduction-and-image-quality/"><u>[New] The Drone Enthusiast's Guide to Vibration Reduction and Image Quality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigate-nature-androids-animated-adventure-series/"><u>[Updated] In 2024, Navigate Nature Android’s Animated Adventure Series</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 11 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-reverse-your-videos-with-the-best-online-tools/"><u>New 2024 Approved Reverse Your Videos with the Best Online Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-frame-your-moments-the-best-vignette-editing-apps-for-mobile-free-and-paid-for-2024/"><u>New Frame Your Moments The Best Vignette Editing Apps for Mobile Free & Paid for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-free-online-gif-loop-generators-2023-edition/"><u>New In 2024, Best Free Online GIF Loop Generators 2023 Edition</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-cast-it-all-a-step-by-step-guide-to-streaming-any-video-to-chromecast/"><u>New In 2024, Cast It All A Step-by-Step Guide to Streaming Any Video to Chromecast</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-home-movie-magic-proven-video-editing-techniques-to-wow-your-audience/"><u>New In 2024, Home Movie Magic Proven Video Editing Techniques to Wow Your Audience</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/er-with-your-live-video-on-youtube-a-complete-blueprint/"><u>Prosper with Your Live Video on YouTube A Complete Blueprint</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-starter-kit-the-essential-youtube-setup/"><u>[New] Starter Kit The Essential YouTube Setup</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-ultimate-guide-to-strategic-tag-application-for-2024/"><u>[New] The Ultimate Guide to Strategic Tag Application for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-voice-conversion-tools-for-vlogging-professionals/"><u>[Updated] 2024 Approved Best Voice Conversion Tools for Vlogging Professionals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-itunes-masterclass-maximizing-video-outputs/"><u>[Updated] 2024 Approved ITunes Masterclass Maximizing Video Outputs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twittickle-your-personalized-toolkit-for-cutest-tweets/"><u>In 2024, TwitTickle Your Personalized Toolkit for Cutest Tweets</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-s-most-popular-online-video-reverse-editors/"><u>New In 2024, S Most Popular Online Video Reverse Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-steady-shots-ahead-the-best-free-online-video-stabilizers/"><u>New In 2024, Steady Shots Ahead The Best Free Online Video Stabilizers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-video-editing-for-mac-yosemite-a-step-by-step-tutorial/"><u>New In 2024, Video Editing for Mac Yosemite A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-maximize-your-reach-learn-how-to-make-viral-reaction-videos-with-filmora/"><u>New Maximize Your Reach Learn How to Make Viral Reaction Videos with Filmora</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-merge-videos-without-restrictions-7-top-tools-for-2024/"><u>New Merge Videos Without Restrictions 7 Top Tools for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-no-downloads-needed-10-free-online-video-compressor-options-for-2024/"><u>New No Downloads Needed 10 Free Online Video Compressor Options for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-rotate-avi-videos-for-free-top-picks-for-windows-mac-mobile-and-web/"><u>New Rotate AVI Videos for Free Top Picks for Windows, MAC, Mobile & Web</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-home-network-with-windows-10-adjusting-network-discovery-settings-made-simple/"><u>Secure Your Home Network with Windows 10: Adjusting Network Discovery Settings Made Simple</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-transferring-music-from-a-compact-disc-to-usb-flash-drive/"><u>Step-by-Step Guide: Transferring Music From a Compact Disc to USB Flash Drive</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/step-by-step-equipment-plan-for-youtube-beginnings-for-2024/"><u>Your Step-by-Step Equipment Plan for YouTube Beginnings for 2024</u></a></li>
 </ul></div>
 

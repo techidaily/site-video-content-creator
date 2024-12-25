@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Secret to Engaging Lower Thirds FCPX Best Practices Revealed
-date: 2024-12-03T21:13:18.500Z
-updated: 2024-12-10T01:06:43.214Z
+date: 2024-12-19T04:38:52.025Z
+updated: 2024-12-24T20:58:20.023Z
 tags: 
   - video editing software
   - video editing
@@ -47,10 +47,6 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -64,7 +60,7 @@ Try different color schemes with Green, Magenta, Orange, and Blue to create a me
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. **Motion effect**
@@ -94,7 +90,7 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -122,7 +118,7 @@ You can download the app and install them in your system. Launch the tool by dou
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2Step 2: Add the Title**
@@ -137,11 +133,19 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -169,10 +173,6 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -188,21 +188,14 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-guide-to-dynamic-youtube-openers-in-imovie/"><u>[New] 2024 Approved The Ultimate Guide to Dynamic YouTube Openers in iMovie</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-viewership-elevate-your-live-stream-game-with-just-a-few-supporters/"><u>2024 Approved Transform Viewership Elevate Your Live Stream Game with Just a Few Supporters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-professional-edits-including-sounds-in-premiere-projects-for-2024/"><u>Crafting Professional Edits Including Sounds in Premiere Projects for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/effective-strategies-to-resolve-error-retrieving-frame-challenges-within-adobe-premiere-pro/"><u>Effective Strategies to Resolve ‘Error Retrieving Frame’ Challenges Within Adobe Premiere Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expertise-in-zending-en-terugkeer-de-opgeluchtende-vrijehandse-beleid-van-movavi/"><u>Expertise in Zending en Terugkeer: De Opgeluchtende Vrijehandse Beleid Van Movavi</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guida-completa-al-centro-di-assistenza-tecnica-online-per-winx-dvd-ripper-e-winxvideo-con-intelligenza-artificiale/"><u>Guida Completa Al Centro Di Assistenza Tecnica Online per WinX DVD Ripper E WinXVideo Con Intelligenza Artificiale</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-jumpstart-your-photo-editing-skills-with-these-must-have-pixlr-tips/"><u>In 2024, Jumpstart Your Photo-Editing Skills with These Must-Have Pixlr Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/iphone-hdr-masterclass-from-basics-to-brilliance-for-2024/"><u>IPhone HDR Masterclass From Basics to Brilliance for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/marketing-mentor-to-depart-from-facebook/"><u>Marketing Mentor to Depart From Facebook</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mobile-split-screen-video-editors-the-best-for-ios-and-android/"><u>New 2024 Approved Mobile Split Screen Video Editors The Best for iOS and Android</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-should-you-buy-videopad-video-editor-a-honest-review-and-analysis/"><u>New 2024 Approved Should You Buy Videopad Video Editor? A Honest Review and Analysis</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-virtualdub-for-mac-easily-edit-video-in-mac/"><u>New 2024 Approved VirtualDub for Mac Easily Edit Video in Mac</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-audio-refinement-the-ultimate-guide-to-removing-background-noise-in-fcpx-for-2024/"><u>New Audio Refinement The Ultimate Guide to Removing Background Noise in FCPX for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-get-filmora-13-video-editor-free-download-for-2024/"><u>New Get Filmora 13 Video Editor Free Download for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-dvd-to-digital-made-easy-a-comprehensive-conversion-guide/"><u>New In 2024, DVD to Digital Made Easy A Comprehensive Conversion Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-filmora-scrn-tutorial-how-to-record-your-computer-screen-like-a-pro/"><u>New In 2024, Filmora Scrn Tutorial How to Record Your Computer Screen Like a Pro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-engage-and-inspire-viewers-animated-subscribers-in-filmora-explained-for-2024/"><u>[New] Engage and Inspire Viewers - Animated Subscribers in Filmora Explained for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-vs-yi-4k-the-ultimate-battle-of-action-cam-innovation-in-23/"><u>[New] GoPro Vs. Yi 4K The Ultimate Battle of Action Cam Innovation in '23</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ultimate-photography-journey-with-vsco-editing-tool/"><u>[Updated] In 2024, Ultimate Photography Journey with VSCO Editing Tool</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-best-of-the-best-top-rated-2d-animation-software-free-trials-and-paid-plans/"><u>New In 2024, The Best of the Best Top-Rated 2D Animation Software Free Trials & Paid Plans</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-9-free-online-movie-makers/"><u>New In 2024, Top 9 Free Online Movie Makers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unbranded-video-merging-7-reliable-options-to-try/"><u>New In 2024, Unbranded Video Merging 7 Reliable Options to Try</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-record-like-a-pro-10-best-webcam-software-for-windows-10/"><u>New Record Like a Pro 10 Best Webcam Software for Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-excessive-cpu-load-issues-in-windows-10-effective-solutions-and-tips/"><u>Troubleshooting Excessive CPU Load Issues in Windows 10 – Effective Solutions and Tips</u></a></li>
 </ul></div>
 

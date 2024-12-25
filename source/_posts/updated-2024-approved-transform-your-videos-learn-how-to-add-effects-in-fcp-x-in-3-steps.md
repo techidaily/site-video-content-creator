@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Transform Your Videos Learn How to Add Effects in FCP X in 3 Steps
-date: 2024-12-08T05:15:01.416Z
-updated: 2024-12-09T19:02:52.089Z
+date: 2024-12-18T18:02:30.060Z
+updated: 2024-12-24T23:17:45.666Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -49,25 +53,17 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
@@ -86,13 +82,25 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Disable and delete an effect
 
@@ -100,19 +108,11 @@ To temporarily disable an effect, without deleting it, click the blue box so tha
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
 
@@ -141,16 +141,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-entry-into-the-world-of-google-meet-webinars-for-2024/"><u>[New] Entry Into the World of Google Meet Webinars for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-elevate-your-tiktok-score-with-these-10-key-tools/"><u>[Updated] 2024 Approved Elevate Your TikTok Score with These 10 Key Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-optimizing-chromebook-prime-zoom-features/"><u>[Updated] Optimizing Chromebook Prime Zoom Features</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-c67-4g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme C67 4G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-google-plays-hidden-gems-underrated-but-amazing-apps/"><u>New 2024 Approved Google Plays Hidden Gems Underrated but Amazing Apps</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-ditch-premiere-elements-10-better-video-editing-options-for-you-for-2024/"><u>New Ditch Premiere Elements 10 Better Video Editing Options for You for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-effortless-video-editing-with-quicktime-on-mac-a-step-by-step-handbook-for-2024/"><u>New Effortless Video Editing with QuickTime on Mac A Step-by-Step Handbook for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-free-video-editing-without-the-catch-top-14-watermark-free-options-for-2024/"><u>New Free Video Editing Without the Catch Top 14 Watermark-Free Options for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-get-animated-the-top-10-software-for-creating-stunning-2d-animations/"><u>New In 2024, Get Animated The Top 10 Software for Creating Stunning 2D Animations</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/terramat-cubefit-assessment-enhance-fitness-with-an-innovative-standing-exercise-device/"><u>TerraMat CubeFit Assessment: Enhance Fitness with an Innovative Standing Exercise Device</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ling-the-most-honest-youtube-growth-services-for-2024/"><u>Unveiling the Most Honest Youtube Growth Services for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-team-videos-to-foster-viewership-and-following/"><u>[New] In 2024, Crafting Team Videos to Foster Viewership and Following</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-summit-elite-studio-25-test/"><u>[Updated] In 2024, Summit Elite Studio 25 Test</u></a></li>
+<li><a href="https://win-guides.techidaily.com/comment-installer-le-sys-image-sur-multiples-machines/"><u>Comment Installer Le Sys Image Sur Multiples Machines</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-instagrams-per-video-restrictions/"><u>In 2024, Mastering Instagram's Per-Video Restrictions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-picks-for-traditional-japanese-huts-in-mc-worlds/"><u>In 2024, Top Picks for Traditional Japanese Huts in MC Worlds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/love-the-cut-filmoras-top-10-edits-unveiled-for-2024/"><u>Love the Cut Filmora's Top 10 Edits Unveiled for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-rip-and-convert-a-step-by-step-guide-to-digitizing-your-dvds/"><u>New In 2024, Rip & Convert A Step-by-Step Guide to Digitizing Your DVDs</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-hand-drawn-whiteboard-animation-tools-to-try-this-year/"><u>New In 2024, Top Hand-Drawn Whiteboard Animation Tools to Try This Year</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-videopad-video-editor-a-detailed-review-and-comparison-with-other-editors/"><u>New In 2024, Videopad Video Editor A Detailed Review and Comparison with Other Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-keep-it-private-top-rated-video-editing-software-for-face-blurring-for-2024/"><u>New Keep It Private Top-Rated Video Editing Software for Face Blurring for 2024</u></a></li>
 </ul></div>
 
