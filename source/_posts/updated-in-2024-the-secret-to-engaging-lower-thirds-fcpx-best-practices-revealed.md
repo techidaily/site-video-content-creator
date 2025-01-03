@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Secret to Engaging Lower Thirds FCPX Best Practices Revealed
-date: 2024-12-19T04:38:52.025Z
-updated: 2024-12-24T20:58:20.023Z
+date: 2025-01-02T01:45:24.645Z
+updated: 2025-01-02T16:47:06.995Z
 tags: 
   - video editing software
   - video editing
@@ -47,6 +47,10 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -58,10 +62,6 @@ The color combinations of your lower third element play a vital factor. Choose t
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -89,10 +89,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -118,7 +114,7 @@ You can download the app and install them in your system. Launch the tool by dou
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2Step 2: Add the Title**
@@ -134,7 +130,7 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
@@ -144,7 +140,7 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
@@ -173,6 +169,10 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -188,14 +188,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-engage-and-inspire-viewers-animated-subscribers-in-filmora-explained-for-2024/"><u>[New] Engage and Inspire Viewers - Animated Subscribers in Filmora Explained for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-vs-yi-4k-the-ultimate-battle-of-action-cam-innovation-in-23/"><u>[New] GoPro Vs. Yi 4K The Ultimate Battle of Action Cam Innovation in '23</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ultimate-photography-journey-with-vsco-editing-tool/"><u>[Updated] In 2024, Ultimate Photography Journey with VSCO Editing Tool</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-best-of-the-best-top-rated-2d-animation-software-free-trials-and-paid-plans/"><u>New In 2024, The Best of the Best Top-Rated 2D Animation Software Free Trials & Paid Plans</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-9-free-online-movie-makers/"><u>New In 2024, Top 9 Free Online Movie Makers</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unbranded-video-merging-7-reliable-options-to-try/"><u>New In 2024, Unbranded Video Merging 7 Reliable Options to Try</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-record-like-a-pro-10-best-webcam-software-for-windows-10/"><u>New Record Like a Pro 10 Best Webcam Software for Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-excessive-cpu-load-issues-in-windows-10-effective-solutions-and-tips/"><u>Troubleshooting Excessive CPU Load Issues in Windows 10 – Effective Solutions and Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-see-the-world-through-different-lenses-3-strategies-for-successful-pov-reactions-on-youtube/"><u>[Updated] See the World Through Different Lenses 3 Strategies for Successful POV Reactions on YouTube</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/mpg-mpg/"><u>完全自由のMPG編集ソフトでパワフルに分割・カット - MPG分割フリープログラム</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-beginners-blueprint-mastering-the-use-of-microsofts-advanced-language-model-chatgpt/"><u>A Beginner's Blueprint: Mastering the Use of Microsoft's Advanced Language Model, ChatGPT</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazon-kindle-2019-value-for-money-e-book-device-assessment/"><u>Amazon Kindle (2019) - Value for Money E-Book Device Assessment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/call-of-duty-warzone-and-pc-gaming-woes-solving-persistent-crashing-issues/"><u>Call of Duty Warzone and PC Gaming Woes: Solving Persistent Crashing Issues</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/effortless-flv-to-mp3-transformation-a-3-step-guide-for-perfect-audio-conversions/"><u>Effortless FLV to MP3 Transformation: A 3-Step Guide for Perfect Audio Conversions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/effortless-steps-to-enjoy-dvd-content-directly-from-your-desktop-computer/"><u>Effortless Steps to Enjoy DVD Content Directly From Your Desktop Computer</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/fix-your-ps4-avi-playback-glitches-effortlessly-with-top-tier-media-conversion-tools/"><u>Fix Your PS4 AVI Playback Glitches Effortlessly With Top-Tier Media Conversion Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/get-expert-assistance-with-wonderfoxs-dedicated-support-services/"><u>Get Expert Assistance with WonderFox's Dedicated Support Services</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/guide-unlocking-secure-video-discs-for-free-playback-options/"><u>Guide: Unlocking Secure Video Discs for Free Playback Options</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-modify-aspect-ratio-of-a-video-in-different-formats-for-youtube/"><u>How to Modify Aspect Ratio of a Video in Different Formats for YouTube</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/how-to-successfully-convert-your-rmhd-videos-into-mp4-format-a-step-by-step-guide/"><u>How To Successfully Convert Your RMHD Videos Into MP4 Format: A Step-By-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/how-to-transform-your-music-files-seamlessly-the-ultimate-guide-to-free-flac-to-mp3-conversion-techniques/"><u>How to Transform Your Music Files Seamlessly: The Ultimate Guide to FREE Flac-to-Mp3 Conversion Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unboxing-ions-pro-3-a-new-era-for-action-cameras/"><u>In 2024, Unboxing ION's Pro 3 A New Era for Action Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-5-high-resolution-film-makers/"><u>Premier 5 High-Resolution Film Makers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rise-to-greatness-with-the-totobay-2nd-generation-wake-up-light-the-best-economical-alarm-clock-reviewed/"><u>Rise to Greatness with the Totobay 2Nd Generation Wake-Up Light - The Best Economical Alarm Clock Reviewed</u></a></li>
 </ul></div>
 
