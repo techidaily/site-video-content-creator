@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Create Engaging Slideshows with Final Cut Pro A Step-by-Step Guide
-date: 2024-11-12T17:25:33.857Z
-updated: 2024-11-14T22:00:33.358Z
+date: 2025-01-07T06:32:25.820Z
+updated: 2025-01-09T21:14:04.966Z
 tags: 
   - video editing software
   - video editing
@@ -49,19 +49,6 @@ Final Cut Pro is an amazing software that makes slideshow creation as simple as 
 6. To add opening or closing credits, click **Effects > Video Generators.** Now, double-click **Text** and **Text** From the newly opened window, click **Controls** and type your desired text to be displayed in your video slideshow. Now, click **Video** and drag the video box into the Timeline to your desired location where it should appear.
 7. To export your video slideshow, click **File > Export > QuickTime Movie.** Based on your requirement, select your desired video quality and click OK.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Where to Find Video Slideshow Templates for Free?
 
 Templates make it easier for you to design unique slideshow videos with Final Cut Pro. Both premium and free templates are available online with different styles such as product showcases, wedding albums, social media promos, and corporate events, etc.
@@ -74,25 +61,11 @@ Motion array is famous for providing both free and paid templates and plugins fo
 
 ![Motion_array](https://images.wondershare.com/filmora/images/final-cut-pro/Motion_array.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **[FilmStock](https://tools.techidaily.com/wondershare/filmora/download/)**
 
 As a resource library built for Filmora, FilmStock provides tons of media and effects for you to choose from. You can adopt different styles in one video, or make a video collection with a consistent tone by applying packages in FilmStock.
 
 ![Filmstock_info](https://images.wondershare.com/filmora/images/final-cut-pro/Filmstock_info.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Design Shack**
 
@@ -102,12 +75,20 @@ Download thousands of free and premium FCP slideshow templates for product showc
 
 For more slideshow templates please refer to this article: [10 Best Sites to Download Free Slideshow Templates](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Adopt Templates in Final Cut Pro?
 
 Adopting templates to create amazing video slideshows with Final Cut Pro is very easy. Follow these steps to download and use templates with FCP:
 
 1. Download your favorite template online. Once downloaded, go to the folder containing the folder, unzip it, and locate the installable file.![adopt_templates1](https://images.wondershare.com/filmora/images/final-cut-pro/adopt_templates1.PNG)
 2. Copy and paste the folder where FCP can find it. If you don't have Apple Motion, right-click on the FCP icon and select Show Package Contents from the dropdown menu. Now, navigate to the Titles or Generators folder.![adopt_templates2](https://images.wondershare.com/filmora/images/final-cut-pro/adopt_templates2.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Open FCP and go to Titles and Generators sidebar.![adopt_templates3](https://images.wondershare.com/filmora/images/final-cut-pro/adopt_templates3.jpg)
 4. Search for the Title or Generator you installed under each label.
@@ -117,17 +98,7 @@ Adopting templates to create amazing video slideshows with Final Cut Pro is very
 7. Use the Published Parameters panel to edit the template. Check all parameters to see editing options available.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Add Music and Text in a Video Slideshow with Final Cut Pro?
@@ -146,13 +117,25 @@ Do you want to create an amazing video slideshow conveniently? Try Wondershare F
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Follow these steps to make a slideshow with Wondershare Filmora X:
 
 1. Open Wondershare Filmora, add multiple photos into the applications. Adding multiple folders would make it easy for you to sort the images.
 2. Adjust the duration for each photo to your desired length.![filmora_slideshow1](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow1.jpg)
 3. Add background music and royalty-free sound. For enhanced user experience, use the media library.![filmora_slideshow](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Drag and drop all images you want to add to the timeline and set their hue, aspect ratio, saturation, contrast, and brightness.![filmora_slideshow2](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Add transitions between images.![filmora_slideshow3](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow3.jpg)
 
@@ -182,10 +165,7 @@ For more slideshow-making tutorials with other editors, see this article: [How t
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -203,21 +183,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-mobilesync-facebook-video-grabber-for-2024/"><u>[New] Mobilesync Facebook Video Grabber for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unlocking-hdr-potential-with-photo-hdr-techniques-for-2024/"><u>[New] Unlocking HDR Potential with Photo-HDR Techniques for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-achieving-success-in-your-youtube-endeavours-a-step-by-step-blueprint-for-2024/"><u>[Updated] Achieving Success in Your YouTube Endeavours A Step-by-Step Blueprint for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-rhythm-for-rings-how-to-download-and-cut-tamil-melodies/"><u>[Updated] Rhythm for Rings How To Download and Cut Tamil Melodies</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/immerse-yourself-in-premier-sports-simulation-nba-aturday-650-million/"><u>Immerse Yourself in Premier Sports Simulation: NBA Aturday = $650 Million)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-complementing-narratives-with-skillful-b-roll-usage/"><u>In 2024, Complementing Narratives with Skillful B-Roll Usage</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-stability-for-formula-one-2020-a-guide-to-fixing-pc-game-crashes/"><u>Mastering Stability for Formula One 2020: A Guide to Fixing PC Game Crashes</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-take-a-screenshot-share-the-fun-a-guide-to-ps4-online-sharing/"><u>New 2024 Approved Take a Screenshot, Share the Fun A Guide to PS4 Online Sharing</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-transform-your-videos-the-best-free-green-screen-apps-for-android-and-ios-devices/"><u>New 2024 Approved Transform Your Videos The Best Free Green Screen Apps for Android and iOS Devices</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-best-slow-mo-video-editors-for-stunning-visuals-for-2024/"><u>New Best Slow-Mo Video Editors for Stunning Visuals for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-from-footage-to-film-the-ultimate-free-gopro-hd-video-editing-guide-for-2024/"><u>New From Footage to Film The Ultimate Free GoPro HD Video Editing Guide for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-adding-professional-titles-to-your-videos-with-final-cut-pro-x/"><u>New In 2024, Adding Professional Titles to Your Videos with Final Cut Pro X</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-creating-jpeg-on-png-image-files-from-the-video-you-recorded-with-a-smartphone-or-a-professional-video-camera-takes-only-a-few-moments-of-your-t/"><u>New In 2024, Creating JPEG on PNG Image Files From the Video You Recorded with a Smartphone or a Professional Video Camera Takes only a Few Moments of Your Time. Here Are some Best Video to Image Converters You Ca</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-from-beginner-to-pro-top-vlog-video-editing-software-for-every-level/"><u>New In 2024, From Beginner to Pro Top Vlog Video Editing Software for Every Level</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-swift-steam-purchase-resolutions/"><u>Strategies for Swift Steam Purchase Resolutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-solving-the-symbol-issue-on-your-device/"><u>Troubleshooting Steps: Solving the '@' Symbol Issue on Your Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-audireview-listening-and-recording-evaluation/"><u>[New] 2024 Approved Audireview Listening & Recording Evaluation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-discovering-your-perfect-vr-experience-should-you-choose-mobile-freedom-or-connectivity-with-tethers-in-2024/"><u>[Updated] Discovering Your Perfect VR Experience Should You Choose Mobile Freedom or Connectivity with Tethers, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-figma-mastery-techniques-to-eliminate-disruptive-backdrops/"><u>2024 Approved Figma Mastery Techniques to Eliminate Disruptive Backdrops</u></a></li>
+<li><a href="https://extra-information.techidaily.com/behind-the-screen-scouting-the-hunt-for-pristine-paidless-tiktok-bgs-for-2024/"><u>Behind-the-Screen Scouting The Hunt for Pristine, Paidless TikTok BGs for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-driver-software-for-your-hp-deskjet-3700-download-and-update-now/"><u>Latest Driver Software for Your HP DeskJet 3700 - Download & Update Now</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-shrink-your-videos-the-best-free-compression-tools-for-windows-10/"><u>New Shrink Your Videos The Best Free Compression Tools for Windows 10</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-videopad-video-editor-features-pros-and-cons-for-2024/"><u>New The Ultimate Guide to Videopad Video Editor Features, Pros, and Cons for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-gratis-convert-asf-in-mov-formaat-met-movavi-een-uitgebreide-verduidelijking/"><u>Online Gratis Convert ASF in MOV-Formaat Met Movavi: Een Uitgebreide Verduidelijking</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-mp4-video-tag-editors/"><u>Updated In 2024, The Ultimate Guide to MP4 Video Tag Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-top-free-dual-screen-video-editing-software-web-and-desktop/"><u>Updated In 2024, Top Free Dual-Screen Video Editing Software Web & Desktop</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-try-before-you-buy-final-cut-pro-90-day-free-trial/"><u>Updated In 2024, Try Before You Buy Final Cut Pro 90-Day Free Trial</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-s-hottest-face-changer-apps-for-ios-and-android-devices/"><u>Updated S Hottest Face Changer Apps for iOS and Android Devices</u></a></li>
 </ul></div>
 

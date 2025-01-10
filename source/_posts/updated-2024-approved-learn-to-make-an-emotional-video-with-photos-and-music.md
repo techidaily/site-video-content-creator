@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Learn to Make an Emotional Video with Photos and Music
-date: 2024-12-27T18:58:43.613Z
-updated: 2025-01-03T02:48:45.728Z
+date: 2025-01-06T02:29:28.762Z
+updated: 2025-01-10T01:12:25.901Z
 tags: 
   - video editing software
   - video editing
@@ -37,10 +37,6 @@ Filmora has built-in royalty free audio effects that you can use to touch up you
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 1\. Import media files
 
 Download and open [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), create a new prtoject and import your photos or video footage into the program, drag and drop the files into the timeline to start editing.
@@ -55,12 +51,16 @@ Adding motion and trasitions can make your photo slideshow more attractive. To a
 
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
 
 ![add transition](https://images.wondershare.com/filmora/article-images/add-transition-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3\. Apply title and effects
@@ -70,7 +70,7 @@ If you want to express your feelings or explain something in the slideshow, you 
 ![add titles](https://images.wondershare.com/filmora/article-images/add-titles-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4\. Select music
@@ -86,7 +86,7 @@ Save your slideshow in different formats, choose from ready-made presets for all
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
@@ -116,7 +116,7 @@ Save your slideshow in different formats, choose from ready-made presets for all
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -136,24 +136,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-daily-blog-key-practices-and-avoidance-tactics/"><u>[Updated] 2024 Approved Elevate Your Daily Blog Key Practices and Avoidance Tactics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-generate-custom-online-comedic-artwork/"><u>[Updated] Generate Custom Online Comedic Artwork</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-panorama-pixels-cutting-edge-photo-assembler/"><u>[Updated] In 2024, Panorama Pixels Cutting-Edge Photo Assembler</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-6-mac-screen-capture-tools-expert-picks/"><u>[Updated] In 2024, Top 6 Mac Screen Capture Tools - Expert Picks</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/1726026878727-mkv/"><u>保存版MKV分割技術:完璧なチャプター抽出手順</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/1726030100325-mp4/"><u>流れないMP4ビデオの一般的原因とそれを修正する方法</u></a></li>
-<li><a href="https://solve-help.techidaily.com/are-there-additional-fees-for-using-windows-defender-uncover-the-truth-with-yl-computing/"><u>Are There Additional Fees for Using Windows Defender? - Uncover the Truth with YL Computing</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/1726030281099-geforce-experience/"><u>GeForce Experienceを使ってゲームだけのオーディオクリップを記録するコツ</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-13-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 13 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-guard-your-camera-top-10-shields-reviewed/"><u>In 2024, Guard Your Camera - Top 10 Shields Reviewed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/integrating-picture-in-picture-the-essentials-of-ms-edge-for-2024/"><u>Integrating Picture-in-Picture The Essentials of MS Edge for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimize-your-gaming-experience-fixing-stutters-in-fallout-4-easily/"><u>Optimize Your Gaming Experience: Fixing Stutters in Fallout 4 Easily</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/step-by-step-tutorial-transforming-your-divx-videos-to-mp3-audio-quickly-and-effectively/"><u>Step-by-Step Tutorial: Transforming Your DivX Videos to MP3 Audio Quickly and Effectively</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/unlocking-dvd-secrets-eliminate-cprm-encryption-for-hassle-free-viewing-on-your-computer/"><u>Unlocking DVD Secrets: Eliminate CPRM Encryption for Hassle-Free Viewing on Your Computer</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/webmand/"><u>WebM動画が開けない場合、このヒントで解析&修正法 - テクニカルサポート</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/windatarestore-pro-advanced-recovery-solutions-for-windows-7-and-windows-11-users/"><u>WinDataRestore Pro: Advanced Recovery Solutions for Windows 7 and Windows 11 Users</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/windows-11-and-11and/"><u>Windows 11 & 11向けのスチームゲーム録画&ビデオキャプチャ手順集</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/1726028733191-youtube-live/"><u>YouTube Liveストリーミング動画をダウンロードする究極ガイド</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/1726028819977-120fps/"><u>スムーズな動きのために - 120FPSビデオをアップコンバートする最適なテクニック</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-a-guide-to-retrieving-historic-facebook-stories/"><u>[New] 2024 Approved A Guide to Retrieving Historic Facebook Stories</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-junior-road-rules-and-racer-revelry-for-2024/"><u>[New] Junior Road Rules & Racer Revelry for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-master-social-media-youtube-to-facebook-links/"><u>[New] Master Social Media YouTube to Facebook Links</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-elevate-views-prime-seo-equipment-for-videos/"><u>[Updated] Elevate Views Prime SEO Equipment for Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lightweight-voice-alteration-maximizing-your-gameplay-in-pubg/"><u>[Updated] Lightweight Voice Alteration Maximizing Your Gameplay in PUBG</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-value-for-money-top-6-budget-4k-projector-models-for-2024/"><u>Best Value for Money Top 6 Budget 4K Projector Models for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-infinix-gt-10-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Infinix GT 10 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-one-step-shot-simplify-podcast-streaming/"><u>In 2024, One Step Shot Simplify Podcast Streaming</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-10-best-free-whiteboard-animation-programs-for-2024/"><u>New The Ultimate List 10 Best Free Whiteboard Animation Programs for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-best-free-video-surveillance-software-a-comprehensive-guide/"><u>Updated 2024 Approved The Best Free Video Surveillance Software A Comprehensive Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-edit-flv-videos-for-free-top-5-software-options-for-2024/"><u>Updated Edit FLV Videos for Free Top 5 Software Options for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-complete-online-video-editing-course-from-basics-to-advanced-techniques/"><u>Updated In 2024, The Complete Online Video Editing Course From Basics to Advanced Techniques</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-top-4k-video-editing-software/"><u>Updated In 2024, Top 4K Video Editing Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-s-best-free-wmv-video-editing-software-for-splitting-for-2024/"><u>Updated S Best Free WMV Video Editing Software for Splitting for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/video-editing-made-easy-a-windows-movie-maker-tutorial-for-all-for-2024/"><u>Video Editing Made Easy A Windows Movie Maker Tutorial for All for 2024</u></a></li>
 </ul></div>
 

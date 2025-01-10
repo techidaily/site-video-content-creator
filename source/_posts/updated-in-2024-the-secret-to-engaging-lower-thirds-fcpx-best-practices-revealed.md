@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Secret to Engaging Lower Thirds FCPX Best Practices Revealed
-date: 2025-01-02T01:45:24.645Z
-updated: 2025-01-02T16:47:06.995Z
+date: 2025-01-02T21:58:29.584Z
+updated: 2025-01-09T23:41:13.447Z
 tags: 
   - video editing software
   - video editing
@@ -48,7 +48,7 @@ On a short note, you can define the lower third module as a piece of a graphical
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
@@ -89,6 +89,14 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -113,10 +121,6 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
@@ -129,10 +133,6 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
@@ -140,7 +140,7 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
@@ -161,6 +161,10 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
@@ -168,10 +172,6 @@ Thus, this article had given you enlightening discussion about the lower third e
 Display the texts promptly to enlighten the audience. Connect the texts to the target audience without distracting them. Work on this challenging element using a professional app like the Final Cut Pro X program. Stay tuned with this article to discover the new horizons of video editing.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -188,22 +188,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-see-the-world-through-different-lenses-3-strategies-for-successful-pov-reactions-on-youtube/"><u>[Updated] See the World Through Different Lenses 3 Strategies for Successful POV Reactions on YouTube</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/mpg-mpg/"><u>完全自由のMPG編集ソフトでパワフルに分割・カット - MPG分割フリープログラム</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-beginners-blueprint-mastering-the-use-of-microsofts-advanced-language-model-chatgpt/"><u>A Beginner's Blueprint: Mastering the Use of Microsoft's Advanced Language Model, ChatGPT</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazon-kindle-2019-value-for-money-e-book-device-assessment/"><u>Amazon Kindle (2019) - Value for Money E-Book Device Assessment</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/call-of-duty-warzone-and-pc-gaming-woes-solving-persistent-crashing-issues/"><u>Call of Duty Warzone and PC Gaming Woes: Solving Persistent Crashing Issues</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/effortless-flv-to-mp3-transformation-a-3-step-guide-for-perfect-audio-conversions/"><u>Effortless FLV to MP3 Transformation: A 3-Step Guide for Perfect Audio Conversions</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/effortless-steps-to-enjoy-dvd-content-directly-from-your-desktop-computer/"><u>Effortless Steps to Enjoy DVD Content Directly From Your Desktop Computer</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/fix-your-ps4-avi-playback-glitches-effortlessly-with-top-tier-media-conversion-tools/"><u>Fix Your PS4 AVI Playback Glitches Effortlessly With Top-Tier Media Conversion Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/get-expert-assistance-with-wonderfoxs-dedicated-support-services/"><u>Get Expert Assistance with WonderFox's Dedicated Support Services</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/guide-unlocking-secure-video-discs-for-free-playback-options/"><u>Guide: Unlocking Secure Video Discs for Free Playback Options</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-modify-aspect-ratio-of-a-video-in-different-formats-for-youtube/"><u>How to Modify Aspect Ratio of a Video in Different Formats for YouTube</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/how-to-successfully-convert-your-rmhd-videos-into-mp4-format-a-step-by-step-guide/"><u>How To Successfully Convert Your RMHD Videos Into MP4 Format: A Step-By-Step Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/how-to-transform-your-music-files-seamlessly-the-ultimate-guide-to-free-flac-to-mp3-conversion-techniques/"><u>How to Transform Your Music Files Seamlessly: The Ultimate Guide to FREE Flac-to-Mp3 Conversion Techniques</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-unboxing-ions-pro-3-a-new-era-for-action-cameras/"><u>In 2024, Unboxing ION's Pro 3 A New Era for Action Cameras</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premier-5-high-resolution-film-makers/"><u>Premier 5 High-Resolution Film Makers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/rise-to-greatness-with-the-totobay-2nd-generation-wake-up-light-the-best-economical-alarm-clock-reviewed/"><u>Rise to Greatness with the Totobay 2Nd Generation Wake-Up Light - The Best Economical Alarm Clock Reviewed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-step-by-step-guide-incorporating-tunes-into-instagram-reels/"><u>[New] 2024 Approved Step-by-Step Guide Incorporating Tunes Into Instagram Reels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-church-streaming-services-for-the-digital-age/"><u>2024 Approved Top Church Streaming Services for the Digital Age</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-digital-strategies-expert-conversion-optimization-solutions-from-cookiebot/"><u>Elevate Digital Strategies: Expert Conversion Optimization Solutions From Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experts-choice-for-optimal-network-surveillance-software-cnet/"><u>Experts' Choice for Optimal Network Surveillance Software | CNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone XS Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Infinix GT 10 Pro?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317531-9781401919542-my-psychic-journey/"><u>My Psychic Journey | Free Book</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-best-split-screen-video-recording-apps-for-ios-and-android-for-2024/"><u>New The Best Split Screen Video Recording Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-virtualdub-replacements-for-video-editing/"><u>New Top VirtualDub Replacements for Video Editing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-transform-your-chromebook-how-to-install-linux-and-unlock-new-features-for-2024/"><u>New Transform Your Chromebook How to Install Linux and Unlock New Features for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-definitive-how-to-on-clearing-and-reinstalling-ios-a-guide-to-factory-restoring-iphones-and-ipads/"><u>The Definitive How-To on Clearing and Reinstalling iOS: A Guide to Factory Restoring iPhones & iPads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-the-art-of-instagram-video-filming-for-2024/"><u>Unveiling the Art of Instagram Video Filming for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-from-forward-to-reverse-the-ultimate-tiktok-video-tutorial/"><u>Updated 2024 Approved From Forward to Reverse The Ultimate TikTok Video Tutorial</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-animated-photos-made-easy-the-9-best-tools-and-apps/"><u>Updated In 2024, Animated Photos Made Easy The 9 Best Tools and Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-best-15-apps-to-cartoon-yourself-with-ease-iphone-and-android/"><u>Updated Top Best 15 Apps to Cartoon Yourself with Ease iPhone & Android</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/you-can-try-final-cut-pro-for-90-days-absolutely-free-final-cut-pros-latest-version-is-available-for-a-free-trial-learn-everything-about-it-right-here-for-2/"><u>You Can Try Final Cut Pro for 90 Days Absolutely Free. Final Cut Pros Latest Version Is Available for a Free Trial. Learn Everything About It Right Here for 2024</u></a></li>
 </ul></div>
 
