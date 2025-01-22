@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Learn to Make an Emotional Video with Photos and Music
-date: 2025-01-13T16:38:07.550Z
-updated: 2025-01-15T22:34:41.970Z
+date: 2025-01-18T17:33:49.088Z
+updated: 2025-01-21T20:14:11.314Z
 tags: 
   - video editing software
   - video editing
@@ -37,10 +37,6 @@ Filmora has built-in royalty free audio effects that you can use to touch up you
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 1\. Import media files
 
 Download and open [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), create a new prtoject and import your photos or video footage into the program, drag and drop the files into the timeline to start editing.
@@ -51,12 +47,16 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
 
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
@@ -64,7 +64,7 @@ Adding transitions between images can make the story go smoothly. Go Transitions
 ![add transition](https://images.wondershare.com/filmora/article-images/add-transition-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3\. Apply title and effects
@@ -79,6 +79,10 @@ Music is the must-have element in a photo slideshow. In Filmora, there are over 
 
 ![add audio](https://images.wondershare.com/filmora/article-images/add-audio-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 5\. Export
 
 Save your slideshow in different formats, choose from ready-made presets for all popular mobile devices, upload it to YouTube or burn it a DVD collection.
@@ -86,7 +90,7 @@ Save your slideshow in different formats, choose from ready-made presets for all
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
@@ -115,10 +119,6 @@ Save your slideshow in different formats, choose from ready-made presets for all
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -136,18 +136,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-unveiling-tseries-income-stream-from-youtube-content-consumption/"><u>[New] In 2024, Unveiling TSeries’ Income Stream From Youtube Content Consumption</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-fixing-invisible-areas-within-youtube-videos/"><u>[Updated] 2024 Approved Fixing Invisible Areas Within YouTube Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-bypass-costs-and-watch-governments-election-coverage-online/"><u>[Updated] Bypass Costs and Watch Government's Election Coverage Online</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-location-of-youtubes-creator-dashboard/"><u>[Updated] Mastering the Location of YouTube's Creator Dashboard</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/critical-analysis-godfalls-failed-promise-as-sonys-ps5-exclusive-title-unveils-boredom-and-confusion/"><u>Critical Analysis: Godfall's Failed Promise as Sony's PS5 Exclusive Title Unveils Boredom and Confusion</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/making-memorable-videos-tailored-to-each-situation-discover-how-with-movavi/"><u>Making Memorable Videos Tailored to Each Situation - Discover How With Movavi</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-trim-cut-and-edit-divx-videos-with-these-free-tools/"><u>New Trim, Cut, and Edit Divx Videos with These Free Tools</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-endless-enigma-of-earths-ultimate-term/"><u>The Endless Enigma of Earth's Ultimate Term</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-rated-free-m4a-editing-software-for-pc-and-mac/"><u>Updated 2024 Approved Top-Rated Free M4A Editing Software for PC and Mac</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unleash-your-creativity-best-android-video-editor-apps-for-chrome-os/"><u>Updated 2024 Approved Unleash Your Creativity Best Android Video Editor Apps for Chrome OS</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-dual-display-video-editing-top-apps-for-iphone-and-android-for-2024/"><u>Updated Dual-Display Video Editing Top Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-how-to-create-home-dvds-with-best-movie-making-software-for-2024/"><u>Updated How to Create Home DVDs with Best Movie Making Software for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-s-top-free-mkv-splitters-no-watermarks-or-trials/"><u>Updated In 2024, S Top Free MKV Splitters No Watermarks or Trials</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-for-mac-users-install-and-enjoy/"><u>[New] In 2024, Snapchat for MAC Users - Install and Enjoy</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-selecting-top-notch-visuals-for-virtual-gatherings/"><u>[New] Selecting Top-Notch Visuals for Virtual Gatherings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unfolding-the-future-drones-in-modern-and-next-era/"><u>[Updated] Unfolding the Future Drones in Modern and Next Era</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2023s-top-8-video-sensations-a-facebook-deep-dive-for-2024/"><u>2023'S Top 8 Video Sensations A Facebook Deep Dive for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-toolkit-for-precision-mobile-screen-recording-using-mobizen/"><u>2024 Approved Ultimate Toolkit for Precision Mobile Screen Recording Using Mobizen</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/beginners-guide-to-cryptocurrency-essential-steps-and-tips-yl-computing/"><u>Beginner's Guide to Cryptocurrency: Essential Steps & Tips - YL Computing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-essential-guide-top-10-steps-for-instructors-on-youtube-channels/"><u>In 2024, Essential Guide Top 10 Steps for Instructors on YouTube Channels</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-90-gt-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor 90 GT to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-from-still-to-stunning-how-to-achieve-the-ken-burns-effect-for-2024/"><u>New From Still to Stunning How to Achieve the Ken Burns Effect for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-create-fake-identities-best-free-face-generator-websites/"><u>New In 2024, Create Fake Identities Best Free Face Generator Websites</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-cut-trim-and-edit-the-best-free-and-paid-android-video-editors/"><u>New In 2024, Cut, Trim, and Edit The Best Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-from-zero-to-hero-mastering-reaction-videos-with-filmoras-latest-features/"><u>New In 2024, From Zero to Hero Mastering Reaction Videos with Filmoras Latest Features</u></a></li>
 </ul></div>
 

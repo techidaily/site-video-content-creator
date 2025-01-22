@@ -1,7 +1,7 @@
 ---
 title: Effective Remedies for Fixing Palworld's Session-Based Search Glitches
-date: 2025-01-14T18:42:58.581Z
-updated: 2025-01-15T21:11:05.470Z
+date: 2025-01-15T03:59:12.015Z
+updated: 2025-01-21T22:31:06.384Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 4. **[Disable DVR app in Xbox](https://tools.techidaily.com/drivereasy/download/)**
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
 
@@ -65,10 +69,6 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 
  If WOW keeps crashing, don’t worry. There is something else to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Run Scan and Repair for your game
 
  If some problems occur to World of Warcraft, such as WOW crashes, you can try the Scan and Repair feature in Battle.net application, which automatically scans and repairs the problems in your game. To do so:
@@ -81,13 +81,17 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
-Once finish, restart your game and see if it works properly.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Once finish, restart your game and see if it works properly.
 
 ### Fix 4: Disable DVR app in Xbox
 
@@ -101,16 +105,12 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
@@ -125,12 +125,12 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -154,24 +154,22 @@ Here’s what you can do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-chucklechief-your-1-tool-for-tweeting-gifs/"><u>[New] ChuckleChief Your #1 Tool for Tweeting Gifs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-lightweight-realities-googles-cardboard-and-samsung-gear-vr-for-2024/"><u>[Updated] Lightweight Realities Google’s Cardboard and Samsung Gear VR for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leading-microphone-reviews-podcastings-best/"><u>2024 Approved Leading Microphone Reviews Podcasting's Best</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-mastery-in-migrating-youtube-videos-to-igtv-platform/"><u>2024 Approved Mastery in Migrating YouTube Videos to IGTV Platform</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-file-sorting-utilizing-w11s-copy-and-move/"><u>Effortless File Sorting: Utilizing W11’s Copy and Move</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevating-your-streaming-experience-switching-between-spotify-and-youtube-music/"><u>Elevating Your Streaming Experience Switching Between Spotify & YouTube Music</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illuminate-iphone-clips-simple-solutions-to-lighten-video-for-2024/"><u>Illuminate iPhone Clips Simple Solutions to Lighten Video for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-ce-3-lite-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord CE 3 Lite 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-transfer-videos-to-dvd-a-comprehensive-guide-for-windows-and-mac-users/"><u>New Transfer Videos to DVD A Comprehensive Guide for Windows and Mac Users</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/your-videos-into-a-revenue-stream-with-these-tips/"><u>Turn Your Videos Into a Revenue Stream with These Tips</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-create-stunning-3d-videos-top-free-and-paid-makers/"><u>Updated 2024 Approved Create Stunning 3D Videos Top Free and Paid Makers</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-rotate-your-3gp-videos-for-free-top-5-tools/"><u>Updated 2024 Approved Rotate Your 3GP Videos for Free Top 5 Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-5-best-free-divx-video-cutters/"><u>Updated 2024 Approved Top 5 Best Free Divx Video Cutters</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-ken-burns-effect-tutorial-from-basics-to-pro/"><u>Updated In 2024, Ken Burns Effect Tutorial From Basics to Pro</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-make-a-statement-with-these-online-photo-and-video-collage-tools/"><u>Updated In 2024, Make a Statement with These Online Photo and Video Collage Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-top-10-webm-to-mp4-converters-for-flawless-video-conversion/"><u>Updated In 2024, The Top 10 WebM to MP4 Converters for Flawless Video Conversion</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-mac-video-editing-101-using-quicktime-for-stunning-results-for-2024/"><u>Updated Mac Video Editing 101 Using QuickTime for Stunning Results for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-best-of-the-best-video-editing-programs-compared/"><u>Updated The Best of the Best Video Editing Programs Compared</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-carving-out-your-place-in-the-design-world/"><u>[New] In 2024, Carving Out Your Place in the Design World</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigating-melodic-waters-a-legal-guide-on-instagram-for-2024/"><u>[New] Navigating Melodic Waters A Legal Guide on Instagram for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-top-rated-apps-for-instagrams-vertical-igtv-content-enhancement-for-2024/"><u>[New] Top-Rated Apps for Instagram's Vertical IGTV Content Enhancement for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unexpected-tiktok-refresh-how-to-restore-lost-content-for-2024/"><u>[New] Unexpected TikTok Refresh How to Restore Lost Content for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-online-presence-choosing-the-right-webcam/"><u>[Updated] 2024 Approved Elevate Your Online Presence Choosing the Right Webcam</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-converting-srt-into-sub-quick-effective-ways-for-2024/"><u>[Updated] Converting SRT Into SUB Quick, Effective Ways for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/macbook-airs-match-made-in-heaven-unveiling-lightweight-windows-rivals-brimming-with-features-wired-innovations/"><u>MacBook Air's Match Made in Heaven? Unveiling Lightweight Windows Rivals Brimming with Features | Wired Innovations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-get-the-top-10-best-video-editor-apps-for-your-android-devices-and-enjoy-editing-home-movies2/"><u>New 2024 Approved Get the Top 10 Best Video Editor Apps for Your Android Devices and Enjoy Editing Home Movies!_2</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-pro-grade-video-stabilization-in-fcpx-a-step-by-step-guide/"><u>New 2024 Approved Pro-Grade Video Stabilization in FCPX A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-fcp-effect-10-movies-that-benefited-from-this-powerful-editing-software/"><u>New 2024 Approved The FCP Effect 10 Movies That Benefited From This Powerful Editing Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-troubleshooting-guide-stop-final-cut-pro-x-from-crashing/"><u>New 2024 Approved Troubleshooting Guide Stop Final Cut Pro X From Crashing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-adobe-showdown-after-effects-vs-premiere-pro-which-one-reigns-supreme-in-2024/"><u>New Adobe Showdown After Effects vs Premiere Pro - Which One Reigns Supreme, In 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-countdown-to-success-a-beginners-guide-to-fcpx-timers-for-2024/"><u>New Countdown to Success A Beginners Guide to FCPX Timers for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-easy-game-capture-top-3-methods-for-2024/"><u>New Easy Game Capture Top 3 Methods for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-clip-to-cinema-the-simple-way-to-create-stunning-movies-from-any-video/"><u>New In 2024, Clip to Cinema The Simple Way to Create Stunning Movies From Any Video</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sounds-in-apex-legends-heres-how-you-can-resolve-it/"><u>No Sounds in Apex Legends? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-y100-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Y100</u></a></li>
 </ul></div>
 
