@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Get VirtualDub to Optimize Your MPEG2 Video Storage
-date: 2025-01-16T17:27:30.494Z
-updated: 2025-01-21T22:39:35.052Z
+date: 2025-01-25T16:15:41.134Z
+updated: 2025-01-29T18:16:28.593Z
 tags: 
   - video editing software
   - video editing
@@ -27,12 +27,16 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 VirtualDub is a free video capture/processing tool for Windows platforms (2000/XP/Vista/7). And VirtualDub MPEG-2 is a modified version of VirtualDub that supports MPEG-2 import originally. However, just as the author said "This software is obsolete and will no longer be updated. For MPEG-2 and WMV support in the latest VirtualDub, try my plugins (MPEG-2 plugin for VirtualDub 1.8.1 or above - by editor)".
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download and Install VirtualDub MPEG-2
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
 
@@ -48,15 +52,23 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
 
@@ -67,10 +79,6 @@ Now it's the time to start processing your video, here is how:
 3. Select where you want to save the AVI and name it.
 4. Click Save.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The VirtualDub MPEG-2 needs some time to compress your video. The larger the video file is, the longer. But VirtualDub MPEG2 is a fast video processing software. Take a cup of coffee and relax. Once finished, use your favorite video player to see the compressing result.
@@ -79,15 +87,7 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -104,20 +104,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/urning-screen-time-into-cash-the-youtube-way/"><u>[New] Turning Screen Time Into Cash The YouTube Way</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unified-streaming-techniques-for-youtube-and-top-networks-for-2024/"><u>[Updated] Unified Streaming Techniques for YouTube & Top Networks for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-viral-potential-in-digital-content-creation-for-2024/"><u>[Updated] Unlocking Viral Potential in Digital Content Creation for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-to-rejuvenating-your-logitech-m310-mouse-through-driver-update/"><u>Guide to Rejuvenating Your Logitech M310 Mouse Through Driver Update</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Plus Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-drone-visuals-free-luts-for-dji-drones/"><u>In 2024, Exclusive Drone Visuals Free LUTS for DJI Drones</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-professional-grade-video-stabilization-secrets-in-fcpx-revealed/"><u>New In 2024, Professional-Grade Video Stabilization Secrets in FCPX Revealed</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-5-hand-drawing-whiteboard-animation-makers-online-tools-included/"><u>New In 2024, Top 5 Hand Drawing Whiteboard Animation Makers Online Tools Included</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-rated-intro-makers-for-windows-and-macos-a-comprehensive-guide/"><u>New In 2024, Top-Rated Intro Makers for Windows and macOS A Comprehensive Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-which-software-is-best-for-logo-animation-having-a-great-animated-logo-can-be-a-great-strategy-to-engage-your-audience-here-are-over-11-best-log/"><u>New In 2024, Which Software Is Best for Logo Animation? Having a Great Animated Logo Can Be a Great Strategy to Engage Your Audience. Here Are over 11 Best Logo Animation Makers and Making Tips for You</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-premiere-pro-2023-importing-editing-and-exporting-videos-for-beginners-for-2024/"><u>New Premiere Pro 2023 Importing, Editing, and Exporting Videos for Beginners for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-s-top-rated-video-editing-software-for-avchd-files-for-2024/"><u>New S Top-Rated Video Editing Software for AVCHD Files for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-guide-choosing-the-best-app-to-check-if-your-android-is-rooted/"><u>Ultimate Guide: Choosing the Best App to Check if Your Android Is Rooted</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-correcting-color-shifts-and-warping-issues-on-your-monitor/"><u>Ultimate Guide: Correcting Color Shifts & Warping Issues on Your Monitor</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-creating-an-individualistic-tiktok-identifier/"><u>[New] 2024 Approved Creating an Individualistic TikTok Identifier</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-virtual-reality-cinema-experiences/"><u>[Updated] 2024 Approved Essential Virtual Reality Cinema Experiences</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-in-depth-look-at-the-gecata-game-capture-tool/"><u>[Updated] 2024 Approved In-Depth Look at the Gecata Game Capture Tool</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-creatives-making-marvel-virtual-worlds-vivid/"><u>[Updated] In 2024, Creatives Making Marvel Virtual Worlds Vivid</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-cutting-edge-final-cut-pros-best-10-plugins/"><u>[Updated] In 2024, Cutting Edge Final Cut Pro's Best 10 Plugins</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-unveiling-the-features-of-kobo-clara-colour/"><u>Comprehensive Guide: Unveiling the Features of Kobo Clara Colour</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-mac-alternatives-to-vsdc-best-video-editing-software-options/"><u>New In 2024, Mac Alternatives to VSDC Best Video Editing Software Options</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-mastering-fcp-x-green-screen-magic-in-minutes/"><u>New In 2024, Mastering FCP X Green Screen Magic in Minutes</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-pc-video-editors-similar-to-gopro-quik-top-picks/"><u>New In 2024, PC Video Editors Similar to GoPro Quik Top Picks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mobile-time-lapse-magic-top-apps-for-creatives-2023-edition-for-2024/"><u>New Mobile Time-Lapse Magic Top Apps for Creatives (2023 Edition) for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-pro-editing-techniques-l-cuts-and-j-cuts-in-fcpx-made-easy-for-2024/"><u>New Pro Editing Techniques L-Cuts and J-Cuts in FCPX Made Easy for 2024</u></a></li>
 </ul></div>
 

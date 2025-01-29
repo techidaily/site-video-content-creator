@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Learn to Make an Emotional Video with Photos and Music
-date: 2025-01-18T17:33:49.088Z
-updated: 2025-01-21T20:14:11.314Z
+date: 2025-01-22T18:14:06.438Z
+updated: 2025-01-29T16:41:18.473Z
 tags: 
   - video editing software
   - video editing
@@ -48,7 +48,7 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
@@ -56,7 +56,7 @@ Adding motion and trasitions can make your photo slideshow more attractive. To a
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
@@ -64,7 +64,7 @@ Adding transitions between images can make the story go smoothly. Go Transitions
 ![add transition](https://images.wondershare.com/filmora/article-images/add-transition-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3\. Apply title and effects
@@ -73,15 +73,15 @@ If you want to express your feelings or explain something in the slideshow, you 
 
 ![add titles](https://images.wondershare.com/filmora/article-images/add-titles-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 4\. Select music
 
 Music is the must-have element in a photo slideshow. In Filmora, there are over 50 royalty free music for you to choose to make your slideshow more engaging. Just drag the one you like to timeline.
 
 ![add audio](https://images.wondershare.com/filmora/article-images/add-audio-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 5\. Export
 
@@ -90,7 +90,7 @@ Save your slideshow in different formats, choose from ready-made presets for all
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
@@ -136,17 +136,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-for-mac-users-install-and-enjoy/"><u>[New] In 2024, Snapchat for MAC Users - Install and Enjoy</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-selecting-top-notch-visuals-for-virtual-gatherings/"><u>[New] Selecting Top-Notch Visuals for Virtual Gatherings</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unfolding-the-future-drones-in-modern-and-next-era/"><u>[Updated] Unfolding the Future Drones in Modern and Next Era</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2023s-top-8-video-sensations-a-facebook-deep-dive-for-2024/"><u>2023'S Top 8 Video Sensations A Facebook Deep Dive for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-toolkit-for-precision-mobile-screen-recording-using-mobizen/"><u>2024 Approved Ultimate Toolkit for Precision Mobile Screen Recording Using Mobizen</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/beginners-guide-to-cryptocurrency-essential-steps-and-tips-yl-computing/"><u>Beginner's Guide to Cryptocurrency: Essential Steps & Tips - YL Computing</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-essential-guide-top-10-steps-for-instructors-on-youtube-channels/"><u>In 2024, Essential Guide Top 10 Steps for Instructors on YouTube Channels</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-90-gt-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor 90 GT to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-from-still-to-stunning-how-to-achieve-the-ken-burns-effect-for-2024/"><u>New From Still to Stunning How to Achieve the Ken Burns Effect for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-create-fake-identities-best-free-face-generator-websites/"><u>New In 2024, Create Fake Identities Best Free Face Generator Websites</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-cut-trim-and-edit-the-best-free-and-paid-android-video-editors/"><u>New In 2024, Cut, Trim, and Edit The Best Free and Paid Android Video Editors</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-from-zero-to-hero-mastering-reaction-videos-with-filmoras-latest-features/"><u>New In 2024, From Zero to Hero Mastering Reaction Videos with Filmoras Latest Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-reno-8t-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Reno 8T 5G FRP</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complexity/"><u>Complexity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-website-analytics-and-conversions-using-the-advanced-technology-of-cookiebot/"><u>Elevate Your Website Analytics and Conversions Using the Advanced Technology of Cookiebot</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211250008-9781396323256-extra-sensory-perception/"><u>Extra-Sensory Perception | Free Book</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oneplus-nord-ce-3-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on OnePlus Nord CE 3 5G online without jailbreak</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lenswave-proconnect-25x-review-superior-quality-at-an-extreme-price/"><u>LensWave ProConnect 25X Review: Superior Quality at an Extreme Price</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-rev-up-your-videos-10-best-free-speed-changing-apps-for-ios-and-android/"><u>New In 2024, Rev Up Your Videos 10 Best Free Speed Changing Apps for iOS and Android</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-online-stop-motion-animation-tools-free-and-paid-options/"><u>New In 2024, Top Online Stop Motion Animation Tools Free and Paid Options</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-video-editing-essentials-how-to-split-clips-in-windows-live-movie-maker-updated/"><u>New In 2024, Video Editing Essentials How to Split Clips in Windows Live Movie Maker (Updated )</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-looking-for-virtualdub-alternatives-here-are-the-best-options-for-2024/"><u>New Looking for VirtualDub Alternatives? Here Are the Best Options for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mac-users-learn-how-to-install-kinemaster-with-ease/"><u>New Mac Users Learn How to Install KineMaster with Ease</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mastering-avi-file-editing-how-to-split-cut-and-trim-with-confidence/"><u>New Mastering AVI File Editing How to Split, Cut, and Trim with Confidence</u></a></li>
+<li><a href="https://win-blog.techidaily.com/throughput-on-triumph-insiders-guide-to-victory-in-cod-modern-warfare-first-person-shooter-showdowns/"><u>Throughput on Triumph: Insider's Guide to Victory in COD: Modern Warfare First-Person Shooter Showdowns</u></a></li>
 </ul></div>
 
