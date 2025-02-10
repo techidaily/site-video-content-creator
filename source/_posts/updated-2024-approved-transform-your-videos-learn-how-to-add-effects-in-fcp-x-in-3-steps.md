@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Transform Your Videos Learn How to Add Effects in FCP X in 3 Steps
-date: 2025-01-24T16:09:34.332Z
-updated: 2025-01-29T17:58:39.193Z
+date: 2025-02-06T18:12:10.700Z
+updated: 2025-02-10T03:05:46.375Z
 tags: 
   - video editing software
   - video editing
@@ -49,10 +49,6 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
@@ -62,7 +58,7 @@ Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
@@ -82,12 +78,16 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
@@ -95,7 +95,7 @@ Grab a slider and drag it to see what happens. For example, to make an image blu
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Disable and delete an effect
@@ -103,10 +103,6 @@ Grab a slider and drag it to see what happens. For example, to make an image blu
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To enable an effect, click the gray box so it turns blue again.
 
@@ -126,6 +122,10 @@ The process of applying effects is the same for all effects you apply from the E
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -141,18 +141,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-advanced-screen-recording-techniques-for-enhanced-productivity-in-adobe-captive-for-2024/"><u>[New] Advanced Screen Recording Techniques for Enhanced Productivity in Adobe Captive for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-evaluationcast-breakdown/"><u>[New] In 2024, EvaluationCast Breakdown</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convertis-gratuitement-un-fichier-mka-en-format-aac-avec-une-application-en-ligne-movavi/"><u>Convertis Gratuitement Un Fichier MKA en Format AAC Avec Une Application en Ligne - Movavi</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Sony Xperia 5 V? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-motorola-defy-2-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Motorola Defy 2 Phone When You Forget the Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nokia-c210-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nokia C210 Phone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-remove-tiktok-watermarks-in-seconds-best-online-methods/"><u>New In 2024, Remove TikTok Watermarks in Seconds Best Online Methods</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-ultimate-list-of-free-video-cutter-and-joiner-software-for-beginners/"><u>New In 2024, The Ultimate List of Free Video Cutter and Joiner Software for Beginners</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unleash-your-creativity-the-top-5-avchd-video-editing-software/"><u>New In 2024, Unleash Your Creativity The Top 5 AVCHD Video Editing Software</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-pause-perfection-a-step-by-step-guide-to-freezing-frames-in-videos-for-2024/"><u>New Pause Perfection A Step-by-Step Guide to Freezing Frames in Videos for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-say-goodbye-to-watermarks-7-top-video-merger-apps/"><u>New Say Goodbye to Watermarks 7 Top Video Merger Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-for-the-zlibdll-error-missing-or-cannot-find-file-scenarios/"><u>The Ultimate Fix for the 'Zlib.dll' Error: Missing or Cannot Find File Scenarios</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-green-screen-software-for-mac-users/"><u>Updated The Ultimate Guide to Green Screen Software for Mac Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/udiovisual-innovators-best-portable-devices-for-editors/"><u>[New] Audiovisual Innovators Best Portable Devices for Editors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-exclusive-access-to-facebook-beats/"><u>[New] Exclusive Access to Facebook Beats</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-deciding-the-right-direction-fb-video-posts/"><u>[New] In 2024, Deciding the Right Direction FB Video Posts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-video-quality-with-gopro-knowledge/"><u>Elevate Your Video Quality with GoPro Knowledge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-benefits-of-the-arctic-freezer-36-air-conditioner-a-game-changer-for-budget-cooling-solutions/"><u>Explore the Benefits of the Arctic Freezer 36 Air Conditioner – A Game-Changer for Budget Cooling Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-a-broken-webcam-during-a-zoom-conference-call/"><u>How to Repair a Broken Webcam During a Zoom Conference Call</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-find-x6-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Find X6 phone? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-untapped-potential-of-dji-phantom-4/"><u>In 2024, The Complete Untapped Potential of DJI Phantom 4</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-free-mp4-video-trimmers-top-picks/"><u>New 2024 Approved Free MP4 Video Trimmers Top Picks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-best-android-video-editor-apps-for-chromebook-for-2024/"><u>New Best Android Video Editor Apps for Chromebook for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-free-green-screen-software-for-android-and-ios-top-picks-for-2024/"><u>New Free Green Screen Software for Android and iOS Top Picks for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-here-is-the-solution-of-your-all-questions-some-of-the-reliable-and-durable-free-wmv-video-joiners-are-given-below/"><u>New In 2024, Here Is the Solution of Your All Questions; some of the Reliable and Durable Free WMV Video Joiners Are Given Below</u></a></li>
 </ul></div>
 

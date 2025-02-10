@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Learn to Make an Emotional Video with Photos and Music
-date: 2025-01-22T18:14:06.438Z
-updated: 2025-01-29T16:41:18.473Z
+date: 2025-02-07T00:05:33.970Z
+updated: 2025-02-09T17:19:28.908Z
 tags: 
   - video editing software
   - video editing
@@ -31,6 +31,10 @@ Want to make your own video but don't have a camcorder? Don't worry, you can sti
 * [How to make a video with pictures using Wondershare Filmora](#part1)
 * [What to look for when choosing a good slideshow maker](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to make a video with pictures and music using Wondershare Filmora?
 
 Filmora has built-in royalty free audio effects that you can use to touch up your video. It includes various video effects, elements and filters to maker your video more attractive. More than that, more than 150 video transitions can also make video more natural to watch. Check this video below to know more about Filmora. Now download it to have a try!
@@ -47,35 +51,23 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
 
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
 
 ![add transition](https://images.wondershare.com/filmora/article-images/add-transition-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 3\. Apply title and effects
 
 If you want to express your feelings or explain something in the slideshow, you can simply add texts to the image. Click Titles at the top to browse the available caption styles. Once you've picked a title style, drag it to the Timeline.
 
 ![add titles](https://images.wondershare.com/filmora/article-images/add-titles-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 4\. Select music
 
@@ -90,7 +82,7 @@ Save your slideshow in different formats, choose from ready-made presets for all
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
@@ -102,6 +94,10 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 3\. Personalize video slideshow with stunning transitions, intro/credits, and sound effects.
 * 4\. Apply more advanced video effects like Mosaic, Face Off, Jump Cut and more.
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
 
@@ -118,6 +114,10 @@ Easily rotate photos, enhance brightness and color balance to fine tune your vid
 Save your slideshow in different formats, choose from ready-made presets for all popular mobile devices, upload it to Facebook and YouTube or burn it a DVD collection.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -136,19 +136,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-reno-8t-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Reno 8T 5G FRP</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complexity/"><u>Complexity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-website-analytics-and-conversions-using-the-advanced-technology-of-cookiebot/"><u>Elevate Your Website Analytics and Conversions Using the Advanced Technology of Cookiebot</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211250008-9781396323256-extra-sensory-perception/"><u>Extra-Sensory Perception | Free Book</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oneplus-nord-ce-3-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on OnePlus Nord CE 3 5G online without jailbreak</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/lenswave-proconnect-25x-review-superior-quality-at-an-extreme-price/"><u>LensWave ProConnect 25X Review: Superior Quality at an Extreme Price</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-rev-up-your-videos-10-best-free-speed-changing-apps-for-ios-and-android/"><u>New In 2024, Rev Up Your Videos 10 Best Free Speed Changing Apps for iOS and Android</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-online-stop-motion-animation-tools-free-and-paid-options/"><u>New In 2024, Top Online Stop Motion Animation Tools Free and Paid Options</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-video-editing-essentials-how-to-split-clips-in-windows-live-movie-maker-updated/"><u>New In 2024, Video Editing Essentials How to Split Clips in Windows Live Movie Maker (Updated )</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-looking-for-virtualdub-alternatives-here-are-the-best-options-for-2024/"><u>New Looking for VirtualDub Alternatives? Here Are the Best Options for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-mac-users-learn-how-to-install-kinemaster-with-ease/"><u>New Mac Users Learn How to Install KineMaster with Ease</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-mastering-avi-file-editing-how-to-split-cut-and-trim-with-confidence/"><u>New Mastering AVI File Editing How to Split, Cut, and Trim with Confidence</u></a></li>
-<li><a href="https://win-blog.techidaily.com/throughput-on-triumph-insiders-guide-to-victory-in-cod-modern-warfare-first-person-shooter-showdowns/"><u>Throughput on Triumph: Insider's Guide to Victory in COD: Modern Warfare First-Person Shooter Showdowns</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-3-easy-youtube-audio-extraction-methods-free-and-secure/"><u>[New] In 2024, 3 Easy YouTube Audio Extraction Methods Free & Secure</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-honor-magic-6-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor Magic 6 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-12-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme 12 Pro 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-apple-iphone-13-pro-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile Apple iPhone 13 Pro online without SIM Card?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-s21-fe-5g-2023-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy S21 FE 5G (2023)? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-13-mini-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone 13 mini? Fixed | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-premiere-pro-or-after-effects-choosing-the-right-tool-for-your-video-project/"><u>New 2024 Approved Premiere Pro or After Effects Choosing the Right Tool for Your Video Project</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-speed-up-or-slow-down-top-10-free-video-editing-apps-for-mobile/"><u>New 2024 Approved Speed Up or Slow Down Top 10 Free Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unbiased-review-of-avs-video-editor-features-pricing-and-more/"><u>New 2024 Approved Unbiased Review of AVS Video Editor Features, Pricing, and More</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-adobe-premiere-pro-secrets-6-little-known-tips-for-stunning-videos-for-2024/"><u>New Adobe Premiere Pro Secrets 6 Little-Known Tips for Stunning Videos for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-best-whiteboard-animation-software-for-hand-drawn-videos-for-2024/"><u>New Best Whiteboard Animation Software for Hand-Drawn Videos for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-color-enhancement-techniques-in-final-cut-pro-for-2024/"><u>New Color Enhancement Techniques in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-from-square-to-wide-how-to-change-video-aspect-ratio-for-2024/"><u>New From Square to Wide How to Change Video Aspect Ratio for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-dual-view-video-recording-top-apps-for-iphone-and-android/"><u>New In 2024, Dual-View Video Recording Top Apps for iPhone and Android</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/scambia-webm-con-vob-on-line-senza-costi-movavi/"><u>Scambia WebM Con VOB On-Line Senza Costi - Movavi</u></a></li>
 </ul></div>
 

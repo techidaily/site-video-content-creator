@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Get VirtualDub to Optimize Your MPEG2 Video Storage
-date: 2025-01-25T16:15:41.134Z
-updated: 2025-01-29T18:16:28.593Z
+date: 2025-02-04T03:45:08.400Z
+updated: 2025-02-09T20:08:57.497Z
 tags: 
   - video editing software
   - video editing
@@ -26,16 +26,12 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
 VirtualDub is a free video capture/processing tool for Windows platforms (2000/XP/Vista/7). And VirtualDub MPEG-2 is a modified version of VirtualDub that supports MPEG-2 import originally. However, just as the author said "This software is obsolete and will no longer be updated. For MPEG-2 and WMV support in the latest VirtualDub, try my plugins (MPEG-2 plugin for VirtualDub 1.8.1 or above - by editor)".
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Download and Install VirtualDub MPEG-2
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
@@ -48,27 +44,23 @@ Open your MPEG-2 video file through File/Open video file..., then go to Video/Co
 
 ![virtualdub mpeg2](https://images.wondershare.com/topic/video-editing/virtualdub-video-compression.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As shown above, select the XVID MPEG-4 codec and click Configure button to make Xvid settings.
 
 ![virtualdub mepg2 tutorial](https://images.wondershare.com/topic/video-editing/virtualdub-mpeg2-compress.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: Start Compressing
 
@@ -87,7 +79,15 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -104,16 +104,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-creating-an-individualistic-tiktok-identifier/"><u>[New] 2024 Approved Creating an Individualistic TikTok Identifier</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-virtual-reality-cinema-experiences/"><u>[Updated] 2024 Approved Essential Virtual Reality Cinema Experiences</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-in-depth-look-at-the-gecata-game-capture-tool/"><u>[Updated] 2024 Approved In-Depth Look at the Gecata Game Capture Tool</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-creatives-making-marvel-virtual-worlds-vivid/"><u>[Updated] In 2024, Creatives Making Marvel Virtual Worlds Vivid</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-cutting-edge-final-cut-pros-best-10-plugins/"><u>[Updated] In 2024, Cutting Edge Final Cut Pro's Best 10 Plugins</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-unveiling-the-features-of-kobo-clara-colour/"><u>Comprehensive Guide: Unveiling the Features of Kobo Clara Colour</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-mac-alternatives-to-vsdc-best-video-editing-software-options/"><u>New In 2024, Mac Alternatives to VSDC Best Video Editing Software Options</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-mastering-fcp-x-green-screen-magic-in-minutes/"><u>New In 2024, Mastering FCP X Green Screen Magic in Minutes</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-pc-video-editors-similar-to-gopro-quik-top-picks/"><u>New In 2024, PC Video Editors Similar to GoPro Quik Top Picks</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-mobile-time-lapse-magic-top-apps-for-creatives-2023-edition-for-2024/"><u>New Mobile Time-Lapse Magic Top Apps for Creatives (2023 Edition) for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-pro-editing-techniques-l-cuts-and-j-cuts-in-fcpx-made-easy-for-2024/"><u>New Pro Editing Techniques L-Cuts and J-Cuts in FCPX Made Easy for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/harting-new-pathways-in-art-an-exclusive-look-at-the-top-10-low-cost-creator-platforms-on-youtube/"><u>[New] Charting New Pathways in Art An Exclusive Look at the Top 10 Low-Cost Creator Platforms on YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unveiling-the-best-storytelling-schools-1-8-guide/"><u>[Updated] 2024 Approved Unveiling the Best Storytelling Schools - #1-#8 Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-leveraging-obs-features-to-boost-zoom-performance-for-2024/"><u>[Updated] Leveraging OBS' Features to Boost Zoom Performance for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-8k-visualization-leading-tvs-compared-side-by-side/"><u>2024 Approved 8K Visualization Leading TVs Compared Side by Side</u></a></li>
+<li><a href="https://win-answers.techidaily.com/burning-iso-files-to-dvd-in-windows-top-2-no-cost-techniques-for-windows-11-and-earlier-versions/"><u>Burning ISO Files to DVD in Windows - Top 2 No-Cost Techniques for Windows 11 & Earlier Versions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/battle-royale-thumbnails-done-fast-for-2024/"><u>Epic Battle Royale Thumbnails, Done Fast for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-freeze-rewind-repeat-mastering-the-art-of-frozen-frames-in-video-editing/"><u>New 2024 Approved Freeze, Rewind, Repeat Mastering the Art of Frozen Frames in Video Editing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-from-hobbyist-to-pro-the-best-free-and-paid-3d-animation-tools/"><u>New 2024 Approved From Hobbyist to Pro The Best Free and Paid 3D Animation Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-macs-best-video-production-tools-unleash-your-creativity/"><u>New 2024 Approved Macs Best Video Production Tools Unleash Your Creativity</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-free-flv-video-editors-for-windows-and-mac/"><u>New 2024 Approved Top Free FLV Video Editors for Windows and Mac</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-videopad-video-editor-review-and-buying-recommendation/"><u>New 2024 Approved Videopad Video Editor Review and Buying Recommendation</u></a></li>
 </ul></div>
 

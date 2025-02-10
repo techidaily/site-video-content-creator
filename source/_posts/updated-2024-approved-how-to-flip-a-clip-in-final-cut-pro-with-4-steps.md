@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Flip a Clip in Final Cut Pro with 4 Steps
-date: 2025-01-28T17:55:41.337Z
-updated: 2025-01-29T16:39:27.587Z
+date: 2025-02-04T19:25:14.607Z
+updated: 2025-02-10T01:57:24.139Z
 tags: 
   - video editing software
   - video editing
@@ -49,7 +49,7 @@ There is a popup menu for you to get the **Transform** tool. It is in the lower-
 ![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3:  Rotate and Re-size Video Clips
@@ -60,6 +60,10 @@ There are **blue handles at each corner** which enable the user to adjust image 
 
 ![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
 ![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
@@ -69,7 +73,7 @@ The **center circle** indicates the rotation anchor points that enable the chang
 ![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 4:  Flipping video clips
@@ -78,16 +82,16 @@ Click the video clips that you want to flip in the timeline and make sure it is 
 
 ![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
 * The Scale option is for resizing the image. Click the small arrow alongside it and then you will see X and Y options. To flip the video clip, just enter-1oo in the X sidebar and press the **Enter** key. You will see then the selected clip in the timeline will be flipped horizontally to another direction. Enter -100 in the Y sidebar and then the clip will be flipped vertically, namely, upside-down direction.
 * The Anchor X and Y allows you to Move the image’s center point.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## An Easier Way to Flip a Clip in Final Cut Pro Alternative
 
@@ -123,7 +127,7 @@ Wondershare Filmora also allows you to flip a few parts of the video instead of 
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-3-filp-video.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * _Exporting the flip video:_
@@ -143,14 +147,10 @@ After you have finished doing all the editing and transformation, you can then c
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -167,22 +167,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-palette-strategies-utilizing-color-science-in-art/"><u>[New] Palette Strategies Utilizing Color Science in Art</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-strategies-for-purchasing-clear-visual-content/"><u>[Updated] Strategies for Purchasing Clear Visual Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-review-of-advanced-parrot-ar-drone/"><u>2024 Approved Expert Review of Advanced Parrot AR Drone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/6-types-of-videos-that-will-hook-your-viewers/"><u>6 Types of Videos That Will Hook Your Viewers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/breaking-new-windows-exploit-targets-devices-with-ipv-addressing-system/"><u>Breaking: New Windows Exploit Targets Devices with IPv# Addressing System</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/harness-scheduled-data-removal-ease-with-macs-top-software-stellar-file-eraser/"><u>Harness Scheduled Data Removal Ease with Mac's Top Software: Stellar File Eraser</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/lichtkostens-beheer-creeren-van-usb-inhoud-over-schermen-met-gemak-en-effenziekte-ontsporing/"><u>Lichtkostens Beheer: Creëren Van USB Inhoud Over Schermen Met Gemak En Effenziekte Ontsporing!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/mpeg-reconstruction-software-the-ultimate-solution-for-damaged-video-restoration/"><u>MPEG Reconstruction Software: The Ultimate Solution for Damaged Video Restoration</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-recognize-songs-on-iphone-withwithout-iphone-music-recognition/"><u>New 2024 Approved How to Recognize Songs on iPhone With/Without iPhone Music Recognition</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-s-hottest-explainer-video-creation-software-reviews-and-comparisons/"><u>New 2024 Approved S Hottest Explainer Video Creation Software Reviews and Comparisons</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-ultimate-mac-video-editing-software-comparison-for/"><u>New 2024 Approved The Ultimate Mac Video Editing Software Comparison For</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-bring-your-videos-to-life-best-text-animation-apps-for-phones-for-2024/"><u>New Bring Your Videos to Life Best Text Animation Apps for Phones for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-from-still-to-stunning-how-to-achieve-the-ken-burns-effect-for-2024/"><u>New From Still to Stunning How to Achieve the Ken Burns Effect for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-free-video-cutting-software-for-divx-files-2023-update/"><u>New In 2024, Best Free Video Cutting Software for Divx Files (2023 Update)</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-from-zero-to-hero-mastering-reaction-videos-with-filmoras-latest-features/"><u>New In 2024, From Zero to Hero Mastering Reaction Videos with Filmoras Latest Features</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-the-puzzle-get-tekken-8-up-and-running-on-pc-with-our-expert-tips/"><u>Solve the Puzzle: Get Tekken 8 Up and Running on PC with Our Expert Tips</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-wmv-video-trimming-software-top-5-options/"><u>Updated In 2024, Free WMV Video Trimming Software Top 5 Options</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-disruptive-beats-curated-list-of-music-mutators/"><u>[New] 2024 Approved Disruptive Beats Curated List of Music Mutators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-rapid-routes-transferring-ios-photos-and-videos/"><u>[New] 2024 Approved Rapid Routes Transferring iOS Photos & Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-video-editing-basics-on-windows-8-movie-maker/"><u>2024 Approved Mastering Video Editing Basics on Windows 8 Movie Maker</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-flip-screen-cam-picks-your-guide-to-excellent-vlogging-for-2024/"><u>Best Flip-Screen Cam Picks Your Guide to Excellent Vlogging for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capturing-and-archiving-itunes-content-effortlessly-for-2024/"><u>Capturing and Archiving iTunes Content Effortlessly for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/creative-tims-vue-notus-advanced-admin-panel-using-tailwind-css-and-vuejs-for-gratuitous-development-kits/"><u>Creative Tim's Vue Notus: Advanced Admin Panel Using Tailwind CSS & VueJS for Gratuitous Development Kits</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-non-charging-issues-when-plugged-in-under-windows/"><u>How to Troubleshoot Non-Charging Issues When Plugged In Under Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-title-transformations-beyond-standard-styles/"><u>In 2024, Title Transformations Beyond Standard Styles</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/intelligent-design-showcased-in-our-full-review-of-the-samsung-galaxy-watch/"><u>Intelligent Design Showcased in Our Full Review of the Samsung Galaxy Watch</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-glowing-complexions-without-plugins-fcpx-video-editing-tips/"><u>New 2024 Approved Glowing Complexions without Plugins FCPX Video Editing Tips</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-looking-for-vsdc-on-mac-try-these-alternative-editors/"><u>New 2024 Approved Looking for VSDC on Mac? Try These Alternative Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-sony-camcorder-video-editing-essentials-a-beginners-guide-to-pro-results/"><u>New 2024 Approved Sony Camcorder Video Editing Essentials A Beginners Guide to Pro Results</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-best-free-iphone-video-editing-apps-for-rotation-2023-review/"><u>New 2024 Approved The Best Free iPhone Video Editing Apps for Rotation 2023 Review</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unlock-your-creativity-best-video-editing-apps-with-music-for-mobile/"><u>New 2024 Approved Unlock Your Creativity Best Video Editing Apps with Music for Mobile</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-video-editing-on-chromebook-top-recommendations/"><u>New 2024 Approved Video Editing on Chromebook Top Recommendations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-video-magic-how-to-capture-stunning-freeze-frames-in-minutes/"><u>New 2024 Approved Video Magic How to Capture Stunning Freeze Frames in Minutes</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-fast-forward-to-fun-top-10-free-video-speed-controller-apps-for-2024/"><u>New Fast Forward to Fun Top 10 Free Video Speed Controller Apps for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-disrupt-the-norm-top-glitch-art-video-editing-apps-for-ios-and-android-creators/"><u>New In 2024, Disrupt the Norm Top Glitch Art Video Editing Apps for iOS and Android Creators</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-as-an-independent-youtube-entrepreneur-dodging-the-ad-dilemrante/"><u>Thriving as an Independent YouTube Entrepreneur Dodging the Ad Dilemrante</u></a></li>
 </ul></div>
 
