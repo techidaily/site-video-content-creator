@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Transform Your Videos Learn How to Add Effects in FCP X in 3 Steps
-date: 2025-02-06T18:12:10.700Z
-updated: 2025-02-10T03:05:46.375Z
+date: 2025-02-17T04:48:33.339Z
+updated: 2025-02-19T22:56:33.411Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -53,17 +57,25 @@ To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -79,24 +91,16 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Disable and delete an effect
 
@@ -122,10 +126,6 @@ The process of applying effects is the same for all effects you apply from the E
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -141,18 +141,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/udiovisual-innovators-best-portable-devices-for-editors/"><u>[New] Audiovisual Innovators Best Portable Devices for Editors</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-exclusive-access-to-facebook-beats/"><u>[New] Exclusive Access to Facebook Beats</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-deciding-the-right-direction-fb-video-posts/"><u>[New] In 2024, Deciding the Right Direction FB Video Posts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-video-quality-with-gopro-knowledge/"><u>Elevate Your Video Quality with GoPro Knowledge</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-benefits-of-the-arctic-freezer-36-air-conditioner-a-game-changer-for-budget-cooling-solutions/"><u>Explore the Benefits of the Arctic Freezer 36 Air Conditioner – A Game-Changer for Budget Cooling Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-repair-a-broken-webcam-during-a-zoom-conference-call/"><u>How to Repair a Broken Webcam During a Zoom Conference Call</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oppo-find-x6-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Find X6 phone? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-untapped-potential-of-dji-phantom-4/"><u>In 2024, The Complete Untapped Potential of DJI Phantom 4</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-free-mp4-video-trimmers-top-picks/"><u>New 2024 Approved Free MP4 Video Trimmers Top Picks</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-best-android-video-editor-apps-for-chromebook-for-2024/"><u>New Best Android Video Editor Apps for Chromebook for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-free-green-screen-software-for-android-and-ios-top-picks-for-2024/"><u>New Free Green Screen Software for Android and iOS Top Picks for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-here-is-the-solution-of-your-all-questions-some-of-the-reliable-and-durable-free-wmv-video-joiners-are-given-below/"><u>New In 2024, Here Is the Solution of Your All Questions; some of the Reliable and Durable Free WMV Video Joiners Are Given Below</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/dvd-mpeg/"><u>最優秀のDVD MPEG変換ソフトウェアレコメンド！無料で試せる方法。</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/dvdiphone/"><u>DVDの効率よいiPhoneビューイングとリピート方法</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/easy-ffmpeg-tips-for-beginners-how-to-convert-videos-from-mkv-to-mp4-efficiently/"><u>Easy FFmpeg Tips for Beginners: How to Convert Videos From MKV to MP4 Efficiently</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/easy-tutorial-how-to-watch-movie-projector-video-format-mkv-using-googles-chrome-free-solutions/"><u>Easy Tutorial: How to Watch Movie Projector Video Format (.mkv) Using Google's Chrome - Free Solutions!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/easy-ways-to-embed-free-subtitles-onto-your-videos-a-step-by-step-guide/"><u>Easy Ways to Embed Free Subtitles Onto Your Videos - A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/efficient-techniques-for-converting-dvd-iso-files-into-wav-format/"><u>Efficient Techniques for Converting DVD ISO Files Into WAV Format</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/effortless-conversion-guide-turn-your-footage-into-high-quality-avc-files/"><u>Effortless Conversion Guide: Turn Your Footage Into High-Quality AVC Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-converter-convert-videos-to-nsvemmpeg-format-with-movavi/"><u>Free Online Converter - Convert Videos to NSV/Em/MPEG Format with Movavi</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-stellar-alternatives-to-windows-10-photos-for-enhanced-photography-experience/"><u>In 2024, 8 Stellar Alternatives to Windows 10 Photos for Enhanced Photography Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-boost-youtube-video-spacing/"><u>In 2024, How to Boost YouTube Video Spacing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-virtual-realm-highs-the-best-iphoneandroid-apps/"><u>In 2024, Virtual Realm Highs The Best iPhone/Android Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-lgs-65-oled-c9-4k-television-ideal-choice-for-audiophiles-and-movie-buffs/"><u>In-Depth Analysis of LG's 65 OLED C9 4K Television – Ideal Choice for Audiophiles and Movie Buffs</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-safe-browsing-in-microsofts-win11/"><u>Managing Safe Browsing in Microsoft’s Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pros-and-cons-of-switching-to-the-iphone-16-insights-experts/"><u>Pros & Cons of Switching to the iPhone 16 - Insights Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016853318-silent-keyboard-syndrome-heres-how-to-bring-back-your-laptops-voice/"><u>Silent Keyboard Syndrome? Here's How to Bring Back Your Laptop's Voice!</u></a></li>
 </ul></div>
 
